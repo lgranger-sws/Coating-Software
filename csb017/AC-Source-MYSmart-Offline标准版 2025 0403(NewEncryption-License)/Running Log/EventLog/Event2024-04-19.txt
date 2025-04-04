@@ -1,0 +1,194 @@
+
+a  3	4/19/2024 9:13:19 AM	The reset button is pressed
+a  3	4/19/2024 9:13:19 AM	AlarmCode 1006:Pressure Low
+a  3	4/19/2024 9:13:19 AM	Stop
+a  3	4/19/2024 9:13:22 AM	Z home timeout
+a  3	4/19/2024 9:13:24 AM	Z home timeout
+a  3	4/19/2024 9:13:25 AM	The reset button is pressed
+a  3	4/19/2024 9:13:53 AM	Reset is completed
+a  3	4/19/2024 9:13:58 AM	Manual Purge
+a  3	4/19/2024 9:14:02 AM	Manual click Purge,target location:Setting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	4/19/2024 9:14:03 AM	Manua Clean
+a  3	4/19/2024 9:14:07 AM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/19/2024 9:40:41 AM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/19/2024 9:40:41 AM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/19/2024 9:40:49 AM	The reset button is pressed
+a  3	4/19/2024 9:41:17 AM	Reset is completed
+a  3	4/19/2024 9:41:19 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/19/2024 9:41:22 AM	Mouse click:X+
+a  3	4/19/2024 9:41:24 AM	key release or away:CurrentPosition--> X:118.326 Y:0.000 Z:0.000
+a  3	4/19/2024 9:41:25 AM	Mouse click:Y+
+a  3	4/19/2024 9:41:27 AM	key release or away:CurrentPosition--> X:121.006 Y:92.087 Z:0.000
+a  3	4/19/2024 9:44:49 AM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	4/19/2024 9:44:49 AM	Stop
+a  3	4/19/2024 9:44:51 AM	key release or away:CurrentPosition--> X:121.006 Y:97.514 Z:0.000
+a  3	4/19/2024 9:44:53 AM	The Power Off button was pressed
+a  3	4/19/2024 9:45:41 AM	AlarmCode 1006:Pressure Low
+a  3	4/19/2024 11:49:49 AM	The reset button is pressed
+a  3	4/19/2024 11:50:05 AM	Reset is completed
+a  3	4/19/2024 11:50:06 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/19/2024 11:50:38 AM	Key click:
+a  3	4/19/2024 11:50:38 AM	Key click:Right
+a  3	4/19/2024 11:50:41 AM	key release:CurrentPosition--> X:216.808 Y:0.000 Z:0.000
+a  3	4/19/2024 11:50:41 AM	key release:CurrentPosition--> X:216.808 Y:0.000 Z:0.000
+a  3	4/19/2024 11:52:45 AM	Manual Purge
+a  3	4/19/2024 11:52:49 AM	Manual click Purge,target location:Setting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	4/19/2024 11:53:07 AM	Test Width Laser£ºGotoX:96.474 Y:24.704 Z:28.854 Result:TRUE
+a  3	4/19/2024 11:54:20 AM	Test Width Laser£ºGotoX:96.474 Y:24.704 Z:28.854 Result:TRUE
+a  3	4/19/2024 11:54:21 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:54:22 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:54:42 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:54:46 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:54:47 AM	GlueWidthTest:Edge1 Read LineLaser:8.241 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:47 AM	GlueWidthTest:Edge2 Read LineLaser:8.243 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:48 AM	GlueWidthTest:Edge1 Read LineLaser:8.232 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:48 AM	GlueWidthTest:Edge2 Read LineLaser:8.246 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:48 AM	GlueWidthTest:Edge1 Read LineLaser:8.265 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:48 AM	GlueWidthTest:Edge2 Read LineLaser:8.243 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:49 AM	GlueWidthTest:Edge1 Read LineLaser:8.243 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:49 AM	GlueWidthTest:Edge2 Read LineLaser:8.243 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:50 AM	GlueWidthTest:Edge1 Read LineLaser:8.241 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:50 AM	GlueWidthTest:Edge2 Read LineLaser:8.241 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:53 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:54:54 AM	GlueWidthTest:Edge1 Read LineLaser:7.684 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:54 AM	GlueWidthTest:Edge2 Read LineLaser:7.684 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:55 AM	GlueWidthTest:Edge1 Read LineLaser:7.716 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:55 AM	GlueWidthTest:Edge2 Read LineLaser:7.698 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:55 AM	GlueWidthTest:Edge1 Read LineLaser:7.735 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:56 AM	GlueWidthTest:Edge2 Read LineLaser:7.754 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:56 AM	GlueWidthTest:Edge1 Read LineLaser:7.745 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:56 AM	GlueWidthTest:Edge2 Read LineLaser:7.758 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:57 AM	GlueWidthTest:Edge1 Read LineLaser:7.786 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:54:57 AM	GlueWidthTest:Edge2 Read LineLaser:7.786 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:00 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:55:01 AM	GlueWidthTest:Edge1 Read LineLaser:6.895 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:01 AM	GlueWidthTest:Edge2 Read LineLaser:6.895 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:02 AM	GlueWidthTest:Edge1 Read LineLaser:6.956 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:02 AM	GlueWidthTest:Edge2 Read LineLaser:6.961 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:02 AM	GlueWidthTest:Edge1 Read LineLaser:7.032 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:03 AM	GlueWidthTest:Edge2 Read LineLaser:6.988 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:03 AM	GlueWidthTest:Edge1 Read LineLaser:6.932 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:03 AM	GlueWidthTest:Edge2 Read LineLaser:6.949 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:04 AM	GlueWidthTest:Edge1 Read LineLaser:6.900 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:04 AM	GlueWidthTest:Edge2 Read LineLaser:6.900 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:07 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:55:08 AM	GlueWidthTest:Edge1 Read LineLaser:5.653 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:08 AM	GlueWidthTest:Edge2 Read LineLaser:5.653 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:55:10 AM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/19/2024 11:55:14 AM	key release or away:CurrentPosition--> X:96.474 Y:24.704 Z:5.000
+a  3	4/19/2024 11:55:15 AM	Mouse click:Z+
+a  3	4/19/2024 11:55:16 AM	key release or away:CurrentPosition--> X:96.474 Y:24.704 Z:60.260
+a  3	4/19/2024 11:55:16 AM	key release or away:CurrentPosition--> X:96.474 Y:24.704 Z:60.260
+a  3	4/19/2024 11:57:37 AM	Test Width Laser£ºGotoX:96.474 Y:24.704 Z:28.854 Result:TRUE
+a  3	4/19/2024 11:57:52 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:57:55 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:57:56 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:56 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:57 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:57 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:57 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:57 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:58 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:58 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:59 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:57:59 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:05 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:58:06 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:58:24 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:58:42 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:58:45 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:58:46 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:46 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:46 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:46 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:47 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:47 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:48 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:48 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:48 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:48 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:49 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:58:51 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:58:53 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:53 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:53 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:53 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:54 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:54 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:54 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:55 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:55 AM	GlueWidthTest:Edge1 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:55 AM	GlueWidthTest:Edge2 Read LineLaser:0.002 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:58:59 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:59:00 AM	GlueWidthTest:Edge1 Read LineLaser:7.597 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:00 AM	GlueWidthTest:Edge2 Read LineLaser:7.597 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:00 AM	GlueWidthTest:Edge1 Read LineLaser:7.572 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:00 AM	GlueWidthTest:Edge2 Read LineLaser:7.579 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:01 AM	GlueWidthTest:Edge1 Read LineLaser:7.586 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:01 AM	GlueWidthTest:Edge2 Read LineLaser:7.548 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:02 AM	GlueWidthTest:Edge1 Read LineLaser:7.646 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:02 AM	GlueWidthTest:Edge2 Read LineLaser:7.646 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:02 AM	GlueWidthTest:Edge1 Read LineLaser:7.679 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:02 AM	GlueWidthTest:Edge2 Read LineLaser:7.679 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:05 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:59:07 AM	GlueWidthTest:Edge1 Read LineLaser:8.020 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:07 AM	GlueWidthTest:Edge2 Read LineLaser:8.078 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:07 AM	GlueWidthTest:Edge1 Read LineLaser:8.078 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:07 AM	GlueWidthTest:Edge2 Read LineLaser:8.059 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:08 AM	GlueWidthTest:Edge1 Read LineLaser:8.083 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:08 AM	GlueWidthTest:Edge2 Read LineLaser:8.083 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:18 AM	Test Width Laser£ºValve Down
+a  3	4/19/2024 11:59:31 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:59:33 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:59:34 AM	GlueWidthTest:Edge1 Read LineLaser:4.939 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:34 AM	GlueWidthTest:Edge2 Read LineLaser:4.939 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:35 AM	GlueWidthTest:Edge1 Read LineLaser:5.021 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:35 AM	GlueWidthTest:Edge2 Read LineLaser:5.021 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:35 AM	GlueWidthTest:Edge1 Read LineLaser:5.043 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:35 AM	GlueWidthTest:Edge2 Read LineLaser:5.031 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:36 AM	GlueWidthTest:Edge1 Read LineLaser:5.154 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:36 AM	GlueWidthTest:Edge2 Read LineLaser:5.201 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:37 AM	GlueWidthTest:Edge1 Read LineLaser:5.231 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:37 AM	GlueWidthTest:Edge2 Read LineLaser:5.211 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:44 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:59:46 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:59:47 AM	GlueWidthTest:Edge1 Read LineLaser:5.359 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:47 AM	GlueWidthTest:Edge2 Read LineLaser:5.415 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:48 AM	GlueWidthTest:Edge1 Read LineLaser:5.625 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:48 AM	GlueWidthTest:Edge2 Read LineLaser:5.656 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:48 AM	GlueWidthTest:Edge1 Read LineLaser:5.665 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:48 AM	GlueWidthTest:Edge2 Read LineLaser:5.675 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:49 AM	GlueWidthTest:Edge1 Read LineLaser:5.642 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:49 AM	GlueWidthTest:Edge2 Read LineLaser:5.642 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:50 AM	GlueWidthTest:Edge1 Read LineLaser:5.637 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:50 AM	GlueWidthTest:Edge2 Read LineLaser:5.637 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:55 AM	Test Width Laser£ºClick Start
+a  3	4/19/2024 11:59:57 AM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 11:59:58 AM	GlueWidthTest:Edge1 Read LineLaser:6.240 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:58 AM	GlueWidthTest:Edge2 Read LineLaser:6.240 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:59 AM	GlueWidthTest:Edge1 Read LineLaser:6.253 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 11:59:59 AM	GlueWidthTest:Edge2 Read LineLaser:6.253 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:00 PM	GlueWidthTest:Edge1 Read LineLaser:6.258 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:00 PM	GlueWidthTest:Edge2 Read LineLaser:6.260 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:00 PM	GlueWidthTest:Edge1 Read LineLaser:6.253 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:00 PM	GlueWidthTest:Edge2 Read LineLaser:6.260 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:01 PM	GlueWidthTest:Edge1 Read LineLaser:6.272 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:01 PM	GlueWidthTest:Edge2 Read LineLaser:6.302 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:04 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/19/2024 12:00:05 PM	GlueWidthTest:Edge1 Read LineLaser:5.899 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:05 PM	GlueWidthTest:Edge2 Read LineLaser:5.904 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:06 PM	GlueWidthTest:Edge1 Read LineLaser:5.990 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:06 PM	GlueWidthTest:Edge2 Read LineLaser:5.990 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:07 PM	GlueWidthTest:Edge1 Read LineLaser:6.010 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:07 PM	GlueWidthTest:Edge2 Read LineLaser:6.010 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:07 PM	GlueWidthTest:Edge1 Read LineLaser:5.999 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:07 PM	GlueWidthTest:Edge2 Read LineLaser:6.008 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:08 PM	GlueWidthTest:Edge1 Read LineLaser:6.016 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:00:08 PM	GlueWidthTest:Edge2 Read LineLaser:6.015 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/19/2024 12:02:56 PM	Manua Clean
+a  3	4/19/2024 12:03:00 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/19/2024 1:57:46 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/19/2024 1:57:47 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/19/2024 1:58:01 PM	Open Program:Conti_NBM_top
+a  3	4/19/2024 1:58:01 PM	Open Program:Conti_NBM_top
+a  3	4/19/2024 2:49:46 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166

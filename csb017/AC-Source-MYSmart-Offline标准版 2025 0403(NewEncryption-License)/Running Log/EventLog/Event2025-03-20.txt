@@ -1,0 +1,493 @@
+
+a  3	2025/03/20 11:54:49.571	设备初始化......
+a  3	2025/03/20 11:54:49.679	当前用户： a
+a  3	2025/03/20 11:54:49.697	打开程序：1
+a  3	2025/03/20 11:54:49.707	低气压检测未开启
+a  3	2025/03/20 11:54:52.250	复位按钮按下
+a  3	2025/03/20 11:54:56.663	阀气缸上升超时
+a  3	2025/03/20 11:54:58.109	复位失败
+a  3	2025/03/20 11:54:58.259	停止
+a  3	2025/03/20 11:54:59.694	Z轴复位失败
+a  3	2025/03/20 11:55:00.251	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 11:55:01.739	复位按钮按下
+a  3	2025/03/20 11:55:06.142	阀气缸上升超时
+a  3	2025/03/20 11:55:07.246	复位失败
+a  3	2025/03/20 11:55:07.396	停止
+a  3	2025/03/20 11:55:07.897	Z轴复位失败
+a  3	2025/03/20 11:55:08.491	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 13:54:35.226	设备初始化......
+a  3	2025/03/20 13:54:35.283	当前用户： a
+a  3	2025/03/20 13:54:35.294	打开程序：1
+a  3	2025/03/20 13:54:35.303	低气压检测未开启
+a  3	2025/03/20 13:54:36.208	复位按钮按下
+a  3	2025/03/20 13:54:40.610	阀气缸上升超时
+a  3	2025/03/20 13:54:42.951	复位失败
+a  3	2025/03/20 13:54:43.094	停止
+a  3	2025/03/20 13:54:44.068	Z轴复位失败
+a  3	2025/03/20 13:54:44.449	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 13:55:02.284	复位按钮按下
+a  3	2025/03/20 13:55:06.692	阀气缸上升超时
+a  3	2025/03/20 13:55:08.044	复位失败
+a  3	2025/03/20 13:55:08.208	停止
+a  3	2025/03/20 13:55:09.259	Z轴复位失败
+a  3	2025/03/20 13:55:09.411	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 13:55:11.457	退出
+a  3	2025/03/20 13:55:11.535	TrackAndPar.bin文件中以下参数已经被修改：程序参考点
+a  3	2025/03/20 13:55:11.559	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/03/20 14:07:45.664	设备初始化......
+a  3	2025/03/20 14:07:45.780	当前用户： a
+a  3	2025/03/20 14:07:45.808	打开程序：1
+a  3	2025/03/20 14:07:45.828	低气压检测未开启
+a  3	2025/03/20 14:07:46.660	复位按钮按下
+a  3	2025/03/20 14:07:51.090	阀气缸上升超时
+a  3	2025/03/20 14:07:52.409	复位失败
+a  3	2025/03/20 14:07:52.576	停止
+a  3	2025/03/20 14:07:53.290	Z轴复位失败
+a  3	2025/03/20 14:07:53.730	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:07:58.384	退出
+a  3	2025/03/20 14:07:58.464	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/03/20 14:09:46.303	设备初始化......
+a  3	2025/03/20 14:09:46.343	当前用户： a
+a  3	2025/03/20 14:09:46.354	打开程序：1
+a  3	2025/03/20 14:09:46.367	低气压检测未开启
+a  3	2025/03/20 14:09:47.929	复位按钮按下
+a  3	2025/03/20 14:09:52.334	阀气缸上升超时
+a  3	2025/03/20 14:09:53.833	复位失败
+a  3	2025/03/20 14:09:53.974	停止
+a  3	2025/03/20 14:09:54.717	Z轴复位失败
+a  3	2025/03/20 14:09:55.337	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:10:00.146	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/20 14:10:02.366	退出
+a  3	2025/03/20 14:10:02.452	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/03/20 14:10:18.920	设备初始化......
+a  3	2025/03/20 14:10:18.947	当前用户： a
+a  3	2025/03/20 14:10:18.967	打开程序：1
+a  3	2025/03/20 14:10:18.988	低气压检测未开启
+a  3	2025/03/20 14:10:20.206	复位按钮按下
+a  3	2025/03/20 14:10:24.610	阀气缸上升超时
+a  3	2025/03/20 14:10:26.997	复位失败
+a  3	2025/03/20 14:10:27.152	停止
+a  3	2025/03/20 14:10:29.197	Z轴复位失败
+a  3	2025/03/20 14:10:29.438	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:15:26.720	设备初始化......
+a  3	2025/03/20 14:15:26.771	当前用户： a
+a  3	2025/03/20 14:15:26.781	打开程序：1
+a  3	2025/03/20 14:15:26.791	低气压检测未开启
+a  3	2025/03/20 14:15:28.350	复位按钮按下
+a  3	2025/03/20 14:15:29.954	复位失败
+a  3	2025/03/20 14:15:30.116	停止
+a  3	2025/03/20 14:15:31.171	Z轴复位失败
+a  3	2025/03/20 14:15:31.717	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:16:09.790	复位按钮按下
+a  3	2025/03/20 14:16:11.414	复位失败
+a  3	2025/03/20 14:16:11.559	停止
+a  3	2025/03/20 14:16:12.765	Z轴复位失败
+a  3	2025/03/20 14:16:13.784	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:16:42.479	复位按钮按下
+a  3	2025/03/20 14:16:44.074	复位失败
+a  3	2025/03/20 14:16:44.224	停止
+a  3	2025/03/20 14:16:45.079	Z轴复位失败
+a  3	2025/03/20 14:16:46.126	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 14:18:14.557	退出
+a  3	2025/03/20 17:24:50.755	设备初始化......
+a  3	2025/03/20 17:24:50.850	当前用户： a
+a  3	2025/03/20 17:24:50.866	打开程序：1
+a  3	2025/03/20 17:24:50.876	低气压检测未开启
+a  3	2025/03/20 17:24:51.834	复位按钮按下
+a  3	2025/03/20 17:25:06.321	设备复位完成
+a  3	2025/03/20 17:25:06.789	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/20 17:25:38.424	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/20 17:25:38.529	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/20 17:26:35.433	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/20 17:26:35.471	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/20 17:26:36.233	退出
+a  3	2025/03/20 17:26:36.323	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+admin  3	2025/03/20 17:27:35.476	设备初始化......
+admin  3	2025/03/20 17:27:35.511	当前用户： admin
+admin  3	2025/03/20 17:27:35.550	打开程序：SREA
+admin  3	2025/03/20 17:27:35.553	低气压检测未开启
+admin  3	2025/03/20 17:27:36.130	复位按钮按下
+admin  3	2025/03/20 17:27:44.691	设备复位完成
+admin  3	2025/03/20 17:27:45.313	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 17:31:34.657	键盘按下：
+admin  3	2025/03/20 17:31:35.204	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 17:31:39.789	键盘按下：
+admin  3	2025/03/20 17:31:40.201	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 17:31:43.447	键盘按下：
+admin  3	2025/03/20 17:31:43.713	键盘按下：
+admin  3	2025/03/20 17:31:43.734	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 17:31:43.976	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 17:31:44.797	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,DataSavedBySys
+admin  3	2025/03/20 17:31:44.846	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+admin  3	2025/03/20 17:31:46.164	保存程序：SREA
+admin  3	2025/03/20 17:32:22.305	涂胶运行
+admin  3	2025/03/20 17:32:22.686	
+admin  3	2025/03/20 17:32:26.377	双阀调节
+admin  3	2025/03/20 17:32:30.684	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 17:32:30.697	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 17:32:31.378	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 17:32:32.064	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 17:32:32.752	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 17:32:33.448	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 17:32:34.137	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 17:32:34.829	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 17:32:35.941	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.358s
+admin  3	2025/03/20 17:32:35.995	ProcessingStarted
+admin  3	2025/03/20 17:32:40.502	运动到激光探高位置 ：Laser DetectNo.1 X:302.172 Y:83.274 Z:11.428  Result:TRUE Valve:5.01
+admin  3	2025/03/20 17:32:49.373	运动到激光探高位置 ：Laser DetectNo.1 X:302.374 Y:475.500 Z:11.428  Result:TRUE Valve:0.50
+admin  3	2025/03/20 17:33:00.042	X轴原点
+admin  3	2025/03/20 17:33:00.473	报警代码 1012:X轴负极限触发
+admin  3	2025/03/20 17:33:04.098	ProcessedEnd
+admin  3	2025/03/20 17:33:04.126	{"SN":"","StartTime":"25-03-20 17:32:35","StopTime":"25-03-20 17:33:04","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 17:33:09.183	停止
+admin  3	2025/03/20 18:16:15.657	键盘释放：CurrentPosition--> X:0.350 Y:127.182 Z:1.002
+admin  3	2025/03/20 18:16:15.786	键盘释放：CurrentPosition--> X:0.350 Y:127.182 Z:1.002
+admin  3	2025/03/20 18:17:44.065	涂胶运行
+admin  3	2025/03/20 18:17:44.515	
+admin  3	2025/03/20 18:17:48.374	双阀调节
+admin  3	2025/03/20 18:17:52.048	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:17:52.053	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:17:52.739	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:17:53.422	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:17:54.113	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:17:54.806	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:17:55.507	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:17:56.197	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:17:57.304	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:8.729s
+admin  3	2025/03/20 18:17:57.348	ProcessingStarted
+admin  3	2025/03/20 18:18:01.858	运动到激光探高位置 ：Laser DetectNo.1 X:302.172 Y:83.274 Z:11.428  Result:TRUE Valve:11111.00
+admin  3	2025/03/20 18:18:01.934	报警代码 1046:激光探测失败！
+admin  3	2025/03/20 18:18:03.769	运动到激光探高位置 ：Laser DetectNo.1 X:0.000 Y:0.000 Z:0.000  Result:FALSE Valve:0.00
+admin  3	2025/03/20 18:18:03.781	ProcessedEnd
+admin  3	2025/03/20 18:18:03.812	{"SN":"","StartTime":"25-03-20 18:17:57","StopTime":"25-03-20 18:18:03","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 18:18:03.948	停止
+admin  3	2025/03/20 18:18:05.954	键盘按下：
+admin  3	2025/03/20 18:18:06.677	键盘释放：CurrentPosition--> X:302.172 Y:83.274 Z:11.428
+admin  3	2025/03/20 18:18:09.879	涂胶运行
+admin  3	2025/03/20 18:18:10.726	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 18:18:10.777	ShareParameters.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 18:18:12.005	保存程序：SREA
+admin  3	2025/03/20 18:18:12.027	
+admin  3	2025/03/20 18:18:14.222	双阀调节
+admin  3	2025/03/20 18:18:19.099	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:18:19.112	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:18:19.790	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:18:20.482	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:18:21.172	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:18:21.858	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:18:22.551	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:18:23.237	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:18:24.349	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.926s
+admin  3	2025/03/20 18:18:24.387	ProcessingStarted
+admin  3	2025/03/20 18:21:27.956	报警代码 1018:X 为负值
+admin  3	2025/03/20 18:23:52.574	停止
+admin  3	2025/03/20 18:23:53.271	停止
+admin  3	2025/03/20 18:48:47.382	设备初始化......
+admin  3	2025/03/20 18:48:47.483	当前用户： admin
+admin  3	2025/03/20 18:48:47.532	打开程序：SREA
+admin  3	2025/03/20 18:48:47.543	低气压检测未开启
+admin  3	2025/03/20 18:48:48.380	复位按钮按下
+admin  3	2025/03/20 18:49:02.933	设备复位完成
+admin  3	2025/03/20 18:49:03.483	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 18:49:07.835	涂胶运行
+admin  3	2025/03/20 18:49:08.270	
+admin  3	2025/03/20 18:49:11.939	双阀调节
+admin  3	2025/03/20 18:49:16.254	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:49:16.263	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:49:16.937	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:49:17.624	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:49:18.323	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:49:19.010	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:49:19.714	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:49:20.414	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:49:21.518	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.380s
+admin  3	2025/03/20 18:49:21.546	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust
+admin  3	2025/03/20 18:49:21.565	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
+admin  3	2025/03/20 18:49:21.576	ProcessingStarted
+admin  3	2025/03/20 18:49:57.230	停止
+admin  3	2025/03/20 18:50:00.775	ProcessedEnd
+admin  3	2025/03/20 18:50:00.786	{"SN":"","StartTime":"25-03-20 18:49:21","StopTime":"25-03-20 18:50:00","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 18:50:00.994	停止
+admin  3	2025/03/20 18:50:20.599	涂胶运行
+admin  3	2025/03/20 18:50:20.910	
+admin  3	2025/03/20 18:50:24.127	双阀调节
+admin  3	2025/03/20 18:50:32.143	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:50:32.161	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:50:32.836	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:50:33.526	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:50:34.224	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:50:34.911	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:50:35.597	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:50:36.285	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:50:37.390	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:13.060s
+admin  3	2025/03/20 18:50:37.439	ProcessingStarted
+admin  3	2025/03/20 18:50:52.580	停止
+admin  3	2025/03/20 18:50:53.231	停止
+admin  3	2025/03/20 18:50:54.335	鼠标释放或离开：CurrentPosition--> X:52.086 Y:253.520 Z:1.002
+admin  3	2025/03/20 18:51:34.561	设备初始化......
+admin  3	2025/03/20 18:51:34.670	当前用户： admin
+admin  3	2025/03/20 18:51:34.715	打开程序：SREA
+admin  3	2025/03/20 18:51:34.724	低气压检测未开启
+admin  3	2025/03/20 18:51:35.196	复位按钮按下
+admin  3	2025/03/20 18:51:53.842	设备复位完成
+admin  3	2025/03/20 18:51:54.470	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 18:51:58.524	涂胶运行
+admin  3	2025/03/20 18:51:58.990	
+admin  3	2025/03/20 18:52:01.713	双阀调节
+admin  3	2025/03/20 18:52:06.020	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:52:06.031	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:52:06.712	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:52:07.400	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:52:08.105	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:52:08.807	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:52:09.502	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:52:10.191	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:52:11.293	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.379s
+admin  3	2025/03/20 18:52:11.368	ProcessingStarted
+admin  3	2025/03/20 18:55:00.794	设备初始化......
+admin  3	2025/03/20 18:55:00.942	当前用户： admin
+admin  3	2025/03/20 18:55:00.951	打开程序：SREA
+admin  3	2025/03/20 18:55:00.961	低气压检测未开启
+admin  3	2025/03/20 18:55:02.654	复位按钮按下
+admin  3	2025/03/20 18:55:25.783	设备复位完成
+admin  3	2025/03/20 18:55:26.368	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 18:55:58.252	涂胶运行
+admin  3	2025/03/20 18:55:58.842	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust
+admin  3	2025/03/20 18:55:58.861	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
+admin  3	2025/03/20 18:56:00.213	保存程序：SREA
+admin  3	2025/03/20 18:56:00.237	
+admin  3	2025/03/20 18:56:02.856	双阀调节
+admin  3	2025/03/20 18:56:07.166	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 18:56:07.177	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 18:56:07.860	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:56:08.547	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:56:09.241	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:56:09.941	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:56:10.645	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 18:56:11.349	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 18:56:12.450	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.392s
+admin  3	2025/03/20 18:56:12.507	ProcessingStarted
+admin  3	2025/03/20 18:56:40.022	停止
+admin  3	2025/03/20 18:56:40.572	ProcessedEnd
+admin  3	2025/03/20 18:56:40.591	{"SN":"","StartTime":"25-03-20 18:56:12","StopTime":"25-03-20 18:56:40","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 18:56:40.764	停止
+admin  3	2025/03/20 18:56:42.827	退出
+admin  3	2025/03/20 19:56:25.681	设备初始化......
+admin  3	2025/03/20 19:56:25.794	当前用户： admin
+admin  3	2025/03/20 19:56:25.853	打开程序：SREA
+admin  3	2025/03/20 19:56:25.856	低气压检测未开启
+admin  3	2025/03/20 19:56:26.999	复位按钮按下
+admin  3	2025/03/20 19:56:46.849	设备复位完成
+admin  3	2025/03/20 19:56:47.377	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 19:56:52.968	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 19:56:53.017	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 19:56:56.602	涂胶运行
+admin  3	2025/03/20 19:56:56.835	
+admin  3	2025/03/20 19:57:00.864	停止
+admin  3	2025/03/20 19:57:09.450	涂胶运行
+admin  3	2025/03/20 19:57:09.693	
+admin  3	2025/03/20 19:57:12.923	双阀调节
+admin  3	2025/03/20 19:57:17.251	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 19:57:17.253	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 19:57:17.941	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 19:57:18.631	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 19:57:19.320	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 19:57:20.005	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 19:57:20.700	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 19:57:21.392	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 19:57:22.501	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.373s
+admin  3	2025/03/20 19:57:22.511	ParametersOfFilmWidthTesting.bin文件中以下参数已经被修改：Glue Width 2
+admin  3	2025/03/20 19:57:22.535	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,German Cicor Glue ParaNew out,Pattern disable array 2,Width Test Para,Flowrate Record
+admin  3	2025/03/20 19:57:22.560	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Light source adjust
+admin  3	2025/03/20 19:57:22.569	ProcessingStarted
+admin  3	2025/03/20 19:57:27.688	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.170 Y:96.813 Result:TRUE ;Score:99.202
+admin  3	2025/03/20 19:57:33.334	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:311.701 Y:327.403 Result:TRUE ;Score:99.096
+admin  3	2025/03/20 19:57:39.307	运动到激光探高位置 ：Laser DetectNo.1 X:344.209 Y:95.322 Z:11.428  Result:TRUE Valve:2.89
+admin  3	2025/03/20 19:57:45.465	运动到激光探高位置 ：Laser DetectNo.1 X:393.770 Y:354.297 Z:11.428  Result:TRUE Valve:4.09
+admin  3	2025/03/20 19:58:06.207	停止
+admin  3	2025/03/20 19:58:06.652	ProcessedEnd
+admin  3	2025/03/20 19:58:06.681	{"SN":"","StartTime":"25-03-20 19:57:22","StopTime":"25-03-20 19:58:06","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 19:58:06.917	停止
+admin  3	2025/03/20 20:09:09.249	设备初始化......
+admin  3	2025/03/20 20:09:09.303	当前用户： admin
+admin  3	2025/03/20 20:09:09.406	打开程序：SREA
+admin  3	2025/03/20 20:09:09.416	低气压检测未开启
+admin  3	2025/03/20 20:09:10.818	复位按钮按下
+admin  3	2025/03/20 20:09:28.024	设备复位完成
+admin  3	2025/03/20 20:09:28.519	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 20:09:33.703	涂胶运行
+admin  3	2025/03/20 20:09:34.118	
+admin  3	2025/03/20 20:09:36.921	双阀调节
+admin  3	2025/03/20 20:09:41.227	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:09:41.241	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 20:09:41.918	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:09:42.605	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:09:43.295	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:09:43.982	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:09:44.668	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:09:45.370	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 20:09:46.473	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.352s
+admin  3	2025/03/20 20:09:46.507	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+admin  3	2025/03/20 20:09:46.518	ProcessingStarted
+admin  3	2025/03/20 20:09:51.596	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.163 Y:96.824 Result:TRUE ;Score:98.715
+admin  3	2025/03/20 20:09:57.233	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:311.608 Y:327.414 Result:TRUE ;Score:99.175
+admin  3	2025/03/20 20:10:03.198	运动到激光探高位置 ：Laser DetectNo.1 X:344.206 Y:95.325 Z:11.428  Result:TRUE Valve:2.86
+admin  3	2025/03/20 20:10:09.362	运动到激光探高位置 ：Laser DetectNo.1 X:393.670 Y:354.319 Z:11.428  Result:TRUE Valve:4.09
+admin  3	2025/03/20 20:16:07.197	停止
+admin  3	2025/03/20 20:16:07.759	ProcessedEnd
+admin  3	2025/03/20 20:16:07.766	{"SN":"","StartTime":"25-03-20 20:09:46","StopTime":"25-03-20 20:16:07","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 20:16:08.004	停止
+admin  3	2025/03/20 20:19:07.976	设备初始化......
+admin  3	2025/03/20 20:19:08.034	当前用户： admin
+admin  3	2025/03/20 20:19:08.138	打开程序：SREA
+admin  3	2025/03/20 20:19:08.148	低气压检测未开启
+admin  3	2025/03/20 20:19:08.738	复位按钮按下
+admin  3	2025/03/20 20:19:25.855	设备复位完成
+admin  3	2025/03/20 20:19:26.458	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 20:19:30.815	涂胶运行
+admin  3	2025/03/20 20:19:31.233	
+admin  3	2025/03/20 20:19:34.121	双阀调节
+admin  3	2025/03/20 20:19:38.426	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:19:38.433	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 20:19:39.117	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:19:39.805	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:19:40.504	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:19:41.205	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:19:41.890	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:19:42.594	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 20:19:43.698	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.376s
+admin  3	2025/03/20 20:19:43.769	ProcessingStarted
+admin  3	2025/03/20 20:19:48.838	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.165 Y:96.827 Result:TRUE ;Score:98.840
+admin  3	2025/03/20 20:19:54.489	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:311.589 Y:327.417 Result:TRUE ;Score:98.850
+admin  3	2025/03/20 20:20:00.465	运动到激光探高位置 ：Laser DetectNo.1 X:344.208 Y:95.326 Z:11.428  Result:TRUE Valve:2.93
+admin  3	2025/03/20 20:20:06.620	运动到激光探高位置 ：Laser DetectNo.1 X:393.650 Y:354.324 Z:11.428  Result:TRUE Valve:4.12
+admin  3	2025/03/20 20:21:24.236	ProcessedEnd
+admin  3	2025/03/20 20:21:33.253	{"SN":"","StartTime":"25-03-20 20:19:43","StopTime":"25-03-20 20:21:24","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 20:21:35.411	自动运行到清洗位置:Result:TRUE
+admin  3	2025/03/20 20:21:39.244	停止
+admin  3	2025/03/20 20:21:39.943	停止
+admin  3	2025/03/20 20:21:44.354	键盘按下：
+admin  3	2025/03/20 20:21:44.585	键盘按下：
+admin  3	2025/03/20 20:21:44.626	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:21:44.655	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:21:45.686	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,ValveColor,DoOut,DataSavedBySys,German Cicor Glue Para out,Slovakia - CemmThome SK Glue Para2,ChangChun Conti Glue Para2,Voltage offset set 2
+admin  3	2025/03/20 20:21:45.708	ValveAndCalibretingData.bin文件中以下参数已经被修改：InitParamemter,RightValveParamemter,Valve3Paramemter,Valve4Paramemter
+admin  3	2025/03/20 20:21:45.750	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 20:21:45.773	ShareParameters.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 20:21:46.969	保存程序：SREA
+admin  3	2025/03/20 20:21:49.099	涂胶运行
+admin  3	2025/03/20 20:21:49.391	
+admin  3	2025/03/20 20:22:02.532	自动运行至吐胶位置:Setting--->X:120.044 Y:103.814 Z:60.024 Current--->X:120.044 Y:103.814 Z:60.024 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:22:02.541	双阀调节
+admin  3	2025/03/20 20:22:04.578	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:22:04.587	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 20:22:05.279	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:22:05.969	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:22:06.666	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:22:07.347	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:22:08.035	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:22:08.725	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 20:22:09.829	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:7.095s
+admin  3	2025/03/20 20:22:09.878	ProcessingStarted
+admin  3	2025/03/20 20:22:14.970	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.276 Y:96.423 Result:TRUE ;Score:98.837
+admin  3	2025/03/20 20:22:20.660	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:312.988 Y:327.012 Result:TRUE ;Score:98.840
+admin  3	2025/03/20 20:22:26.626	运动到激光探高位置 ：Laser DetectNo.1 X:344.264 Y:95.039 Z:11.428  Result:TRUE Valve:2.91
+admin  3	2025/03/20 20:22:32.785	运动到激光探高位置 ：Laser DetectNo.1 X:395.151 Y:353.756 Z:11.428  Result:TRUE Valve:4.34
+admin  3	2025/03/20 20:23:34.950	ProcessedEnd
+admin  3	2025/03/20 20:23:43.955	{"SN":"","StartTime":"25-03-20 20:22:09","StopTime":"25-03-20 20:23:34","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 20:23:46.102	自动运行到清洗位置:Result:TRUE
+admin  3	2025/03/20 20:23:53.693	停止
+admin  3	2025/03/20 20:23:54.367	停止
+admin  3	2025/03/20 20:23:59.299	鼠标释放或离开：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:24:09.635	键盘按下：
+admin  3	2025/03/20 20:24:10.413	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:24:12.051	键盘按下：
+admin  3	2025/03/20 20:24:12.698	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:24:31.579	键盘按下：
+admin  3	2025/03/20 20:24:31.781	键盘按下：
+admin  3	2025/03/20 20:24:31.843	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:24:31.867	键盘释放：CurrentPosition--> X:351.308 Y:78.902 Z:83.361
+admin  3	2025/03/20 20:24:32.927	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 20:24:32.952	ShareParameters.bin文件中以下参数已经被修改：Track storage
+admin  3	2025/03/20 20:24:34.098	保存程序：SREA
+admin  3	2025/03/20 20:24:35.044	涂胶运行
+admin  3	2025/03/20 20:24:35.508	
+admin  3	2025/03/20 20:24:50.222	自动运行至吐胶位置:Setting--->X:120.044 Y:103.814 Z:60.024 Current--->X:120.044 Y:103.814 Z:60.024 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:24:50.238	双阀调节
+admin  3	2025/03/20 20:24:52.257	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 20:24:52.267	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 20:24:52.945	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:24:53.658	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:24:54.352	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:24:55.038	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:24:55.727	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 20:24:56.415	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 20:24:57.518	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:7.096s
+admin  3	2025/03/20 20:24:57.570	ProcessingStarted
+admin  3	2025/03/20 20:25:03.133	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.297 Y:96.387 Result:TRUE ;Score:99.091
+admin  3	2025/03/20 20:25:08.817	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:313.020 Y:326.978 Result:TRUE ;Score:98.900
+admin  3	2025/03/20 20:25:14.757	运动到激光探高位置 ：Laser DetectNo.1 X:344.284 Y:95.004 Z:11.428  Result:TRUE Valve:2.93
+admin  3	2025/03/20 20:25:20.908	运动到激光探高位置 ：Laser DetectNo.1 X:395.184 Y:353.719 Z:11.428  Result:TRUE Valve:4.34
+admin  3	2025/03/20 20:26:13.484	ProcessedEnd
+admin  3	2025/03/20 20:26:22.481	{"SN":"","StartTime":"25-03-20 20:24:57","StopTime":"25-03-20 20:26:13","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 20:26:24.629	自动运行到清洗位置:Result:TRUE
+admin  3	2025/03/20 20:26:33.151	停止
+admin  3	2025/03/20 20:26:33.879	停止
+admin  3	2025/03/20 20:34:05.622	设备初始化......
+admin  3	2025/03/20 20:34:05.747	当前用户： admin
+admin  3	2025/03/20 20:34:05.766	打开程序：SREA
+admin  3	2025/03/20 20:34:05.776	低气压检测未开启
+admin  3	2025/03/20 20:34:06.543	复位按钮按下
+admin  3	2025/03/20 20:34:33.318	设备复位完成
+admin  3	2025/03/20 20:34:33.785	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 20:35:02.166	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 20:35:02.203	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 20:35:03.667	涂胶运行
+admin  3	2025/03/20 20:35:04.140	
+admin  3	2025/03/20 20:35:04.165	运行V test
+admin  3	2025/03/20 20:35:05.788	停止
+admin  3	2025/03/20 20:35:06.274	停止V test
+admin  3	2025/03/20 20:35:21.027	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 20:35:21.293	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2025/03/20 20:35:23.234	涂胶运行
+admin  3	2025/03/20 20:35:24.011	
+admin  3	2025/03/20 20:35:24.284	运行V test
+admin  3	2025/03/20 20:35:25.550	停止
+admin  3	2025/03/20 20:35:26.686	停止V test
+admin  3	2025/03/20 21:41:57.498	设备初始化......
+admin  3	2025/03/20 21:41:57.576	当前用户： admin
+admin  3	2025/03/20 21:41:57.619	打开程序：SREA
+admin  3	2025/03/20 21:41:57.636	低气压检测未开启
+admin  3	2025/03/20 21:41:58.263	复位按钮按下
+admin  3	2025/03/20 21:42:22.095	设备复位完成
+admin  3	2025/03/20 21:42:22.671	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+admin  3	2025/03/20 21:42:27.811	涂胶运行
+admin  3	2025/03/20 21:42:28.034	
+admin  3	2025/03/20 21:42:28.253	运行V test
+admin  3	2025/03/20 21:42:31.415	双阀调节
+admin  3	2025/03/20 21:42:35.720	Automatic GlueWidthTest:go to start position Setting--->X:120.062 Y:97.684 Z:60.226 Current--->X:120.062 Y:97.684 Z:53.226 Result:TRUE GTS_Code:0
+admin  3	2025/03/20 21:42:35.726	Automatic  GlueWidthTest--->Initial pressure value:0.301
+admin  3	2025/03/20 21:42:36.413	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 21:42:37.107	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 21:42:37.796	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 21:42:38.485	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 21:42:39.169	Read LineLaser:-7.00000 Current--->X:120.062 Y:97.684 Z:53.226  GTS_Code:0
+admin  3	2025/03/20 21:42:39.858	Automatic  GlueWidthTest--->Currrent pressure value:0.301
+admin  3	2025/03/20 21:42:40.965	Automatic GlueWidth VariableStatus-->Valve Valve 3,Film Width:0.000,Pressure:0.301,QueueError:FALSE,Code:0,UsedTime:9.349s
+admin  3	2025/03/20 21:42:41.014	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+admin  3	2025/03/20 21:42:41.020	ProcessingStarted
+admin  3	2025/03/20 21:42:46.197	报警代码 1040:没有匹配到图片！
+admin  3	2025/03/20 21:42:52.048	自动识别1_Mark：Main_TwoMark_1:Set-->X:311.322 Y:96.440 Z:11.131  Match-->X:311.322 Y:96.440 Result:FALSE ;Score:100.000
+admin  3	2025/03/20 21:42:57.729	报警代码 1041:没有匹配到图片！
+admin  3	2025/03/20 21:42:59.385	自动识别2_Mark：Main_TwoMark_2:Set-->X:312.896 Y:327.022 Z:11.131  Match-->X:312.896 Y:327.022 Result:FALSE ;Score:100.000
+admin  3	2025/03/20 21:43:05.323	运动到激光探高位置 ：Laser DetectNo.1 X:344.316 Y:95.044 Z:11.428  Result:TRUE Valve:5.36
+admin  3	2025/03/20 21:43:11.485	运动到激光探高位置 ：Laser DetectNo.1 X:395.048 Y:353.792 Z:11.428  Result:TRUE Valve:5.42
+admin  3	2025/03/20 21:43:30.146	停止
+admin  3	2025/03/20 21:43:30.537	ProcessedEnd
+admin  3	2025/03/20 21:43:30.682	{"SN":"","StartTime":"25-03-20 21:42:41","StopTime":"25-03-20 21:43:30","ProgramName":"SREA","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+admin  3	2025/03/20 21:43:30.696	停止V test
+admin  3	2025/03/20 21:43:30.934	停止
+admin  3	2025/03/20 21:43:31.123	停止V test
+admin  3	2025/03/20 21:43:32.429	退出
+admin  3	2025/03/20 21:43:32.464	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match
+admin  3	2025/03/20 21:43:32.518	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath

@@ -1,0 +1,1275 @@
+
+2022-02-24 09:46:49.792	UpMachine   <---	Socket connected
+2022-02-24 09:46:49.794	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:46:53.444	UpMachine   <---	Socket connected
+2022-02-24 09:46:53.444	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:46:54.874	UpMachine   <---	Socket connected
+2022-02-24 09:46:54.875	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:46:55.627	UpMachine   <---	Socket connected
+2022-02-24 09:46:55.628	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:46:58.791	UpMachine   <---	Socket connected
+2022-02-24 09:46:58.792	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:46:59.412	UpMachine   <---	Socket connected
+2022-02-24 09:46:59.414	UpMachine   <---	<MachineId><LaneId><Version> Must not be empty
+
+2022-02-24 09:54:18.459	UpMachine   <---	Socket connected
+2022-02-24 09:54:18.461	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:18.460">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:19.124	UpMachine   <---	Socket connected
+2022-02-24 09:54:19.125	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:19.124">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:19.781	UpMachine   <---	Socket connected
+2022-02-24 09:54:19.783	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:19.783">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:20.445	UpMachine   <---	Socket connected
+2022-02-24 09:54:20.446	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:20.445">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:21.103	UpMachine   <---	Socket connected
+2022-02-24 09:54:21.105	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:21.105">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:21.766	UpMachine   <---	Socket connected
+2022-02-24 09:54:21.768	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:21.768">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:22.441	UpMachine   <---	Socket connected
+2022-02-24 09:54:22.443	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:22.442">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:23.103	UpMachine   <---	Socket connected
+2022-02-24 09:54:23.105	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:23.105">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:23.766	UpMachine   <---	Socket connected
+2022-02-24 09:54:23.767	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:23.766">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:24.423	UpMachine   <---	Socket connected
+2022-02-24 09:54:24.424	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:24.423">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:25.081	UpMachine   <---	Socket connected
+2022-02-24 09:54:25.083	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:25.083">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:25.747	UpMachine   <---	Socket connected
+2022-02-24 09:54:25.749	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:25.749">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:42.694	UpMachine   <---	Socket connected
+2022-02-24 09:54:42.695	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:54:42.695">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:54:46.399	--->   DownMachine	Socket Connected
+2022-02-24 09:54:54.675	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:55:03.326	UpMachine   <---	Socket connected
+2022-02-24 09:55:03.327	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:55:03.327">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:55:07.843	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:55:09.334	UpMachine   <---	Socket connected
+2022-02-24 09:55:09.335	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:55:09.334">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:56:04.148	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:56:05.961	UpMachine   <---	Socket connected
+2022-02-24 09:56:05.962	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:56:05.961">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:56:42.002	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:56:43.248	UpMachine   <---	Socket connected
+2022-02-24 09:56:43.249	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:56:43.249">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:59:01.737	UpMachine   <---	Socket connected
+2022-02-24 09:59:01.738	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:59:01.738">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:59:01.841	--->   DownMachine	Socket Connected
+2022-02-24 09:59:04.552	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:59:06.745	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:59:11.786	UpMachine   <---	RevokeMachineReady may not be sent in state : HandShake
+2022-02-24 09:59:16.266	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 09:59:20.442	UpMachine   <---	<BoardId> Must not be empty
+StartTransport may not be sent in state : HandShake
+2022-02-24 09:59:25.017	UpMachine   <---	<BoardId> Must not be empty
+StopTransport may not be sent in state : HandShake
+2022-02-24 09:59:30.355	UpMachine   <---	Error
+2022-02-24 09:59:30.456	UpMachine   <---	Socket connected
+2022-02-24 09:59:30.458	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:59:30.458">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 09:59:36.130	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:59:36.129">
+ <Notification NotificationCode="0" Severity="0" Description="" />
+</Hermes>
+
+2022-02-24 09:59:44.952	UpMachine   <---	<Hermes Timestamp="2022-02-24T09:59:44.952">
+ <CheckAlive  />
+</Hermes>
+
+2022-02-24 09:59:54.569	UpMachine   <---	Either  or  must be set
+2022-02-24 09:59:57.018	UpMachine   <---	Either  or  must be set
+2022-02-24 10:53:32.188	UpMachine   <---	Socket connected
+2022-02-24 10:53:32.189	UpMachine   <---	<Hermes Timestamp="2022-02-24T10:53:32.189">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 10:53:32.196	--->   DownMachine	Socket Connected
+2022-02-24 10:53:37.616	UpMachine   <---	Either <TopBarcode> or <BottomBarcode> must be set
+2022-02-24 10:53:40.912	UpMachine   <---	Either <TopBarcode> or <BottomBarcode> must be set
+2022-02-24 11:33:59.022	UpMachine   <---	Either <TopBarcode> or <BottomBarcode> must be set
+2022-02-24 11:34:12.109	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:34:12.109">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:34:12.160	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:34:12.110">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:34:17.126	--->   DownMachine	Socket Connected
+2022-02-24 11:34:24.638	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:34:24.638">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:34:24.689	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:34:24.639">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:34:29.645	--->   DownMachine	Socket Connected
+2022-02-24 11:35:11.660	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:35:11.660">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:35:11.711	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:35:11.661">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:35:16.663	--->   DownMachine	Socket Connected
+2022-02-24 11:38:08.909	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:38:08.909">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:38:08.960	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:38:08.909">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:38:17.861	--->   DownMachine	Socket Connected
+2022-02-24 11:38:44.629	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:38:44.629">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:38:44.680	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:38:44.630">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:38:49.632	--->   DownMachine	Socket Connected
+2022-02-24 11:39:31.950	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:39:31.950">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:39:32.001	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:39:31.951">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:39:36.967	--->   DownMachine	Socket Connected
+2022-02-24 11:39:55.517	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:39:55.517">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:39:55.568	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:39:55.517">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:40:00.532	--->   DownMachine	Socket Connected
+2022-02-24 11:45:47.413	UpMachine   <---	Socket connected
+2022-02-24 11:45:47.414	UpMachine   <---	<Hermes Timestamp="2022-02-24T11:45:47.414">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:45:49.991	--->   DownMachine	Socket Connected
+2022-02-24 11:45:50.793	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:45:50.793">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:45:50.845	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:45:50.794">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:45:54.919	--->   DownMachine	Error
+2022-02-24 11:45:55.798	--->   DownMachine	Socket Connected
+2022-02-24 11:46:01.465	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:46:01.465">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:46:01.516	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:46:01.466">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSOCKET_CONNECTED: ServiceDescription" />
+</Hermes>
+
+2022-02-24 11:46:01.533	--->   DownMachine	Error
+2022-02-24 11:46:06.473	--->   DownMachine	Socket Connected
+2022-02-24 11:48:30.710	UpMachine   --->	<Hermes Timestamp="2022-02-24T11:48:30.709">
+ <Notification NotificationCode="4" Severity="2" Description="222" />
+</Hermes>
+
+2022-02-24 11:48:30.722	UpMachine   <---	Error
+2022-02-24 11:48:30.874	UpMachine   <---	Socket connected
+2022-02-24 11:48:30.875	UpMachine   <---	<Hermes Timestamp="2022-02-24T11:48:30.875">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:50:42.013	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:50:42.013">
+ <Notification NotificationCode="5" Severity="4" Description="Upstream service stopped by application" />
+</Hermes>
+
+2022-02-24 11:50:42.021	--->   DownMachine	Error
+2022-02-24 11:50:43.542	--->   DownMachine	Socket Connected
+2022-02-24 11:50:50.259	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:50:50.221">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:50:50.267	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:50:50.266">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:51:03.247	--->   DownMachine	ServiceDescription may not be sent in state : NotAvailableNotReady
+2022-02-24 11:51:07.942	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:51:07.942">
+ <BoardAvailable BoardId="" BoardIdCreatedBy="Machine" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 11:51:15.453	--->   DownMachine	BoardAvailable may not be sent in state : BoardAvailable
+2022-02-24 11:51:50.320	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:51:50.222">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 11:51:51.108	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:51:51.107">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 11:53:08.918	UpMachine   <---	Socket connected
+2022-02-24 11:53:08.919	UpMachine   <---	<Hermes Timestamp="2022-02-24T11:53:08.919">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:53:09.211	--->   DownMachine	Socket Connected
+2022-02-24 11:53:13.818	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:53:13.732">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:53:13.849	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:53:13.848">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:53:17.367	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:53:17.366">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="Machine" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 11:53:26.689	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:53:26.676">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 11:53:39.985	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:53:39.900">
+ <StartTransport BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 11:53:46.262	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:53:46.262">
+ <TransportFinished TransferState="0" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 11:53:49.976	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:53:49.932">
+ <StopTransport TransferState="1" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 11:54:14.909	--->   DownMachine	TransportFinished may not be sent in state : NotAvailableNotReady
+2022-02-24 11:54:21.820	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:54:21.819">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 11:54:24.670	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:54:24.670">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 11:55:21.876	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:55:21.827">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 11:55:21.900	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:55:21.899">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 11:55:34.128	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:55:34.043">
+ <StartTransport BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 11:55:40.772	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:55:40.699">
+ <StopTransport TransferState="1" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b2" />
+</Hermes>
+
+2022-02-24 11:59:26.078	UpMachine   <---	Socket connected
+2022-02-24 11:59:26.079	UpMachine   <---	<Hermes Timestamp="2022-02-24T11:59:26.079">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:59:26.124	--->   DownMachine	Socket Connected
+2022-02-24 11:59:30.432	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:59:30.377">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:59:30.440	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:59:30.440">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 11:59:34.751	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:59:34.751">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 11:59:37.860	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:59:37.817">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 11:59:39.581	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:59:39.489">
+ <StartTransport BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 11:59:42.411	<---   DownMachine	<Hermes Timestamp="2022-02-24T11:59:42.345">
+ <StopTransport TransferState="1" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b2" />
+</Hermes>
+
+2022-02-24 11:59:42.418	--->   DownMachine	<Hermes Timestamp="2022-02-24T11:59:42.418">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eTRANSPORTING: StartTransport BoardId={StopTransport}does not match ffb222b2-ebfe-483c-b9c9-1ab485b404b1 BoardId={ffb222b2-ebfe-483c-b9c9-1ab485b404b2}" />
+</Hermes>
+
+2022-02-24 12:02:15.535	UpMachine   <---	Socket connected
+2022-02-24 12:02:15.536	UpMachine   <---	<Hermes Timestamp="2022-02-24T12:02:15.536">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:02:18.192	--->   DownMachine	Socket Connected
+2022-02-24 12:02:19.798	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:02:19.720">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:02:19.825	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:02:19.825">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:02:33.176	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:02:33.176">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 12:02:37.587	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:02:37.488">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 12:02:41.724	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:02:41.712">
+ <StartTransport BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 12:02:45.154	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:02:45.080">
+ <StopTransport TransferState="1" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b2" />
+</Hermes>
+
+2022-02-24 12:02:45.181	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:02:45.181">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eTRANSPORTING: StartTransport BoardId={StopTransport}does not match ffb222b2-ebfe-483c-b9c9-1ab485b404b1 BoardId={ffb222b2-ebfe-483c-b9c9-1ab485b404b2}" />
+</Hermes>
+
+2022-02-24 12:04:53.205	UpMachine   <---	Socket connected
+2022-02-24 12:04:53.206	UpMachine   <---	<Hermes Timestamp="2022-02-24T12:04:53.206">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:04:55.365	--->   DownMachine	Socket Connected
+2022-02-24 12:05:01.788	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:05:01.751">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:05:01.803	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:05:01.803">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:05:04.331	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:05:04.331">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 12:05:07.643	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:05:07.600">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 12:05:10.480	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:05:10.415">
+ <StartTransport BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" />
+</Hermes>
+
+2022-02-24 12:05:13.297	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:05:13.271">
+ <StopTransport TransferState="1" BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b2" />
+</Hermes>
+
+2022-02-24 12:05:13.312	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:05:13.312">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eTRANSPORTING: StartTransport BoardId={StopTransport}does not match ffb222b2-ebfe-483c-b9c9-1ab485b404b1 BoardId={ffb222b2-ebfe-483c-b9c9-1ab485b404b2}" />
+</Hermes>
+
+2022-02-24 12:05:14.378	--->   DownMachine	Socket Connected
+2022-02-24 12:05:19.692	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:05:19.639">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:05:19.707	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:05:19.707">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:05:55.138	UpMachine   <---	Socket connected
+2022-02-24 12:05:55.140	UpMachine   <---	<Hermes Timestamp="2022-02-24T12:05:55.140">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:05:57.603	--->   DownMachine	Socket Connected
+2022-02-24 12:06:28.391	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:06:28.391">
+ <Notification NotificationCode="5" Severity="4" Description="Upstream service stopped by application" />
+</Hermes>
+
+2022-02-24 12:06:28.405	--->   DownMachine	Error
+2022-02-24 12:06:36.776	--->   DownMachine	Socket Connected
+2022-02-24 12:07:12.298	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:07:12.271">
+ <Notification NotificationCode="5" Severity="4" Description="Upstream service stopped by application" />
+</Hermes>
+
+2022-02-24 12:07:12.313	--->   DownMachine	Error
+2022-02-24 12:07:32.200	--->   DownMachine	Socket Connected
+2022-02-24 12:08:50.360	--->   DownMachine	BoardAvailable may not be sent in state : Socket Connected
+2022-02-24 12:09:04.413	<---   DownMachine	<Hermes Timestamp="2022-02-24T12:09:04.326">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:09:04.429	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:09:04.429">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 12:09:10.123	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:09:10.122">
+ <BoardAvailable BoardId="ffb222b2-ebfe-483c-b9c9-1ab485b404b1" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 12:09:12.841	--->   DownMachine	<Hermes Timestamp="2022-02-24T12:09:12.841">
+ <RevokeBoardAvailable />
+</Hermes>
+
+2022-02-24 13:22:59.863	UpMachine   <---	Socket connected
+2022-02-24 13:22:59.864	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:22:59.864">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:23:00.174	--->   DownMachine	Socket Connected
+2022-02-24 13:25:39.876	UpMachine   <---	Socket connected
+2022-02-24 13:25:39.877	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:25:39.877">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:25:49.331	--->   DownMachine	Socket Connected
+2022-02-24 13:25:51.735	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:25:51.689">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:25:51.743	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:25:51.742">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:26:00.627	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:26:00.609">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:26:49.867	--->   DownMachine	RevokeBoardAvailable may not be sent in state : NotAvailableNotReady
+2022-02-24 13:26:52.172	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:26:51.694">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:26:52.179	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:26:52.178">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:27:00.720	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:27:00.622">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:27:00.741	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:27:00.740">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:27:48.626	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:27:48.592">
+ <CheckAlive Type="1" Id="123" />
+</Hermes>
+
+2022-02-24 13:27:48.633	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:27:48.633">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:27:51.798	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:27:51.699">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:27:51.817	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:27:51.816">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:32:18.637	UpMachine   <---	Socket connected
+2022-02-24 13:32:18.638	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:32:18.638">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:33:02.480	UpMachine   <---	Socket connected
+2022-02-24 13:33:02.481	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:33:02.481">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:33:03.906	--->   DownMachine	Socket Connected
+2022-02-24 13:33:07.200	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:33:07.134">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:33:26.373	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:33:26.334">
+ <BoardAvailable BoardId="5de2b747-85f8-434e-b796-f480e1119fd5" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="111" />
+</Hermes>
+
+2022-02-24 13:33:54.872	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:33:54.872">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 13:34:09.520	UpMachine   <---	<BoardId> Must not be empty
+
+2022-02-24 13:34:16.756	UpMachine   <---	<BoardId> Must not be empty
+
+2022-02-24 13:34:21.639	UpMachine   <---	<BoardId> Must not be empty
+
+2022-02-24 13:34:26.357	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:34:26.334">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:34:26.379	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:34:26.379">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:34:28.689	UpMachine   <---	<BoardId> Must not be empty
+
+2022-02-24 13:35:13.882	UpMachine   <---	Socket connected
+2022-02-24 13:35:13.884	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:35:13.884">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:35:20.067	--->   DownMachine	Socket Connected
+2022-02-24 13:35:21.213	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:35:21.189">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:35:29.245	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:35:29.198">
+ <BoardAvailable BoardId="60e341c8-1303-4f6e-b2e3-3f3141e02b17" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:35:59.761	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:35:59.761">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="60e341c8-1303-4f6e-b2e3-3f3141e02b17" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:36:29.219	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:36:29.213">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:36:29.245	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:36:29.245">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:39:05.970	--->   DownMachine	Socket Connected
+2022-02-24 13:39:05.990	UpMachine   <---	Socket connected
+2022-02-24 13:39:05.991	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:39:05.991">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:39:11.506	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:39:11.444">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:39:23.234	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:39:23.179">
+ <BoardAvailable BoardId="e7c94ca6-107d-4e0f-8e26-aef122a0aac4" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:39:25.357	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:39:25.357">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="e7c94ca6-107d-4e0f-8e26-aef122a0aac4" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:40:05.591	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:40:05.591">
+ <Notification NotificationCode="0" Severity="0" Description="" />
+</Hermes>
+
+2022-02-24 13:40:14.038	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:40:14.038">
+ <CheckAlive Type="1"  />
+</Hermes>
+
+2022-02-24 13:40:23.250	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:40:23.191">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:40:23.273	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:40:23.272">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:40:30.622	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:40:30.622">
+ <CheckAlive Type="1" Id="123"  />
+</Hermes>
+
+2022-02-24 13:40:53.763	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:40:53.763">
+ <Notification NotificationCode="5" Severity="4" Description="Downstream service stopped by application" />
+</Hermes>
+
+2022-02-24 13:40:53.776	UpMachine   <---	Error
+2022-02-24 13:40:59.546	UpMachine   <---	Socket connected
+2022-02-24 13:40:59.548	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:40:59.548">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:41:03.286	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:41:03.243">
+ <Notification NotificationCode="5" Severity="4" Description="Upstream service stopped by application" />
+</Hermes>
+
+2022-02-24 13:41:03.293	--->   DownMachine	Error
+2022-02-24 13:41:09.690	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:41:09.675">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:41:10.268	--->   DownMachine	Socket Connected
+2022-02-24 13:41:12.408	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:41:12.408">
+ <CheckAlive Type="1" Id="123"  />
+</Hermes>
+
+2022-02-24 13:41:12.511	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:41:12.409">
+ <CheckAlive Type="2" Id="123" />
+</Hermes>
+
+2022-02-24 13:41:15.070	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:41:15.069">
+ <CheckAlive Type="2" Id="123"  />
+</Hermes>
+
+2022-02-24 13:42:39.391	UpMachine   <---	Socket connected
+2022-02-24 13:42:39.392	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:42:39.392">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:42:42.663	--->   DownMachine	Socket Connected
+2022-02-24 13:42:46.176	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:42:46.082">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:42:46.196	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:42:46.196">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:42:54.047	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:42:54.034">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:43:01.678	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:43:01.594">
+ <CheckAlive Id="123" />
+</Hermes>
+
+2022-02-24 13:43:15.802	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:43:15.722">
+ <CheckAlive Type="2" />
+</Hermes>
+
+2022-02-24 13:43:22.752	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:43:22.730">
+ <CheckAlive Type="2" Id="123" />
+</Hermes>
+
+2022-02-24 13:43:34.836	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:43:34.836">
+ <CheckAlive Id="123"  />
+</Hermes>
+
+2022-02-24 13:43:43.456	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:43:43.456">
+ <CheckAlive Id="1232"  />
+</Hermes>
+
+2022-02-24 13:43:54.082	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:43:54.082">
+ <CheckAlive Type="1" Id="1232"  />
+</Hermes>
+
+2022-02-24 13:43:54.184	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:43:54.083">
+ <CheckAlive Type="2" Id="1232" />
+</Hermes>
+
+2022-02-24 13:44:12.727	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:44:12.634">
+ <CheckAlive Type="2" />
+</Hermes>
+
+2022-02-24 13:44:18.553	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:44:18.513">
+ <CheckAlive Type="1" />
+</Hermes>
+
+2022-02-24 13:44:18.560	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:44:18.559">
+ <CheckAlive Type="2"  />
+</Hermes>
+
+2022-02-24 13:44:25.175	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:44:25.161">
+ <CheckAlive Id="111" />
+</Hermes>
+
+2022-02-24 13:44:31.498	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:44:31.425">
+ <CheckAlive Type="1" Id="111" />
+</Hermes>
+
+2022-02-24 13:44:31.515	--->   DownMachine	<Hermes Timestamp="2022-02-24T13:44:31.515">
+ <CheckAlive Type="2" Id="111"  />
+</Hermes>
+
+2022-02-24 13:44:53.340	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:44:53.313">
+ <BoardAvailable BoardId="5ccde260-c01f-472e-bb21-742736136950" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:44:57.366	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:44:57.366">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="5ccde260-c01f-472e-bb21-742736136950" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:45:07.228	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:45:07.228">
+ <StartTransport BoardId="5ccde260-c01f-472e-bb21-742736136950" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 13:45:31.471	<---   DownMachine	<Hermes Timestamp="2022-02-24T13:45:31.438">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:45:35.021	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:45:34.961">
+ <TransportFinished TransferState="1" BoardId="5ccde260-c01f-472e-bb21-742736136950" />
+</Hermes>
+
+2022-02-24 13:49:13.334	UpMachine   <---	Socket connected
+2022-02-24 13:49:13.335	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:49:13.335">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:49:13.531	--->   DownMachine	Socket Connected
+2022-02-24 13:50:08.240	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:50:08.239">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:50:09.670	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:50:09.599">
+ <BoardAvailable BoardId="7c190a9c-ec96-4514-b7fe-135e6a8d5104" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:50:12.533	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:50:12.533">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="7c190a9c-ec96-4514-b7fe-135e6a8d5104" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:50:20.754	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:50:20.754">
+ <StartTransport BoardId="7c190a9c-ec96-4514-b7fe-135e6a8d5104" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 13:51:09.665	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:51:09.606">
+ <CheckAlive />
+</Hermes>
+
+2022-02-24 13:51:11.918	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:51:11.888">
+ <TransportFinished TransferState="1" BoardId="7c190a9c-ec96-4514-b7fe-135e6a8d5104" />
+</Hermes>
+
+2022-02-24 13:53:34.417	UpMachine   <---	Socket connected
+2022-02-24 13:53:34.418	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:53:34.418">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:53:36.760	--->   DownMachine	Socket Connected
+2022-02-24 13:53:38.142	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:53:38.070">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 13:53:38.984	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:53:38.886">
+ <BoardAvailable BoardId="afe50778-1435-41b9-8312-b90b5f44806b" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:53:43.057	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:53:43.057">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="afe50778-1435-41b9-8312-b90b5f44806b" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:53:45.875	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:53:45.875">
+ <StartTransport BoardId="afe50778-1435-41b9-8312-b90b5f44806b" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 13:53:49.990	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:53:49.918">
+ <TransportFinished TransferState="1" BoardId="afe50778-1435-41b9-8312-b90b5f44806b" />
+</Hermes>
+
+2022-02-24 13:53:50.015	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:53:50.015">
+ <StopTransport TransferState="0" BoardId="afe50778-1435-41b9-8312-b90b5f44806b" />
+</Hermes>
+
+2022-02-24 13:53:58.655	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:53:58.638">
+ <BoardAvailable BoardId="c521059b-e8ca-4ccf-96c7-b018dfce1b25" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:54:01.486	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:54:01.486">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="c521059b-e8ca-4ccf-96c7-b018dfce1b25" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:54:05.513	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:54:05.512">
+ <StartTransport BoardId="c521059b-e8ca-4ccf-96c7-b018dfce1b25" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 13:54:27.168	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:54:27.086">
+ <TransportFinished TransferState="2" BoardId="c521059b-e8ca-4ccf-96c7-b018dfce1b25" />
+</Hermes>
+
+2022-02-24 13:54:27.210	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:54:27.209">
+ <StopTransport TransferState="0" BoardId="c521059b-e8ca-4ccf-96c7-b018dfce1b25" />
+</Hermes>
+
+2022-02-24 13:54:28.611	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:54:28.582">
+ <BoardAvailable BoardId="434d19f2-3f9c-4bc7-bfa5-0f970c179d44" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 13:54:32.184	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:54:32.184">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="434d19f2-3f9c-4bc7-bfa5-0f970c179d44" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 13:55:08.249	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:55:08.249">
+ <StartTransport BoardId="434d19f2-3f9c-4bc7-bfa5-0f970c179d44" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 13:55:14.476	UpMachine   --->	<Hermes Timestamp="2022-02-24T13:55:14.429">
+ <TransportFinished TransferState="3" BoardId="434d19f2-3f9c-4bc7-bfa5-0f970c179d44" />
+</Hermes>
+
+2022-02-24 13:55:34.844	UpMachine   <---	<Hermes Timestamp="2022-02-24T13:55:34.844">
+ <StopTransport TransferState="0" BoardId="434d19f2-3f9c-4bc7-bfa5-0f970c179d44" />
+</Hermes>
+
+2022-02-24 14:03:26.974	UpMachine   <---	Socket connected
+2022-02-24 14:03:26.975	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:26.975">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:03:27.262	--->   DownMachine	Socket Connected
+2022-02-24 14:03:31.093	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:03:31.082">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:03:32.928	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:03:32.874">
+ <BoardAvailable BoardId="c6685a9e-a40f-40da-a4bc-06dc76bbd3a0" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 14:03:35.674	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:35.674">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="c6685a9e-a40f-40da-a4bc-06dc76bbd3a0" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 14:03:37.588	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:37.588">
+ <StartTransport BoardId="c6685a9e-a40f-40da-a4bc-06dc76bbd3a0" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 14:03:49.922	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:03:49.874">
+ <TransportFinished TransferState="1" BoardId="c6685a9e-a40f-40da-a4bc-06dc76bbd3a0" />
+</Hermes>
+
+2022-02-24 14:03:49.961	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:49.961">
+ <StopTransport TransferState="1" BoardId="c6685a9e-a40f-40da-a4bc-06dc76bbd3a0" />
+</Hermes>
+
+2022-02-24 14:03:51.764	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:03:51.722">
+ <BoardAvailable BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 14:03:54.925	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:54.925">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 14:03:56.932	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:03:56.932">
+ <StartTransport BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 14:04:43.041	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:04:43.002">
+ <TransportFinished TransferState="3" BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" />
+</Hermes>
+
+2022-02-24 14:04:50.397	UpMachine   <---	StartTransport may not be sent in state : TransportFinished
+2022-02-24 14:04:54.165	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:04:54.165">
+ <StopTransport TransferState="3" BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" />
+</Hermes>
+
+2022-02-24 14:05:00.581	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:05:00.581">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="716431c1-5895-4140-8588-d6cd22a9b1d6" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 14:05:06.304	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:05:06.234">
+ <BoardAvailable BoardId="bba401c7-0080-44ed-8182-76cc9f907724" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 14:05:09.708	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:05:09.708">
+ <StartTransport BoardId="bba401c7-0080-44ed-8182-76cc9f907724" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 14:05:26.853	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:05:26.834">
+ <TransportFinished TransferState="3" BoardId="bba401c7-0080-44ed-8182-76cc9f907725" />
+</Hermes>
+
+2022-02-24 14:05:26.878	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:05:26.878">
+ <Notification NotificationCode="0" Severity="0" Description="" />
+</Hermes>
+
+2022-02-24 14:05:26.980	UpMachine   <---	Socket connected
+2022-02-24 14:05:26.983	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:05:26.983">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:13:29.973	UpMachine   <---	Socket connected
+2022-02-24 14:13:29.976	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:13:29.976">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:13:33.187	--->   DownMachine	Socket Connected
+2022-02-24 14:13:35.802	UpMachine   <---	MachineReady may not be sent in state : HandShake
+2022-02-24 14:13:39.146	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:13:39.146">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:13:39.196	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:13:39.146">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eSERVICE_DESCRIPTION_DOWNSTREAM: ServiceDescription" />
+</Hermes>
+
+2022-02-24 14:13:39.225	UpMachine   <---	Error
+2022-02-24 14:13:39.379	UpMachine   <---	Socket connected
+2022-02-24 14:13:39.381	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:13:39.381">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:13:43.804	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:13:43.734">
+ <ServiceDescription LaneId="1" MachineId="↖UpstreamSimulation" InterfaceId="111" Version="1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:13:46.377	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:13:46.377">
+ <MachineReady FailedBoard="0" ForecastId="" BoardId="bba401c7-0080-44ed-8182-76cc9f907724" ProductTypeId="111" FlippedBoard="0" Length="2222.000" Width="3333.000" Thickness="555.000" ConveyorSpeed="666.000" TopClearanceHeight="777.000" BottomClearanceHeight="888.000" Weight="888.000" />
+</Hermes>
+
+2022-02-24 14:13:51.094	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:13:51.046">
+ <BoardAvailable BoardId="6f989909-2abe-4723-a9c9-cc42287b8820" BoardIdCreatedBy="↖UpstreamSimulation" FailedBoard="0" ProductTypeId="111" FlippedBoard="0" TopBarcode="222" BottomBarcode="333" Length="2222" Width="3333" Thickness="555" ConveyorSpeed="666" TopClearanceHeight="777" BottomClearanceHeight="888" Weight="888" WorkOrderId="444" BatchId="1111" />
+</Hermes>
+
+2022-02-24 14:13:54.474	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:13:54.473">
+ <StartTransport BoardId="6f989909-2abe-4723-a9c9-cc42287b8820" ConveyorSpeed="666.000" />
+</Hermes>
+
+2022-02-24 14:14:07.419	UpMachine   --->	<Hermes Timestamp="2022-02-24T14:14:07.406">
+ <TransportFinished TransferState="3" BoardId="6f989909-2abe-4723-a9c9-cc42287b8822" />
+</Hermes>
+
+2022-02-24 14:14:07.447	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:14:07.446">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eTRANSPORTING: StartTransport BoardId={TransportFinished}does not match 6f989909-2abe-4723-a9c9-cc42287b8820 BoardId={6f989909-2abe-4723-a9c9-cc42287b8822}" />
+</Hermes>
+
+2022-02-24 14:14:07.548	UpMachine   <---	Socket connected
+2022-02-24 14:14:07.549	UpMachine   <---	<Hermes Timestamp="2022-02-24T14:14:07.549">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:15:45.473	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:15:45.429">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:15:45.519	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:15:45.519">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:15:46.220	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:15:46.213">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 14:15:50.667	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:15:50.667">
+ <BoardAvailable BoardId="4542a73f-34d0-47b5-bbe7-345784b78bed" BoardIdCreatedBy="Machine" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 14:15:57.887	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:15:57.853">
+ <StartTransport BoardId="4542a73f-34d0-47b5-bbe7-345784b78bed" />
+</Hermes>
+
+2022-02-24 14:16:10.440	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:16:10.440">
+ <TransportFinished TransferState="0" BoardId="4542a73f-34d0-47b5-bbe7-345784b78bed2" />
+</Hermes>
+
+2022-02-24 14:16:24.042	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:16:23.997">
+ <StopTransport TransferState="2" BoardId="4542a73f-34d0-47b5-bbe7-345784b78b2" />
+</Hermes>
+
+2022-02-24 14:16:24.066	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:16:24.066">
+ <Notification NotificationCode="1" Severity="1" Description="Unexpected peer event in state eTRANSPORTING: StartTransport BoardId={StopTransport}does not match 4542a73f-34d0-47b5-bbe7-345784b78bed2 BoardId={4542a73f-34d0-47b5-bbe7-345784b78b2}" />
+</Hermes>
+
+2022-02-24 14:16:25.122	--->   DownMachine	Socket Connected
+2022-02-24 14:17:23.235	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:17:23.197">
+ <ServiceDescription LaneId="1" MachineId="��DownstreamSimulation" Version="v1.3">
+  <SupportedFeatures />
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:17:23.262	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:17:23.262">
+ <ServiceDescription LaneId="123" MachineId="Machine" Version="V1.3">
+  <SupportedFeatures>
+  </SupportedFeatures>
+ </ServiceDescription>
+</Hermes>
+
+2022-02-24 14:17:24.568	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:17:24.501">
+ <MachineReady FailedBoard="0" ForecastId="123" BoardId="223" ProductTypeId="111" FlippedBoard="0" Length="222" Width="333" Thickness="444" ConveyorSpeed="555" TopClearanceHeight="666" BottomClearanceHeight="777" Weight="888" />
+</Hermes>
+
+2022-02-24 14:17:26.999	--->   DownMachine	<Hermes Timestamp="2022-02-24T14:17:26.999">
+ <BoardAvailable BoardId="4542a73f-34d0-47b5-bbe7-345784b78bed2" BoardIdCreatedBy="" FailedBoard="0" FlippedBoard="0" />
+</Hermes>
+
+2022-02-24 14:17:36.131	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:17:36.085">
+ <StartTransport BoardId="4542a73f-34d0-47b5-bbe7-345784b78be" />
+</Hermes>
+
+2022-02-24 14:18:36.095	<---   DownMachine	<Hermes Timestamp="2022-02-24T14:18:36.087">
+ <CheckAlive />
+</Hermes>

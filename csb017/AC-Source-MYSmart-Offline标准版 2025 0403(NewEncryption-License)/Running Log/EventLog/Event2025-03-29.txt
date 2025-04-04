@@ -1,0 +1,8 @@
+
+  1	2025/03/29 21:24:37.800	Initializing...
+a  3	2025/03/29 21:26:55.945	Initializing...
+a  3	2025/03/29 21:26:55.975	Current User: a
+a  3	2025/03/29 21:26:55.993	Open Program:20250324³ÌÐò4
+a  3	2025/03/29 21:26:56.404	The reset button is pressed
+a  3	2025/03/29 21:27:17.332	Reset is completed
+a  3	2025/03/29 21:27:17.831	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )

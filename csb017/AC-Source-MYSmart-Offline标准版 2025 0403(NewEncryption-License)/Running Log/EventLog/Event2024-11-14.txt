@@ -1,0 +1,255 @@
+
+a  3	2024/11/14 15:45:17	设备初始化......
+a  3	2024/11/14 15:45:17	当前用户： a
+a  3	2024/11/14 15:45:17	打开程序：20241112101237
+a  3	2024/11/14 15:45:17	低气压检测未开启
+a  3	2024/11/14 15:45:19	复位按钮按下
+a  3	2024/11/14 15:45:25	下层轨道出料超时，请检查！
+a  3	2024/11/14 15:45:38	设备复位完成
+a  3	2024/11/14 15:51:33	设备初始化......
+a  3	2024/11/14 15:51:33	当前用户： a
+a  3	2024/11/14 15:51:33	打开程序：20241112101237
+a  3	2024/11/14 15:51:33	低气压检测未开启
+a  3	2024/11/14 15:51:34	复位按钮按下
+a  3	2024/11/14 15:51:40	下层轨道出料超时，请检查！
+a  3	2024/11/14 15:51:42	设备复位完成
+a  3	11/14/2024 4:16:32 PM	Initializing...
+a  3	11/14/2024 4:16:32 PM	Current User: a
+a  3	11/14/2024 4:16:32 PM	Open Program:20241104151850
+a  3	11/14/2024 4:16:36 PM	OutBoard timeout for lower track, please check!
+a  3	11/14/2024 4:17:52 PM	Initializing...
+a  3	11/14/2024 4:17:52 PM	Current User: a
+a  3	11/14/2024 4:17:52 PM	Open Program:20241104151850
+a  3	11/14/2024 4:17:56 PM	OutBoard timeout for lower track, please check!
+a  3	11/14/2024 4:17:59 PM	The reset button is pressed
+a  3	11/14/2024 4:18:08 PM	Reset is completed
+a  3	11/14/2024 4:18:49 PM	Chinese
+a  3	11/14/2024 4:19:11 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,ValveColor,DoOut,DataSavedBySys,Purge后刮胶参数 2,German Cicor Glue Para out,Slovakia - CemmThome SK Glue Para2,ChangChun Conti Glue Para2
+a  3	11/14/2024 4:19:11 PM	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,German Cicor Glue ParaNew out
+a  3	11/14/2024 4:19:11 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Light source adjust
+a  3	11/14/2024 4:39:12 PM	设备初始化......
+a  3	11/14/2024 4:39:12 PM	当前用户： a
+a  3	11/14/2024 4:39:12 PM	打开程序：20241104151850
+a  3	11/14/2024 4:39:13 PM	复位按钮按下
+a  3	11/14/2024 4:39:19 PM	下层轨道出料超时，请检查！
+a  3	11/14/2024 4:39:21 PM	设备复位完成
+a  3	11/14/2024 4:40:35 PM	设备初始化......
+a  3	11/14/2024 4:40:35 PM	当前用户： a
+a  3	11/14/2024 4:40:36 PM	打开程序：20241104151850
+a  3	11/14/2024 4:44:49 PM	设备初始化......
+a  3	11/14/2024 4:44:49 PM	当前用户： a
+a  3	11/14/2024 4:44:49 PM	打开程序：20241104151850
+a  3	11/14/2024 4:44:50 PM	复位按钮按下
+a  3	11/14/2024 4:44:58 PM	设备复位完成
+a  3	11/14/2024 4:45:20 PM	打开程序：WCY
+a  3	11/14/2024 4:45:43 PM	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	11/14/2024 4:45:43 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	11/14/2024 4:45:50 PM	打开程序：test
+a  3	11/14/2024 4:45:59 PM	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	11/14/2024 4:45:59 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	11/14/2024 4:46:06 PM	打开程序：WCY
+a  3	11/14/2024 4:46:19 PM	打开程序：data
+a  3	11/14/2024 4:46:41 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 4:46:41 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	11/14/2024 4:46:50 PM	打开程序：test
+a  3	11/14/2024 4:46:57 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 4:47:07 PM	打开程序：WCY
+a  3	11/14/2024 4:47:21 PM	打开程序：Axxon test 01
+a  3	11/14/2024 4:47:27 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring,Flow hardware para
+a  3	11/14/2024 4:47:27 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	11/14/2024 4:47:37 PM	打开程序：Axxon test 01
+a  3	11/14/2024 4:48:05 PM	打开程序：data
+a  3	11/14/2024 4:48:34 PM	打开程序：test
+a  3	11/14/2024 4:49:04 PM	打开程序：data
+a  3	11/14/2024 4:49:20 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:49:31 PM	打开程序：WCY
+a  3	11/14/2024 4:51:53 PM	设备初始化......
+a  3	11/14/2024 4:51:53 PM	当前用户： a
+a  3	11/14/2024 4:51:53 PM	打开程序：WCY
+a  3	11/14/2024 4:51:54 PM	复位按钮按下
+a  3	11/14/2024 4:52:02 PM	设备复位完成
+a  3	11/14/2024 4:52:37 PM	打开程序：Axxon test 01
+a  3	11/14/2024 4:53:16 PM	打开程序：data
+a  3	11/14/2024 4:54:02 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:54:03 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:54:14 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring,Flow hardware para
+a  3	11/14/2024 4:54:48 PM	打开程序：test
+a  3	11/14/2024 4:55:42 PM	打开程序：data
+a  3	11/14/2024 4:55:44 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:56:00 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:56:20 PM	打开程序：Axxon test 01
+a  3	11/14/2024 4:56:33 PM	打开程序：data
+a  3	11/14/2024 4:58:13 PM	打开程序：data
+a  3	11/14/2024 4:58:27 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:58:29 PM	打开程序：test
+a  3	11/14/2024 4:58:32 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 4:58:44 PM	打开程序：WCY
+a  3	11/14/2024 4:58:55 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 4:59:08 PM	打开程序：test
+a  3	11/14/2024 4:59:34 PM	打开程序：WCY
+a  3	11/14/2024 5:00:12 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:00:22 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:01:04 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:01:05 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:02:48 PM	打开程序：WCY
+a  3	11/14/2024 5:03:32 PM	打开程序：test
+a  3	11/14/2024 5:03:49 PM	打开程序：WCY
+a  3	11/14/2024 5:04:01 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:04:12 PM	打开程序：data
+a  3	11/14/2024 5:04:23 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:04:46 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:06:44 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring,Flow hardware para
+a  3	11/14/2024 5:06:51 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 5:07:39 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:07:53 PM	打开程序：data
+a  3	11/14/2024 5:08:04 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring,Flow hardware para
+a  3	11/14/2024 5:08:25 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 5:08:32 PM	打开程序：test
+a  3	11/14/2024 5:08:41 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 5:09:00 PM	打开程序：WCY
+a  3	11/14/2024 5:09:06 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 5:09:24 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:09:53 PM	打开程序：data
+a  3	11/14/2024 5:10:23 PM	打开程序：test
+a  3	11/14/2024 5:10:52 PM	打开程序：WCY
+a  3	11/14/2024 5:13:04 PM	设备初始化......
+a  3	11/14/2024 5:13:04 PM	当前用户： a
+a  3	11/14/2024 5:13:04 PM	打开程序：WCY
+a  3	11/14/2024 5:13:06 PM	复位按钮按下
+a  3	11/14/2024 5:13:17 PM	设备复位完成
+a  3	11/14/2024 5:15:12 PM	设备初始化......
+a  3	11/14/2024 5:15:12 PM	当前用户： a
+a  3	11/14/2024 5:15:12 PM	打开程序：WCY
+a  3	11/14/2024 5:15:13 PM	复位按钮按下
+a  3	11/14/2024 5:15:22 PM	设备复位完成
+a  3	11/14/2024 5:15:47 PM	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,Move speed_setting
+a  3	11/14/2024 5:15:47 PM	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
+a  3	11/14/2024 5:15:47 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	11/14/2024 5:16:22 PM	TrackAndPar.bin文件中以下参数已经被修改：Move speed_setting
+a  3	11/14/2024 5:18:35 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:18:59 PM	打开程序：test
+a  3	11/14/2024 5:19:30 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:19:46 PM	打开程序：data
+a  3	11/14/2024 5:19:59 PM	打开程序：test
+a  3	11/14/2024 5:34:32 PM	设备初始化......
+a  3	11/14/2024 5:34:32 PM	当前用户： a
+a  3	11/14/2024 5:34:32 PM	打开程序：test
+a  3	11/14/2024 5:34:33 PM	复位按钮按下
+a  3	11/14/2024 5:34:42 PM	设备复位完成
+a  3	11/14/2024 5:38:38 PM	设备初始化......
+a  3	11/14/2024 5:38:38 PM	当前用户： a
+a  3	11/14/2024 5:38:38 PM	打开程序：test
+a  3	11/14/2024 5:38:38 PM	复位按钮按下
+a  3	11/14/2024 5:38:47 PM	设备复位完成
+a  3	11/14/2024 5:38:58 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:43:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:43:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:43:46 PM	设备初始化......
+a  3	11/14/2024 5:43:46 PM	当前用户： a
+a  3	11/14/2024 5:43:46 PM	打开程序：test
+a  3	11/14/2024 5:44:01 PM	复位按钮按下
+a  3	11/14/2024 5:44:10 PM	设备复位完成
+a  3	11/14/2024 5:44:14 PM	退出
+a  3	11/14/2024 5:44:33 PM	设备初始化......
+a  3	11/14/2024 5:44:33 PM	当前用户： a
+a  3	11/14/2024 5:44:33 PM	打开程序：test
+a  3	11/14/2024 5:45:50 PM	复位按钮按下
+a  3	11/14/2024 5:45:59 PM	设备复位完成
+a  3	11/14/2024 5:47:00 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:47:19 PM	打开程序：data
+a  3	11/14/2024 5:47:33 PM	打开程序：test
+a  3	11/14/2024 5:47:47 PM	打开程序：WCY
+a  3	11/14/2024 5:49:37 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:49:42 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring
+a  3	11/14/2024 5:52:01 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:52:04 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 5:52:07 PM	退出
+a  3	11/14/2024 5:52:49 PM	设备初始化......
+a  3	11/14/2024 5:52:49 PM	当前用户： a
+a  3	11/14/2024 5:52:49 PM	打开程序：Axxon test 01
+a  3	11/14/2024 5:52:55 PM	复位按钮按下
+a  3	11/14/2024 5:53:03 PM	设备复位完成
+a  3	11/14/2024 6:00:13 PM	设备初始化......
+a  3	11/14/2024 6:00:13 PM	当前用户： a
+a  3	11/14/2024 6:00:13 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:00:16 PM	复位按钮按下
+a  3	11/14/2024 6:00:25 PM	设备复位完成
+a  3	11/14/2024 6:00:34 PM	退出
+a  3	11/14/2024 6:00:52 PM	设备初始化......
+a  3	11/14/2024 6:00:52 PM	当前用户： a
+a  3	11/14/2024 6:00:52 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:03:08 PM	设备初始化......
+a  3	11/14/2024 6:03:09 PM	当前用户： a
+a  3	11/14/2024 6:03:09 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:03:09 PM	复位按钮按下
+a  3	11/14/2024 6:03:18 PM	设备复位完成
+a  3	11/14/2024 6:05:30 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 6:05:30 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 6:05:32 PM	退出
+a  3	11/14/2024 6:06:03 PM	设备初始化......
+a  3	11/14/2024 6:06:03 PM	当前用户： a
+a  3	11/14/2024 6:06:03 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:06:37 PM	退出
+a  3	11/14/2024 6:07:41 PM	设备初始化......
+a  3	11/14/2024 6:07:41 PM	当前用户： a
+a  3	11/14/2024 6:07:41 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:07:42 PM	复位按钮按下
+a  3	11/14/2024 6:07:50 PM	设备复位完成
+a  3	11/14/2024 6:10:18 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:10:26 PM	打开程序：WCY
+a  3	11/14/2024 6:10:30 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/14/2024 6:10:48 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:11:11 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/14/2024 6:12:02 PM	退出
+a  3	11/14/2024 6:12:38 PM	设备初始化......
+a  3	11/14/2024 6:12:38 PM	当前用户： a
+a  3	11/14/2024 6:12:38 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:13:25 PM	复位按钮按下
+a  3	11/14/2024 6:13:37 PM	设备复位完成
+a  3	11/14/2024 6:13:48 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:14:34 PM	打开程序：20241112101237
+a  3	11/14/2024 6:15:04 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 6:15:04 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	11/14/2024 6:15:18 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:15:30 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 6:15:46 PM	打开程序：data
+a  3	11/14/2024 6:16:04 PM	打开程序：test
+a  3	11/14/2024 6:16:23 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring
+a  3	11/14/2024 6:16:33 PM	打开程序：test
+a  3	11/14/2024 6:16:43 PM	打开程序：WCY
+a  3	11/14/2024 6:17:46 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 6:18:03 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:18:44 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:19:03 PM	打开程序：data
+a  3	11/14/2024 6:22:07 PM	设备初始化......
+a  3	11/14/2024 6:22:07 PM	当前用户： a
+a  3	11/14/2024 6:22:07 PM	打开程序：data
+a  3	11/14/2024 6:22:16 PM	复位按钮按下
+a  3	11/14/2024 6:22:25 PM	设备复位完成
+a  3	11/14/2024 6:22:34 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:22:50 PM	打开程序：data
+a  3	11/14/2024 6:23:03 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 6:23:11 PM	打开程序：test
+a  3	11/14/2024 6:23:24 PM	打开程序：data
+a  3	11/14/2024 6:23:32 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Flow hardware para
+a  3	11/14/2024 6:23:39 PM	打开程序：WCY
+a  3	11/14/2024 6:23:55 PM	退出
+a  3	11/14/2024 6:23:55 PM	报警代码 1006:气压检测报警
+a  3	11/14/2024 6:25:23 PM	设备初始化......
+a  3	11/14/2024 6:25:23 PM	当前用户： a
+a  3	11/14/2024 6:25:23 PM	打开程序：WCY
+a  3	11/14/2024 6:25:25 PM	复位按钮按下
+a  3	11/14/2024 6:25:34 PM	设备复位完成
+a  3	11/14/2024 6:25:43 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:25:49 PM	打开程序：data
+a  3	11/14/2024 6:25:57 PM	打开程序：test
+a  3	11/14/2024 6:26:04 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:26:24 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/14/2024 6:26:36 PM	退出
+a  3	11/14/2024 6:26:55 PM	设备初始化......
+a  3	11/14/2024 6:26:55 PM	当前用户： a
+a  3	11/14/2024 6:26:55 PM	打开程序：Axxon test 01
+a  3	11/14/2024 6:26:56 PM	复位按钮按下
+a  3	11/14/2024 6:27:05 PM	设备复位完成
+a  3	11/14/2024 6:27:39 PM	TrackAndPar.bin文件中以下参数已经被修改：Move speed_setting
+a  3	11/14/2024 6:27:52 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000

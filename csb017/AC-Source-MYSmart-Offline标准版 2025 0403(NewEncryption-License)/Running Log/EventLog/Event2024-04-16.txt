@@ -1,0 +1,14 @@
+
+a  3	4/16/2024 9:59:29 AM	Initializing...
+a  3	4/16/2024 9:59:29 AM	Current User: a
+a  3	4/16/2024 9:59:29 AM	Open Program:Conti NBM top
+a  3	4/16/2024 9:59:30 AM	The reset button is pressed
+a  3	4/16/2024 9:59:32 AM	Z home timeout
+a  3	4/16/2024 9:59:32 AM	Stop
+a  3	4/16/2024 9:59:34 AM	Z home timeout
+a  3	4/16/2024 9:59:36 AM	AlarmCode 1006:Pressure Low
+a  3	4/16/2024 9:59:39 AM	The reset button is pressed
+a  3	4/16/2024 9:59:41 AM	Z home timeout
+a  3	4/16/2024 9:59:41 AM	Stop
+a  3	4/16/2024 9:59:42 AM	Z home timeout
+a  3	4/16/2024 9:59:53 AM	AlarmCode 1006:Pressure Low

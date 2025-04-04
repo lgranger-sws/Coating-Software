@@ -1,0 +1,10 @@
+{
+  "ST1":{
+    "board handler":"path:/dev/board handlers/BT1",
+    "default head":"path:/dev/heads/HD1",
+    "default head multi":"path:/dev/heads/HD1,HD2",
+    "main function":"main",
+    "coordinate frame":[0.0, 0.0, 0.0],
+    "by-pass":false
+  }
+}

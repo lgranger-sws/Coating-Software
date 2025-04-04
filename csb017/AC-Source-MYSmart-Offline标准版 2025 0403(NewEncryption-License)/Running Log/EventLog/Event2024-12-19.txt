@@ -1,0 +1,7 @@
+
+admin  3	2024/12/19 00:18:22.227	ึ๓ทน
+
+admin  3	2024/12/19 00:25:24.832	Initializing...
+admin  3	2024/12/19 00:25:24.959	Current User: admin
+admin  3	2024/12/19 00:25:24.983	Open Program:SLA-Coater1-004
+admin  3	2024/12/19 00:25:24.994	Low pressure detection not activated

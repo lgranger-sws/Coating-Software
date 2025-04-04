@@ -1,0 +1,373 @@
+
+a  3	2025/04/03 09:50:02.824	设备初始化......
+a  3	2025/04/03 09:50:02.937	当前用户： a
+a  3	2025/04/03 09:50:02.954	打开程序：test
+a  3	2025/04/03 09:50:03.320	复位按钮按下
+a  3	2025/04/03 09:50:31.759	设备复位完成
+a  3	2025/04/03 09:50:32.328	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 09:50:34.687	涂胶运行
+a  3	2025/04/03 09:50:34.914	
+a  3	2025/04/03 09:50:35.108	运行V test
+a  3	2025/04/03 09:50:39.546	ProcessingStarted
+a  3	2025/04/03 09:50:43.104	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.554 Y:254.892 Result:TRUE ;Score:98.633
+a  3	2025/04/03 09:50:45.921	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.010 Y:75.070 Result:TRUE ;Score:98.493
+a  3	2025/04/03 09:50:50.617	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:50:54.907	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:50:54.916	ProcessedEnd
+a  3	2025/04/03 09:50:54.928	{"SN":"","StartTime":"25-04-03 09:50:39","StopTime":"25-04-03 09:50:54","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 09:51:07.699	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:51:13.503	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:51:21.073	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:51:30.154	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:51:34.447	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:51:45.978	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:51:47.411	停止
+a  3	2025/04/03 09:51:47.671	自动运行到清洗位置:Result:FALSE
+a  3	2025/04/03 09:51:47.835	停止V test
+a  3	2025/04/03 09:51:48.086	停止
+a  3	2025/04/03 09:51:48.232	停止V test
+a  3	2025/04/03 09:51:48.678	涂胶运行
+a  3	2025/04/03 09:51:49.002	
+a  3	2025/04/03 09:51:49.129	运行V test
+a  3	2025/04/03 09:51:53.331	ProcessingStarted
+a  3	2025/04/03 09:51:56.306	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.526 Y:254.922 Result:TRUE ;Score:98.994
+a  3	2025/04/03 09:51:59.056	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.023 Y:75.101 Result:TRUE ;Score:97.943
+a  3	2025/04/03 09:52:04.174	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:52:08.460	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:52:08.486	ProcessedEnd
+a  3	2025/04/03 09:52:08.505	{"SN":"","StartTime":"25-04-03 09:51:53","StopTime":"25-04-03 09:52:08","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 09:52:21.256	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:52:27.036	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:52:34.663	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:52:42.829	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:52:48.102	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:52:58.734	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:53:02.192	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:53:14.592	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:53:18.054	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:53:30.394	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:53:33.852	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:53:46.228	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:53:49.689	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:54:02.038	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 09:54:05.500	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 09:54:08.856	停止
+a  3	2025/04/03 09:54:09.288	停止V test
+a  3	2025/04/03 09:54:09.531	停止
+a  3	2025/04/03 09:54:09.698	停止V test
+a  3	2025/04/03 09:54:29.699	退出
+a  3	2025/04/03 09:54:29.740	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,Numeric
+a  3	2025/04/03 09:54:29.764	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/04/03 09:59:08.977	设备初始化......
+a  3	2025/04/03 09:59:09.027	当前用户： a
+a  3	2025/04/03 09:59:09.037	打开程序：test
+a  3	2025/04/03 09:59:09.293	复位按钮按下
+a  3	2025/04/03 09:59:34.489	设备复位完成
+a  3	2025/04/03 09:59:35.060	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 09:59:38.085	涂胶运行
+a  3	2025/04/03 09:59:38.505	
+a  3	2025/04/03 09:59:38.530	运行V test
+a  3	2025/04/03 09:59:42.428	ProcessingStarted
+a  3	2025/04/03 09:59:45.869	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.571 Y:254.907 Result:TRUE ;Score:98.953
+a  3	2025/04/03 09:59:48.671	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.020 Y:75.086 Result:TRUE ;Score:98.428
+a  3	2025/04/03 09:59:53.386	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:59:57.672	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 09:59:57.697	ProcessedEnd
+a  3	2025/04/03 09:59:59.367	{"SN":"","StartTime":"25-04-03 09:59:42","StopTime":"25-04-03 09:59:57","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:00:02.955	停止
+a  3	2025/04/03 10:00:03.390	停止V test
+a  3	2025/04/03 10:00:03.634	停止
+a  3	2025/04/03 10:00:03.792	停止V test
+a  3	2025/04/03 10:00:11.250	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:00:11.269	TrackAndPar.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:00:11.300	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,吐胶设置
+a  3	2025/04/03 10:00:29.136	涂胶运行
+a  3	2025/04/03 10:00:29.556	
+a  3	2025/04/03 10:00:29.571	运行V test
+a  3	2025/04/03 10:00:33.916	ProcessingStarted
+a  3	2025/04/03 10:00:36.838	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.515 Y:254.892 Result:TRUE ;Score:98.414
+a  3	2025/04/03 10:00:39.628	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.008 Y:75.076 Result:TRUE ;Score:98.294
+a  3	2025/04/03 10:00:44.747	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:00:49.038	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:00:49.057	ProcessedEnd
+a  3	2025/04/03 10:00:54.465	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:00:54.498	{"SN":"","StartTime":"25-04-03 10:00:33","StopTime":"25-04-03 10:00:49","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:01:02.422	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:01:08.208	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:01:15.853	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:01:16.806	停止
+a  3	2025/04/03 10:01:17.211	停止V test
+a  3	2025/04/03 10:01:17.441	停止
+a  3	2025/04/03 10:01:17.610	停止V test
+a  3	2025/04/03 10:01:33.094	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:01:33.111	TrackAndPar.bin文件中以下参数已经被修改：清洗设置
+a  3	2025/04/03 10:01:33.134	ShareParameters.bin文件中以下参数已经被修改：清洗设置
+a  3	2025/04/03 10:01:37.808	TrackAndPar.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:01:37.830	ShareParameters.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:01:40.957	涂胶运行
+a  3	2025/04/03 10:01:41.361	
+a  3	2025/04/03 10:01:41.372	运行V test
+a  3	2025/04/03 10:01:46.356	ProcessingStarted
+a  3	2025/04/03 10:01:48.836	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.527 Y:254.798 Result:TRUE ;Score:98.692
+a  3	2025/04/03 10:01:51.638	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.016 Y:74.979 Result:TRUE ;Score:98.568
+a  3	2025/04/03 10:01:56.756	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:02:01.053	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:02:01.070	ProcessedEnd
+a  3	2025/04/03 10:02:03.781	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:02:09.580	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:02:09.602	{"SN":"","StartTime":"25-04-03 10:01:46","StopTime":"25-04-03 10:02:01","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:02:14.772	停止
+a  3	2025/04/03 10:02:15.193	停止V test
+a  3	2025/04/03 10:02:15.427	停止
+a  3	2025/04/03 10:02:15.609	停止V test
+a  3	2025/04/03 10:02:28.471	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:02:28.491	TrackAndPar.bin文件中以下参数已经被修改：吐胶设置,点胶前清洁
+a  3	2025/04/03 10:02:28.526	ShareParameters.bin文件中以下参数已经被修改：吐胶设置,点胶前清洁
+a  3	2025/04/03 10:02:31.830	涂胶运行
+a  3	2025/04/03 10:02:32.178	
+a  3	2025/04/03 10:02:32.194	运行V test
+a  3	2025/04/03 10:02:39.614	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:02:39.935	报警代码 1028:自动运行时吐胶运行不到位！
+a  3	2025/04/03 10:02:39.955	停止
+a  3	2025/04/03 10:02:39.965	停止V test
+a  3	2025/04/03 10:04:05.812	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:09:13.157	设备初始化......
+a  3	2025/04/03 10:09:13.178	当前用户： a
+a  3	2025/04/03 10:09:13.190	打开程序：test
+a  3	2025/04/03 10:09:13.376	复位按钮按下
+a  3	2025/04/03 10:09:38.627	设备复位完成
+a  3	2025/04/03 10:09:39.173	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 10:09:45.165	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/04/03 10:09:53.016	停止
+a  3	2025/04/03 10:09:53.189	停止V test
+a  3	2025/04/03 10:09:53.435	停止
+a  3	2025/04/03 10:09:53.617	停止V test
+a  3	2025/04/03 10:10:14.652	TrackAndPar.bin文件中以下参数已经被修改：清洗设置
+a  3	2025/04/03 10:10:14.677	ShareParameters.bin文件中以下参数已经被修改：清洗设置
+a  3	2025/04/03 10:10:18.458	涂胶运行
+a  3	2025/04/03 10:10:18.738	
+a  3	2025/04/03 10:10:18.750	运行V test
+a  3	2025/04/03 10:10:23.312	ProcessingStarted
+a  3	2025/04/03 10:10:26.803	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.480 Y:254.929 Result:TRUE ;Score:99.010
+a  3	2025/04/03 10:10:29.565	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.005 Y:75.107 Result:TRUE ;Score:98.118
+a  3	2025/04/03 10:10:34.260	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:10:38.545	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:10:38.561	ProcessedEnd
+a  3	2025/04/03 10:10:40.241	{"SN":"","StartTime":"25-04-03 10:10:23","StopTime":"25-04-03 10:10:38","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:10:48.316	停止
+a  3	2025/04/03 10:10:48.774	停止V test
+a  3	2025/04/03 10:10:49.024	停止
+a  3	2025/04/03 10:10:49.201	停止V test
+a  3	2025/04/03 10:10:49.744	涂胶运行
+a  3	2025/04/03 10:10:50.046	
+a  3	2025/04/03 10:10:50.073	运行V test
+a  3	2025/04/03 10:10:54.588	ProcessingStarted
+a  3	2025/04/03 10:10:57.569	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.440 Y:254.900 Result:TRUE ;Score:98.997
+a  3	2025/04/03 10:11:00.362	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.012 Y:75.082 Result:TRUE ;Score:98.333
+a  3	2025/04/03 10:11:05.477	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:11:09.770	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:11:09.785	ProcessedEnd
+a  3	2025/04/03 10:11:11.457	{"SN":"","StartTime":"25-04-03 10:10:54","StopTime":"25-04-03 10:11:09","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:11:14.098	停止
+a  3	2025/04/03 10:11:14.529	停止V test
+a  3	2025/04/03 10:11:14.779	停止
+a  3	2025/04/03 10:11:14.954	停止V test
+a  3	2025/04/03 10:12:57.136	退出
+a  3	2025/04/03 10:12:57.175	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:13:13.100	设备初始化......
+a  3	2025/04/03 10:13:13.129	当前用户： a
+a  3	2025/04/03 10:13:13.143	打开程序：test
+a  3	2025/04/03 10:13:13.431	复位按钮按下
+a  3	2025/04/03 10:13:41.778	设备复位完成
+a  3	2025/04/03 10:13:42.331	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 10:14:10.836	涂胶运行
+a  3	2025/04/03 10:14:11.163	
+a  3	2025/04/03 10:14:11.173	运行V test
+a  3	2025/04/03 10:14:15.651	ProcessingStarted
+a  3	2025/04/03 10:14:19.051	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.572 Y:254.870 Result:TRUE ;Score:98.666
+a  3	2025/04/03 10:14:21.851	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.016 Y:75.049 Result:TRUE ;Score:98.534
+a  3	2025/04/03 10:14:23.152	停止
+a  3	2025/04/03 10:14:23.572	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/04/03 10:14:23.581	ProcessedEnd
+a  3	2025/04/03 10:14:23.591	{"SN":"","StartTime":"25-04-03 10:14:15","StopTime":"25-04-03 10:14:23","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:14:23.607	停止V test
+a  3	2025/04/03 10:14:23.820	停止
+a  3	2025/04/03 10:14:23.998	停止V test
+a  3	2025/04/03 10:14:43.373	停止
+a  3	2025/04/03 10:14:43.544	停止V test
+a  3	2025/04/03 10:14:44.646	涂胶运行
+a  3	2025/04/03 10:14:45.042	
+a  3	2025/04/03 10:14:45.059	运行V test
+a  3	2025/04/03 10:14:49.082	ProcessingStarted
+a  3	2025/04/03 10:14:51.807	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.605 Y:254.868 Result:TRUE ;Score:98.361
+a  3	2025/04/03 10:14:54.617	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.023 Y:75.051 Result:TRUE ;Score:98.283
+a  3	2025/04/03 10:14:57.160	停止
+a  3	2025/04/03 10:14:57.580	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/04/03 10:14:57.589	ProcessedEnd
+a  3	2025/04/03 10:14:57.599	{"SN":"","StartTime":"25-04-03 10:14:49","StopTime":"25-04-03 10:14:57","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:14:57.620	停止V test
+a  3	2025/04/03 10:14:57.826	停止
+a  3	2025/04/03 10:14:58.031	停止V test
+a  3	2025/04/03 10:15:47.004	鼠标释放或离开：CurrentPosition--> X:471.580 Y:418.620 Z:72.487
+a  3	2025/04/03 10:16:57.999	退出
+a  3	2025/04/03 10:16:58.037	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:19:35.184	设备初始化......
+a  3	2025/04/03 10:19:35.214	当前用户： a
+a  3	2025/04/03 10:19:35.233	打开程序：test
+a  3	2025/04/03 10:19:35.763	退出
+a  3	2025/04/03 10:20:14.800	设备初始化......
+a  3	2025/04/03 10:20:14.844	当前用户： a
+a  3	2025/04/03 10:20:14.853	打开程序：test
+a  3	2025/04/03 10:20:15.139	复位按钮按下
+a  3	2025/04/03 10:20:45.554	设备复位完成
+a  3	2025/04/03 10:20:46.116	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 10:20:59.659	涂胶运行
+a  3	2025/04/03 10:20:59.957	
+a  3	2025/04/03 10:20:59.974	运行V test
+a  3	2025/04/03 10:21:07.119	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:21:12.910	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:21:12.933	ProcessingStarted
+a  3	2025/04/03 10:21:16.210	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.494 Y:254.975 Result:TRUE ;Score:98.698
+a  3	2025/04/03 10:21:18.989	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:392.997 Y:75.152 Result:TRUE ;Score:98.482
+a  3	2025/04/03 10:21:23.699	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:21:27.985	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:21:28.010	ProcessedEnd
+a  3	2025/04/03 10:21:29.685	{"SN":"","StartTime":"25-04-03 10:21:12","StopTime":"25-04-03 10:21:27","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:21:32.464	停止
+a  3	2025/04/03 10:21:32.867	停止V test
+a  3	2025/04/03 10:21:33.093	停止
+a  3	2025/04/03 10:21:33.265	停止V test
+a  3	2025/04/03 10:21:34.074	涂胶运行
+a  3	2025/04/03 10:21:34.362	
+a  3	2025/04/03 10:21:34.374	运行V test
+a  3	2025/04/03 10:21:41.937	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:21:47.726	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:21:47.748	ProcessingStarted
+a  3	2025/04/03 10:21:50.991	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.427 Y:254.991 Result:TRUE ;Score:98.768
+a  3	2025/04/03 10:21:53.763	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.005 Y:75.172 Result:TRUE ;Score:97.956
+a  3	2025/04/03 10:21:58.879	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:22:03.165	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:22:03.185	ProcessedEnd
+a  3	2025/04/03 10:22:04.868	{"SN":"","StartTime":"25-04-03 10:21:47","StopTime":"25-04-03 10:22:03","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:22:08.214	停止
+a  3	2025/04/03 10:22:08.649	停止V test
+a  3	2025/04/03 10:22:08.931	停止
+a  3	2025/04/03 10:22:09.114	停止V test
+a  3	2025/04/03 10:22:13.980	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:22:13.999	TrackAndPar.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:22:14.022	ShareParameters.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:22:19.035	涂胶运行
+a  3	2025/04/03 10:22:19.327	
+a  3	2025/04/03 10:22:19.337	运行V test
+a  3	2025/04/03 10:22:34.135	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:22:39.924	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:22:39.943	ProcessingStarted
+a  3	2025/04/03 10:22:43.200	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.474 Y:254.973 Result:TRUE ;Score:98.880
+a  3	2025/04/03 10:22:46.000	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.005 Y:75.153 Result:TRUE ;Score:98.277
+a  3	2025/04/03 10:22:51.121	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:22:55.406	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:22:55.424	ProcessedEnd
+a  3	2025/04/03 10:22:57.103	{"SN":"","StartTime":"25-04-03 10:22:39","StopTime":"25-04-03 10:22:55","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:23:00.609	停止
+a  3	2025/04/03 10:23:01.062	停止V test
+a  3	2025/04/03 10:23:01.331	停止
+a  3	2025/04/03 10:23:01.496	停止V test
+a  3	2025/04/03 10:23:02.003	涂胶运行
+a  3	2025/04/03 10:23:02.350	
+a  3	2025/04/03 10:23:02.386	运行V test
+a  3	2025/04/03 10:23:09.268	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:23:15.055	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:23:15.083	ProcessingStarted
+a  3	2025/04/03 10:23:18.314	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.539 Y:254.923 Result:TRUE ;Score:98.712
+a  3	2025/04/03 10:23:21.116	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.004 Y:75.103 Result:TRUE ;Score:97.709
+a  3	2025/04/03 10:23:26.227	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:23:30.513	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:23:30.532	ProcessedEnd
+a  3	2025/04/03 10:23:32.210	{"SN":"","StartTime":"25-04-03 10:23:15","StopTime":"25-04-03 10:23:30","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:23:54.274	停止
+a  3	2025/04/03 10:23:54.672	停止V test
+a  3	2025/04/03 10:23:54.904	停止
+a  3	2025/04/03 10:23:55.063	停止V test
+a  3	2025/04/03 10:24:02.793	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:24:02.812	TrackAndPar.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:24:02.838	ShareParameters.bin文件中以下参数已经被修改：吐胶设置
+a  3	2025/04/03 10:24:05.544	涂胶运行
+a  3	2025/04/03 10:24:05.950	
+a  3	2025/04/03 10:24:05.967	运行V test
+a  3	2025/04/03 10:24:14.158	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:24:19.938	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:24:19.957	ProcessingStarted
+a  3	2025/04/03 10:24:23.214	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.527 Y:254.919 Result:TRUE ;Score:98.883
+a  3	2025/04/03 10:24:25.971	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:392.999 Y:75.100 Result:TRUE ;Score:98.197
+a  3	2025/04/03 10:24:31.091	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:24:35.379	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:24:35.396	ProcessedEnd
+a  3	2025/04/03 10:24:37.083	{"SN":"","StartTime":"25-04-03 10:24:19","StopTime":"25-04-03 10:24:35","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:24:51.360	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:24:56.153	停止
+a  3	2025/04/03 10:24:56.581	停止V test
+a  3	2025/04/03 10:24:56.956	停止
+a  3	2025/04/03 10:24:57.117	停止V test
+a  3	2025/04/03 10:25:03.515	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/04/03 10:25:03.533	TrackAndPar.bin文件中以下参数已经被修改：清洗设置,吐胶设置
+a  3	2025/04/03 10:25:03.557	ShareParameters.bin文件中以下参数已经被修改：清洗设置,吐胶设置
+a  3	2025/04/03 10:25:08.616	涂胶运行
+a  3	2025/04/03 10:25:08.914	
+a  3	2025/04/03 10:25:08.928	运行V test
+a  3	2025/04/03 10:25:16.061	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:25:21.855	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/04/03 10:25:21.890	ProcessingStarted
+a  3	2025/04/03 10:25:25.127	自动识别1_Mark：OneMark:Set-->X:393.016 Y:254.685 Z:16.513  Match-->X:393.497 Y:254.904 Result:TRUE ;Score:98.864
+a  3	2025/04/03 10:25:27.882	自动识别1_Mark：OneMark:Set-->X:392.539 Y:75.204 Z:16.380  Match-->X:393.010 Y:75.085 Result:TRUE ;Score:98.443
+a  3	2025/04/03 10:25:32.993	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:25:37.278	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/04/03 10:25:37.295	ProcessedEnd
+a  3	2025/04/03 10:25:38.974	{"SN":"","StartTime":"25-04-03 10:25:21","StopTime":"25-04-03 10:25:37","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/04/03 10:25:50.789	自动运行到清洗位置:Result:TRUE
+a  3	2025/04/03 10:25:57.177	停止
+a  3	2025/04/03 10:25:57.594	停止V test
+a  3	2025/04/03 10:25:57.826	停止
+a  3	2025/04/03 10:25:58.002	停止V test
+a  3	2025/04/03 10:27:46.360	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys,Numeric
+a  3	2025/04/03 10:27:48.757	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:27:48.977	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:28:12.656	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:28:13.462	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:28:31.972	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:28:37.027	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	2025/04/03 10:28:39.387	鼠标释放或离开：CurrentPosition--> X:342.116 Y:159.434 Z:45.844
+a  3	2025/04/03 10:28:44.199	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	2025/04/03 10:29:30.186	键盘释放：CurrentPosition--> X:342.116 Y:159.434 Z:5.000
+a  3	2025/04/03 10:29:30.218	键盘释放：CurrentPosition--> X:342.116 Y:159.434 Z:5.000
+a  3	2025/04/03 10:29:33.723	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	2025/04/03 10:29:36.776	退出
+a  3	2025/04/03 10:34:58.102	设备初始化......
+a  3	2025/04/03 10:34:58.132	当前用户： a
+a  3	2025/04/03 10:34:58.150	打开程序：test
+a  3	2025/04/03 10:34:58.639	复位按钮按下
+a  3	2025/04/03 10:35:22.482	设备复位完成
+a  3	2025/04/03 10:35:23.024	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 10:35:30.916	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	2025/04/03 10:35:40.487	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/04/03 10:36:36.767	报警代码 1007:急停按钮按下，请复位！
+a  3	2025/04/03 10:36:42.028	电源开关被按下，请复位。
+a  3	2025/04/03 10:36:50.108	停止
+a  3	2025/04/03 10:36:50.118	停止V test
+a  3	2025/04/03 10:36:52.393	复位按钮按下
+a  3	2025/04/03 10:37:10.994	设备复位完成
+a  3	2025/04/03 10:37:11.553	Reset(From X:85.578,Y:144.322,Z:45.844 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/04/03 10:37:28.874	报警代码 1007:急停按钮按下，请复位！
+a  3	2025/04/03 10:37:30.483	电源开关被按下，请复位。
+a  3	2025/04/03 10:37:33.121	请先复位设备
+a  3	2025/04/03 10:37:38.732	请先复位设备
+a  3	2025/04/03 10:37:39.923	请先复位设备
+a  3	2025/04/03 10:37:41.096	请先复位设备
+a  3	2025/04/03 10:37:42.334	请先复位设备
+a  3	2025/04/03 10:37:43.665	请先复位设备
+a  3	2025/04/03 10:37:44.792	请先复位设备
+a  3	2025/04/03 10:38:01.416	电源开关被按下，请复位。
+a  3	2025/04/03 10:38:09.793	停止
+a  3	2025/04/03 10:38:09.808	停止V test
+a  3	2025/04/03 10:38:10.686	复位按钮按下
+a  3	2025/04/03 10:38:22.288	设备复位完成
+a  3	2025/04/03 10:38:22.840	Reset(From X:0.000,Y:0.000,Z:5.000 To X:0.000,Y:0.000,Z:0.000 )

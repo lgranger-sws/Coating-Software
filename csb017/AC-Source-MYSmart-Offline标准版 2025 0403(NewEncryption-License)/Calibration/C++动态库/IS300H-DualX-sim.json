@@ -1,0 +1,895 @@
+{
+  "clients":{
+    "ClientDefault":{
+      "class":"sim-dev-client",
+      "constants":{
+        "ip":"127.0.0.1",
+        "port":3200
+      },
+      "variables":{
+        "timeout":200
+      }
+    }
+  },
+	"motion cards":{
+    "MC1":{
+      "class":"sim",
+      "constants":{
+        "time units per second":1000.0,
+        "config file":"cfg/gtsc++.config",
+        "client":"path:/dev/clients/ClientDefault",
+        "cycle time":400,
+        "logic for sensors":"enum:SignalLogic/active high",
+        "logic for motor fault":"enum:SignalLogic/active high",
+        "logic for GPIO":"enum:SignalLogic/active low"
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "look-ahead size":2048
+      }
+    }
+  },
+  "joints":{
+    "x":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/fly",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":1,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/normal",
+        "feedback":true,
+        "homing priority":"enum:homing priority/second",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/negative",
+        "pulses per revolution":20,
+        "lead":20.0,
+        "stroke":300.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":500.0,
+        "acceleration":5000.0,
+        "jerk time":20.0,
+        "use software limits":false,
+        "software limits":{
+          "positive":288.475,
+          "negative":-4.997
+        }
+      }
+    },
+    "y":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/fly",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":0,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/normal",
+        "feedback":true,
+        "homing priority":"enum:homing priority/second",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/positive",
+        "pulses per revolution":20,
+        "lead":20.0,
+        "stroke":300.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":500.0,
+        "acceleration":5000.0,
+        "jerk time":20.0,
+        "use software limits":false,
+        "software limits":{
+          "positive":5.002,
+          "negative":-288.0
+        }
+      }
+    },
+    "z":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/approach",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":2,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/reversed",
+        "feedback":true,
+        "homing priority":"enum:homing priority/first",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/positive",
+        "pulses per revolution":10000,
+        "lead":10.0,
+        "stroke":100.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":100.0,
+        "acceleration":1000.0,
+        "jerk time":5.0,
+        "use software limits":true,
+        "software limits":{
+          "positive":10000.0,
+          "negative":-73.0
+        }
+      }
+    },
+    "x2":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/fly",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":4,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/normal",
+        "feedback":true,
+        "homing priority":"enum:homing priority/second",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/negative",
+        "pulses per revolution":20,
+        "lead":20.0,
+        "stroke":300.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":500.0,
+        "acceleration":5000.0,
+        "jerk time":20.0,
+        "use software limits":false,
+        "software limits":{
+          "positive":1000.475,
+          "negative":-4.997
+        }
+      }
+    },
+    "y2":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/fly",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":0,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/normal",
+        "feedback":true,
+        "homing priority":"enum:homing priority/second",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/positive",
+        "pulses per revolution":20,
+        "lead":20.0,
+        "stroke":300.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":500.0,
+        "acceleration":5000.0,
+        "jerk time":20.0,
+        "use software limits":false,
+        "software limits":{
+          "positive":5.002,
+          "negative":-1000.0
+        }
+      }
+    },
+    "z2":{
+      "class":"axis",
+      "constants":{
+        "joint type":"enum:Joint/JointType/prismatic",
+        "motion type":"enum:Joint/MotionType/approach",
+        "card":"path:/dev/motion cards/MC1",
+        "axis id":5,
+        "motor type":"enum:Axis/MotorType/servo motor",
+        "direction":"enum:Axis/Direction/reversed",
+        "feedback":true,
+        "homing priority":"enum:homing priority/first",
+        "homing method":"enum:homing method/index",
+        "home location":"enum:Polarity/positive",
+        "pulses per revolution":10000,
+        "lead":10.0,
+        "stroke":100.0,
+        "distance after find-home":0.0
+      },
+      "variables":{
+        "stop button":"path:/dev/push buttons/stop",
+        "enable safety detecte":false,
+        "safety sensor":["path:/dev/safety sensors/SS1", "path:/dev/safety sensors/SS2"],
+        "maximum velocity":100.0,
+        "acceleration":1000.0,
+        "jerk time":5.0,
+        "use software limits":true,
+        "software limits":{
+          "positive":10000.0,
+          "negative":-73.0
+        }
+      }
+    }
+  },
+  "heads":{
+    "HD1":{
+      "constants":{
+        "joints":["path:/dev/joints/x", "path:/dev/joints/y", "path:/dev/joints/z"],
+        "trigger":"path:/dev/digital outputs/",
+        "transform":{
+          "matrix":[1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+          "origin":[0.0, 0.0, 0.0]
+        }
+      },
+      "variables":{
+        "maximum velocity":700.0,
+        "maximum acceleration":7000.0,
+        "camera":"path:/dev/cameras/CM1",
+        "height sensor":"path:/dev/height sensors/HS1",
+        "nozzles":["path:/dev/nozzles/NZ1"]
+      }
+    },
+    "HD2":{
+      "constants":{
+        "joints":["path:/dev/joints/x2", "path:/dev/joints/y2", "path:/dev/joints/z2"],
+        "trigger":"path:/dev/digital outputs/",
+        "transform":{
+          "matrix":[1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+          "origin":[0.0, 0.0, 0.0]
+        }
+      },
+      "variables":{
+        "maximum velocity":700.0,
+        "maximum acceleration":7000.0,
+        "camera":"path:/dev/cameras/CM2",
+        "height sensor":"path:/dev/height sensors/HS2",
+        "nozzles":["path:/dev/nozzles/NZ2"]
+      }
+    }
+  },
+  "digital inputs":{
+    "emergency":{
+      "constants":{
+        "type":"enum:DiType/positive limit",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":4,
+        "active high":true
+      }
+    },
+    "start":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":1,
+        "active high":true
+      }
+    },
+    "stop":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":3,
+        "active high":true
+      }
+    },
+    "purge":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":9,
+        "active high":true
+      }
+    },
+    "reset":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":2,
+        "active high":true
+      }
+    },
+    "TS":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":8,
+        "active high":true
+      }
+    },
+    "low glue":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":6,
+        "active high":true
+      }
+    },
+    "safety grating":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":14,
+        "active high":false
+      }
+    },
+    "safety gate":{
+      "constants":{
+        "type":"enum:DiType/gpi",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":13,
+        "active high":false
+      }
+    }
+  },
+  "digital outputs":{
+    "CM1-TRIGGER":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":5,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "CM2-TRIGGER":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":15,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "NZ1-VALVE":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":3,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "BUZZER":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":12,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "CNR1-VALVE":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":4,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "power":{
+      "constants":{
+        "type":"enum:DoType/power",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":1,
+        "active high":false
+      },
+      "variables":{
+        "value":true
+      }
+    },
+    "red":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":11,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    },
+    "yellow":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":10,
+        "active high":true
+      },
+      "variables":{
+        "value":true
+      }
+    },
+    "green":{
+      "constants":{
+        "type":"enum:DoType/gpo",
+        "card":"path:/dev/motion cards/MC1",
+        "port id":7,
+        "active high":true
+      },
+      "variables":{
+        "value":false
+      }
+    }
+  },
+  "analog inputs":null,
+  "analog outputs":null,
+  "serial ports":{
+    "COM1":{
+      "constants":{
+        "device name":"COM1",
+        "baud rate":115200,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":200
+      }
+    },
+    "COM2":{
+      "constants":{
+        "device name":"COM2",
+        "baud rate":115200,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":200
+      }
+    },
+    "COM3":{
+      "constants":{
+        "device name":"COM3",
+        "baud rate":115200,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":200
+      }
+    },
+    "COM4":{
+      "constants":{
+        "device name":"COM4",
+        "baud rate":9600,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":200
+      }
+    },
+    "COM5":{
+      "constants":{
+        "device name":"COM5",
+        "baud rate":9600,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":100
+      }
+    },
+    "COM6":{
+      "constants":{
+        "device name":"COM6",
+        "baud rate":9600,
+        "parity":"enum:Comm/Parity/none",
+        "character size":8,
+        "stop bits":"enum:Comm/StopBits/one"
+      },
+      "variables":{
+        "timeout":200
+      }
+    }
+  },
+  "modbus":{
+    "TC":{
+      "constants":{
+        "serial port":"path:/dev/serial ports/COM5"
+      }
+    }
+  },
+  "nozzles":{
+    "NZ1":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/NZ1-VALVE",
+        "fixed tool":false,
+        "tip position":[0.0, 0.0, 0.0]
+      },
+      "variables":{
+        "valve":"path:/dev/valves/VV1",
+        "purge button":"path:/dev/push buttons/purge",
+        "low glue sensor":"path:/dev/digital inputs/low glue",
+        "low pressure sensor":"path:/dev/digital inputs/",
+        "regulator":"path:/dev/air regulators/ARG1",
+        "purge cup":"path:/dev/purge cups/CUP1",
+        "cleaner":"path:/dev/cleaners/CNR1",
+        "cleaner here":"path:/dev/cleaners/",
+        "needle finder":"path:/dev/needle finders/NFTS",
+        "weigh scale":"path:/dev/weigh/",
+        "weight per shot":0.03,
+        "reset screw valve":"path:/dev/digital outputs/"
+      },
+      "calibration":{
+        "head":"path:/dev/heads/",
+        "camera position":[61.841, -24.606, -47.752],
+        "nozzle-c position":[61.841, -24.606, -47.752],
+        "laser position":[94.968, -172.011, -60.259],
+        "nozzle-l position":[40.526, -152.191, -62.48]
+      }
+    },
+    "NZ2":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/NZ1-VALVE",
+        "fixed tool":false,
+        "tip position":[0.0, 0.0, 0.0]
+      },
+      "variables":{
+        "valve":"path:/dev/valves/VV1",
+        "purge button":"path:/dev/push buttons/purge",
+        "low glue sensor":"path:/dev/digital inputs/low glue",
+        "low pressure sensor":"path:/dev/digital inputs/",
+        "regulator":"path:/dev/air regulators/ARG1",
+        "purge cup":"path:/dev/purge cups/CUP1",
+        "cleaner":"path:/dev/cleaners/CNR1",
+        "cleaner here":"path:/dev/cleaners/",
+        "needle finder":"path:/dev/needle finders/NFTS",
+        "weigh scale":"path:/dev/weigh/",
+        "weight per shot":0.03,
+        "reset screw valve":"path:/dev/digital outputs/"
+      },
+      "calibration":{
+        "head":"path:/dev/heads/",
+        "camera position":[61.841, -24.606, -47.752],
+        "nozzle-c position":[61.841, -24.606, -47.752],
+        "laser position":[94.968, -172.011, -60.259],
+        "nozzle-l position":[40.526, -152.191, -62.48]
+      }
+    }
+  },
+  "cameras":{
+    "CM1":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/CM1-TRIGGER",
+        "fixed tool":false,
+        "image grabber":"path:/dev/image grabbers/IG1",
+        "light":"path:/dev/lights/LGT1",
+        "homography":{
+          "scale":[0.0115134517827282, -0.0114629459152473],
+          "rotation":[1.0, -0.0, 0.0, 1.0],
+          "origin":[-3.68430457047302, 2.75110701965935]
+        },
+        "simple scale":[0.0115134517827282, -0.0114629459152473],
+        "tip position":[0.0, 0.0, 0.0]
+      }
+    },
+    "CM2":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/CM2-TRIGGER",
+        "fixed tool":false,
+        "image grabber":"path:/dev/image grabbers/IG2",
+        "light":"path:/dev/lights/LGT2",
+        "homography":{
+          "scale":[0.0115134517827282, -0.0114629459152473],
+          "rotation":[1.0, -0.0, 0.0, 1.0],
+          "origin":[-3.68430457047302, 2.75110701965935]
+        },
+        "simple scale":[0.0115134517827282, -0.0114629459152473],
+        "tip position":[0.0, 0.0, 0.0]
+      }
+    }
+  },
+  "height sensors":{
+    "HS1":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/",
+        "fixed tool":false,
+        "distance sensor":"path:/dev/distance sensors/DS",
+        "tip position":[-2.665, 38.215, 9.211]
+      },
+      "calibration":{
+        "head":"path:/dev/heads/",
+        "camera position":[93.406, -123.203, -52.499],
+        "height sensor position":[96.071, -161.418, -61.71]
+      }
+    },
+    "HS2":{
+      "class":"simple",
+      "constants":{
+        "joints":null,
+        "trigger":"path:/dev/digital outputs/",
+        "fixed tool":false,
+        "distance sensor":"path:/dev/distance sensors/DS",
+        "tip position":[-2.665, 38.215, 9.211]
+      },
+      "calibration":{
+        "head":"path:/dev/heads/",
+        "camera position":[93.406, -123.203, -52.499],
+        "height sensor position":[96.071, -161.418, -61.71]
+      }
+    }
+  },
+  "board handlers":{
+    "BT1":{
+      "class":"table",
+      "constants":{
+        "board-in button":"path:/dev/push buttons/start",
+        "reload button":"path:/dev/push buttons/reset",
+        "board clamp":"path:/dev/digital outputs/"
+      }
+    }
+  },
+  "valves":{
+    "VV1":{
+      "class":"axxon",
+      "constants":{
+        "type":"enum:Valve/Type/jet"
+      },
+      "variables":{
+        "comm":"path:/dev/serial ports/COM1",
+        "valve-on time":5.0,
+        "valve-off time":5.0,
+        "comm-shared light":"path:/dev/lights/LGT1"
+      }
+    }
+  },
+  "image grabbers":{
+    "IG1":{
+      "class":"sim",
+      "constants":{
+        "device name":"",
+        "image format":"enum:ImageGrabber/ImageFormat/gray",
+        "image width":640,
+        "image height":480,
+        "frame rate":25.0,
+        "exposure time":120.0,
+        "flip x":false,
+        "flip y":false,
+        "axis x":1,
+        "axis y":0,
+        "cycle time":500,
+        "x scale":0.0115134517827282,
+        "y scale":-0.0114629459152473,
+        "client":"path:/dev/clients/ClientDefault",
+        "camera name":"path:/dev/cameras/CM1"
+      }
+    },
+    "IG2":{
+      "class":"sim",
+      "constants":{
+        "device name":"",
+        "image format":"enum:ImageGrabber/ImageFormat/gray",
+        "image width":640,
+        "image height":480,
+        "frame rate":25.0,
+        "exposure time":120.0,
+        "flip x":false,
+        "flip y":false,
+        "axis x":1,
+        "axis y":0,
+        "cycle time":500,
+        "x scale":0.0115134517827282,
+        "y scale":-0.0114629459152473,
+        "client":"path:/dev/clients/ClientDefault",
+        "camera name":"path:/dev/cameras/CM2"
+      }
+    }
+  },
+  "lights":{
+    "axxon-color_1":{
+      "class":"light-sim",
+      "variables":{
+        "value":[17, 200, 200]
+      },
+      "constants":{
+        "comm":"path:/dev/serial ports/COM1"
+      }
+    },
+    "LGT1":{
+      "class":"light-sim",
+      "variables":{
+        "value":[17, 200, 200]
+      },
+      "constants":{
+        "comm":"path:/dev/serial ports/COM1"
+      }
+    },
+    "LGT2":{
+      "class":"light-sim",
+      "variables":{
+        "value":[17, 200, 200]
+      },
+      "constants":{
+        "comm":"path:/dev/serial ports/COM2"
+      }
+    }
+  },
+  "distance sensors":{
+    "DS":{
+      "class":"optex",
+      "constants":{
+        "comm":"path:/dev/serial ports/COM6",
+        "model":"enum:Optex/Model/CD3330",
+        "offset":30.0
+      }
+    }
+  },
+  "purge cups":{
+    "CUP1":{
+      "constants":{
+        "position":[197.549, -165.939, -34.646]
+      }
+    }
+  },
+  "cleaners":{
+    "CNR1":{
+      "class":"sim",
+      "constants":{
+        "position":[197.549, -229.039, -34.646]
+      }
+    }
+  },
+  "temperature controllers":null,
+  "needle finders":{
+    "NFTS":{
+      "class":"touch-sensor",
+      "variables":{
+        "take-off height":5.0,
+        "enable":false,
+        "height tolerance":2.0,
+        "touch sensor":"path:/dev/digital inputs/TS",
+        "enable three of dots":true,
+        "valve-on time":1000,
+        "number of shots":1,
+        "height":3.0,
+        "velocity":1.0,
+        "timeout":10000,
+        "settling parameter":{
+          "range":0.01,
+          "time":1,
+          "timeout":100
+        }
+      },
+      "constants":{
+        "position":[184.699, -48.529, -11.486],
+        "first position":[45.627, -155.708, -61.547],
+        "second position":[48.784, -155.708, -61.546]
+      }
+    }
+  },
+  "air regulators":null,
+  "push buttons":{
+    "start":{
+      "constants":{
+        "type":"enum:ButtonType/start",
+        "hardware":"path:/dev/digital inputs/start"
+      }
+    },
+    "stop":{
+      "constants":{
+        "type":"enum:ButtonType/stop",
+        "hardware":"path:/dev/digital inputs/stop"
+      }
+    },
+    "reset":{
+      "constants":{
+        "type":"enum:ButtonType/reset",
+        "hardware":"path:/dev/digital inputs/reset"
+      }
+    },
+    "purge":{
+      "constants":{
+        "type":"enum:ButtonType/purge",
+        "hardware":"path:/dev/digital inputs/purge"
+      }
+    },
+    "emergency":{
+      "constants":{
+        "type":"enum:ButtonType/emergency",
+        "hardware":"path:/dev/digital inputs/emergency"
+      }
+    },
+    "safety grating":{
+      "constants":{
+        "type":"enum:ButtonType/safety",
+        "hardware":"path:/dev/digital inputs/safety grating"
+      }
+    },
+    "safety gate":{
+      "constants":{
+        "type":"enum:ButtonType/safety",
+        "hardware":"path:/dev/digital inputs/safety gate"
+      }
+    }
+  },
+  "switches":null,
+  "safety sensors":{
+    "SS1":{
+      "constants":{
+        "digital input":"path:/dev/digital inputs/safety grating",
+        "analog outputs":"path:/dev/analog outputs/"
+      },
+      "variables":{
+        "use":false
+      }
+    },
+    "SS2":{
+      "constants":{
+        "digital input":"path:/dev/digital inputs/safety gate",
+        "analog outputs":"path:/dev/analog outputs/"
+      },
+      "variables":{
+        "use":false
+      }
+    }
+  },
+  "tower lamps":{
+    "TL1":{
+      "variables":{
+        "red":"path:/dev/digital outputs/red",
+        "yellow":"path:/dev/digital outputs/yellow",
+        "green":"path:/dev/digital outputs/green",
+        "buzzer":"path:/dev/digital outputs/BUZZER"
+      }
+    }
+  },
+  "weigh":null,
+  "servers":null,
+  "mes":{
+    "mes1":{
+      "variables":{
+        "programId":"",
+        "programPassword":"",
+        "DeviceId":"",
+        "CheckType":"",
+        "userName":"",
+        "userPass":"",
+        "url":"http://localhost",
+        "tsp":"",
+        "errorcode":"",
+        "tns":"",
+        "timeout(ms)":2000,
+        "aoiName":"aoiName1"
+      }
+    }
+  },
+  "barcode scanner":null
+}

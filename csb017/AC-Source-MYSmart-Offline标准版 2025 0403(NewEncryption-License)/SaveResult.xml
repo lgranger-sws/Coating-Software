@@ -1,0 +1,24 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+<s:Body>
+<SaveResult xmlns="http://tempuri.org/">
+<ffTesterXmlRequest>
+<?xml version="1.0" encoding="utf-16"?>
+<BATCH TIMESTAMP="%s" SYNTAX_REV="1.3" COMPATIBLE_REV="1.1">
+ <FACTORY NAME="" LINE="" TESTER="Stat Program Test (T4)" FIXTURE="" USER="admin" />
+ <PRODUCT NAME="" REVISION="" FAMILY="" CUSTOMER="" />
+ <REFS SEQ_REF="" FTS_REF="" LIM_REF="" CFG_REF="" CAL_REF="" INSTR_REF="" />
+ <PANEL ID="" COMMENT="" RUNMODE="Production" TIMESTAMP="%s" TESTTIME="0" WAITTIME="0" STATUS="%s">
+ <DUT ID="%s" STATUS="%s" TIMESTAMP="%s" TESTTIME="0" COMMENT="" SOCKET="0" PANEL="0">
+ <EXTRA ScriptRev="1.0" />
+ </DUT>
+ </PANEL>
+</BATCH>
+</ffTesterXmlRequest>
+<stationName>%s</stationName> 
+<userId>%s</userId> 
+<extraData/> 
+<serialNumber>%s</serialNumber> 
+<status>%s</status> 
+</SaveResult>
+</s:Body>
+</s:Envelope>

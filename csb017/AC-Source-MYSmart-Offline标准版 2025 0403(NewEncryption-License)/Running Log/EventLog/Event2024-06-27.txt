@@ -1,0 +1,19 @@
+
+a  3	2024/6/27 19:53:08	Initializing...
+a  3	2024/6/27 19:53:09	Change glue ,batch No is:,Part No is 6300000847,expiry date is 29.01.2025
+a  3	2024/6/27 19:53:09	Current User: a
+a  3	2024/6/27 19:53:09	Open Program:Conti Webasto Truck-bot - tuned
+a  3	2024/6/27 19:53:10	AlarmCode 1006:Pressure Low
+a  3	2024/6/27 19:53:10	Stop
+a  3	2024/6/27 19:53:15	Chinese
+a  3	2024/6/27 19:53:39	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,mgPerPulse,WindSpeed Para,Flow hardware para,Mix drum  para 2
+a  3	2024/6/27 19:53:39	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/6/27 19:53:39	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/6/27 19:54:03	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/6/27 19:59:21	设备初始化......
+a  3	2024/6/27 19:59:21	当前用户： a
+a  3	2024/6/27 19:59:21	打开程序：Conti Webasto Truck-bot - tuned
+a  3	2024/6/27 19:59:24	AlarmCode 1006:气压检测报警
+a  3	2024/6/27 19:59:24	停止
+a  3	2024/6/27 20:00:58	AlarmCode 1006:气压检测报警
+a  3	2024/6/27 20:00:58	停止

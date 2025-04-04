@@ -1,0 +1,541 @@
+
+a  3	2025/01/21 11:15:02.651	设备初始化......
+a  3	2025/01/21 11:15:02.823	当前用户： a
+a  3	2025/01/21 11:15:02.854	打开程序：20241214144888
+a  3	2025/01/21 11:15:02.866	低气压检测未开启
+a  3	2025/01/21 11:15:05.417	复位按钮按下
+a  3	2025/01/21 11:15:14.078	设备复位完成
+a  3	2025/01/21 11:15:29.361	新建程序：test
+a  3	2025/01/21 11:15:36.123	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/01/21 11:15:41.276	鼠标点击：Y+
+a  3	2025/01/21 11:15:43.428	鼠标释放或离开：CurrentPosition--> X:0.000 Y:42.309 Z:0.000
+a  3	2025/01/21 11:15:43.445	鼠标释放或离开：CurrentPosition--> X:0.000 Y:42.309 Z:0.000
+a  3	2025/01/21 11:15:45.343	鼠标点击：Y+
+a  3	2025/01/21 11:15:55.679	鼠标释放或离开：CurrentPosition--> X:0.000 Y:249.556 Z:0.000
+a  3	2025/01/21 11:15:56.051	鼠标释放或离开：CurrentPosition--> X:0.000 Y:249.820 Z:0.000
+a  3	2025/01/21 11:15:57.219	鼠标释放或离开：CurrentPosition--> X:0.000 Y:249.820 Z:0.000
+a  3	2025/01/21 11:15:59.193	鼠标点击：Y+
+a  3	2025/01/21 11:15:59.313	鼠标释放或离开：CurrentPosition--> X:0.000 Y:255.969 Z:0.000
+a  3	2025/01/21 11:15:59.389	鼠标释放或离开：CurrentPosition--> X:0.000 Y:255.969 Z:0.000
+a  3	2025/01/21 11:16:03.752	键盘按下：Right
+a  3	2025/01/21 11:16:05.987	键盘释放：CurrentPosition--> X:139.028 Y:257.744 Z:0.000
+a  3	2025/01/21 11:16:06.370	键盘按下：Return
+a  3	2025/01/21 11:16:06.375	键盘释放：CurrentPosition--> X:142.554 Y:257.744 Z:0.000
+a  3	2025/01/21 11:16:06.605	停止
+a  3	2025/01/21 11:16:52.369	设置2_Mark匹配坐标：X:0.000 Y:0.000 Z:0.000 Result:FALSE
+a  3	2025/01/21 11:17:14.546	设置2_Mark匹配坐标：X:0.000 Y:0.000 Z:0.000 Result:FALSE
+a  3	2025/01/21 11:17:20.105	设置2_Mark匹配坐标：X:223.724 Y:284.657 Z:5.000 Result:TRUE
+a  3	2025/01/21 11:17:41.955	设置1_Mark匹配坐标：X:223.689 Y:284.200 Z:5.000 Result:TRUE
+a  3	2025/01/21 11:17:50.604	键盘按下：
+a  3	2025/01/21 11:17:50.871	键盘按下：
+a  3	2025/01/21 11:17:51.072	键盘释放：CurrentPosition--> X:223.478 Y:283.954 Z:5.000
+a  3	2025/01/21 11:17:51.118	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match
+a  3	2025/01/21 11:17:51.152	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out,Pattern disable array 2,Width Test Para
+a  3	2025/01/21 11:17:51.162	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/01/21 11:17:51.171	键盘释放：CurrentPosition--> X:223.478 Y:283.954 Z:5.000
+a  3	2025/01/21 11:17:52.025	保存程序：test
+a  3	2025/01/21 11:18:00.341	键盘按下：
+a  3	2025/01/21 11:18:00.575	键盘按下：
+a  3	2025/01/21 11:18:00.689	键盘释放：CurrentPosition--> X:223.478 Y:283.954 Z:5.000
+a  3	2025/01/21 11:18:00.821	键盘释放：CurrentPosition--> X:223.478 Y:283.954 Z:5.000
+a  3	2025/01/21 11:18:00.876	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/01/21 11:18:00.916	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage,Light source adjust,模板映射参数2
+a  3	2025/01/21 11:18:01.662	保存程序：test
+a  3	2025/01/21 11:18:04.873	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Opening the conveyor belt
+a  3	2025/01/21 11:18:04.894	手动模式
+a  3	2025/01/21 11:18:06.393	空运行
+a  3	2025/01/21 11:18:06.400	空运行
+a  3	2025/01/21 11:18:14.532	涂胶运行
+a  3	2025/01/21 11:18:15.151	
+a  3	2025/01/21 11:18:16.552	不进行流量调节
+a  3	2025/01/21 11:18:16.559	ProcessingStarted
+a  3	2025/01/21 11:18:17.950	报警代码 1042:没有匹配到图片！
+a  3	2025/01/21 11:18:21.366	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.688 Y:284.200 Result:FALSE ;Score:100.000
+a  3	2025/01/21 11:18:21.514	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:18:22.144	停止
+a  3	2025/01/21 11:18:28.929	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:18:29.056	ProcessedEnd
+a  3	2025/01/21 11:18:29.076	{"SN":"","StartTime":"25-01-21 11:18:16","StopTime":"25-01-21 11:18:29","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:19:03.962	设置1_Mark匹配坐标：X:223.665 Y:284.282 Z:5.000 Result:TRUE
+a  3	2025/01/21 11:19:11.598	运行测试：开始
+a  3	2025/01/21 11:19:14.488	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:19:14.497	运行测试：停止
+a  3	2025/01/21 11:19:17.188	键盘按下：
+a  3	2025/01/21 11:19:17.412	键盘按下：
+a  3	2025/01/21 11:19:17.641	键盘释放：CurrentPosition--> X:12.908 Y:257.744 Z:0.000
+a  3	2025/01/21 11:19:17.700	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:19:17.718	键盘释放：CurrentPosition--> X:12.908 Y:257.744 Z:0.000
+a  3	2025/01/21 11:19:17.736	TrackAndPar.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,FlowAlarmLimitSettingData,运行模式2
+a  3	2025/01/21 11:19:17.754	ShareParameters.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,FlowAlarmLimitSettingData
+a  3	2025/01/21 11:19:18.611	保存程序：test
+a  3	2025/01/21 11:19:21.059	运行测试：开始
+a  3	2025/01/21 11:19:23.687	运行测试：停止
+a  3	2025/01/21 11:19:23.706	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:20:57.484	涂胶运行
+a  3	2025/01/21 11:20:58.342	
+a  3	2025/01/21 11:20:59.984	不进行流量调节
+a  3	2025/01/21 11:21:00.026	ProcessingStarted
+a  3	2025/01/21 11:21:01.269	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.668 Y:284.273 Result:TRUE ;Score:98.713
+a  3	2025/01/21 11:21:07.588	停止
+a  3	2025/01/21 11:21:08.536	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:21:08.570	ProcessedEnd
+a  3	2025/01/21 11:21:08.581	{"SN":"","StartTime":"25-01-21 11:20:59","StopTime":"25-01-21 11:21:07","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:21:08.976	停止
+a  3	2025/01/21 11:21:35.066	鼠标释放或离开：CurrentPosition--> X:47.752 Y:257.736 Z:5.000
+a  3	2025/01/21 11:21:47.492	涂胶运行
+a  3	2025/01/21 11:21:48.435	
+a  3	2025/01/21 11:21:49.958	不进行流量调节
+a  3	2025/01/21 11:21:49.999	ProcessingStarted
+a  3	2025/01/21 11:22:08.174	停止
+a  3	2025/01/21 11:22:09.132	ProcessedEnd
+a  3	2025/01/21 11:22:09.148	{"SN":"","StartTime":"25-01-21 11:21:49","StopTime":"25-01-21 11:22:08","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:22:09.421	停止
+a  3	2025/01/21 11:22:11.382	涂胶运行
+a  3	2025/01/21 11:22:12.252	
+a  3	2025/01/21 11:22:13.861	不进行流量调节
+a  3	2025/01/21 11:22:13.885	ProcessingStarted
+a  3	2025/01/21 11:22:21.887	停止
+a  3	2025/01/21 11:22:22.848	ProcessedEnd
+a  3	2025/01/21 11:22:22.862	{"SN":"","StartTime":"25-01-21 11:22:13","StopTime":"25-01-21 11:22:22","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:22:23.136	停止
+a  3	2025/01/21 11:22:25.646	运行测试：开始
+a  3	2025/01/21 11:22:28.113	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.673 Y:284.283 Result:TRUE ;Score:96.330
+a  3	2025/01/21 11:22:30.231	运行测试：停止
+a  3	2025/01/21 11:22:30.256	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:22:47.334	运行测试：开始
+a  3	2025/01/21 11:22:47.880	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:22:49.301	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:22:52.141	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:22:52.933	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,Pattern disable array 2
+a  3	2025/01/21 11:22:53.253	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
+a  3	2025/01/21 11:22:53.299	涂胶运行
+a  3	2025/01/21 11:22:54.477	保存程序：test
+a  3	2025/01/21 11:22:54.492	
+a  3	2025/01/21 11:22:54.782	不进行流量调节
+a  3	2025/01/21 11:22:54.809	ProcessingStarted
+a  3	2025/01/21 11:22:58.238	停止
+a  3	2025/01/21 11:22:59.150	ProcessedEnd
+a  3	2025/01/21 11:22:59.170	{"SN":"","StartTime":"25-01-21 11:22:54","StopTime":"25-01-21 11:22:58","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:22:59.433	停止
+a  3	2025/01/21 11:23:17.591	运行测试：开始
+a  3	2025/01/21 11:23:18.641	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:23:18.665	运行测试：停止
+a  3	2025/01/21 11:23:25.658	运行测试：开始
+a  3	2025/01/21 11:23:26.119	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:23:27.209	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:23:28.925	鼠标点击：X+
+a  3	2025/01/21 11:23:29.443	鼠标释放或离开：CurrentPosition--> X:33.202 Y:257.744 Z:5.000
+a  3	2025/01/21 11:23:29.603	鼠标释放或离开：CurrentPosition--> X:40.210 Y:257.744 Z:5.000
+a  3	2025/01/21 11:23:31.710	运行测试：开始
+a  3	2025/01/21 11:23:32.054	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:23:33.064	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:23:41.977	运行测试：开始
+a  3	2025/01/21 11:23:44.374	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.673 Y:284.277 Result:TRUE ;Score:96.607
+a  3	2025/01/21 11:23:46.443	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:23:48.709	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:23:49.756	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:23:49.799	涂胶运行
+a  3	2025/01/21 11:23:50.712	保存程序：test
+a  3	2025/01/21 11:23:50.753	
+a  3	2025/01/21 11:23:51.506	不进行流量调节
+a  3	2025/01/21 11:23:51.530	ProcessingStarted
+a  3	2025/01/21 11:23:55.262	停止
+a  3	2025/01/21 11:23:56.277	ProcessedEnd
+a  3	2025/01/21 11:23:56.291	{"SN":"","StartTime":"25-01-21 11:23:51","StopTime":"25-01-21 11:23:55","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:23:56.598	停止
+a  3	2025/01/21 11:23:58.591	涂胶运行
+a  3	2025/01/21 11:23:59.246	
+a  3	2025/01/21 11:24:00.678	不进行流量调节
+a  3	2025/01/21 11:24:00.719	ProcessingStarted
+a  3	2025/01/21 11:24:03.098	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.668 Y:284.280 Result:TRUE ;Score:95.957
+a  3	2025/01/21 11:24:10.856	停止
+a  3	2025/01/21 11:24:11.770	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:24:11.800	ProcessedEnd
+a  3	2025/01/21 11:24:11.815	{"SN":"","StartTime":"25-01-21 11:24:00","StopTime":"25-01-21 11:24:11","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:24:20.301	停止
+a  3	2025/01/21 11:24:22.152	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:24:23.056	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:24:23.215	涂胶运行
+a  3	2025/01/21 11:24:24.511	保存程序：test
+a  3	2025/01/21 11:24:24.532	
+a  3	2025/01/21 11:24:24.822	不进行流量调节
+a  3	2025/01/21 11:24:24.848	ProcessingStarted
+a  3	2025/01/21 11:24:26.521	停止
+a  3	2025/01/21 11:24:27.407	ProcessedEnd
+a  3	2025/01/21 11:24:27.424	{"SN":"","StartTime":"25-01-21 11:24:24","StopTime":"25-01-21 11:24:26","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:24:27.700	停止
+a  3	2025/01/21 11:24:32.791	键盘按下：
+a  3	2025/01/21 11:24:33.060	键盘按下：
+a  3	2025/01/21 11:24:33.261	键盘释放：CurrentPosition--> X:60.798 Y:257.742 Z:5.000
+a  3	2025/01/21 11:24:33.326	键盘释放：CurrentPosition--> X:60.798 Y:257.742 Z:5.000
+a  3	2025/01/21 11:24:34.436	保存程序：test
+a  3	2025/01/21 11:24:35.481	涂胶运行
+a  3	2025/01/21 11:24:36.454	
+a  3	2025/01/21 11:24:37.820	不进行流量调节
+a  3	2025/01/21 11:24:37.888	ProcessingStarted
+a  3	2025/01/21 11:24:44.040	停止
+a  3	2025/01/21 11:24:45.044	ProcessedEnd
+a  3	2025/01/21 11:24:45.117	{"SN":"","StartTime":"25-01-21 11:24:37","StopTime":"25-01-21 11:24:44","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:24:45.398	停止
+a  3	2025/01/21 11:24:51.132	键盘按下：
+a  3	2025/01/21 11:24:51.420	键盘按下：
+a  3	2025/01/21 11:24:51.627	键盘释放：CurrentPosition--> X:60.798 Y:257.742 Z:5.000
+a  3	2025/01/21 11:24:51.673	键盘释放：CurrentPosition--> X:60.798 Y:257.742 Z:5.000
+a  3	2025/01/21 11:24:51.712	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:24:52.670	保存程序：test
+a  3	2025/01/21 11:24:53.862	
+a  3	2025/01/21 11:24:54.559	涂胶运行
+a  3	2025/01/21 11:24:56.205	不进行流量调节
+a  3	2025/01/21 11:24:56.226	ProcessingStarted
+a  3	2025/01/21 11:25:02.509	停止
+a  3	2025/01/21 11:25:03.448	ProcessedEnd
+a  3	2025/01/21 11:25:03.463	{"SN":"","StartTime":"25-01-21 11:24:56","StopTime":"25-01-21 11:25:02","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:25:03.742	停止
+a  3	2025/01/21 11:25:38.635	涂胶运行
+a  3	2025/01/21 11:25:39.556	
+a  3	2025/01/21 11:25:41.172	不进行流量调节
+a  3	2025/01/21 11:25:41.196	ProcessingStarted
+a  3	2025/01/21 11:25:43.292	自动识别1_Mark：OneMark:Set-->X:223.689 Y:284.200 Z:5.000  Match-->X:223.668 Y:284.284 Result:TRUE ;Score:92.388
+a  3	2025/01/21 11:25:47.125	停止
+a  3	2025/01/21 11:25:48.015	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:25:48.034	ProcessedEnd
+a  3	2025/01/21 11:25:48.067	{"SN":"","StartTime":"25-01-21 11:25:41","StopTime":"25-01-21 11:25:47","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:25:48.378	停止
+a  3	2025/01/21 11:25:54.476	键盘按下：
+a  3	2025/01/21 11:25:54.739	键盘按下：
+a  3	2025/01/21 11:25:54.948	键盘释放：CurrentPosition--> X:21.654 Y:257.744 Z:5.000
+a  3	2025/01/21 11:25:55.020	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:25:55.060	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:25:55.094	键盘释放：CurrentPosition--> X:21.654 Y:257.744 Z:5.000
+a  3	2025/01/21 11:25:56.171	保存程序：test
+a  3	2025/01/21 11:25:57.215	涂胶运行
+a  3	2025/01/21 11:25:58.047	
+a  3	2025/01/21 11:25:59.481	不进行流量调节
+a  3	2025/01/21 11:25:59.519	ProcessingStarted
+a  3	2025/01/21 11:25:59.655	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:26:00.326	停止
+a  3	2025/01/21 11:26:05.918	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:26:06.023	ProcessedEnd
+a  3	2025/01/21 11:26:06.077	{"SN":"","StartTime":"25-01-21 11:25:59","StopTime":"25-01-21 11:26:06","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:26:26.105	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:26:26.139	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:26:26.211	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Feeding mode,Numeric
+a  3	2025/01/21 11:26:30.003	涂胶运行
+a  3	2025/01/21 11:26:30.956	
+a  3	2025/01/21 11:26:31.584	不进行流量调节
+a  3	2025/01/21 11:26:31.608	ProcessingStarted
+a  3	2025/01/21 11:26:31.744	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:26:32.081	停止
+a  3	2025/01/21 11:26:32.968	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:26:33.073	ProcessedEnd
+a  3	2025/01/21 11:26:33.125	{"SN":"","StartTime":"25-01-21 11:26:31","StopTime":"25-01-21 11:26:33","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:26:54.035	键盘按下：
+a  3	2025/01/21 11:26:54.311	键盘按下：
+a  3	2025/01/21 11:26:54.355	键盘释放：CurrentPosition--> X:21.654 Y:257.744 Z:5.000
+a  3	2025/01/21 11:26:54.395	键盘释放：CurrentPosition--> X:21.654 Y:257.744 Z:5.000
+a  3	2025/01/21 11:26:54.547	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:26:54.586	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:26:54.636	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:26:55.339	保存程序：test
+a  3	2025/01/21 11:26:55.358	键盘释放：CurrentPosition--> X:21.654 Y:257.744 Z:5.000
+a  3	2025/01/21 11:29:44.232	设备初始化......
+a  3	2025/01/21 11:29:44.309	当前用户： a
+a  3	2025/01/21 11:29:44.329	打开程序：test
+a  3	2025/01/21 11:29:44.367	低气压检测未开启
+a  3	2025/01/21 11:29:46.441	复位按钮按下
+a  3	2025/01/21 11:30:08.035	设备复位完成
+a  3	2025/01/21 11:30:23.197	涂胶运行
+a  3	2025/01/21 11:30:23.887	
+a  3	2025/01/21 11:30:24.558	不进行流量调节
+a  3	2025/01/21 11:30:24.601	ProcessingStarted
+a  3	2025/01/21 11:30:24.988	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:30:25.720	停止
+a  3	2025/01/21 11:30:26.359	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:30:26.502	ProcessedEnd
+a  3	2025/01/21 11:30:26.542	{"SN":"","StartTime":"25-01-21 11:30:24","StopTime":"25-01-21 11:30:26","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:32:09.836	设备初始化......
+a  3	2025/01/21 11:32:09.913	当前用户： a
+a  3	2025/01/21 11:32:09.934	打开程序：test
+a  3	2025/01/21 11:32:09.952	低气压检测未开启
+a  3	2025/01/21 11:32:12.714	复位按钮按下
+a  3	2025/01/21 11:32:24.501	设备复位完成
+a  3	2025/01/21 11:32:28.833	涂胶运行
+a  3	2025/01/21 11:32:29.721	
+a  3	2025/01/21 11:32:30.566	不进行流量调节
+a  3	2025/01/21 11:32:30.597	ProcessingStarted
+a  3	2025/01/21 11:32:30.806	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:32:31.605	停止
+a  3	2025/01/21 11:32:31.893	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:32:32.016	ProcessedEnd
+a  3	2025/01/21 11:32:32.030	{"SN":"","StartTime":"25-01-21 11:32:30","StopTime":"25-01-21 11:32:31","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:33:30.106	涂胶运行
+a  3	2025/01/21 11:33:30.822	
+a  3	2025/01/21 11:33:31.565	不进行流量调节
+a  3	2025/01/21 11:33:31.590	ProcessingStarted
+a  3	2025/01/21 11:33:31.754	报警代码 1023:X轴超出范围！请检查程序
+a  3	2025/01/21 11:33:31.916	停止
+a  3	2025/01/21 11:33:32.701	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2025/01/21 11:33:32.814	ProcessedEnd
+a  3	2025/01/21 11:33:32.848	{"SN":"","StartTime":"25-01-21 11:33:31","StopTime":"25-01-21 11:33:32","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:34:13.091	鼠标释放或离开：CurrentPosition--> X:0.000 Y:257.744 Z:0.000
+a  3	2025/01/21 11:34:19.038	模板a中第1行程序被修改:Pos:{(5.000,257.744,0.000)-(142.554,257.744,0.000)}
+
+a  3	2025/01/21 11:34:20.299	键盘按下：
+a  3	2025/01/21 11:34:20.547	键盘按下：
+a  3	2025/01/21 11:34:20.572	键盘释放：CurrentPosition--> X:0.000 Y:257.744 Z:0.000
+a  3	2025/01/21 11:34:20.613	键盘释放：CurrentPosition--> X:0.000 Y:257.744 Z:0.000
+a  3	2025/01/21 11:34:20.759	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:34:20.819	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust
+a  3	2025/01/21 11:34:20.850	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust
+a  3	2025/01/21 11:34:21.535	保存程序：test
+a  3	2025/01/21 11:34:21.601	键盘释放：CurrentPosition--> X:0.000 Y:257.744 Z:0.000
+a  3	2025/01/21 11:34:25.336	涂胶运行
+a  3	2025/01/21 11:34:26.037	
+a  3	2025/01/21 11:34:26.729	不进行流量调节
+a  3	2025/01/21 11:34:26.779	ProcessingStarted
+a  3	2025/01/21 11:34:41.471	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/01/21 11:34:46.578	停止
+a  3	2025/01/21 11:34:47.519	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:34:47.575	ProcessedEnd
+a  3	2025/01/21 11:34:47.589	{"SN":"","StartTime":"25-01-21 11:34:26","StopTime":"25-01-21 11:34:47","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:34:47.961	停止
+a  3	2025/01/21 11:34:54.284	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Cycles,Numeric
+a  3	2025/01/21 11:34:54.342	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:34:54.359	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/01/21 11:36:31.062	设备初始化......
+a  3	2025/01/21 11:36:31.137	当前用户： a
+a  3	2025/01/21 11:36:31.157	打开程序：test
+a  3	2025/01/21 11:36:31.176	低气压检测未开启
+a  3	2025/01/21 11:36:32.186	复位按钮按下
+a  3	2025/01/21 11:36:53.855	设备复位完成
+a  3	2025/01/21 11:36:55.718	鼠标点击：X+
+a  3	2025/01/21 11:36:56.091	鼠标释放或离开：CurrentPosition--> X:20.322 Y:0.000 Z:0.000
+a  3	2025/01/21 11:36:56.404	鼠标点击：Y+
+a  3	2025/01/21 11:36:58.004	鼠标释放或离开：CurrentPosition--> X:25.140 Y:104.750 Z:0.000
+a  3	2025/01/21 11:36:58.463	鼠标点击：X+
+a  3	2025/01/21 11:36:58.621	鼠标释放或离开：CurrentPosition--> X:31.581 Y:107.310 Z:0.000
+a  3	2025/01/21 11:36:58.947	鼠标点击：Y+
+a  3	2025/01/21 11:37:01.106	鼠标释放或离开：CurrentPosition--> X:35.862 Y:249.407 Z:0.000
+a  3	2025/01/21 11:37:01.477	鼠标点击：X+
+a  3	2025/01/21 11:37:01.643	鼠标释放或离开：CurrentPosition--> X:42.303 Y:252.032 Z:0.000
+a  3	2025/01/21 11:37:01.915	鼠标点击：Y+
+a  3	2025/01/21 11:37:02.043	鼠标释放或离开：CurrentPosition--> X:47.170 Y:258.439 Z:0.000
+a  3	2025/01/21 11:37:02.217	鼠标释放或离开：CurrentPosition--> X:47.170 Y:261.450 Z:0.000
+a  3	2025/01/21 11:37:08.217	新建程序：20250121113706
+a  3	2025/01/21 11:37:18.213	鼠标点击：X+
+a  3	2025/01/21 11:37:18.861	鼠标释放或离开：CurrentPosition--> X:81.608 Y:261.450 Z:0.000
+a  3	2025/01/21 11:37:19.421	键盘按下：Return
+a  3	2025/01/21 11:37:19.441	键盘释放：CurrentPosition--> X:90.674 Y:261.450 Z:0.000
+a  3	2025/01/21 11:37:19.623	停止
+a  3	2025/01/21 11:37:20.225	鼠标释放或离开：CurrentPosition--> X:90.674 Y:261.450 Z:0.000
+a  3	2025/01/21 11:37:20.362	键盘按下：Right
+a  3	2025/01/21 11:37:20.914	键盘释放：CurrentPosition--> X:124.677 Y:261.450 Z:5.000
+a  3	2025/01/21 11:37:21.222	键盘按下：Return
+a  3	2025/01/21 11:37:21.243	键盘释放：CurrentPosition--> X:127.772 Y:261.450 Z:5.000
+a  3	2025/01/21 11:37:22.253	键盘按下：Return
+a  3	2025/01/21 11:37:22.279	键盘释放：CurrentPosition--> X:127.772 Y:261.450 Z:5.000
+a  3	2025/01/21 11:37:22.654	键盘按下：Up
+a  3	2025/01/21 11:37:23.115	键盘释放：CurrentPosition--> X:127.772 Y:288.981 Z:5.000
+a  3	2025/01/21 11:37:23.431	键盘按下：Return
+a  3	2025/01/21 11:37:23.466	键盘释放：CurrentPosition--> X:127.772 Y:293.698 Z:5.000
+a  3	2025/01/21 11:38:25.095	设置2_Mark匹配坐标：X:223.398 Y:95.450 Z:2.914 Result:TRUE
+a  3	2025/01/21 11:38:56.889	设置1_Mark匹配坐标：X:223.597 Y:284.009 Z:2.914 Result:TRUE
+a  3	2025/01/21 11:39:21.203	设置2_Mark匹配坐标：X:0.000 Y:0.000 Z:0.000 Result:FALSE
+a  3	2025/01/21 11:39:26.720	设置2_Mark匹配坐标：X:223.590 Y:95.189 Z:2.914 Result:TRUE
+a  3	2025/01/21 11:39:31.002	键盘按下：
+a  3	2025/01/21 11:39:31.280	键盘按下：
+a  3	2025/01/21 11:39:31.444	键盘释放：CurrentPosition--> X:223.344 Y:95.142 Z:2.914
+a  3	2025/01/21 11:39:31.566	键盘释放：CurrentPosition--> X:223.344 Y:95.142 Z:2.914
+a  3	2025/01/21 11:39:31.627	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out,Pattern disable array 2,Width Test Para
+a  3	2025/01/21 11:39:31.666	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/01/21 11:39:32.407	保存程序：20250121113706
+a  3	2025/01/21 11:39:39.394	键盘按下：
+a  3	2025/01/21 11:39:39.864	键盘释放：CurrentPosition--> X:223.344 Y:95.142 Z:2.914
+a  3	2025/01/21 11:39:40.867	模板->main(A)中第1,2行程序被删除
+a  3	2025/01/21 11:39:52.389	键盘按下：Up
+a  3	2025/01/21 11:39:53.738	键盘释放：CurrentPosition--> X:223.344 Y:181.344 Z:2.914
+a  3	2025/01/21 11:39:54.748	键盘按下：Up
+a  3	2025/01/21 11:39:56.434	键盘释放：CurrentPosition--> X:223.344 Y:297.650 Z:2.914
+a  3	2025/01/21 11:39:58.571	键盘按下：
+a  3	2025/01/21 11:39:58.899	键盘按下：
+a  3	2025/01/21 11:39:59.070	键盘释放：CurrentPosition--> X:223.344 Y:298.738 Z:2.914
+a  3	2025/01/21 11:39:59.122	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2025/01/21 11:39:59.158	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2025/01/21 11:39:59.205	键盘释放：CurrentPosition--> X:223.344 Y:298.738 Z:2.914
+a  3	2025/01/21 11:39:59.946	保存程序：20250121113706
+a  3	2025/01/21 11:40:10.484	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	2025/01/21 11:40:10.528	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	2025/01/21 11:40:10.700	涂胶运行
+a  3	2025/01/21 11:40:12.055	保存程序：20250121113706
+a  3	2025/01/21 11:40:12.107	
+a  3	2025/01/21 11:40:12.454	不进行流量调节
+a  3	2025/01/21 11:40:12.488	ProcessingStarted
+a  3	2025/01/21 11:40:13.828	自动识别1_Mark：TwoMark_1:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.649 Y:283.929 Result:TRUE ;Score:92.081
+a  3	2025/01/21 11:40:16.070	自动识别2_Mark：TwoMark_2:Set-->X:223.590 Y:95.189 Z:2.914  Match-->X:223.507 Y:95.167 Result:TRUE ;Score:90.789
+a  3	2025/01/21 11:40:18.107	停止
+a  3	2025/01/21 11:40:19.042	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:40:19.061	ProcessedEnd
+a  3	2025/01/21 11:40:19.092	{"SN":"","StartTime":"25-01-21 11:40:12","StopTime":"25-01-21 11:40:18","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:40:19.389	停止
+a  3	2025/01/21 11:40:26.746	键盘按下：
+a  3	2025/01/21 11:40:27.029	键盘按下：
+a  3	2025/01/21 11:40:27.108	键盘释放：CurrentPosition--> X:223.254 Y:193.974 Z:5.000
+a  3	2025/01/21 11:40:27.225	键盘释放：CurrentPosition--> X:223.254 Y:193.974 Z:5.000
+a  3	2025/01/21 11:40:27.281	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:40:27.310	TrackAndPar.bin文件中以下参数已经被修改：FlowAlarmLimitSettingData,Pattern disable array 2
+a  3	2025/01/21 11:40:27.358	ShareParameters.bin文件中以下参数已经被修改：FlowAlarmLimitSettingData
+a  3	2025/01/21 11:40:28.082	保存程序：20250121113706
+a  3	2025/01/21 11:40:29.240	涂胶运行
+a  3	2025/01/21 11:40:29.955	
+a  3	2025/01/21 11:40:30.657	不进行流量调节
+a  3	2025/01/21 11:40:30.698	ProcessingStarted
+a  3	2025/01/21 11:40:32.521	自动识别1_Mark：TwoMark_1:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.653 Y:283.945 Result:TRUE ;Score:93.319
+a  3	2025/01/21 11:40:34.768	自动识别2_Mark：TwoMark_2:Set-->X:223.590 Y:95.189 Z:2.914  Match-->X:223.516 Y:95.162 Result:TRUE ;Score:87.875
+a  3	2025/01/21 11:40:38.485	停止
+a  3	2025/01/21 11:40:39.393	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:40:39.408	ProcessedEnd
+a  3	2025/01/21 11:40:39.447	{"SN":"","StartTime":"25-01-21 11:40:30","StopTime":"25-01-21 11:40:38","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:40:39.789	停止
+a  3	2025/01/21 11:40:54.843	键盘按下：
+a  3	2025/01/21 11:40:55.084	键盘按下：
+a  3	2025/01/21 11:40:55.175	键盘释放：CurrentPosition--> X:223.274 Y:210.650 Z:5.000
+a  3	2025/01/21 11:40:55.297	键盘释放：CurrentPosition--> X:223.274 Y:210.650 Z:5.000
+a  3	2025/01/21 11:40:55.342	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:40:56.508	保存程序：20250121113706
+a  3	2025/01/21 11:40:58.656	涂胶运行
+a  3	2025/01/21 11:40:59.356	
+a  3	2025/01/21 11:41:00.066	不进行流量调节
+a  3	2025/01/21 11:41:00.119	ProcessingStarted
+a  3	2025/01/21 11:41:01.730	自动识别1_Mark：TwoMark_1:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.655 Y:283.941 Result:TRUE ;Score:92.271
+a  3	2025/01/21 11:41:03.924	自动识别2_Mark：TwoMark_2:Set-->X:223.590 Y:95.189 Z:2.914  Match-->X:223.516 Y:95.158 Result:TRUE ;Score:92.823
+a  3	2025/01/21 11:41:05.524	停止
+a  3	2025/01/21 11:41:06.433	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:41:06.492	ProcessedEnd
+a  3	2025/01/21 11:41:06.507	{"SN":"","StartTime":"25-01-21 11:41:00","StopTime":"25-01-21 11:41:05","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:41:13.556	停止
+a  3	2025/01/21 11:41:15.445	键盘按下：
+a  3	2025/01/21 11:41:15.680	键盘按下：
+a  3	2025/01/21 11:41:15.851	键盘释放：CurrentPosition--> X:223.260 Y:189.030 Z:5.000
+a  3	2025/01/21 11:41:15.920	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:41:15.956	键盘释放：CurrentPosition--> X:223.260 Y:189.030 Z:5.000
+a  3	2025/01/21 11:41:16.003	TrackAndPar.bin文件中以下参数已经被修改：MatchPosition
+a  3	2025/01/21 11:41:16.070	ShareParameters.bin文件中以下参数已经被修改：MatchPosition
+a  3	2025/01/21 11:41:16.863	保存程序：20250121113706
+a  3	2025/01/21 11:41:17.927	涂胶运行
+a  3	2025/01/21 11:41:18.774	
+a  3	2025/01/21 11:41:19.197	不进行流量调节
+a  3	2025/01/21 11:41:19.248	ProcessingStarted
+a  3	2025/01/21 11:41:20.982	自动识别1_Mark：TwoMark_1:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.654 Y:283.945 Result:TRUE ;Score:93.173
+a  3	2025/01/21 11:41:23.218	自动识别2_Mark：TwoMark_2:Set-->X:223.590 Y:95.189 Z:2.914  Match-->X:223.518 Y:95.160 Result:TRUE ;Score:87.798
+a  3	2025/01/21 11:41:24.915	停止
+a  3	2025/01/21 11:41:25.930	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:41:25.989	ProcessedEnd
+a  3	2025/01/21 11:41:26.012	{"SN":"","StartTime":"25-01-21 11:41:19","StopTime":"25-01-21 11:41:25","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:42:01.214	停止
+a  3	2025/01/21 11:42:04.810	键盘按下：
+a  3	2025/01/21 11:42:05.088	键盘按下：
+a  3	2025/01/21 11:42:05.171	键盘释放：CurrentPosition--> X:223.262 Y:191.292 Z:5.000
+a  3	2025/01/21 11:42:05.266	键盘释放：CurrentPosition--> X:223.262 Y:191.292 Z:5.000
+a  3	2025/01/21 11:42:05.332	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:42:05.393	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:42:06.062	保存程序：20250121113706
+a  3	2025/01/21 11:42:13.408	模板->main(A)中第1行程序被删除
+a  3	2025/01/21 11:42:21.042	键盘按下：
+a  3	2025/01/21 11:42:21.287	键盘按下：
+a  3	2025/01/21 11:42:21.367	键盘释放：CurrentPosition--> X:223.598 Y:284.010 Z:2.914
+a  3	2025/01/21 11:42:21.507	键盘释放：CurrentPosition--> X:223.598 Y:284.010 Z:2.914
+a  3	2025/01/21 11:42:21.557	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	2025/01/21 11:42:21.589	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	2025/01/21 11:42:22.479	保存程序：20250121113706
+a  3	2025/01/21 11:42:24.277	涂胶运行
+a  3	2025/01/21 11:42:24.993	
+a  3	2025/01/21 11:42:25.673	不进行流量调节
+a  3	2025/01/21 11:42:25.689	ProcessingStarted
+a  3	2025/01/21 11:42:26.889	自动识别1_Mark：OneMark:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.638 Y:283.949 Result:TRUE ;Score:91.681
+a  3	2025/01/21 11:42:27.794	停止
+a  3	2025/01/21 11:42:28.759	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:42:28.773	ProcessedEnd
+a  3	2025/01/21 11:42:28.787	{"SN":"","StartTime":"25-01-21 11:42:25","StopTime":"25-01-21 11:42:28","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:42:36.513	停止
+a  3	2025/01/21 11:42:37.024	键盘按下：
+a  3	2025/01/21 11:42:37.226	键盘按下：
+a  3	2025/01/21 11:42:37.316	键盘释放：CurrentPosition--> X:223.384 Y:185.632 Z:5.000
+a  3	2025/01/21 11:42:37.427	键盘释放：CurrentPosition--> X:223.384 Y:185.632 Z:5.000
+a  3	2025/01/21 11:42:37.461	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:42:37.528	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:42:38.235	保存程序：20250121113706
+a  3	2025/01/21 11:42:39.416	涂胶运行
+a  3	2025/01/21 11:42:40.165	
+a  3	2025/01/21 11:42:40.772	不进行流量调节
+a  3	2025/01/21 11:42:40.807	ProcessingStarted
+a  3	2025/01/21 11:42:42.975	停止
+a  3	2025/01/21 11:42:43.909	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:42:43.924	ProcessedEnd
+a  3	2025/01/21 11:42:43.942	{"SN":"","StartTime":"25-01-21 11:42:40","StopTime":"25-01-21 11:42:43","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:42:44.220	停止
+a  3	2025/01/21 11:43:08.805	运行测试：开始
+a  3	2025/01/21 11:43:10.389	自动识别1_Mark：TwoMark_1:Set-->X:223.597 Y:284.009 Z:2.914  Match-->X:223.648 Y:283.943 Result:TRUE ;Score:89.323
+a  3	2025/01/21 11:43:12.596	自动识别2_Mark：TwoMark_2:Set-->X:223.590 Y:95.189 Z:2.914  Match-->X:223.519 Y:95.155 Result:TRUE ;Score:88.352
+a  3	2025/01/21 11:43:13.383	运行测试：停止
+a  3	2025/01/21 11:43:13.411	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:43:15.067	运行测试：开始
+a  3	2025/01/21 11:43:16.553	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:43:16.567	运行测试：停止
+a  3	2025/01/21 11:43:34.126	模板->main(A)中第2行程序被删除
+a  3	2025/01/21 11:44:00.690	模板->main(A)中第1行程序被删除
+a  3	2025/01/21 11:44:23.670	键盘按下：
+a  3	2025/01/21 11:44:23.895	键盘按下：
+a  3	2025/01/21 11:44:23.989	键盘释放：CurrentPosition--> X:223.590 Y:95.188 Z:2.914
+a  3	2025/01/21 11:44:24.073	键盘释放：CurrentPosition--> X:223.590 Y:95.188 Z:2.914
+a  3	2025/01/21 11:44:24.135	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:44:24.170	TrackAndPar.bin文件中以下参数已经被修改：Track storage,MatchPosition,模板映射参数2,Pattern disable array 2
+a  3	2025/01/21 11:44:24.213	ShareParameters.bin文件中以下参数已经被修改：Track storage,MatchPosition,模板映射参数2
+a  3	2025/01/21 11:44:24.982	保存程序：20250121113706
+a  3	2025/01/21 11:44:34.085	涂胶运行
+a  3	2025/01/21 11:44:35.701	保存程序：20250121113706
+a  3	2025/01/21 11:44:35.720	
+a  3	2025/01/21 11:44:36.099	不进行流量调节
+a  3	2025/01/21 11:44:36.314	ProcessingStarted
+a  3	2025/01/21 11:44:38.407	自动识别1_Mark：TwoMark_1:Set-->X:223.653 Y:283.949 Z:2.914  Match-->X:223.623 Y:283.978 Result:TRUE ;Score:84.054
+a  3	2025/01/21 11:44:40.663	报警代码 1043:没有匹配到图片！
+a  3	2025/01/21 11:44:42.763	自动识别2_Mark：TwoMark_2:Set-->X:223.515 Y:95.193 Z:2.914  Match-->X:223.516 Y:95.192 Result:FALSE ;Score:100.000
+a  3	2025/01/21 11:44:44.840	停止
+a  3	2025/01/21 11:44:45.798	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:44:45.813	ProcessedEnd
+a  3	2025/01/21 11:44:45.827	{"SN":"","StartTime":"25-01-21 11:44:36","StopTime":"25-01-21 11:44:45","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:44:46.160	停止
+a  3	2025/01/21 11:44:54.587	键盘按下：
+a  3	2025/01/21 11:44:55.045	键盘按下：
+a  3	2025/01/21 11:44:55.232	键盘释放：CurrentPosition--> X:223.266 Y:194.648 Z:5.000
+a  3	2025/01/21 11:44:55.272	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/01/21 11:44:55.309	TrackAndPar.bin文件中以下参数已经被修改：Pattern disable array 2
+a  3	2025/01/21 11:44:55.359	键盘释放：CurrentPosition--> X:223.266 Y:194.648 Z:5.000
+a  3	2025/01/21 11:44:56.377	保存程序：20250121113706
+a  3	2025/01/21 11:44:58.060	涂胶运行
+a  3	2025/01/21 11:44:58.748	
+a  3	2025/01/21 11:44:59.157	不进行流量调节
+a  3	2025/01/21 11:44:59.188	ProcessingStarted
+a  3	2025/01/21 11:45:00.953	自动识别1_Mark：TwoMark_1:Set-->X:223.653 Y:283.949 Z:2.914  Match-->X:223.600 Y:283.992 Result:TRUE ;Score:70.840
+a  3	2025/01/21 11:45:03.214	报警代码 1043:没有匹配到图片！
+a  3	2025/01/21 11:45:04.907	自动识别2_Mark：TwoMark_2:Set-->X:223.515 Y:95.193 Z:2.914  Match-->X:223.516 Y:95.192 Result:FALSE ;Score:100.000
+a  3	2025/01/21 11:45:09.986	停止
+a  3	2025/01/21 11:45:11.053	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:45:11.080	ProcessedEnd
+a  3	2025/01/21 11:45:11.114	{"SN":"","StartTime":"25-01-21 11:44:59","StopTime":"25-01-21 11:45:10","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:45:11.374	停止
+a  3	2025/01/21 11:46:22.983	设备初始化......
+a  3	2025/01/21 11:46:23.076	当前用户： a
+a  3	2025/01/21 11:46:23.090	打开程序：20250121113706
+a  3	2025/01/21 11:46:23.118	低气压检测未开启
+a  3	2025/01/21 11:46:23.817	复位按钮按下
+a  3	2025/01/21 11:46:44.286	设备复位完成
+a  3	2025/01/21 11:46:46.928	涂胶运行
+a  3	2025/01/21 11:46:47.590	
+a  3	2025/01/21 11:46:48.267	不进行流量调节
+a  3	2025/01/21 11:46:48.315	ProcessingStarted
+a  3	2025/01/21 11:46:52.184	停止
+a  3	2025/01/21 11:46:53.125	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/01/21 11:46:53.148	ProcessedEnd
+a  3	2025/01/21 11:46:53.167	{"SN":"","StartTime":"25-01-21 11:46:48","StopTime":"25-01-21 11:46:52","ProgramName":"20250121113706","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/21 11:46:53.605	停止
+a  3	2025/01/21 11:46:54.657	鼠标释放或离开：CurrentPosition--> X:223.288 Y:205.812 Z:5.000

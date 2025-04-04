@@ -1,0 +1,59 @@
+
+16:45:03	Client to MES	initMachine;001
+16:45:05	MES to Client	
+16:45:15	Client to MES	initMachine;002
+16:45:15	MES to Client	initMachineResp;002;-123;Machine initialization step NOK;0
+
+16:45:26	Client to MES	initMachine;003
+16:45:26	MES to Client	initMachineResp;003;-123;Machine initialization step NOK;0
+
+16:45:44	Client to MES	productStart;004;1234;ssss;ssss_123;tester;1;0
+16:45:44	MES to Client	productStartResp;004;-1;Part needs to be analyzed;1234;ssss;ssss_123;1
+
+16:57:07	Client to MES	initMachine;001
+16:57:07	MES to Client	initMachineResp;001;0;Machine init ok;0
+
+16:57:11	Client to MES	initMachine;002
+16:57:11	MES to Client	initMachineResp;002;0;Machine init ok;0
+
+16:57:15	Client to MES	programChange;003;12.5_Top;12.5;Null;tester
+16:57:19	MES to Client	
+16:57:27	Client to MES	programChange;004;12.5_Top;12.5;Null;tester
+16:57:30	MES to Client	
+16:57:33	Client to MES	productStart;005;123456;12.5;12.5_Top;tester;1;0
+16:57:33	MES to Client	productStartResp;005;0;product can start;123456;12.5;12.5_Top;1
+
+16:57:41	Client to MES	programChange;006;12.5_Top;12.5;Null;tester
+16:57:43	MES to Client	
+16:58:20	Client to MES	programChange;007;123.456-10_TOP;123.456-10;Null;tester
+16:59:10	Client to MES	initMachine;008
+16:59:38	Client to MES	initMachine;009
+16:59:38	MES to Client	initMachineResp;009;0;Machine init ok;0
+
+16:59:57	Client to MES	initMachine;001
+16:59:57	MES to Client	initMachineResp;001;0;Machine init ok;0
+
+17:00:07	Client to MES	initMachine;002
+17:00:07	MES to Client	initMachineResp;002;0;Machine init ok;0
+
+17:00:12	Client to MES	programChange;003;123.456-10_TOP;123.456-10;1;tester
+17:00:17	MES to Client	
+17:01:19	Client to MES	initMachine;001
+17:01:19	MES to Client	initMachineResp;001;0;Machine init ok;0
+
+17:01:34	Client to MES	programChange;001;123.456-10_TOP;123.456-10;1;tester
+17:01:41	MES to Client	
+17:04:10	Client to MES	initMachine;001
+17:04:10	MES to Client	initMachineResp;001;0;Machine init ok;0
+
+17:04:27	Client to MES	initMachine;002
+17:04:27	MES to Client	initMachineResp;002;0;Machine init ok;0
+
+17:04:30	Client to MES	productChange;003;123.456-10_TOP;123.456-10;1;tester
+17:04:30	MES to Client	productChangeResp;003;0;Change over succesfull done;Complete;0
+
+17:04:32	Client to MES	productStart;004;66666;123.456-10;123.456-10_TOP;tester;1;0
+17:04:32	MES to Client	productStartResp;004;0;product can start;66666;123.456-10;123.456-10_TOP;1
+
+17:04:35	Client to MES	uploadData005;11.000000;;1;first;1;ok;1;1;film;8.6;ok;mm;5.5;10;NA;D
+17:04:38	MES to Client	

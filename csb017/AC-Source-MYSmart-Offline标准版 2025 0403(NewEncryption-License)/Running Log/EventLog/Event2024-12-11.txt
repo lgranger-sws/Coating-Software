@@ -1,0 +1,195 @@
+
+a  3	2024/12/11 14:31:07.110	设备初始化......
+a  3	2024/12/11 14:31:07.253	当前用户： a
+a  3	2024/12/11 14:31:07.454	打开程序：20241130ok2
+a  3	2024/12/11 14:31:07.456	低气压检测未开启
+a  3	2024/12/11 14:31:08.440	复位按钮按下
+a  3	2024/12/11 14:31:10.060	复位失败
+a  3	2024/12/11 14:31:10.343	停止
+a  3	2024/12/11 14:31:30.987	Z轴复位失败
+a  3	2024/12/11 14:31:32.445	复位按钮按下
+a  3	2024/12/11 14:31:34.054	复位失败
+a  3	2024/12/11 14:31:34.217	停止
+a  3	2024/12/11 14:31:34.950	Z轴复位失败
+a  3	2024/12/11 14:31:38.767	退出
+a  3	2024/12/11 14:31:38.863	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match
+a  3	2024/12/11 14:31:38.895	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/12/11 14:32:02.915	设备初始化......
+a  3	2024/12/11 14:32:03.002	当前用户： a
+a  3	2024/12/11 14:32:03.017	打开程序：20241130ok2
+a  3	2024/12/11 14:32:03.023	低气压检测未开启
+a  3	2024/12/11 14:32:03.662	复位按钮按下
+a  3	2024/12/11 14:32:05.271	复位失败
+a  3	2024/12/11 14:32:05.444	停止
+a  3	2024/12/11 14:32:06.422	Z轴复位失败
+a  3	2024/12/11 14:32:12.096	退出
+a  3	2024/12/11 14:32:12.375	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/12/11 14:35:22.316	设备初始化......
+a  3	2024/12/11 14:35:23.012	当前用户： a
+a  3	2024/12/11 14:35:23.016	打开程序：20241130ok2
+a  3	2024/12/11 14:35:23.045	低气压检测未开启
+a  3	2024/12/11 14:37:22.728	设备初始化......
+a  3	2024/12/11 14:37:22.819	当前用户： a
+a  3	2024/12/11 14:37:22.841	打开程序：20241130ok2
+a  3	2024/12/11 14:37:22.844	低气压检测未开启
+a  3	2024/12/11 14:37:23.433	复位按钮按下
+a  3	2024/12/11 14:37:31.500	设备复位完成
+a  3	2024/12/11 14:37:39.818	模板->main(A)中第4行程序被修改:TeachMode:By Nozzle
+
+a  3	2024/12/11 14:37:40.000	键盘按下：
+a  3	2024/12/11 14:37:40.328	键盘按下：
+a  3	2024/12/11 14:37:40.371	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/12/11 14:37:40.396	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/12/11 14:37:40.649	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2024/12/11 14:37:40.664	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	2024/12/11 14:37:41.449	保存程序：20241130ok2
+a  3	2024/12/11 14:37:43.691	运行测试：开始
+a  3	2024/12/11 14:37:47.426	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2024/12/11 14:37:47.436	运行测试：停止
+a  3	2024/12/11 14:37:47.544	停止
+a  3	2024/12/11 14:37:55.826	空运行
+a  3	2024/12/11 14:37:55.837	空运行
+a  3	2024/12/11 14:38:00.871	运行测试：开始
+a  3	2024/12/11 14:38:07.294	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2024/12/11 14:38:07.302	运行测试：停止
+a  3	2024/12/11 14:38:16.023	模板->main(A)中第4行程序被修改:Speed:50.000
+
+a  3	2024/12/11 14:38:17.315	键盘按下：
+a  3	2024/12/11 14:38:17.657	键盘按下：
+a  3	2024/12/11 14:38:17.699	键盘释放：CurrentPosition--> X:219.860 Y:209.600 Z:42.743
+a  3	2024/12/11 14:38:17.730	键盘释放：CurrentPosition--> X:219.860 Y:209.600 Z:42.743
+a  3	2024/12/11 14:38:17.952	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2024/12/11 14:38:17.967	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	2024/12/11 14:38:18.858	保存程序：20241130ok2
+a  3	2024/12/11 14:38:22.514	涂胶运行
+a  3	2024/12/11 14:38:23.669	
+a  3	2024/12/11 14:38:33.151	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:38:39.728	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:38:39.759	不进行流量调节
+a  3	2024/12/11 14:38:39.777	ProcessingStarted
+a  3	2024/12/11 14:38:42.548	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:38:42.607	ProcessedEnd
+a  3	2024/12/11 14:38:42.626	{"SN":"","StartTime":"24-12-11 14:38:39","StopTime":"24-12-11 14:38:42","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:38:52.769	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:39:35.071	不进行流量调节
+a  3	2024/12/11 14:39:35.088	ProcessingStarted
+a  3	2024/12/11 14:39:38.050	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:39:38.065	ProcessedEnd
+a  3	2024/12/11 14:39:38.097	{"SN":"","StartTime":"24-12-11 14:39:35","StopTime":"24-12-11 14:39:38","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:39:48.254	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:40:21.400	停止
+a  3	2024/12/11 14:40:23.138	停止
+a  3	2024/12/11 14:40:42.953	涂胶运行
+a  3	2024/12/11 14:40:44.333	
+a  3	2024/12/11 14:40:52.673	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:40:58.520	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:40:58.611	不进行流量调节
+a  3	2024/12/11 14:40:58.629	ProcessingStarted
+a  3	2024/12/11 14:41:01.338	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:41:01.396	ProcessedEnd
+a  3	2024/12/11 14:41:01.417	{"SN":"","StartTime":"24-12-11 14:40:58","StopTime":"24-12-11 14:41:01","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:41:11.620	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:44:10.167	停止
+a  3	2024/12/11 14:44:11.995	停止
+a  3	2024/12/11 14:44:18.151	涂胶运行
+a  3	2024/12/11 14:44:19.578	
+a  3	2024/12/11 14:44:27.876	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:44:33.736	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:44:33.783	不进行流量调节
+a  3	2024/12/11 14:44:33.836	ProcessingStarted
+a  3	2024/12/11 14:44:36.561	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:44:36.598	ProcessedEnd
+a  3	2024/12/11 14:44:36.637	{"SN":"","StartTime":"24-12-11 14:44:33","StopTime":"24-12-11 14:44:36","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:44:46.756	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:46:17.762	不进行流量调节
+a  3	2024/12/11 14:46:17.804	ProcessingStarted
+a  3	2024/12/11 14:46:20.771	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:46:20.849	ProcessedEnd
+a  3	2024/12/11 14:46:20.867	{"SN":"","StartTime":"24-12-11 14:46:17","StopTime":"24-12-11 14:46:20","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:46:24.406	停止
+a  3	2024/12/11 14:46:26.030	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:46:26.288	停止
+a  3	2024/12/11 14:48:37.040	设备初始化......
+a  3	2024/12/11 14:48:37.196	当前用户： a
+a  3	2024/12/11 14:48:37.260	打开程序：20241130ok2
+a  3	2024/12/11 14:48:37.301	低气压检测未开启
+a  3	2024/12/11 14:48:40.092	复位按钮按下
+a  3	2024/12/11 14:48:53.737	设备复位完成
+a  3	2024/12/11 14:48:59.134	空运行
+a  3	2024/12/11 14:48:59.159	空运行
+a  3	2024/12/11 14:49:00.765	涂胶运行
+a  3	2024/12/11 14:49:02.170	
+a  3	2024/12/11 14:49:10.757	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:49:17.329	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:49:17.466	不进行流量调节
+a  3	2024/12/11 14:49:17.487	ProcessingStarted
+a  3	2024/12/11 14:49:20.184	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:49:20.230	ProcessedEnd
+a  3	2024/12/11 14:49:20.272	{"SN":"","StartTime":"24-12-11 14:49:17","StopTime":"24-12-11 14:49:20","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:49:30.377	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:49:36.270	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:49:36.301	不进行流量调节
+a  3	2024/12/11 14:49:36.361	ProcessingStarted
+a  3	2024/12/11 14:49:39.088	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:49:39.159	ProcessedEnd
+a  3	2024/12/11 14:49:39.180	{"SN":"","StartTime":"24-12-11 14:49:36","StopTime":"24-12-11 14:49:39","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:49:49.317	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:49:59.702	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:49:59.856	不进行流量调节
+a  3	2024/12/11 14:49:59.877	ProcessingStarted
+a  3	2024/12/11 14:50:02.560	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:50:02.609	ProcessedEnd
+a  3	2024/12/11 14:50:02.648	{"SN":"","StartTime":"24-12-11 14:49:59","StopTime":"24-12-11 14:50:02","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:50:12.761	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:50:21.711	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:50:21.763	不进行流量调节
+a  3	2024/12/11 14:50:21.829	ProcessingStarted
+a  3	2024/12/11 14:50:24.538	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:50:24.613	ProcessedEnd
+a  3	2024/12/11 14:50:24.640	{"SN":"","StartTime":"24-12-11 14:50:21","StopTime":"24-12-11 14:50:24","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:50:34.781	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:50:40.627	自动运行至吐胶位置:Setting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 14:50:40.745	不进行流量调节
+a  3	2024/12/11 14:50:40.767	ProcessingStarted
+a  3	2024/12/11 14:50:43.471	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/12/11 14:50:43.515	ProcessedEnd
+a  3	2024/12/11 14:50:43.621	{"SN":"","StartTime":"24-12-11 14:50:40","StopTime":"24-12-11 14:50:43","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 14:50:53.672	自动运行到清洗位置:Result:TRUE
+a  3	2024/12/11 14:50:53.967	停止
+a  3	2024/12/11 14:50:55.756	停止
+a  3	2024/12/11 15:22:57.735	设备初始化......
+a  3	2024/12/11 15:22:57.825	当前用户： a
+a  3	2024/12/11 15:22:57.944	打开程序：20241130ok2
+a  3	2024/12/11 15:22:57.965	低气压检测未开启
+a  3	2024/12/11 15:22:58.402	复位按钮按下
+a  3	2024/12/11 15:23:12.836	设备复位完成
+a  3	2024/12/11 15:23:34.877	空运行
+a  3	2024/12/11 15:23:34.903	空运行
+a  3	2024/12/11 15:24:08.352	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	2024/12/11 15:24:15.014	English
+a  3	2024/12/11 15:26:34.132	Coating Running
+a  3	2024/12/11 15:26:35.480	
+a  3	2024/12/11 15:26:43.944	Automatically run to the cleanPosition:Result:TRUE
+a  3	2024/12/11 15:26:49.780	Automatically run to the Purge positionSetting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 15:26:49.836	This product does not perform flow regulation
+a  3	2024/12/11 15:26:50.719	ProcessingStarted
+a  3	2024/12/11 15:26:53.648	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2024/12/11 15:26:53.715	ProcessedEnd
+a  3	2024/12/11 15:26:53.762	{"SN":"","StartTime":"24-12-11 15:26:50","StopTime":"24-12-11 15:26:53","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 15:27:03.967	Automatically run to the cleanPosition:Result:TRUE
+a  3	2024/12/11 15:27:16.732	Automatically run to the Purge positionSetting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 15:27:16.776	This product does not perform flow regulation
+a  3	2024/12/11 15:27:17.727	ProcessingStarted
+a  3	2024/12/11 15:27:20.638	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2024/12/11 15:27:20.677	ProcessedEnd
+a  3	2024/12/11 15:27:20.726	{"SN":"","StartTime":"24-12-11 15:27:17","StopTime":"24-12-11 15:27:20","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 15:27:30.923	Automatically run to the cleanPosition:Result:TRUE
+a  3	2024/12/11 15:27:58.686	Automatically run to the Purge positionSetting--->X:340.346 Y:46.938 Z:55.343 Current--->X:340.346 Y:46.938 Z:55.343 Result:TRUE GTS_Code:0
+a  3	2024/12/11 15:27:58.748	This product does not perform flow regulation
+a  3	2024/12/11 15:27:59.553	ProcessingStarted
+a  3	2024/12/11 15:28:02.512	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2024/12/11 15:28:02.554	ProcessedEnd
+a  3	2024/12/11 15:28:02.666	{"SN":"","StartTime":"24-12-11 15:27:59","StopTime":"24-12-11 15:28:02","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/12/11 15:28:12.869	Automatically run to the cleanPosition:Result:TRUE
+a  3	2024/12/11 15:28:15.416	Stop
+a  3	2024/12/11 15:28:17.546	Stop

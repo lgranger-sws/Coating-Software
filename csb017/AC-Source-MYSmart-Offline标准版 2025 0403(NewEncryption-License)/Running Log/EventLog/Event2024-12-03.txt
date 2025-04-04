@@ -1,0 +1,236 @@
+
+a  3	2024/12/3 17:56:36	设备初始化......
+a  3	2024/12/3 17:56:37	当前用户： a
+a  3	2024/12/3 17:56:37	打开程序：20241202ok11
+a  3	2024/12/3 17:57:17	设备初始化......
+a  3	2024/12/3 17:57:19	当前用户： a
+a  3	2024/12/3 17:57:19	打开程序：20241202ok11
+a  3	2024/12/3 17:57:22	打开程序：20241130153654
+a  3	2024/12/3 17:58:55	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,MarkLightSource
+a  3	2024/12/3 17:58:55	TrackAndPar.bin文件中以下参数已经被修改：ROISize
+a  3	2024/12/3 17:58:55	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/12/3 17:59:27	键盘按下：Right
+a  3	2024/12/3 17:59:28	键盘按下：Left
+a  3	2024/12/3 17:59:29	键盘按下：
+a  3	2024/12/3 17:59:29	键盘按下：Right
+a  3	2024/12/3 17:59:31	键盘按下：Left
+a  3	2024/12/3 17:59:31	键盘按下：
+a  3	2024/12/3 17:59:31	键盘按下：Down
+a  3	2024/12/3 17:59:35	键盘按下：Right
+a  3	2024/12/3 17:59:36	键盘按下：Down
+a  3	2024/12/3 17:59:36	键盘按下：
+a  3	2024/12/3 17:59:37	键盘按下：Right
+a  3	2024/12/3 17:59:38	键盘按下：Down
+a  3	2024/12/3 17:59:39	键盘按下：Right
+a  3	2024/12/3 17:59:39	键盘按下：Up
+a  3	2024/12/3 17:59:40	键盘按下：Left
+a  3	2024/12/3 17:59:42	键盘按下：Right
+a  3	2024/12/3 18:00:09	键盘按下：Right
+a  3	2024/12/3 18:00:10	键盘按下：
+a  3	2024/12/3 18:00:10	键盘按下：Right
+a  3	2024/12/3 18:00:11	键盘按下：Return
+a  3	2024/12/3 18:00:13	键盘按下：
+a  3	2024/12/3 18:00:42	阀气缸上升超时
+a  3	2024/12/3 18:00:49	阀气缸上升超时
+a  3	2024/12/3 18:01:59	设备初始化......
+a  3	2024/12/3 18:01:59	当前用户： a
+a  3	2024/12/3 18:01:59	打开程序：20241130153654
+a  3	2024/12/3 18:02:09	打开程序：WCY
+a  3	2024/12/3 18:04:16	TrackAndPar.bin文件中以下参数已经被修改：Pixel/mm,ROISize,RealMarkAndOfflineMarkData
+a  3	2024/12/3 18:04:16	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,RealMarkAndOfflineMarkData
+a  3	2024/12/3 18:04:19	键盘按下：Down
+a  3	2024/12/3 18:04:23	键盘按下：
+a  3	2024/12/3 18:04:23	键盘按下：Down
+a  3	2024/12/3 18:04:24	键盘按下：Right
+a  3	2024/12/3 18:04:26	键盘按下：Down
+a  3	2024/12/3 18:04:31	键盘按下：
+a  3	2024/12/3 18:04:31	键盘按下：Right
+a  3	2024/12/3 18:04:33	键盘按下：Return
+a  3	2024/12/3 18:04:58	ValveAndCalibretingData.bin文件中以下参数已经被修改：InitParamemter
+a  3	2024/12/3 18:05:04	键盘按下：Down
+a  3	2024/12/3 18:05:05	键盘按下：
+a  3	2024/12/3 18:05:05	键盘按下：Down
+a  3	2024/12/3 18:05:06	键盘按下：Right
+a  3	2024/12/3 18:05:16	键盘按下：Down
+a  3	2024/12/3 18:05:17	键盘按下：Up
+a  3	2024/12/3 18:05:17	键盘按下：Right
+a  3	2024/12/3 18:05:18	键盘按下：Up
+a  3	2024/12/3 18:05:18	键盘按下：Up
+a  3	2024/12/3 18:05:19	键盘按下：Left
+a  3	2024/12/3 18:05:24	模板->main(A)中第1行程序被修改:Glue width:8.000
+
+a  3	2024/12/3 18:05:34	阀气缸上升超时
+a  3	2024/12/3 18:06:28	阀气缸上升超时
+a  3	2024/12/3 18:07:57	阀气缸上升超时
+a  3	2024/12/3 18:16:02	设备初始化......
+a  3	2024/12/3 18:16:03	当前用户： a
+a  3	2024/12/3 18:16:03	打开程序：WCY
+a  3	2024/12/3 18:16:07	打开程序：WCY
+a  3	2024/12/3 18:29:58	设备初始化......
+a  3	2024/12/3 18:29:58	当前用户： a
+a  3	2024/12/3 18:29:58	打开程序：WCY
+a  3	2024/12/3 18:30:18	打开程序：YUBEI1124 Top MES
+a  3	2024/12/3 18:31:03	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	2024/12/3 18:31:04	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2024/12/3 18:31:08	键盘按下：Right
+a  3	2024/12/3 18:31:12	键盘按下：Down
+a  3	2024/12/3 18:31:13	键盘按下：
+a  3	2024/12/3 18:31:13	键盘按下：Right
+a  3	2024/12/3 18:31:14	键盘按下：Down
+a  3	2024/12/3 18:31:16	键盘按下：Right
+a  3	2024/12/3 18:31:23	键盘按下：Down
+a  3	2024/12/3 18:31:24	键盘按下：Right
+a  3	2024/12/3 18:31:24	键盘按下：Right
+a  3	2024/12/3 18:31:48	键盘按下：
+a  3	2024/12/3 18:31:48	键盘按下：
+a  3	2024/12/3 18:31:48	键盘按下：
+a  3	2024/12/3 18:31:48	键盘按下：
+a  3	2024/12/3 18:31:48	键盘按下：
+a  3	2024/12/3 18:31:54	键盘按下：Right
+a  3	2024/12/3 18:31:55	键盘按下：Return
+a  3	2024/12/3 18:31:59	键盘按下：Right
+a  3	2024/12/3 18:32:00	键盘按下：Return
+a  3	2024/12/3 18:32:05	键盘按下：Right
+a  3	2024/12/3 18:32:07	键盘按下：Return
+a  3	2024/12/3 18:32:14	键盘按下：Right
+a  3	2024/12/3 18:32:18	打开程序：WCY
+a  3	2024/12/3 18:32:18	打开程序：WCY
+a  3	2024/12/3 18:32:40	键盘按下：Right
+a  3	2024/12/3 18:32:42	键盘按下：Return
+a  3	2024/12/3 18:32:51	阀气缸上升超时
+a  3	2024/12/3 18:32:56	键盘按下：Left
+a  3	2024/12/3 18:33:04	键盘按下：Down
+a  3	2024/12/3 18:33:04	键盘按下：Left
+a  3	2024/12/3 18:33:07	键盘按下：Right
+a  3	2024/12/3 18:33:09	键盘按下：Return
+a  3	2024/12/3 18:33:53	阀气缸上升超时
+a  3	2024/12/3 18:39:06	设备初始化......
+a  3	2024/12/3 18:39:07	当前用户： a
+a  3	2024/12/3 18:39:07	打开程序：WCY
+a  3	2024/12/3 18:39:11	打开程序：WCY
+a  3	2024/12/3 18:46:47	设备初始化......
+a  3	2024/12/3 18:46:47	当前用户： a
+a  3	2024/12/3 18:46:47	打开程序：WCY
+a  3	2024/12/3 18:46:50	打开程序：WCY
+a  3	2024/12/3 18:47:34	TrackAndPar.bin文件中以下参数已经被修改：Pixel/mm,RealMarkAndOfflineMarkData
+a  3	2024/12/3 18:47:34	ShareParameters.bin文件中以下参数已经被修改：RealMarkAndOfflineMarkData
+a  3	2024/12/3 18:47:38	键盘按下：Right
+a  3	2024/12/3 18:47:39	键盘按下：Down
+a  3	2024/12/3 18:47:40	键盘按下：
+a  3	2024/12/3 18:47:40	键盘按下：Down
+a  3	2024/12/3 18:47:42	键盘按下：Right
+a  3	2024/12/3 18:47:43	键盘按下：Right
+a  3	2024/12/3 18:47:44	键盘按下：Down
+a  3	2024/12/3 18:47:44	键盘按下：Down
+a  3	2024/12/3 18:47:49	键盘按下：Right
+a  3	2024/12/3 18:47:51	键盘按下：Return
+a  3	2024/12/3 18:47:52	键盘按下：Down
+a  3	2024/12/3 18:47:53	键盘按下：Left
+a  3	2024/12/3 18:47:54	键盘按下：Down
+a  3	2024/12/3 18:47:55	键盘按下：Right
+a  3	2024/12/3 18:47:57	键盘按下：Return
+a  3	2024/12/3 18:48:04	键盘按下：Right
+a  3	2024/12/3 18:48:06	键盘按下：Right
+a  3	2024/12/3 18:48:06	键盘按下：Down
+a  3	2024/12/3 18:48:42	手动清洗
+a  3	2024/12/3 18:48:44	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/12/3 18:48:46	工作原点
+a  3	2024/12/3 18:50:13	键盘按下：
+a  3	2024/12/3 18:50:14	键盘按下：
+a  3	2024/12/3 19:06:07	设备初始化......
+a  3	2024/12/3 19:06:07	当前用户： a
+a  3	2024/12/3 19:06:07	打开程序：WCY
+a  3	2024/12/3 19:06:10	打开程序：WCY
+a  3	2024/12/3 19:09:13	键盘按下：Right
+a  3	2024/12/3 19:09:15	键盘按下：Down
+a  3	2024/12/3 19:09:15	键盘按下：Left
+a  3	2024/12/3 19:09:16	键盘按下：Left
+a  3	2024/12/3 19:09:18	键盘按下：Right
+a  3	2024/12/3 19:15:03	设备初始化......
+a  3	2024/12/3 19:15:03	当前用户： a
+a  3	2024/12/3 19:15:03	打开程序：WCY
+a  3	2024/12/3 19:15:07	打开程序：WCY
+a  3	2024/12/3 19:15:27	键盘按下：Right
+a  3	2024/12/3 19:15:29	键盘按下：Down
+a  3	2024/12/3 19:15:30	键盘按下：Left
+a  3	2024/12/3 19:15:32	键盘按下：Right
+a  3	2024/12/3 19:19:03	设备初始化......
+a  3	2024/12/3 19:19:04	当前用户： a
+a  3	2024/12/3 19:19:04	打开程序：WCY
+a  3	2024/12/3 19:19:10	打开程序：WCY
+a  3	2024/12/3 19:19:32	键盘按下：Right
+a  3	2024/12/3 19:19:33	键盘按下：Down
+a  3	2024/12/3 19:19:34	键盘按下：Left
+a  3	2024/12/3 19:19:37	键盘按下：Right
+a  3	2024/12/3 19:19:39	键盘按下：Up
+a  3	2024/12/3 19:19:41	键盘按下：Down
+a  3	2024/12/3 19:20:00	键盘按下：Right
+a  3	2024/12/3 19:25:18	设备初始化......
+a  3	2024/12/3 19:25:18	当前用户： a
+a  3	2024/12/3 19:25:18	打开程序：WCY
+a  3	2024/12/3 19:25:21	打开程序：WCY
+a  3	2024/12/3 19:25:41	键盘按下：Right
+a  3	2024/12/3 19:25:46	键盘按下：Right
+a  3	2024/12/3 19:25:51	模板->main(A)中第1行程序被删除
+a  3	2024/12/3 19:25:55	键盘按下：Right
+a  3	2024/12/3 19:25:56	键盘按下：Return
+a  3	2024/12/3 19:25:59	键盘按下：Right
+a  3	2024/12/3 19:26:00	键盘按下：Return
+a  3	2024/12/3 19:26:05	键盘按下：
+a  3	2024/12/3 19:26:05	键盘按下：
+a  3	2024/12/3 19:26:06	TrackAndPar.bin文件中以下参数已经被修改：Track storage,PathOfOffLineTeachPicture,Pixel/mm,ImageButtomPos,导入在线图片,OnlinePixelR,OnlineImagePosInfor,RealMarkAndOfflineMarkData
+a  3	2024/12/3 19:26:06	ShareParameters.bin文件中以下参数已经被修改：Track storage,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData
+a  3	2024/12/3 19:26:07	保存程序：WCY
+a  3	2024/12/3 19:44:12	设备初始化......
+a  3	2024/12/3 19:44:12	当前用户： a
+a  3	2024/12/3 19:44:12	打开程序：WCY
+a  3	2024/12/3 19:44:15	打开程序：WCY
+a  3	2024/12/3 19:47:20	设备初始化......
+a  3	2024/12/3 19:47:20	当前用户： a
+a  3	2024/12/3 19:47:20	打开程序：WCY
+a  3	2024/12/3 19:47:23	打开程序：WCY
+a  3	2024/12/3 19:47:40	键盘按下：Left
+a  3	2024/12/3 19:47:44	键盘按下：Left
+a  3	2024/12/3 19:47:45	键盘按下：
+a  3	2024/12/3 19:47:45	键盘按下：Right
+a  3	2024/12/3 19:47:46	键盘按下：Up
+a  3	2024/12/3 19:47:46	键盘按下：Down
+a  3	2024/12/3 19:47:46	键盘按下：Right
+a  3	2024/12/3 19:47:47	键盘按下：Up
+a  3	2024/12/3 19:47:47	键盘按下：Up
+a  3	2024/12/3 19:47:47	键盘按下：Down
+a  3	2024/12/3 19:47:47	键盘按下：Left
+a  3	2024/12/3 19:51:09	设备初始化......
+a  3	2024/12/3 19:51:09	当前用户： a
+a  3	2024/12/3 19:51:09	打开程序：WCY
+a  3	2024/12/3 19:51:12	打开程序：WCY
+a  3	2024/12/3 19:57:02	设备初始化......
+a  3	2024/12/3 19:57:02	当前用户： a
+a  3	2024/12/3 19:57:02	打开程序：WCY
+a  3	2024/12/3 19:57:05	打开程序：WCY
+a  3	2024/12/3 20:33:26	设备初始化......
+a  3	2024/12/3 20:33:26	当前用户： a
+a  3	2024/12/3 20:33:26	打开程序：WCY
+a  3	2024/12/3 20:33:29	打开程序：WCY
+a  3	2024/12/3 20:34:12	设备初始化......
+a  3	2024/12/3 20:34:12	当前用户： a
+a  3	2024/12/3 20:34:12	打开程序：WCY
+a  3	2024/12/3 20:34:17	门禁打开
+a  3	2024/12/3 20:34:20	报警代码 1006:气压检测报警
+a  3	2024/12/3 20:34:20	停止
+a  3	2024/12/3 20:34:25	门禁打开
+a  3	2024/12/3 20:34:27	报警代码 1006:气压检测报警
+a  3	2024/12/3 20:34:27	停止
+a  3	2024/12/3 20:34:38	门禁打开
+a  3	2024/12/3 20:34:41	报警代码 1006:气压检测报警
+a  3	2024/12/3 20:34:41	停止
+a  3	2024/12/3 20:36:20	设备初始化......
+a  3	2024/12/3 20:36:20	当前用户： a
+a  3	2024/12/3 20:36:21	打开程序：WCY
+a  3	2024/12/3 20:36:27	门禁打开
+a  3	2024/12/3 20:36:29	报警代码 1006:气压检测报警
+a  3	2024/12/3 20:36:29	停止
+a  3	2024/12/3 20:36:32	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	2024/12/3 20:36:34	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	2024/12/3 20:37:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	2024/12/3 20:37:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000

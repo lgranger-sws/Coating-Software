@@ -1,0 +1,20 @@
+
+admin  3	2024/12/17 18:10:39.203	Initializing...
+admin  3	2024/12/17 18:10:39.343	Current User: admin
+admin  3	2024/12/17 18:10:39.381	Open Program:SLA-Coater1-004
+admin  3	2024/12/17 18:10:39.393	Low pressure detection not activated
+admin  3	2024/12/17 18:10:51.518	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:51.690	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:55.942	Mouse click:X-
+admin  3	2024/12/17 18:10:56.214	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:56.749	Mouse click:X+
+admin  3	2024/12/17 18:10:56.856	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:57.148	Mouse click:Y+
+admin  3	2024/12/17 18:10:57.252	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:57.570	Mouse click:Y-
+admin  3	2024/12/17 18:10:57.657	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:10:57.761	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+admin  3	2024/12/17 18:15:12.385	Initializing...
+admin  3	2024/12/17 18:15:12.509	Current User: admin
+admin  3	2024/12/17 18:15:12.519	Open Program:SLA-Coater1-004
+admin  3	2024/12/17 18:15:12.529	Low pressure detection not activated

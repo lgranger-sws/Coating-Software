@@ -1,0 +1,316 @@
+
+a  3	2025/03/23 11:45:41.254	设备初始化......
+a  3	2025/03/23 11:45:41.412	当前用户： a
+a  3	2025/03/23 11:45:41.429	打开程序：20250319程序1
+a  3	2025/03/23 11:45:43.252	复位按钮按下
+a  3	2025/03/23 11:45:51.986	设备复位完成
+a  3	2025/03/23 11:45:52.606	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/23 11:46:12.641	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/23 11:46:12.890	鼠标点击：X+
+a  3	2025/03/23 11:46:15.539	鼠标释放或离开：CurrentPosition--> X:50.874 Y:0.000 Z:0.000
+a  3	2025/03/23 11:46:15.664	鼠标释放或离开：CurrentPosition--> X:52.978 Y:0.000 Z:0.000
+a  3	2025/03/23 11:46:16.682	鼠标点击：X+
+a  3	2025/03/23 11:46:18.458	鼠标释放或离开：CurrentPosition--> X:129.221 Y:0.000 Z:0.000
+a  3	2025/03/23 11:46:18.481	鼠标释放或离开：CurrentPosition--> X:129.221 Y:0.000 Z:0.000
+a  3	2025/03/23 11:46:20.207	鼠标点击：Y+
+a  3	2025/03/23 11:46:22.357	鼠标释放或离开：CurrentPosition--> X:132.626 Y:95.664 Z:0.000
+a  3	2025/03/23 11:46:23.157	鼠标点击：X+
+a  3	2025/03/23 11:46:23.746	鼠标释放或离开：CurrentPosition--> X:156.050 Y:96.448 Z:0.000
+a  3	2025/03/23 11:46:25.096	鼠标释放或离开：CurrentPosition--> X:159.086 Y:96.448 Z:0.000
+a  3	2025/03/23 11:46:27.320	鼠标点击：Y+
+a  3	2025/03/23 11:46:27.815	鼠标释放或离开：CurrentPosition--> X:159.086 Y:115.851 Z:0.000
+a  3	2025/03/23 11:46:29.480	鼠标点击：X-
+a  3	2025/03/23 11:46:29.522	鼠标释放或离开：CurrentPosition--> X:159.086 Y:119.066 Z:0.000
+a  3	2025/03/23 11:46:30.048	鼠标释放或离开：CurrentPosition--> X:157.132 Y:119.066 Z:0.000
+a  3	2025/03/23 11:46:31.005	鼠标释放或离开：CurrentPosition--> X:157.132 Y:119.066 Z:0.000
+a  3	2025/03/23 11:46:32.017	鼠标释放或离开：CurrentPosition--> X:157.132 Y:119.066 Z:0.000
+a  3	2025/03/23 11:46:32.391	鼠标点击：Y+
+a  3	2025/03/23 11:46:32.760	鼠标释放或离开：CurrentPosition--> X:157.132 Y:125.657 Z:0.000
+a  3	2025/03/23 11:46:33.910	鼠标点击：X-
+a  3	2025/03/23 11:46:34.011	鼠标释放或离开：CurrentPosition--> X:157.132 Y:126.840 Z:0.000
+a  3	2025/03/23 11:46:36.431	鼠标释放或离开：CurrentPosition--> X:155.014 Y:126.840 Z:0.000
+a  3	2025/03/23 11:46:46.091	鼠标释放或离开：CurrentPosition--> X:155.014 Y:126.840 Z:0.000
+a  3	2025/03/23 11:48:19.968	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,COGNEXCodeTeachPosition,BarCode Read Para
+a  3	2025/03/23 11:48:20.001	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出,Pattern disable array 2
+a  3	2025/03/23 11:48:20.011	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Light source adjust,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	2025/03/23 11:50:57.432	ParametersOfSystemSetting.bin文件中以下参数已经被修改：BarCode Read Para
+a  3	2025/03/23 11:50:57.460	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/03/23 11:51:19.136	鼠标释放或离开：CurrentPosition--> X:236.968 Y:111.276 Z:11.846
+a  3	2025/03/23 11:51:20.500	鼠标点击：Y+
+a  3	2025/03/23 11:51:25.620	鼠标释放或离开：CurrentPosition--> X:236.968 Y:338.473 Z:11.846
+a  3	2025/03/23 11:51:25.984	鼠标释放或离开：CurrentPosition--> X:236.968 Y:340.768 Z:11.846
+a  3	2025/03/23 11:51:33.286	模板4中第1行程序被修改:TeachMode:By Nozzle
+
+a  3	2025/03/23 11:51:35.320	鼠标释放或离开：CurrentPosition--> X:236.968 Y:340.768 Z:11.846
+a  3	2025/03/23 11:51:36.137	鼠标点击：X-
+a  3	2025/03/23 11:51:38.938	鼠标释放或离开：CurrentPosition--> X:113.001 Y:340.768 Z:11.846
+a  3	2025/03/23 11:51:39.090	鼠标点击：X-
+a  3	2025/03/23 11:51:39.658	鼠标释放或离开：CurrentPosition--> X:87.560 Y:340.768 Z:11.846
+a  3	2025/03/23 11:51:39.809	鼠标点击：X-
+a  3	2025/03/23 11:51:40.050	鼠标释放或离开：CurrentPosition--> X:76.803 Y:340.768 Z:11.846
+a  3	2025/03/23 11:51:41.523	鼠标点击：Y+
+a  3	2025/03/23 11:51:41.928	鼠标释放或离开：CurrentPosition--> X:75.046 Y:354.773 Z:11.846
+a  3	2025/03/23 11:51:42.122	鼠标点击：Y+
+a  3	2025/03/23 11:51:42.373	鼠标释放或离开：CurrentPosition--> X:75.046 Y:368.229 Z:11.846
+a  3	2025/03/23 11:51:44.224	鼠标释放或离开：CurrentPosition--> X:75.046 Y:370.380 Z:11.846
+a  3	2025/03/23 11:51:44.772	鼠标点击：X-
+a  3	2025/03/23 11:51:45.321	鼠标释放或离开：CurrentPosition--> X:51.801 Y:370.380 Z:11.846
+a  3	2025/03/23 11:51:45.776	鼠标释放或离开：CurrentPosition--> X:50.368 Y:370.380 Z:11.846
+a  3	2025/03/23 11:51:46.281	鼠标点击：Y-
+a  3	2025/03/23 11:51:46.442	鼠标释放或离开：CurrentPosition--> X:50.368 Y:365.951 Z:11.846
+a  3	2025/03/23 11:51:46.872	鼠标点击：X-
+a  3	2025/03/23 11:51:46.970	鼠标释放或离开：CurrentPosition--> X:50.368 Y:363.084 Z:11.846
+a  3	2025/03/23 11:51:47.900	鼠标点击：Y-
+a  3	2025/03/23 11:51:48.017	鼠标释放或离开：CurrentPosition--> X:45.636 Y:358.644 Z:11.846
+a  3	2025/03/23 11:51:49.000	鼠标释放或离开：CurrentPosition--> X:45.636 Y:357.568 Z:11.846
+a  3	2025/03/23 11:51:50.370	鼠标点击：X+
+a  3	2025/03/23 11:51:50.625	鼠标释放或离开：CurrentPosition--> X:50.313 Y:357.568 Z:11.846
+a  3	2025/03/23 11:51:51.321	鼠标点击：X-
+a  3	2025/03/23 11:51:51.442	鼠标释放或离开：CurrentPosition--> X:49.162 Y:357.568 Z:11.846
+a  3	2025/03/23 11:51:51.937	鼠标点击：Y+
+a  3	2025/03/23 11:51:52.039	鼠标释放或离开：CurrentPosition--> X:48.660 Y:357.568 Z:11.846
+a  3	2025/03/23 11:51:53.317	鼠标点击：Y-
+a  3	2025/03/23 11:51:53.386	鼠标释放或离开：CurrentPosition--> X:48.660 Y:359.912 Z:11.846
+a  3	2025/03/23 11:51:53.853	鼠标点击：X-
+a  3	2025/03/23 11:51:53.898	鼠标释放或离开：CurrentPosition--> X:48.660 Y:358.320 Z:11.846
+a  3	2025/03/23 11:51:54.513	鼠标释放或离开：CurrentPosition--> X:47.626 Y:358.320 Z:11.846
+a  3	2025/03/23 11:52:01.385	键盘按下：
+a  3	2025/03/23 11:52:01.589	键盘释放：CurrentPosition--> X:47.626 Y:358.320 Z:11.846
+a  3	2025/03/23 11:52:01.721	键盘按下：
+a  3	2025/03/23 11:52:02.072	键盘按下：
+a  3	2025/03/23 11:52:02.204	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Pattern Name
+a  3	2025/03/23 11:52:02.217	ShareParameters.bin文件中以下参数已经被修改：Track storage,Pattern Name
+a  3	2025/03/23 11:52:03.262	保存程序：20250319程序1
+a  3	2025/03/23 11:53:27.526	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	2025/03/23 11:53:27.541	手动模式
+a  3	2025/03/23 11:53:31.334	空运行
+a  3	2025/03/23 11:53:31.345	空运行
+a  3	2025/03/23 11:53:34.294	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2,运行模式2
+a  3	2025/03/23 11:53:34.322	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 11:53:34.534	涂胶运行
+a  3	2025/03/23 11:53:34.814	运行V test
+a  3	2025/03/23 11:53:34.838	键盘释放：CurrentPosition--> X:236.058 Y:111.802 Z:11.846
+a  3	2025/03/23 11:53:34.890	保存程序：20250319程序1
+a  3	2025/03/23 11:53:34.905	
+a  3	2025/03/23 11:53:36.299	ProcessingStarted
+a  3	2025/03/23 11:53:36.365	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:53:36.406	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:53:36.420	产品0重量	0.000g
+
+a  3	2025/03/23 11:53:36.460	ProcessedEnd
+a  3	2025/03/23 11:53:38.067	停止
+a  3	2025/03/23 11:53:40.585	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:53:40.642	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:342.116 Y:159.434 Z:33.794 Result:FALSE GTS_Code:0
+a  3	2025/03/23 11:53:40.652	{"SN":"","StartTime":"25-03-23 11:53:36","StopTime":"25-03-23 11:53:36","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:53:40.662	停止V test
+a  3	2025/03/23 11:53:42.717	停止
+a  3	2025/03/23 11:53:42.887	停止V test
+a  3	2025/03/23 11:53:54.630	模板4中第1行程序被修改:TeachMode:By Nozzle
+
+a  3	2025/03/23 11:53:57.582	键盘按下：
+a  3	2025/03/23 11:53:57.891	键盘按下：
+a  3	2025/03/23 11:53:57.993	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/23 11:53:58.018	TrackAndPar.bin文件中以下参数已经被修改：Track storage,FlowAlarmLimitSettingData
+a  3	2025/03/23 11:53:58.047	ShareParameters.bin文件中以下参数已经被修改：Track storage,FlowAlarmLimitSettingData
+a  3	2025/03/23 11:53:58.097	键盘释放：CurrentPosition--> X:342.116 Y:159.434 Z:33.794
+a  3	2025/03/23 11:53:58.107	键盘释放：CurrentPosition--> X:342.116 Y:159.434 Z:33.794
+a  3	2025/03/23 11:53:58.490	保存程序：20250319程序1
+a  3	2025/03/23 11:53:58.578	键盘释放：CurrentPosition--> X:342.116 Y:159.434 Z:33.794
+a  3	2025/03/23 11:54:01.405	停止
+a  3	2025/03/23 11:54:01.574	停止V test
+a  3	2025/03/23 11:54:07.970	涂胶运行
+a  3	2025/03/23 11:54:08.261	
+a  3	2025/03/23 11:54:08.278	运行V test
+a  3	2025/03/23 11:54:09.672	ProcessingStarted
+a  3	2025/03/23 11:54:09.735	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:54:09.764	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:54:09.791	产品0重量	0.000g
+
+a  3	2025/03/23 11:54:09.820	ProcessedEnd
+a  3	2025/03/23 11:54:12.004	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:54:17.964	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/23 11:54:17.982	{"SN":"","StartTime":"25-03-23 11:54:09","StopTime":"25-03-23 11:54:09","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:54:18.136	停止
+a  3	2025/03/23 11:54:18.535	停止V test
+a  3	2025/03/23 11:54:25.736	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Opening the conveyor belt,Numeric
+a  3	2025/03/23 11:54:25.745	离线模式
+a  3	2025/03/23 11:54:29.331	点胶运行
+a  3	2025/03/23 11:54:34.416	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Opening the conveyor belt
+a  3	2025/03/23 11:54:34.425	手动模式
+a  3	2025/03/23 11:54:35.963	涂胶运行
+a  3	2025/03/23 11:54:36.287	
+a  3	2025/03/23 11:54:36.322	运行V test
+a  3	2025/03/23 11:54:37.901	ProcessingStarted
+a  3	2025/03/23 11:54:37.967	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:54:37.999	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:54:38.110	产品0重量	0.000g
+
+a  3	2025/03/23 11:54:40.130	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:54:40.159	ProcessedEnd
+a  3	2025/03/23 11:54:43.088	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:54:49.056	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/23 11:54:49.549	{"SN":"","StartTime":"25-03-23 11:54:37","StopTime":"25-03-23 11:54:40","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:54:49.641	停止
+a  3	2025/03/23 11:54:49.651	停止V test
+a  3	2025/03/23 11:55:05.658	运行测试：开始
+a  3	2025/03/23 11:55:06.822	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:55:06.853	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:55:13.915	运行测试：开始
+a  3	2025/03/23 11:55:14.421	运行测试：停止
+a  3	2025/03/23 11:55:14.604	运行测试：停止
+a  3	2025/03/23 11:55:16.660	运行测试：开始
+a  3	2025/03/23 11:55:20.255	运行测试：停止
+a  3	2025/03/23 11:55:22.050	鼠标释放或离开：CurrentPosition--> X:85.578 Y:144.322 Z:5.000
+a  3	2025/03/23 11:55:22.510	鼠标点击：X-
+a  3	2025/03/23 11:55:23.531	鼠标释放或离开：CurrentPosition--> X:63.583 Y:144.322 Z:5.000
+a  3	2025/03/23 11:55:23.616	鼠标释放或离开：CurrentPosition--> X:63.583 Y:144.322 Z:5.000
+a  3	2025/03/23 11:55:59.029	停止
+a  3	2025/03/23 11:55:59.194	停止V test
+a  3	2025/03/23 11:56:02.720	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/23 11:56:02.765	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 11:56:02.782	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 11:56:02.884	涂胶运行
+a  3	2025/03/23 11:56:03.196	运行V test
+a  3	2025/03/23 11:56:03.215	键盘释放：CurrentPosition--> X:269.710 Y:203.656 Z:11.846
+a  3	2025/03/23 11:56:03.483	保存程序：20250319程序1
+a  3	2025/03/23 11:56:03.509	
+a  3	2025/03/23 11:56:04.575	ProcessingStarted
+a  3	2025/03/23 11:56:04.636	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:56:04.669	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:56:06.231	产品0重量	0.000g
+
+a  3	2025/03/23 11:56:09.411	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:56:09.429	ProcessedEnd
+a  3	2025/03/23 11:56:12.003	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:56:17.970	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/23 11:56:17.988	{"SN":"","StartTime":"25-03-23 11:56:04","StopTime":"25-03-23 11:56:09","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:56:18.105	停止
+a  3	2025/03/23 11:56:18.370	停止V test
+a  3	2025/03/23 11:56:26.002	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:45.844
+a  3	2025/03/23 11:56:47.089	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:45.844
+a  3	2025/03/23 11:56:56.200	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:45.844
+a  3	2025/03/23 11:57:03.312	停止
+a  3	2025/03/23 11:57:03.505	停止V test
+a  3	2025/03/23 11:57:11.452	运行测试：开始
+a  3	2025/03/23 11:57:16.173	运行测试：开始
+a  3	2025/03/23 11:57:17.563	运行测试：开始
+a  3	2025/03/23 11:57:18.321	运行测试：开始
+a  3	2025/03/23 11:57:19.081	运行测试：开始
+a  3	2025/03/23 11:57:19.277	运行测试：停止
+a  3	2025/03/23 11:57:29.524	模板->main(A)中第8行程序被删除
+a  3	2025/03/23 11:57:42.595	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/23 11:57:42.626	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 11:57:42.662	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 11:57:42.775	涂胶运行
+a  3	2025/03/23 11:57:43.055	运行V test
+a  3	2025/03/23 11:57:43.829	保存程序：20250319程序1
+a  3	2025/03/23 11:57:43.839	
+a  3	2025/03/23 11:57:44.624	ProcessingStarted
+a  3	2025/03/23 11:57:44.682	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:57:44.709	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:57:44.730	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:57:44.786	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:57:44.796	产品0重量	0.000g
+
+a  3	2025/03/23 11:57:46.092	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:57:46.148	产品0重量	0.000g
+
+a  3	2025/03/23 11:57:47.369	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:57:47.388	ProcessedEnd
+a  3	2025/03/23 11:57:50.322	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:57:56.288	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/23 11:57:56.322	{"SN":"","StartTime":"25-03-23 11:57:44","StopTime":"25-03-23 11:57:47","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]},{"TEMP":"4#1","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:57:56.453	停止
+a  3	2025/03/23 11:57:56.860	停止V test
+a  3	2025/03/23 11:58:23.046	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:45.844
+a  3	2025/03/23 11:58:24.132	涂胶运行
+a  3	2025/03/23 11:58:24.447	
+a  3	2025/03/23 11:58:24.463	运行V test
+a  3	2025/03/23 11:58:26.099	ProcessingStarted
+a  3	2025/03/23 11:58:26.238	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:58:26.247	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:58:26.259	ScanCodeNo.1 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:58:26.269	ScanCodeNo.2 X:0.000 Y:0.000 Z:0.000  Code: 
+a  3	2025/03/23 11:58:26.279	产品0重量	0.000g
+
+a  3	2025/03/23 11:58:27.244	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:58:27.290	产品0重量	0.000g
+
+a  3	2025/03/23 11:58:27.758	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 11:58:27.786	ProcessedEnd
+a  3	2025/03/23 11:58:30.711	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 11:58:31.294	停止
+a  3	2025/03/23 11:58:31.676	停止V test
+a  3	2025/03/23 11:58:33.541	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:342.102 Y:159.432 Z:5.000 Result:FALSE GTS_Code:0
+a  3	2025/03/23 11:58:33.810	{"SN":"","StartTime":"25-03-23 11:58:26","StopTime":"25-03-23 11:58:27","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["",""],"Code BoolArray":[false,false]},{"TEMP":"4#1","DONBarcode":["",""],"Code BoolArray":[false,false]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 11:58:33.831	停止
+a  3	2025/03/23 11:58:33.845	停止V test
+a  3	2025/03/23 11:58:42.970	ParametersOfSystemSetting.bin文件中以下参数已经被修改：EnableBarcodeOfProduct,Numeric
+a  3	2025/03/23 11:58:42.989	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	2025/03/23 11:58:43.018	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	2025/03/23 11:58:47.016	停止
+a  3	2025/03/23 11:58:47.206	停止V test
+a  3	2025/03/23 11:58:47.835	涂胶运行
+a  3	2025/03/23 11:58:48.117	
+a  3	2025/03/23 11:58:48.129	运行V test
+a  3	2025/03/23 11:58:49.122	ProcessingStarted
+a  3	2025/03/23 11:59:26.803	ScanCodeNo.1 X:305.876 Y:394.904 Z:11.846  Code:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP 
+a  3	2025/03/23 11:59:57.865	ScanCodeNo.2 X:305.876 Y:394.904 Z:11.846  Code:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP 
+a  3	2025/03/23 12:00:31.264	ScanCodeNo.1 X:155.396 Y:427.424 Z:11.846  Code:http://weixin.qq.com/r/11nXU4ICXEUXgurWFD9yCP 
+a  3	2025/03/23 12:00:56.139	ScanCodeNo.2 X:155.396 Y:427.424 Z:11.846  Code:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP 
+a  3	2025/03/23 12:00:56.272	产品0重量	0.000g
+
+a  3	2025/03/23 12:00:58.093	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 12:00:58.103	产品0重量	0.000g
+
+a  3	2025/03/23 12:00:58.836	报警代码 1037:流量超限！
+是否继续生产？	继续
+a  3	2025/03/23 12:00:58.870	ProcessedEnd
+a  3	2025/03/23 12:01:00.337	停止
+a  3	2025/03/23 12:01:02.254	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/23 12:01:02.318	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:342.116 Y:159.434 Z:34.394 Result:FALSE GTS_Code:0
+a  3	2025/03/23 12:01:02.331	{"SN":"","StartTime":"25-03-23 11:58:49","StopTime":"25-03-23 12:00:58","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[{"TEMP":"4#0","DONBarcode":["http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP"],"Code BoolArray":[true,true]},{"TEMP":"4#1","DONBarcode":["http://weixin.qq.com/r/11nXU4ICXEUXgurWFD9yCP","http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP"],"Code BoolArray":[true,true]}],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/23 12:01:02.341	停止V test
+a  3	2025/03/23 12:01:02.563	停止
+a  3	2025/03/23 12:01:02.750	停止V test
+a  3	2025/03/23 12:02:46.777	退出
+a  3	2025/03/23 12:02:46.828	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/23 12:11:16.774	设备初始化......
+a  3	2025/03/23 12:11:16.794	当前用户： a
+a  3	2025/03/23 12:11:16.811	打开程序：20250319程序1
+a  3	2025/03/23 12:11:17.456	复位按钮按下
+a  3	2025/03/23 12:11:42.297	设备复位完成
+a  3	2025/03/23 12:11:42.888	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/23 12:12:18.506	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/23 12:12:20.222	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/23 12:12:26.930	ParametersOfSystemSetting.bin文件中以下参数已经被修改：MarkRunningMode
+a  3	2025/03/23 12:12:26.965	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/03/23 12:14:48.939	键盘按下：
+a  3	2025/03/23 12:14:49.405	键盘按下：
+a  3	2025/03/23 12:14:49.541	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,TwoValveDistanceData
+a  3	2025/03/23 12:14:49.549	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage,Light source adjust,TwoValveDistanceData
+a  3	2025/03/23 12:14:50.287	保存程序：20250319程序1
+a  3	2025/03/23 12:14:50.394	键盘释放：CurrentPosition--> X:236.058 Y:111.802 Z:11.846
+a  3	2025/03/23 12:14:55.474	模板->main(A)中第8行程序被删除
+a  3	2025/03/23 12:15:22.669	模板->main(A)中第7行程序被删除
+a  3	2025/03/23 12:15:29.823	键盘按下：
+a  3	2025/03/23 12:15:30.136	键盘按下：
+a  3	2025/03/23 12:15:30.267	键盘释放：CurrentPosition--> X:236.058 Y:111.802 Z:11.846
+a  3	2025/03/23 12:15:30.275	键盘释放：CurrentPosition--> X:236.058 Y:111.802 Z:11.846
+a  3	2025/03/23 12:15:30.284	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 12:15:30.297	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	2025/03/23 12:15:31.144	保存程序：20250319程序1
+a  3	2025/03/23 12:15:31.267	键盘释放：CurrentPosition--> X:236.058 Y:111.802 Z:11.846
+a  3	2025/03/23 12:15:40.053	运行测试：开始
+a  3	2025/03/23 12:15:46.322	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/23 12:16:01.550	ScanCodeNo.1 X:72.818 Y:286.102 Z:11.846  Code:20250323121600175 
+a  3	2025/03/23 12:19:08.903	退出
+a  3	2025/03/23 12:19:08.948	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/23 17:59:01.061	设备激活时间已到期！

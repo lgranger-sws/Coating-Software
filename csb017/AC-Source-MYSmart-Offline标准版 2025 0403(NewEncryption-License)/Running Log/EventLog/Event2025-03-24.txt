@@ -1,0 +1,925 @@
+
+a  3	2025/03/24 20:40:52.485	设备初始化......
+a  3	2025/03/24 20:40:52.595	当前用户： a
+a  3	2025/03/24 20:40:52.612	打开程序：20250319程序1
+a  3	2025/03/24 20:40:53.659	复位按钮按下
+a  3	2025/03/24 20:41:14.090	设备复位完成
+a  3	2025/03/24 20:41:14.683	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 20:42:12.140	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/24 20:42:13.612	涂胶运行
+a  3	2025/03/24 20:42:13.815	
+a  3	2025/03/24 20:42:14.018	运行V test
+a  3	2025/03/24 20:42:18.554	ProcessingStarted
+a  3	2025/03/24 20:42:20.739	ProcessedEnd
+a  3	2025/03/24 20:42:23.719	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/24 20:42:29.690	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/24 20:42:29.697	{"SN":"","StartTime":"25-03-24 20:42:18","StopTime":"25-03-24 20:42:20","ProgramName":"20250319绋嬪簭1","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:42:35.090	停止
+a  3	2025/03/24 20:42:35.529	停止V test
+a  3	2025/03/24 20:42:35.763	停止
+a  3	2025/03/24 20:42:35.916	停止V test
+a  3	2025/03/24 20:42:39.893	涂胶运行
+a  3	2025/03/24 20:42:40.121	
+a  3	2025/03/24 20:42:40.254	运行V test
+a  3	2025/03/24 20:42:44.508	ProcessingStarted
+a  3	2025/03/24 20:42:48.277	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.310 Y:242.543 Result:TRUE ;Score:99.455
+a  3	2025/03/24 20:42:49.665	停止
+a  3	2025/03/24 20:42:51.720	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:37.897 Result:FALSE GTS_Code:0
+a  3	2025/03/24 20:42:51.849	产品0重量	0.000g
+
+a  3	2025/03/24 20:42:51.857	ProcessedEnd
+a  3	2025/03/24 20:42:51.868	{"SN":"","StartTime":"25-03-24 20:42:44","StopTime":"25-03-24 20:42:51","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:42:51.879	停止V test
+a  3	2025/03/24 20:42:53.809	停止
+a  3	2025/03/24 20:42:54.022	停止V test
+a  3	2025/03/24 20:42:54.901	涂胶运行
+a  3	2025/03/24 20:42:55.233	
+a  3	2025/03/24 20:42:55.361	运行V test
+a  3	2025/03/24 20:42:59.766	ProcessingStarted
+a  3	2025/03/24 20:43:03.528	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.411 Y:242.551 Result:TRUE ;Score:99.284
+a  3	2025/03/24 20:43:04.169	停止
+a  3	2025/03/24 20:45:00.587	设备初始化......
+a  3	2025/03/24 20:45:00.620	当前用户： a
+a  3	2025/03/24 20:45:00.636	打开程序：20250319程序1
+a  3	2025/03/24 20:45:00.827	复位按钮按下
+a  3	2025/03/24 20:45:21.251	设备复位完成
+a  3	2025/03/24 20:45:21.834	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 20:45:29.982	涂胶运行
+a  3	2025/03/24 20:45:30.354	
+a  3	2025/03/24 20:45:30.417	运行V test
+a  3	2025/03/24 20:45:35.037	ProcessingStarted
+a  3	2025/03/24 20:45:39.184	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.325 Y:242.536 Result:TRUE ;Score:99.009
+a  3	2025/03/24 20:45:39.478	停止
+a  3	2025/03/24 20:45:39.868	停止V test
+a  3	2025/03/24 20:45:40.100	停止
+a  3	2025/03/24 20:45:40.753	停止V test
+a  3	2025/03/24 20:45:44.057	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:86.412 Y:242.202 Z:5.000 Result:FALSE GTS_Code:0
+a  3	2025/03/24 20:45:44.162	产品0重量	0.000g
+
+a  3	2025/03/24 20:45:44.201	ProcessedEnd
+a  3	2025/03/24 20:45:44.211	{"SN":"","StartTime":"25-03-24 20:45:35","StopTime":"25-03-24 20:45:44","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:49:18.390	键盘释放：CurrentPosition--> X:86.412 Y:242.202 Z:5.000
+a  3	2025/03/24 20:49:18.693	键盘释放：CurrentPosition--> X:86.412 Y:242.202 Z:5.000
+a  3	2025/03/24 20:52:09.402	涂胶运行
+a  3	2025/03/24 20:52:09.824	
+a  3	2025/03/24 20:52:09.844	运行V test
+a  3	2025/03/24 20:52:14.087	ProcessingStarted
+a  3	2025/03/24 20:52:17.495	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.419 Y:242.545 Result:TRUE ;Score:98.983
+a  3	2025/03/24 20:52:22.891	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.578 Y:144.322 Z:45.844 Result:TRUE GTS_Code:0
+a  3	2025/03/24 20:52:24.362	停止
+a  3	2025/03/24 20:52:24.793	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 20:52:24.812	产品0重量	0.000g
+
+a  3	2025/03/24 20:52:24.822	ProcessedEnd
+a  3	2025/03/24 20:52:24.832	{"SN":"","StartTime":"25-03-24 20:52:14","StopTime":"25-03-24 20:52:24","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:52:24.842	停止V test
+a  3	2025/03/24 20:52:25.036	停止
+a  3	2025/03/24 20:52:25.203	停止V test
+a  3	2025/03/24 20:52:25.317	前位
+a  3	2025/03/24 20:52:42.872	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,Numeric
+a  3	2025/03/24 20:52:42.898	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,清洗设置,吐胶设置,After Clear to Purge
+a  3	2025/03/24 20:52:42.905	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Light source adjust,清洗设置,吐胶设置,After Clear to Purge
+a  3	2025/03/24 20:52:46.027	涂胶运行
+a  3	2025/03/24 20:52:46.460	
+a  3	2025/03/24 20:52:46.497	运行V test
+a  3	2025/03/24 20:52:50.677	ProcessingStarted
+a  3	2025/03/24 20:52:54.552	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.419 Y:242.541 Result:TRUE ;Score:99.381
+a  3	2025/03/24 20:52:55.862	停止
+a  3	2025/03/24 20:52:56.334	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.582 Y:144.609 Z:5.000 Result:FALSE GTS_Code:0
+a  3	2025/03/24 20:52:56.344	产品0重量	0.000g
+
+a  3	2025/03/24 20:52:56.354	ProcessedEnd
+a  3	2025/03/24 20:52:56.364	{"SN":"","StartTime":"25-03-24 20:52:50","StopTime":"25-03-24 20:52:56","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:52:56.374	停止V test
+a  3	2025/03/24 20:52:56.574	停止
+a  3	2025/03/24 20:52:56.759	停止V test
+a  3	2025/03/24 20:53:10.489	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 20:53:10.511	TrackAndPar.bin文件中以下参数已经被修改：After Clear to Purge
+a  3	2025/03/24 20:53:10.538	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,After Clear to Purge
+a  3	2025/03/24 20:53:14.321	涂胶运行
+a  3	2025/03/24 20:53:14.774	
+a  3	2025/03/24 20:53:14.784	运行V test
+a  3	2025/03/24 20:53:18.580	ProcessingStarted
+a  3	2025/03/24 20:53:22.353	自动识别1_Mark：OneMark:Set-->X:86.415 Y:242.458 Z:19.245  Match-->X:86.420 Y:242.538 Result:TRUE ;Score:99.453
+a  3	2025/03/24 20:53:23.575	停止
+a  3	2025/03/24 20:53:23.993	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:85.709 Y:159.712 Z:5.000 Result:FALSE GTS_Code:0
+a  3	2025/03/24 20:53:24.010	产品0重量	0.000g
+
+a  3	2025/03/24 20:53:24.022	ProcessedEnd
+a  3	2025/03/24 20:53:24.032	{"SN":"","StartTime":"25-03-24 20:53:18","StopTime":"25-03-24 20:53:23","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:53:24.042	停止V test
+a  3	2025/03/24 20:53:24.225	停止
+a  3	2025/03/24 20:53:24.408	停止V test
+a  3	2025/03/24 20:53:29.412	键盘按下：
+a  3	2025/03/24 20:53:29.603	键盘按下：
+a  3	2025/03/24 20:53:29.675	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:5.000
+a  3	2025/03/24 20:53:29.719	键盘释放：CurrentPosition--> X:85.578 Y:144.322 Z:5.000
+a  3	2025/03/24 20:53:29.739	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 20:53:29.769	TrackAndPar.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
+a  3	2025/03/24 20:53:29.785	ShareParameters.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
+a  3	2025/03/24 20:53:30.788	保存程序：20250319程序1
+a  3	2025/03/24 20:53:31.851	涂胶运行
+a  3	2025/03/24 20:53:32.137	
+a  3	2025/03/24 20:53:32.157	运行V test
+a  3	2025/03/24 20:53:36.650	ProcessingStarted
+a  3	2025/03/24 20:53:37.894	停止
+a  3	2025/03/24 20:53:38.342	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:FALSE Valve:0.00
+a  3	2025/03/24 20:53:38.364	产品0重量	0.000g
+
+a  3	2025/03/24 20:53:38.374	ProcessedEnd
+a  3	2025/03/24 20:53:38.384	{"SN":"","StartTime":"25-03-24 20:53:36","StopTime":"25-03-24 20:53:38","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:53:38.398	停止V test
+a  3	2025/03/24 20:53:38.575	停止
+a  3	2025/03/24 20:53:38.740	停止V test
+a  3	2025/03/24 20:53:42.927	前位
+a  3	2025/03/24 20:53:45.681	涂胶运行
+a  3	2025/03/24 20:53:45.964	
+a  3	2025/03/24 20:53:45.985	运行V test
+a  3	2025/03/24 20:53:50.421	ProcessingStarted
+a  3	2025/03/24 20:53:51.466	停止
+a  3	2025/03/24 20:53:51.917	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:FALSE Valve:0.00
+a  3	2025/03/24 20:53:51.926	产品0重量	0.000g
+
+a  3	2025/03/24 20:53:51.936	ProcessedEnd
+a  3	2025/03/24 20:53:51.946	{"SN":"","StartTime":"25-03-24 20:53:50","StopTime":"25-03-24 20:53:51","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:53:51.965	停止V test
+a  3	2025/03/24 20:53:52.078	前位
+a  3	2025/03/24 20:53:53.582	停止
+a  3	2025/03/24 20:53:53.752	停止V test
+a  3	2025/03/24 20:53:57.088	涂胶运行
+a  3	2025/03/24 20:53:57.352	
+a  3	2025/03/24 20:53:57.373	运行V test
+a  3	2025/03/24 20:53:58.039	ProcessingStarted
+a  3	2025/03/24 20:53:59.651	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 20:54:08.439	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2025/03/24 20:54:08.457	产品0重量	0.000g
+
+a  3	2025/03/24 20:54:08.478	ProcessedEnd
+a  3	2025/03/24 20:54:10.992	停止
+a  3	2025/03/24 20:54:11.434	自动运行到清洗位置:Result:TRUE
+a  3	2025/03/24 20:54:11.448	自动运行至吐胶位置:Setting--->X:85.578 Y:144.322 Z:45.844 Current--->X:342.116 Y:159.434 Z:34.494 Result:FALSE GTS_Code:0
+a  3	2025/03/24 20:54:11.457	{"SN":"","StartTime":"25-03-24 20:53:58","StopTime":"25-03-24 20:54:08","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:54:11.478	停止V test
+a  3	2025/03/24 20:54:11.669	停止
+a  3	2025/03/24 20:54:11.857	停止V test
+a  3	2025/03/24 20:54:12.139	前位
+a  3	2025/03/24 20:54:15.925	鼠标释放或离开：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 20:54:39.501	涂胶运行
+a  3	2025/03/24 20:54:39.778	
+a  3	2025/03/24 20:54:39.795	运行V test
+a  3	2025/03/24 20:54:43.991	ProcessingStarted
+a  3	2025/03/24 20:54:45.597	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.25
+a  3	2025/03/24 20:54:46.269	停止
+a  3	2025/03/24 20:54:46.694	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 20:54:46.708	产品0重量	0.000g
+
+a  3	2025/03/24 20:54:46.716	ProcessedEnd
+a  3	2025/03/24 20:54:46.736	{"SN":"","StartTime":"25-03-24 20:54:43","StopTime":"25-03-24 20:54:46","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:54:46.745	停止V test
+a  3	2025/03/24 20:54:46.922	停止
+a  3	2025/03/24 20:54:47.101	停止V test
+a  3	2025/03/24 20:54:53.105	涂胶运行
+a  3	2025/03/24 20:54:53.456	
+a  3	2025/03/24 20:54:53.472	运行V test
+a  3	2025/03/24 20:55:09.264	停止
+a  3	2025/03/24 20:55:09.705	停止V test
+a  3	2025/03/24 20:55:09.936	停止
+a  3	2025/03/24 20:55:10.128	停止V test
+a  3	2025/03/24 20:55:23.225	涂胶运行
+a  3	2025/03/24 20:55:23.665	
+a  3	2025/03/24 20:55:23.688	运行V test
+a  3	2025/03/24 20:55:30.002	停止
+a  3	2025/03/24 20:55:30.432	停止V test
+a  3	2025/03/24 20:55:30.683	停止
+a  3	2025/03/24 20:55:30.904	停止V test
+a  3	2025/03/24 20:55:37.968	涂胶运行
+a  3	2025/03/24 20:55:38.273	
+a  3	2025/03/24 20:55:38.287	运行V test
+a  3	2025/03/24 20:55:42.113	ProcessingStarted
+a  3	2025/03/24 20:55:43.214	停止
+a  3	2025/03/24 20:55:43.688	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:FALSE Valve:0.00
+a  3	2025/03/24 20:55:43.700	产品0重量	0.000g
+
+a  3	2025/03/24 20:55:43.710	ProcessedEnd
+a  3	2025/03/24 20:55:43.724	{"SN":"","StartTime":"25-03-24 20:55:42","StopTime":"25-03-24 20:55:43","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:55:43.742	停止V test
+a  3	2025/03/24 20:55:43.918	停止
+a  3	2025/03/24 20:55:44.103	停止V test
+a  3	2025/03/24 20:55:46.415	涂胶运行
+a  3	2025/03/24 20:55:46.723	
+a  3	2025/03/24 20:55:46.769	运行V test
+a  3	2025/03/24 20:55:50.695	ProcessingStarted
+a  3	2025/03/24 20:55:52.000	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.20
+a  3	2025/03/24 20:55:58.859	停止
+a  3	2025/03/24 20:55:59.294	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 20:55:59.306	产品0重量	0.000g
+
+a  3	2025/03/24 20:55:59.317	ProcessedEnd
+a  3	2025/03/24 20:55:59.338	{"SN":"","StartTime":"25-03-24 20:55:50","StopTime":"25-03-24 20:55:59","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:55:59.347	停止V test
+a  3	2025/03/24 20:55:59.532	停止
+a  3	2025/03/24 20:55:59.724	停止V test
+a  3	2025/03/24 20:56:03.289	键盘按下：
+a  3	2025/03/24 20:56:03.545	键盘按下：
+a  3	2025/03/24 20:56:03.644	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 20:56:03.664	键盘释放：CurrentPosition--> X:89.406 Y:307.760 Z:29.181
+a  3	2025/03/24 20:56:03.699	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 20:56:03.724	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 20:56:03.736	键盘释放：CurrentPosition--> X:89.406 Y:307.760 Z:29.181
+a  3	2025/03/24 20:56:04.695	保存程序：20250319程序1
+a  3	2025/03/24 20:56:08.303	涂胶运行
+a  3	2025/03/24 20:56:08.601	
+a  3	2025/03/24 20:56:08.614	运行V test
+a  3	2025/03/24 20:56:12.608	ProcessingStarted
+a  3	2025/03/24 20:56:14.554	停止
+a  3	2025/03/24 20:56:14.966	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 20:56:14.976	产品0重量	0.000g
+
+a  3	2025/03/24 20:56:14.986	ProcessedEnd
+a  3	2025/03/24 20:56:14.996	{"SN":"","StartTime":"25-03-24 20:56:12","StopTime":"25-03-24 20:56:14","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 20:56:15.007	停止V test
+a  3	2025/03/24 20:56:15.195	停止
+a  3	2025/03/24 20:56:15.393	停止V test
+a  3	2025/03/24 21:04:48.265	设备初始化......
+a  3	2025/03/24 21:04:48.298	当前用户： a
+a  3	2025/03/24 21:04:48.319	打开程序：20250319程序1
+a  3	2025/03/24 21:04:48.615	复位按钮按下
+a  3	2025/03/24 21:05:13.602	设备复位完成
+a  3	2025/03/24 21:05:14.144	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:05:40.699	涂胶运行
+a  3	2025/03/24 21:05:41.078	
+a  3	2025/03/24 21:05:41.091	运行V test
+a  3	2025/03/24 21:05:45.289	ProcessingStarted
+a  3	2025/03/24 21:05:48.534	停止
+a  3	2025/03/24 21:05:48.975	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:05:49.009	产品0重量	0.000g
+
+a  3	2025/03/24 21:05:49.029	ProcessedEnd
+a  3	2025/03/24 21:05:49.042	{"SN":"","StartTime":"25-03-24 21:05:45","StopTime":"25-03-24 21:05:48","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:05:49.052	停止V test
+a  3	2025/03/24 21:05:49.237	停止
+a  3	2025/03/24 21:05:49.442	停止V test
+a  3	2025/03/24 21:06:50.599	键盘按下：
+a  3	2025/03/24 21:06:50.812	键盘按下：
+a  3	2025/03/24 21:06:50.866	键盘释放：CurrentPosition--> X:132.508 Y:307.760 Z:75.275
+a  3	2025/03/24 21:06:50.939	键盘释放：CurrentPosition--> X:132.508 Y:307.760 Z:75.275
+a  3	2025/03/24 21:06:50.957	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 21:06:50.980	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:06:50.996	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:06:52.058	保存程序：20250319程序1
+a  3	2025/03/24 21:06:54.460	停止
+a  3	2025/03/24 21:06:54.677	停止V test
+a  3	2025/03/24 21:06:55.463	涂胶运行
+a  3	2025/03/24 21:06:55.736	
+a  3	2025/03/24 21:06:55.746	运行V test
+a  3	2025/03/24 21:07:00.185	ProcessingStarted
+a  3	2025/03/24 21:07:01.894	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:07:04.706	停止
+a  3	2025/03/24 21:07:05.091	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:07:05.104	产品0重量	0.000g
+
+a  3	2025/03/24 21:07:05.120	ProcessedEnd
+a  3	2025/03/24 21:07:05.137	{"SN":"","StartTime":"25-03-24 21:07:00","StopTime":"25-03-24 21:07:04","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:07:05.146	停止V test
+a  3	2025/03/24 21:07:05.329	停止
+a  3	2025/03/24 21:07:05.508	停止V test
+a  3	2025/03/24 21:09:47.464	涂胶运行
+a  3	2025/03/24 21:09:47.729	
+a  3	2025/03/24 21:09:47.754	运行V test
+a  3	2025/03/24 21:09:51.979	ProcessingStarted
+a  3	2025/03/24 21:09:53.686	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:09:56.579	停止
+a  3	2025/03/24 21:09:57.038	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:09:57.058	产品0重量	0.000g
+
+a  3	2025/03/24 21:09:57.068	ProcessedEnd
+a  3	2025/03/24 21:09:57.084	{"SN":"","StartTime":"25-03-24 21:09:51","StopTime":"25-03-24 21:09:56","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:09:57.094	停止V test
+a  3	2025/03/24 21:09:57.280	停止
+a  3	2025/03/24 21:09:57.482	停止V test
+a  3	2025/03/24 21:12:58.870	键盘释放：CurrentPosition--> X:129.100 Y:307.760 Z:29.241
+a  3	2025/03/24 21:12:59.093	键盘释放：CurrentPosition--> X:129.100 Y:307.760 Z:29.241
+a  3	2025/03/24 21:13:00.117	涂胶运行
+a  3	2025/03/24 21:13:00.399	
+a  3	2025/03/24 21:13:00.409	运行V test
+a  3	2025/03/24 21:13:05.202	ProcessingStarted
+a  3	2025/03/24 21:13:06.909	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:13:09.628	停止
+a  3	2025/03/24 21:13:10.034	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:13:10.044	产品0重量	0.000g
+
+a  3	2025/03/24 21:13:10.054	ProcessedEnd
+a  3	2025/03/24 21:13:10.064	{"SN":"","StartTime":"25-03-24 21:13:05","StopTime":"25-03-24 21:13:09","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:13:10.085	停止V test
+a  3	2025/03/24 21:13:10.295	停止
+a  3	2025/03/24 21:13:10.476	停止V test
+a  3	2025/03/24 21:14:23.759	键盘释放：CurrentPosition--> X:130.958 Y:307.760 Z:29.241
+a  3	2025/03/24 21:14:23.990	键盘释放：CurrentPosition--> X:130.958 Y:307.760 Z:29.241
+a  3	2025/03/24 21:14:27.539	涂胶运行
+a  3	2025/03/24 21:14:27.818	
+a  3	2025/03/24 21:14:27.836	运行V test
+a  3	2025/03/24 21:14:31.862	ProcessingStarted
+a  3	2025/03/24 21:14:33.577	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:14:35.523	停止
+a  3	2025/03/24 21:14:35.953	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:14:35.963	产品0重量	0.000g
+
+a  3	2025/03/24 21:14:35.973	ProcessedEnd
+a  3	2025/03/24 21:14:35.989	{"SN":"","StartTime":"25-03-24 21:14:31","StopTime":"25-03-24 21:14:35","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:14:36.006	停止V test
+a  3	2025/03/24 21:14:36.192	停止
+a  3	2025/03/24 21:14:36.389	停止V test
+a  3	2025/03/24 21:17:28.679	涂胶运行
+a  3	2025/03/24 21:17:28.940	
+a  3	2025/03/24 21:17:28.961	运行V test
+a  3	2025/03/24 21:17:33.269	ProcessingStarted
+a  3	2025/03/24 21:17:34.966	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.25
+a  3	2025/03/24 21:17:36.764	停止
+a  3	2025/03/24 21:17:37.163	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:17:37.191	产品0重量	0.000g
+
+a  3	2025/03/24 21:17:37.204	ProcessedEnd
+a  3	2025/03/24 21:17:37.220	{"SN":"","StartTime":"25-03-24 21:17:33","StopTime":"25-03-24 21:17:36","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:17:37.232	停止V test
+a  3	2025/03/24 21:17:37.509	停止
+a  3	2025/03/24 21:17:37.689	停止V test
+a  3	2025/03/24 21:18:10.033	涂胶运行
+a  3	2025/03/24 21:18:10.294	
+a  3	2025/03/24 21:18:10.311	运行V test
+a  3	2025/03/24 21:18:14.634	ProcessingStarted
+a  3	2025/03/24 21:18:16.339	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.25
+a  3	2025/03/24 21:18:17.354	停止
+a  3	2025/03/24 21:18:17.723	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:18:17.777	产品0重量	0.000g
+
+a  3	2025/03/24 21:18:17.787	ProcessedEnd
+a  3	2025/03/24 21:18:17.798	{"SN":"","StartTime":"25-03-24 21:18:14","StopTime":"25-03-24 21:18:17","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:18:17.808	停止V test
+a  3	2025/03/24 21:18:18.009	停止
+a  3	2025/03/24 21:18:18.191	停止V test
+a  3	2025/03/24 21:20:06.192	设备初始化......
+a  3	2025/03/24 21:20:06.231	当前用户： a
+a  3	2025/03/24 21:20:06.241	打开程序：20250319程序1
+a  3	2025/03/24 21:20:06.778	复位按钮按下
+a  3	2025/03/24 21:20:29.410	设备复位完成
+a  3	2025/03/24 21:20:29.943	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:20:30.735	涂胶运行
+a  3	2025/03/24 21:20:31.097	
+a  3	2025/03/24 21:20:31.127	运行V test
+a  3	2025/03/24 21:20:36.128	ProcessingStarted
+a  3	2025/03/24 21:20:37.936	运动到激光探高位置 ：Laser DetectNo.1 X:194.688 Y:151.082 Z:15.000  Result:TRUE Valve:6.23
+a  3	2025/03/24 21:20:38.849	停止
+a  3	2025/03/24 21:20:39.262	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:20:39.273	产品0重量	0.000g
+
+a  3	2025/03/24 21:20:39.284	ProcessedEnd
+a  3	2025/03/24 21:20:39.298	{"SN":"","StartTime":"25-03-24 21:20:36","StopTime":"25-03-24 21:20:39","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:20:39.314	停止V test
+a  3	2025/03/24 21:20:39.540	停止
+a  3	2025/03/24 21:20:39.766	停止V test
+a  3	2025/03/24 21:24:19.030	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Laser Type,Numeric
+a  3	2025/03/24 21:24:19.048	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/03/24 21:24:19.075	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/03/24 21:24:22.698	鼠标释放或离开：CurrentPosition--> X:143.516 Y:307.760 Z:5.000
+a  3	2025/03/24 21:27:56.600	设备初始化......
+a  3	2025/03/24 21:27:56.632	当前用户： a
+a  3	2025/03/24 21:27:56.653	打开程序：20250319程序1
+a  3	2025/03/24 21:27:56.836	复位按钮按下
+a  3	2025/03/24 21:28:19.529	设备复位完成
+a  3	2025/03/24 21:28:20.045	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:30:54.472	键盘按下：
+a  3	2025/03/24 21:30:54.632	键盘按下：
+a  3	2025/03/24 21:30:54.737	键盘释放：CurrentPosition--> X:128.646 Y:224.054 Z:15.000
+a  3	2025/03/24 21:30:54.762	ValveAndCalibretingData.bin文件中以下参数已经被修改：LaserToCameraOffsetData
+a  3	2025/03/24 21:30:54.784	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,TwoValveDistanceData
+a  3	2025/03/24 21:30:54.813	键盘释放：CurrentPosition--> X:128.646 Y:224.054 Z:15.000
+a  3	2025/03/24 21:30:54.836	ShareParameters.bin文件中以下参数已经被修改：Light source adjust,TwoValveDistanceData
+a  3	2025/03/24 21:30:55.831	保存程序：20250319程序1
+a  3	2025/03/24 21:30:57.222	涂胶运行
+a  3	2025/03/24 21:30:57.483	
+a  3	2025/03/24 21:30:57.506	运行V test
+a  3	2025/03/24 21:31:01.473	ProcessingStarted
+a  3	2025/03/24 21:31:03.050	运动到激光探高位置 ：Laser DetectNo.1 X:193.716 Y:151.182 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:31:07.938	停止
+a  3	2025/03/24 21:31:08.328	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:31:08.342	产品0重量	0.000g
+
+a  3	2025/03/24 21:31:08.351	ProcessedEnd
+a  3	2025/03/24 21:31:08.362	{"SN":"","StartTime":"25-03-24 21:31:01","StopTime":"25-03-24 21:31:08","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:31:08.382	停止V test
+a  3	2025/03/24 21:31:08.563	停止
+a  3	2025/03/24 21:31:08.775	停止V test
+a  3	2025/03/24 21:31:47.072	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Laser Type,Numeric
+a  3	2025/03/24 21:31:47.099	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/03/24 21:31:47.130	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	2025/03/24 21:31:51.053	涂胶运行
+a  3	2025/03/24 21:31:51.312	
+a  3	2025/03/24 21:31:51.326	运行V test
+a  3	2025/03/24 21:31:55.508	ProcessingStarted
+a  3	2025/03/24 21:31:57.214	运动到激光探高位置 ：Laser DetectNo.1 X:193.716 Y:151.182 Z:15.000  Result:TRUE Valve:6.21
+a  3	2025/03/24 21:31:59.772	停止
+a  3	2025/03/24 21:32:00.188	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:32:00.245	产品0重量	0.000g
+
+a  3	2025/03/24 21:32:00.259	ProcessedEnd
+a  3	2025/03/24 21:32:00.269	{"SN":"","StartTime":"25-03-24 21:31:55","StopTime":"25-03-24 21:31:59","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:32:00.278	停止V test
+a  3	2025/03/24 21:32:00.553	停止
+a  3	2025/03/24 21:32:00.736	停止V test
+a  3	2025/03/24 21:33:25.562	设备初始化......
+a  3	2025/03/24 21:33:25.603	当前用户： a
+a  3	2025/03/24 21:33:25.612	打开程序：20250319程序1
+a  3	2025/03/24 21:33:25.717	复位按钮按下
+a  3	2025/03/24 21:33:49.197	设备复位完成
+a  3	2025/03/24 21:33:49.764	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:34:07.590	涂胶运行
+a  3	2025/03/24 21:34:07.852	
+a  3	2025/03/24 21:34:07.870	运行V test
+a  3	2025/03/24 21:34:11.972	ProcessingStarted
+a  3	2025/03/24 21:34:13.835	运动到激光探高位置 ：Laser DetectNo.1 X:193.716 Y:151.182 Z:15.000  Result:TRUE Valve:6.26
+a  3	2025/03/24 21:34:15.710	停止
+a  3	2025/03/24 21:34:16.171	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:34:16.181	产品0重量	0.000g
+
+a  3	2025/03/24 21:34:16.195	ProcessedEnd
+a  3	2025/03/24 21:34:16.204	{"SN":"","StartTime":"25-03-24 21:34:11","StopTime":"25-03-24 21:34:15","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:34:16.217	停止V test
+a  3	2025/03/24 21:34:16.408	停止
+a  3	2025/03/24 21:34:16.589	停止V test
+a  3	2025/03/24 21:36:06.451	键盘释放：CurrentPosition--> X:141.698 Y:307.760 Z:86.985
+a  3	2025/03/24 21:36:06.530	键盘释放：CurrentPosition--> X:141.698 Y:307.760 Z:86.985
+a  3	2025/03/24 21:36:10.884	键盘按下：
+a  3	2025/03/24 21:36:11.095	键盘按下：
+a  3	2025/03/24 21:36:11.202	键盘释放：CurrentPosition--> X:141.698 Y:307.760 Z:86.985
+a  3	2025/03/24 21:36:11.224	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 21:36:11.248	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,TwoValveDistanceData
+a  3	2025/03/24 21:36:11.273	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,TwoValveDistanceData
+a  3	2025/03/24 21:36:11.303	键盘释放：CurrentPosition--> X:141.698 Y:307.760 Z:86.985
+a  3	2025/03/24 21:36:12.151	保存程序：20250319程序1
+a  3	2025/03/24 21:36:15.884	涂胶运行
+a  3	2025/03/24 21:36:16.179	
+a  3	2025/03/24 21:36:16.205	运行V test
+a  3	2025/03/24 21:36:20.272	ProcessingStarted
+a  3	2025/03/24 21:36:22.733	停止
+a  3	2025/03/24 21:36:23.107	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:36:23.117	产品0重量	0.000g
+
+a  3	2025/03/24 21:36:23.127	ProcessedEnd
+a  3	2025/03/24 21:36:23.142	{"SN":"","StartTime":"25-03-24 21:36:20","StopTime":"25-03-24 21:36:22","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:36:23.159	停止V test
+a  3	2025/03/24 21:36:23.354	停止
+a  3	2025/03/24 21:36:23.544	停止V test
+a  3	2025/03/24 21:43:18.242	设备初始化......
+a  3	2025/03/24 21:43:18.283	当前用户： a
+a  3	2025/03/24 21:43:18.292	打开程序：20250319程序1
+a  3	2025/03/24 21:43:18.642	复位按钮按下
+a  3	2025/03/24 21:43:43.644	设备复位完成
+a  3	2025/03/24 21:43:44.187	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:44:56.394	模板3中第1行程序被修改:Pos:{}
+
+a  3	2025/03/24 21:46:31.673	模板3中第1行程序被修改:Pos:{}
+
+a  3	2025/03/24 21:47:07.051	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Laser选择
+a  3	2025/03/24 21:47:16.977	键盘按下：
+a  3	2025/03/24 21:47:17.218	键盘按下：
+a  3	2025/03/24 21:47:17.288	键盘释放：CurrentPosition--> X:144.442 Y:162.714 Z:15.000
+a  3	2025/03/24 21:47:17.330	键盘释放：CurrentPosition--> X:144.442 Y:162.714 Z:15.000
+a  3	2025/03/24 21:47:18.348	保存程序：20250319程序1
+a  3	2025/03/24 21:47:22.067	涂胶运行
+a  3	2025/03/24 21:47:22.356	
+a  3	2025/03/24 21:47:22.369	运行V test
+a  3	2025/03/24 21:47:26.361	ProcessingStarted
+a  3	2025/03/24 21:47:28.392	停止
+a  3	2025/03/24 21:47:28.806	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:47:28.816	产品0重量	0.000g
+
+a  3	2025/03/24 21:47:28.826	ProcessedEnd
+a  3	2025/03/24 21:47:28.840	{"SN":"","StartTime":"25-03-24 21:47:26","StopTime":"25-03-24 21:47:28","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:47:28.860	停止V test
+a  3	2025/03/24 21:47:29.050	停止
+a  3	2025/03/24 21:47:29.252	停止V test
+a  3	2025/03/24 21:47:33.312	键盘按下：
+a  3	2025/03/24 21:47:33.570	键盘按下：
+a  3	2025/03/24 21:47:33.694	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2025/03/24 21:47:33.720	键盘释放：CurrentPosition--> X:139.540 Y:307.760 Z:75.275
+a  3	2025/03/24 21:47:33.741	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:47:33.787	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:47:33.814	键盘释放：CurrentPosition--> X:139.540 Y:307.760 Z:75.275
+a  3	2025/03/24 21:47:34.289	保存程序：20250319程序1
+a  3	2025/03/24 21:48:06.233	键盘释放：CurrentPosition--> X:139.540 Y:307.760 Z:75.275
+a  3	2025/03/24 21:48:06.256	键盘释放：CurrentPosition--> X:139.540 Y:307.760 Z:75.275
+a  3	2025/03/24 21:48:09.785	键盘按下：
+a  3	2025/03/24 21:48:10.012	键盘按下：
+a  3	2025/03/24 21:48:10.121	键盘释放：CurrentPosition--> X:139.540 Y:307.760 Z:75.275
+a  3	2025/03/24 21:48:10.832	保存程序：20250319程序1
+a  3	2025/03/24 21:48:11.860	涂胶运行
+a  3	2025/03/24 21:48:12.269	
+a  3	2025/03/24 21:48:12.287	运行V test
+a  3	2025/03/24 21:48:15.516	停止
+a  3	2025/03/24 21:48:15.942	停止V test
+a  3	2025/03/24 21:48:48.899	涂胶运行
+a  3	2025/03/24 21:48:49.197	
+a  3	2025/03/24 21:48:49.211	运行V test
+a  3	2025/03/24 21:48:53.283	停止
+a  3	2025/03/24 21:48:53.720	停止V test
+a  3	2025/03/24 21:49:01.554	涂胶运行
+a  3	2025/03/24 21:49:01.845	
+a  3	2025/03/24 21:49:01.867	运行V test
+a  3	2025/03/24 21:49:06.230	ProcessingStarted
+a  3	2025/03/24 21:49:07.938	运动到激光探高位置 ：Laser DetectNo.1 X:193.716 Y:151.182 Z:15.000  Result:TRUE Valve:6.29
+a  3	2025/03/24 21:49:09.761	停止
+a  3	2025/03/24 21:49:10.135	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	2025/03/24 21:49:10.149	产品0重量	0.000g
+
+a  3	2025/03/24 21:49:10.169	ProcessedEnd
+a  3	2025/03/24 21:49:10.179	{"SN":"","StartTime":"25-03-24 21:49:06","StopTime":"25-03-24 21:49:09","ProgramName":"20250319绋嬪簭1","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/03/24 21:49:10.189	停止V test
+a  3	2025/03/24 21:49:10.391	停止
+a  3	2025/03/24 21:49:10.577	停止V test
+a  3	2025/03/24 21:51:40.705	键盘释放：CurrentPosition--> X:143.162 Y:307.760 Z:87.015
+a  3	2025/03/24 21:51:40.817	键盘释放：CurrentPosition--> X:143.162 Y:307.760 Z:87.015
+a  3	2025/03/24 21:56:39.621	设备初始化......
+a  3	2025/03/24 21:56:39.663	当前用户： a
+a  3	2025/03/24 21:56:39.674	打开程序：20250319程序1
+a  3	2025/03/24 21:56:39.907	复位按钮按下
+a  3	2025/03/24 21:57:05.334	设备复位完成
+a  3	2025/03/24 21:57:05.828	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 21:57:37.492	键盘按下：
+a  3	2025/03/24 21:57:37.687	键盘按下：
+a  3	2025/03/24 21:57:37.751	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/24 21:57:37.785	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/03/24 21:57:37.807	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:57:37.827	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2025/03/24 21:57:38.796	保存程序：20250319程序1
+a  3	2025/03/24 21:58:09.566	手动清胶
+a  3	2025/03/24 21:58:10.697	停止
+a  3	2025/03/24 21:58:10.744	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 21:58:10.772	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 21:58:10.780	停止V test
+a  3	2025/03/24 21:58:10.984	停止
+a  3	2025/03/24 21:58:11.006	停止V test
+a  3	2025/03/24 21:58:14.174	手动清胶
+a  3	2025/03/24 21:58:16.705	停止
+a  3	2025/03/24 21:58:16.852	停止V test
+a  3	2025/03/24 21:58:17.051	手动点击吐胶按钮，目标位置:(From X:54.626,Y:92.124,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:58:18.509	手动清胶
+a  3	2025/03/24 21:58:19.428	停止
+a  3	2025/03/24 21:58:19.598	停止V test
+a  3	2025/03/24 21:58:19.866	前位
+a  3	2025/03/24 21:58:23.230	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:58:26.288	手动清胶
+a  3	2025/03/24 21:58:27.043	停止
+a  3	2025/03/24 21:58:27.230	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 21:58:27.240	停止V test
+a  3	2025/03/24 21:58:27.254	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 21:58:29.080	手动清胶
+a  3	2025/03/24 21:58:30.398	停止
+a  3	2025/03/24 21:58:30.574	停止V test
+a  3	2025/03/24 21:58:30.994	前位
+a  3	2025/03/24 21:58:34.130	手动点击吐胶按钮，目标位置:(From X:99.976,Y:100.070,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:58:34.600	鼠标释放或离开：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 21:58:35.312	鼠标释放或离开：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 21:59:09.650	键盘释放：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 21:59:09.801	键盘释放：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 21:59:11.613	手动清胶
+a  3	2025/03/24 21:59:13.121	手动清洗
+a  3	2025/03/24 21:59:13.807	前位
+a  3	2025/03/24 21:59:16.853	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:59:19.991	手动清洗(From X:100.000,Y:100.000,Z:15.000 To X:342.116,Y:159.434,Z:45.844 )
+a  3	2025/03/24 21:59:24.656	手动清洗
+a  3	2025/03/24 21:59:27.270	手动清洗(From X:342.116,Y:159.434,Z:45.844 To X:342.116,Y:159.434,Z:45.844 )
+a  3	2025/03/24 21:59:29.755	手动清胶
+a  3	2025/03/24 21:59:35.732	手动点击吐胶按钮，目标位置:(From X:342.116,Y:159.434,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:59:38.715	手动清洗
+a  3	2025/03/24 21:59:42.077	手动清洗(From X:85.578,Y:144.322,Z:45.844 To X:342.116,Y:159.434,Z:45.844 )
+a  3	2025/03/24 21:59:43.975	手动清胶
+a  3	2025/03/24 21:59:45.519	停止
+a  3	2025/03/24 21:59:45.561	手动点击吐胶按钮，目标位置:(From X:342.116,Y:159.434,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 21:59:45.582	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 21:59:45.592	停止V test
+a  3	2025/03/24 21:59:47.392	手动清胶
+a  3	2025/03/24 21:59:49.321	停止
+a  3	2025/03/24 21:59:49.492	停止V test
+a  3	2025/03/24 21:59:50.315	手动点击吐胶按钮，目标位置:(From X:169.614,Y:149.272,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 21:59:50.433	前位
+a  3	2025/03/24 21:59:54.241	手动清胶
+a  3	2025/03/24 21:59:56.388	停止
+a  3	2025/03/24 21:59:56.553	停止V test
+a  3	2025/03/24 21:59:57.055	前位
+a  3	2025/03/24 21:59:58.282	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:00:00.943	手动清胶
+a  3	2025/03/24 22:00:02.759	停止
+a  3	2025/03/24 22:00:02.940	停止V test
+a  3	2025/03/24 22:00:03.433	前位
+a  3	2025/03/24 22:00:06.196	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:06:49.848	设备初始化......
+a  3	2025/03/24 22:06:49.884	当前用户： a
+a  3	2025/03/24 22:06:49.905	打开程序：20250319程序1
+a  3	2025/03/24 22:06:50.146	复位按钮按下
+a  3	2025/03/24 22:07:06.262	设备复位完成
+a  3	2025/03/24 22:07:06.821	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:07:23.723	手动清胶
+a  3	2025/03/24 22:07:25.529	停止
+a  3	2025/03/24 22:07:25.710	停止V test
+a  3	2025/03/24 22:07:25.962	停止
+a  3	2025/03/24 22:07:26.134	停止V test
+a  3	2025/03/24 22:07:26.279	前位
+a  3	2025/03/24 22:07:29.250	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:07:31.317	手动清胶
+a  3	2025/03/24 22:07:33.332	停止
+a  3	2025/03/24 22:07:33.506	停止V test
+a  3	2025/03/24 22:07:34.055	前位
+a  3	2025/03/24 22:07:35.324	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:07:37.176	手动清胶
+a  3	2025/03/24 22:07:39.212	停止
+a  3	2025/03/24 22:07:39.380	停止V test
+a  3	2025/03/24 22:07:39.921	前位
+a  3	2025/03/24 22:07:41.193	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:07:42.831	手动清胶
+a  3	2025/03/24 22:07:44.857	停止
+a  3	2025/03/24 22:07:45.037	停止V test
+a  3	2025/03/24 22:07:45.813	前位
+a  3	2025/03/24 22:07:45.858	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:07:48.919	手动清胶
+a  3	2025/03/24 22:07:50.986	停止
+a  3	2025/03/24 22:07:51.172	停止V test
+a  3	2025/03/24 22:07:51.941	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:07:51.982	前位
+a  3	2025/03/24 22:07:55.677	手动清胶
+a  3	2025/03/24 22:07:57.231	停止
+a  3	2025/03/24 22:07:57.404	停止V test
+a  3	2025/03/24 22:07:58.057	前位
+a  3	2025/03/24 22:08:00.918	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:09:31.734	手动清胶
+a  3	2025/03/24 22:09:33.873	停止
+a  3	2025/03/24 22:09:34.045	停止V test
+a  3	2025/03/24 22:09:34.369	前位
+a  3	2025/03/24 22:09:36.983	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:09:37.781	鼠标释放或离开：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 22:09:38.203	鼠标释放或离开：CurrentPosition--> X:100.000 Y:100.000 Z:15.000
+a  3	2025/03/24 22:10:47.761	TrackAndPar.bin文件中以下参数已经被修改：Time of left valve spiting
+a  3	2025/03/24 22:10:47.805	ShareParameters.bin文件中以下参数已经被修改：Time of left valve spiting
+a  3	2025/03/24 22:10:50.298	手动清胶
+a  3	2025/03/24 22:10:51.980	停止
+a  3	2025/03/24 22:10:52.159	停止V test
+a  3	2025/03/24 22:10:52.503	前位
+a  3	2025/03/24 22:11:03.580	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:12:53.950	设备初始化......
+a  3	2025/03/24 22:12:53.990	当前用户： a
+a  3	2025/03/24 22:12:54.000	打开程序：20250319程序1
+a  3	2025/03/24 22:12:54.192	复位按钮按下
+a  3	2025/03/24 22:13:10.318	设备复位完成
+a  3	2025/03/24 22:13:10.868	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:13:17.088	手动清胶
+a  3	2025/03/24 22:13:18.872	停止
+a  3	2025/03/24 22:13:19.047	停止V test
+a  3	2025/03/24 22:13:19.213	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:13:19.278	停止
+a  3	2025/03/24 22:13:19.471	停止V test
+a  3	2025/03/24 22:13:19.578	前位
+a  3	2025/03/24 22:13:22.973	手动清胶
+a  3	2025/03/24 22:13:24.638	停止
+a  3	2025/03/24 22:13:24.806	停止V test
+a  3	2025/03/24 22:13:24.845	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:13:25.502	前位
+a  3	2025/03/24 22:13:30.627	手动清胶
+a  3	2025/03/24 22:13:32.857	停止
+a  3	2025/03/24 22:13:33.046	停止V test
+a  3	2025/03/24 22:13:33.453	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:13:33.539	前位
+a  3	2025/03/24 22:13:37.146	手动清胶
+a  3	2025/03/24 22:13:39.290	停止
+a  3	2025/03/24 22:13:39.472	停止V test
+a  3	2025/03/24 22:13:39.902	前位
+a  3	2025/03/24 22:13:39.992	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:13:44.599	手动清洗
+a  3	2025/03/24 22:13:48.147	停止
+a  3	2025/03/24 22:13:48.325	手动清洗(From X:100.000,Y:100.000,Z:15.000 To X:297.634,Y:148.516,Z:5.000 )
+a  3	2025/03/24 22:13:48.335	停止V test
+a  3	2025/03/24 22:13:48.514	前位
+a  3	2025/03/24 22:13:53.102	手动清洗
+a  3	2025/03/24 22:14:35.747	设备初始化......
+a  3	2025/03/24 22:14:35.778	当前用户： a
+a  3	2025/03/24 22:14:35.789	打开程序：20250319程序1
+a  3	2025/03/24 22:14:36.008	复位按钮按下
+a  3	2025/03/24 22:14:59.738	设备复位完成
+a  3	2025/03/24 22:15:00.291	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:15:05.920	手动清胶
+a  3	2025/03/24 22:15:07.314	停止
+a  3	2025/03/24 22:15:07.377	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 22:15:07.387	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 22:15:07.401	停止V test
+a  3	2025/03/24 22:15:07.628	停止
+a  3	2025/03/24 22:15:07.652	停止V test
+a  3	2025/03/24 22:15:09.722	手动清胶
+a  3	2025/03/24 22:15:11.562	停止
+a  3	2025/03/24 22:15:11.737	停止V test
+a  3	2025/03/24 22:15:12.141	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:15:12.155	前位
+a  3	2025/03/24 22:15:15.282	手动清胶
+a  3	2025/03/24 22:15:17.199	停止
+a  3	2025/03/24 22:15:17.394	停止V test
+a  3	2025/03/24 22:15:18.106	前位
+a  3	2025/03/24 22:15:18.343	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:15:19.345	复位按钮按下
+a  3	2025/03/24 22:15:35.569	设备复位完成
+a  3	2025/03/24 22:15:36.118	Reset(From X:85.578,Y:144.322,Z:45.286 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:15:39.611	手动清胶
+a  3	2025/03/24 22:15:41.394	停止
+a  3	2025/03/24 22:15:41.553	停止V test
+a  3	2025/03/24 22:15:41.740	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:15:41.869	停止
+a  3	2025/03/24 22:15:41.972	停止V test
+a  3	2025/03/24 22:15:42.077	前位
+a  3	2025/03/24 22:15:44.638	手动清胶
+a  3	2025/03/24 22:15:46.596	停止
+a  3	2025/03/24 22:15:46.779	停止V test
+a  3	2025/03/24 22:15:47.091	前位
+a  3	2025/03/24 22:15:57.899	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:17:43.848	设备初始化......
+a  3	2025/03/24 22:17:43.892	当前用户： a
+a  3	2025/03/24 22:17:43.902	打开程序：20250319程序1
+a  3	2025/03/24 22:17:44.150	复位按钮按下
+a  3	2025/03/24 22:18:00.261	设备复位完成
+a  3	2025/03/24 22:18:00.810	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:18:06.928	手动清胶
+a  3	2025/03/24 22:18:09.168	停止
+a  3	2025/03/24 22:18:09.376	停止V test
+a  3	2025/03/24 22:18:09.612	停止
+a  3	2025/03/24 22:18:09.787	停止V test
+a  3	2025/03/24 22:18:09.888	前位
+a  3	2025/03/24 22:18:20.484	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:18:46.572	手动清胶
+a  3	2025/03/24 22:18:48.658	停止
+a  3	2025/03/24 22:18:48.850	停止V test
+a  3	2025/03/24 22:18:49.262	前位
+a  3	2025/03/24 22:18:59.852	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:19:31.919	手动清胶
+a  3	2025/03/24 22:19:33.992	停止
+a  3	2025/03/24 22:19:34.176	停止V test
+a  3	2025/03/24 22:19:34.746	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:19:34.775	前位
+a  3	2025/03/24 22:19:37.552	手动清洗
+a  3	2025/03/24 22:19:40.013	停止
+a  3	2025/03/24 22:19:40.177	手动清洗(From X:100.000,Y:100.000,Z:15.000 To X:342.116,Y:159.434,Z:45.844 )
+a  3	2025/03/24 22:19:40.198	停止V test
+a  3	2025/03/24 22:19:41.167	手动清胶
+a  3	2025/03/24 22:19:44.012	停止
+a  3	2025/03/24 22:19:44.183	停止V test
+a  3	2025/03/24 22:19:44.681	前位
+a  3	2025/03/24 22:19:44.726	手动点击吐胶按钮，目标位置:(From X:342.116,Y:159.434,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:19:47.324	手动清胶
+a  3	2025/03/24 22:19:49.719	停止
+a  3	2025/03/24 22:19:49.897	停止V test
+a  3	2025/03/24 22:19:50.153	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:19:50.722	前位
+a  3	2025/03/24 22:19:53.306	手动清胶
+a  3	2025/03/24 22:19:56.136	停止
+a  3	2025/03/24 22:19:56.334	停止V test
+a  3	2025/03/24 22:19:56.379	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:19:56.723	前位
+a  3	2025/03/24 22:19:59.803	手动清胶
+a  3	2025/03/24 22:20:02.282	停止
+a  3	2025/03/24 22:20:02.452	停止V test
+a  3	2025/03/24 22:20:02.631	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:05.711	手动清胶
+a  3	2025/03/24 22:20:08.160	停止
+a  3	2025/03/24 22:20:08.334	停止V test
+a  3	2025/03/24 22:20:08.367	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:13.520	手动清胶
+a  3	2025/03/24 22:20:16.444	停止
+a  3	2025/03/24 22:20:16.626	停止V test
+a  3	2025/03/24 22:20:16.663	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:19.135	手动清胶
+a  3	2025/03/24 22:20:21.638	停止
+a  3	2025/03/24 22:20:21.802	停止V test
+a  3	2025/03/24 22:20:21.945	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:22.103	前位
+a  3	2025/03/24 22:20:25.137	手动清胶
+a  3	2025/03/24 22:20:27.255	停止
+a  3	2025/03/24 22:20:27.447	停止V test
+a  3	2025/03/24 22:20:27.880	前位
+a  3	2025/03/24 22:20:27.982	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:30.672	手动清胶
+a  3	2025/03/24 22:20:33.258	停止
+a  3	2025/03/24 22:20:33.439	停止V test
+a  3	2025/03/24 22:20:33.533	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:33.719	前位
+a  3	2025/03/24 22:20:36.683	手动清胶
+a  3	2025/03/24 22:20:39.080	停止
+a  3	2025/03/24 22:20:39.266	停止V test
+a  3	2025/03/24 22:20:39.522	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:39.657	前位
+a  3	2025/03/24 22:20:42.358	工作原点
+a  3	2025/03/24 22:20:44.951	手动清胶
+a  3	2025/03/24 22:20:46.681	停止
+a  3	2025/03/24 22:20:46.771	手动点击吐胶按钮，目标位置:(From X:342.116,Y:159.434,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 22:20:46.782	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 22:20:46.805	停止V test
+a  3	2025/03/24 22:20:48.773	手动清胶
+a  3	2025/03/24 22:20:50.894	停止
+a  3	2025/03/24 22:20:51.083	停止V test
+a  3	2025/03/24 22:20:51.249	手动点击吐胶按钮，目标位置:(From X:89.454,Y:144.550,Z:5.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:51.459	前位
+a  3	2025/03/24 22:20:53.604	手动清胶
+a  3	2025/03/24 22:20:55.934	停止
+a  3	2025/03/24 22:20:56.139	停止V test
+a  3	2025/03/24 22:20:56.431	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:20:56.643	前位
+a  3	2025/03/24 22:20:58.910	手动清胶
+a  3	2025/03/24 22:21:01.450	停止
+a  3	2025/03/24 22:21:01.637	停止V test
+a  3	2025/03/24 22:21:01.754	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:02.093	前位
+a  3	2025/03/24 22:21:04.436	手动清胶
+a  3	2025/03/24 22:21:07.519	停止
+a  3	2025/03/24 22:21:07.724	停止V test
+a  3	2025/03/24 22:21:07.824	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:08.121	前位
+a  3	2025/03/24 22:21:10.279	手动清胶
+a  3	2025/03/24 22:21:12.781	停止
+a  3	2025/03/24 22:21:12.954	停止V test
+a  3	2025/03/24 22:21:13.118	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:13.178	手动清胶
+a  3	2025/03/24 22:21:13.671	前位
+a  3	2025/03/24 22:21:21.275	停止
+a  3	2025/03/24 22:21:21.467	停止V test
+a  3	2025/03/24 22:21:21.522	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:23.195	手动清胶
+a  3	2025/03/24 22:21:24.456	停止
+a  3	2025/03/24 22:21:24.590	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:FALSE
+a  3	2025/03/24 22:21:24.612	报警代码 1028:手动吐胶运行不到位！
+a  3	2025/03/24 22:21:24.622	停止V test
+a  3	2025/03/24 22:21:26.181	手动清胶
+a  3	2025/03/24 22:21:28.603	停止
+a  3	2025/03/24 22:21:28.748	停止V test
+a  3	2025/03/24 22:21:28.884	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:39.461 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:29.173	前位
+a  3	2025/03/24 22:21:31.587	手动清胶
+a  3	2025/03/24 22:21:33.768	停止
+a  3	2025/03/24 22:21:33.926	停止V test
+a  3	2025/03/24 22:21:34.361	手动清胶
+a  3	2025/03/24 22:21:34.418	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:35.089	前位
+a  3	2025/03/24 22:21:37.706	停止
+a  3	2025/03/24 22:21:37.898	停止V test
+a  3	2025/03/24 22:21:37.939	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:39.517	手动清胶
+a  3	2025/03/24 22:21:42.440	停止
+a  3	2025/03/24 22:21:42.614	停止V test
+a  3	2025/03/24 22:21:42.669	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:43.927	手动清胶
+a  3	2025/03/24 22:21:46.427	停止
+a  3	2025/03/24 22:21:46.615	停止V test
+a  3	2025/03/24 22:21:46.748	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:47.021	前位
+a  3	2025/03/24 22:21:49.467	手动清胶
+a  3	2025/03/24 22:21:52.063	停止
+a  3	2025/03/24 22:21:52.253	停止V test
+a  3	2025/03/24 22:21:52.351	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:52.784	前位
+a  3	2025/03/24 22:21:55.529	手动清胶
+a  3	2025/03/24 22:21:57.978	停止
+a  3	2025/03/24 22:21:58.146	停止V test
+a  3	2025/03/24 22:21:58.355	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:21:58.787	前位
+a  3	2025/03/24 22:22:01.500	手动清胶
+a  3	2025/03/24 22:22:03.683	停止
+a  3	2025/03/24 22:22:03.853	停止V test
+a  3	2025/03/24 22:22:04.233	前位
+a  3	2025/03/24 22:22:14.782	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:24:41.513	设备初始化......
+a  3	2025/03/24 22:24:41.556	当前用户： a
+a  3	2025/03/24 22:24:41.566	打开程序：20250319程序1
+a  3	2025/03/24 22:24:41.770	复位按钮按下
+a  3	2025/03/24 22:24:57.755	设备复位完成
+a  3	2025/03/24 22:24:58.314	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/03/24 22:25:10.434	手动清胶
+a  3	2025/03/24 22:25:13.296	停止
+a  3	2025/03/24 22:25:13.491	停止V test
+a  3	2025/03/24 22:25:13.584	手动点击吐胶按钮，目标位置:(From X:0.000,Y:0.000,Z:0.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:25:13.735	停止
+a  3	2025/03/24 22:25:13.914	停止V test
+a  3	2025/03/24 22:25:14.027	前位
+a  3	2025/03/24 22:25:18.338	手动清胶
+a  3	2025/03/24 22:25:20.839	停止
+a  3	2025/03/24 22:25:21.014	停止V test
+a  3	2025/03/24 22:25:21.163	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:25:21.368	前位
+a  3	2025/03/24 22:25:24.057	手动清胶
+a  3	2025/03/24 22:25:26.759	停止
+a  3	2025/03/24 22:25:26.969	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:25:26.979	停止V test
+a  3	2025/03/24 22:25:27.315	前位
+a  3	2025/03/24 22:25:29.632	手动清胶
+a  3	2025/03/24 22:25:32.538	停止
+a  3	2025/03/24 22:25:32.725	手动点击吐胶按钮，目标位置:(From X:100.000,Y:100.000,Z:15.000 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:25:32.740	停止V test
+a  3	2025/03/24 22:25:33.022	手动清胶
+a  3	2025/03/24 22:25:35.848	停止
+a  3	2025/03/24 22:25:36.058	手动点击吐胶按钮，目标位置:(From X:85.578,Y:144.322,Z:45.844 To X:85.578,Y:144.322,Z:45.844 )Result:TRUE
+a  3	2025/03/24 22:25:36.067	停止V test
+a  3	2025/03/24 22:25:36.394	前位
+a  3	2025/03/24 22:25:40.443	停止
+a  3	2025/03/24 22:25:40.645	停止V test
+a  3	2025/03/24 17:58:54.075	设备激活时间剩余1天

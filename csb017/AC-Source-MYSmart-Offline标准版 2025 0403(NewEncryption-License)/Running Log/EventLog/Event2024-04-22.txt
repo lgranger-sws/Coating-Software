@@ -1,0 +1,75 @@
+
+a  3	4/22/2024 9:20:20 AM	Initializing...
+a  3	4/22/2024 9:20:20 AM	Current User: a
+a  3	4/22/2024 9:20:20 AM	Open Program:Conti_NBM_top
+a  3	4/22/2024 9:20:21 AM	The reset button is pressed
+a  3	4/22/2024 9:20:48 AM	Reset is completed
+a  3	4/22/2024 9:22:26 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/22/2024 9:22:26 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/22/2024 9:22:32 AM	Manua Clean
+a  3	4/22/2024 9:22:36 AM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/22/2024 9:26:22 AM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/22/2024 2:34:26 PM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	4/22/2024 2:34:26 PM	Stop
+a  3	4/22/2024 2:34:33 PM	The Power Off button was pressed
+a  3	4/22/2024 2:34:45 PM	The reset button is pressed
+a  3	4/22/2024 2:34:57 PM	The Power Off button was pressed
+a  3	4/22/2024 2:34:58 PM	Stop
+a  3	4/22/2024 2:34:58 PM	X home timeout
+a  3	4/22/2024 2:35:19 PM	Z home timeout
+a  3	4/22/2024 2:35:25 PM	The reset button is pressed
+a  3	4/22/2024 2:35:50 PM	Reset is completed
+a  3	4/22/2024 2:52:13 PM	Manua Clean
+a  3	4/22/2024 2:52:17 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/22/2024 3:08:13 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	4/22/2024 3:08:14 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/22/2024 3:08:18 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	4/22/2024 3:08:18 PM	ParametersOfSystemSetting.bin the modify parameters are Auto adjusting width
+a  3	4/22/2024 3:08:26 PM	Open Program:mahindra csc
+a  3	4/22/2024 3:08:26 PM	AlarmCode 1006:Pressure Low
+a  3	4/22/2024 3:08:27 PM	Stop
+a  3	4/22/2024 3:08:29 PM	Open Program:mahindra csc
+a  3	4/22/2024 3:08:30 PM	Open Program:Conti_NBM_top
+a  3	4/22/2024 3:08:49 PM	Open Program:Conti_NBM_top
+a  3	4/22/2024 3:08:54 PM	Open Program:Conti Webasto Truck-bot - tuned
+a  3	4/22/2024 3:09:47 PM	Open Program:Conti Webasto Truck-bot - tuned
+a  3	4/22/2024 3:10:10 PM	Open Program:Conti NBM top
+a  3	4/22/2024 3:10:52 PM	Open Program:Conti NBM top
+a  3	4/22/2024 3:11:04 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/22/2024 3:12:48 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/22/2024 3:13:03 PM	Open Program:WEBASTO GEN4.1 TOP
+a  3	4/22/2024 3:13:48 PM	Open Program:WEBASTO GEN4.1 TOP
+a  3	4/22/2024 3:23:20 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/22/2024 3:23:30 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/22/2024 3:31:31 PM	Coating Running
+a  3	4/22/2024 3:31:32 PM	
+a  3	4/22/2024 3:32:34 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/22/2024 3:35:11 PM	Stop
+a  3	4/22/2024 3:35:12 PM	Stop
+a  3	4/22/2024 3:38:14 PM	Coating Running
+a  3	4/22/2024 3:38:15 PM	
+a  3	4/22/2024 3:38:38 PM	Stop
+a  3	4/22/2024 3:38:39 PM	Stop
+a  3	4/22/2024 3:39:49 PM	Stop
+a  3	4/22/2024 3:42:40 PM	Chinese
+a  3	4/22/2024 3:43:05 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：WindSpeedAlarm
+a  3	4/22/2024 3:43:05 PM	AlarmCode 1003:风速超限！
+a  3	4/22/2024 3:43:17 PM	AlarmCode 1003:风速超限！
+a  3	4/22/2024 3:43:36 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：WindSpeedAlarm
+a  3	4/22/2024 4:19:37 PM	English
+a  3	4/22/2024 4:20:07 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/22/2024 4:20:07 PM	AlarmCode 1002:Left low liquid level
+a  3	4/22/2024 4:20:16 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/22/2024 4:20:30 PM	AlarmCode 1002:Left low liquid level
+a  3	4/22/2024 4:20:59 PM	AlarmCode 1002:Left low liquid level
+a  3	4/22/2024 4:21:33 PM	AlarmCode 1002:Left low liquid level
+a  3	4/22/2024 4:21:39 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/22/2024 4:40:52 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/22/2024 4:40:58 PM	The reset button is pressed
+a  3	4/22/2024 4:41:28 PM	Reset is completed
+a  3	4/22/2024 4:47:38 PM	Manua Clean
+a  3	4/22/2024 4:47:42 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/22/2024 5:37:19 PM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	4/22/2024 5:37:19 PM	Stop
+a  3	4/22/2024 5:37:27 PM	The Power Off button was pressed
+a  3	4/22/2024 5:37:33 PM	AlarmCode 1006:Pressure Low

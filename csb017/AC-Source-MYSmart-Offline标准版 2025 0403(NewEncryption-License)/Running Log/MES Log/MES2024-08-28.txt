@@ -1,0 +1,24 @@
+
+20:18:00	Client to MES	Manual
+{"PROCEDURE":"",
+"FUNCTION_CODE":"",
+"INALLDATA":";SN=;"}
+
+20:18:00	MES to Client	LabVIEWHTTPClient.lvlib:POSTBuffer.vi:6120003<APPEND>
+
+<b>??????????:</b>
+     LabVIEWHTTPClient.lvlib:POSTBuffer.vi:6120003
+     LigaoMESHTTP.vi
+     MES Interface-ShandongLigao.vi
+
+20:18:04	Client to MES	Manual
+{"PROCEDURE":"",
+"FUNCTION_CODE":"",
+"INALLDATA":";SN=;"}
+
+20:18:04	MES to Client	LabVIEWHTTPClient.lvlib:POSTBuffer.vi:6120003<APPEND>
+
+<b>??????????:</b>
+     LabVIEWHTTPClient.lvlib:POSTBuffer.vi:6120003
+     LigaoMESHTTP.vi
+     MES Interface-ShandongLigao.vi

@@ -1,0 +1,879 @@
+
+a  3	4/17/2024 11:03:54 AM	Initializing...
+a  3	4/17/2024 11:03:54 AM	Current User: a
+a  3	4/17/2024 11:03:54 AM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 11:03:59 AM	The reset button is pressed
+a  3	4/17/2024 11:04:28 AM	Reset is completed
+a  3	4/17/2024 11:09:58 AM	Key click:
+a  3	4/17/2024 11:09:58 AM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/17/2024 11:34:32 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/17/2024 11:34:47 AM	key release or away:CurrentPosition--> X:21.292 Y:57.560 Z:5.000
+a  3	4/17/2024 11:36:52 AM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(37.726,252.186,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:37:25 AM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Mark1(37.726,252.186,22.733),Mark2(0.000,0.000,0.000),Two Mark,Angle(0)
+a  3	4/17/2024 11:37:34 AM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(37.726,252.186,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:37:48 AM	The 3 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(37.916,331.774,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:38:02 AM	The 4 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(170.024,331.468,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:38:16 AM	The 5 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(169.902,251.952,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:38:31 AM	The 6 line of program in the pattern ->main(A) has been modified. DOjetpanel:Inser(37.702,252.228,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:38:47 AM	The 7 line of program in the pattern ->main(A) has been modified. DOjetpanel:Inser(37.666,331.766,22.733),No Use,Angle(0)
+a  3	4/17/2024 11:39:36 AM	Key click:
+a  3	4/17/2024 11:39:37 AM	Key click:
+a  3	4/17/2024 11:39:37 AM	key release:CurrentPosition--> X:37.666 Y:331.766 Z:22.733
+a  3	4/17/2024 11:39:37 AM	key release:CurrentPosition--> X:37.666 Y:331.766 Z:22.733
+a  3	4/17/2024 11:39:37 AM	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match
+a  3	4/17/2024 11:39:38 AM	TrackAndPar.bin the modify parameters are Pattern Name,模板映射参数2,German Cicor Glue Para out
+a  3	4/17/2024 11:39:38 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Pattern Name,模板映射参数2
+a  3	4/17/2024 11:39:38 AM	Save Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 11:39:44 AM	Open Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 11:39:45 AM	Open Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 11:40:26 AM	The 9 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(153.884,246.932,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:40:37 AM	The 10 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(153.758,326.574,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:40:46 AM	The 11 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(285.912,326.860,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:40:54 AM	The 12 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(286.044,247.280,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:41:35 AM	The 13 line of program in the pattern ->main(A) has been modified. DOJet panel:Inser(153.874,246.932,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:42:26 AM	The 14 line of program in the pattern ->main(A) has been modified. DOJet panel:Inser(153.748,326.574,20.600),No Use,Angle(180)
+a  3	4/17/2024 11:43:56 AM	Key click:
+a  3	4/17/2024 11:43:56 AM	Key click:
+a  3	4/17/2024 11:43:56 AM	key release:CurrentPosition--> X:153.748 Y:326.574 Z:20.600
+a  3	4/17/2024 11:43:56 AM	key release:CurrentPosition--> X:153.748 Y:326.574 Z:20.600
+a  3	4/17/2024 11:43:56 AM	key release or away:CurrentPosition--> X:153.748 Y:326.574 Z:20.600
+a  3	4/17/2024 11:43:57 AM	TrackAndPar.bin the modify parameters are TwoValveDistanceData,模板映射参数2,German Cicor Glue Para out
+a  3	4/17/2024 11:43:57 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,TwoValveDistanceData,模板映射参数2
+a  3	4/17/2024 11:43:58 AM	key release or away:CurrentPosition--> X:153.748 Y:326.574 Z:20.600
+a  3	4/17/2024 11:43:58 AM	Save Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 11:44:46 AM	ParametersOfAxis.bin the modify parameters are Rest speed_setting
+a  3	4/17/2024 11:45:53 AM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 11:45:53 AM	TrackAndPar.bin the modify parameters are #define New Para
+a  3	4/17/2024 11:45:53 AM	ShareParameters.bin the modify parameters are #define New Para
+a  3	4/17/2024 11:48:53 AM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 11:51:52 AM	TrackAndPar.bin the modify parameters are 清洗设置,点胶前清洁
+a  3	4/17/2024 11:51:52 AM	ShareParameters.bin the modify parameters are 清洗设置,点胶前清洁
+a  3	4/17/2024 11:51:56 AM	TrackAndPar.bin the modify parameters are After Clear to Purge
+a  3	4/17/2024 11:51:56 AM	ShareParameters.bin the modify parameters are After Clear to Purge
+a  3	4/17/2024 11:52:20 AM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 11:52:21 AM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 11:52:35 AM	TrackAndPar.bin the modify parameters are After Clear to Purge
+a  3	4/17/2024 11:52:35 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,After Clear to Purge
+a  3	4/17/2024 11:55:17 AM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 11:55:18 AM	TrackAndPar.bin the modify parameters are #define New Para
+a  3	4/17/2024 11:55:18 AM	ShareParameters.bin the modify parameters are #define New Para
+a  3	4/17/2024 11:57:11 AM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 11:58:05 AM	Open Program:Conti_NBM_top
+a  3	4/17/2024 11:58:05 AM	Open Program:Conti_NBM_top
+a  3	4/17/2024 11:58:53 AM	The 1 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(16.526,185.774,20.600),No Use,Angle(0)
+a  3	4/17/2024 11:59:06 AM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(58.618,185.746,20.600),No Use,Angle(0)
+a  3	4/17/2024 11:59:15 AM	The 3 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(100.724,185.736,20.600),No Use,Angle(0)
+a  3	4/17/2024 11:59:33 AM	The 4 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(100.718,242.824,20.600),No Use,Angle(0)
+a  3	4/17/2024 11:59:53 AM	The 5 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(58.608,242.826,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:00:14 PM	The 6 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(16.516,242.834,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:00:45 PM	The 7 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(16.512,299.922,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:01:55 PM	The 8 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(58.608,299.924,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:02:06 PM	The 9 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(100.698,299.916,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:02:27 PM	The 1 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(16.526,185.774,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:02:59 PM	The 4 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(100.718,242.824,20.600),No Use,Angle(0)
+a  3	4/17/2024 12:05:12 PM	Key click:
+a  3	4/17/2024 12:05:12 PM	Key click:
+a  3	4/17/2024 12:05:12 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 12:05:13 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 12:05:14 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData,模板映射参数2,German Cicor Glue Para out
+a  3	4/17/2024 12:05:14 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,TwoValveDistanceData,模板映射参数2
+a  3	4/17/2024 12:05:16 PM	Save Program:Conti_NBM_top
+a  3	4/17/2024 12:05:17 PM	Coating Running
+a  3	4/17/2024 12:05:18 PM	
+a  3	4/17/2024 12:05:24 PM	Stop
+a  3	4/17/2024 12:05:25 PM	Stop
+a  3	4/17/2024 12:05:29 PM	Coating Running
+a  3	4/17/2024 12:05:30 PM	
+a  3	4/17/2024 12:05:35 PM	Stop
+a  3	4/17/2024 12:05:36 PM	Stop
+a  3	4/17/2024 12:05:50 PM	Manua Clean
+a  3	4/17/2024 12:05:53 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:05:54 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 12:05:54 PM	Coating Running
+a  3	4/17/2024 12:05:55 PM	
+a  3	4/17/2024 12:06:35 PM	Stop
+a  3	4/17/2024 12:06:36 PM	Stop
+a  3	4/17/2024 12:06:37 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:06:37 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:07:35 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/17/2024 12:08:09 PM	Coating Running
+a  3	4/17/2024 12:08:10 PM	
+a  3	4/17/2024 12:08:14 PM	SN:9042221D2310260549 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 12:08:20 PM	Stop
+a  3	4/17/2024 12:08:21 PM	Stop
+a  3	4/17/2024 12:08:34 PM	Coating Running
+a  3	4/17/2024 12:08:35 PM	
+a  3	4/17/2024 12:08:39 PM	SN:9042221D2310260504 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 12:08:43 PM	Automatically run to the Purge positionSetting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:08:43 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:08:49 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:08:50 PM	GlueWidthTest:Edge1 Read LineLaser:5.735 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:51 PM	GlueWidthTest:Edge2 Read LineLaser:5.749 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:51 PM	GlueWidthTest:Edge1 Read LineLaser:5.686 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:51 PM	GlueWidthTest:Edge2 Read LineLaser:5.686 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:52 PM	GlueWidthTest:Edge1 Read LineLaser:5.635 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:52 PM	GlueWidthTest:Edge2 Read LineLaser:5.635 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:52 PM	GlueWidthTest:Edge1 Read LineLaser:5.625 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:53 PM	GlueWidthTest:Edge2 Read LineLaser:5.631 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:53 PM	GlueWidthTest:Edge1 Read LineLaser:5.640 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:53 PM	GlueWidthTest:Edge2 Read LineLaser:5.651 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:56 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:08:58 PM	GlueWidthTest:Edge1 Read LineLaser:5.646 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:58 PM	GlueWidthTest:Edge2 Read LineLaser:5.702 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:58 PM	GlueWidthTest:Edge1 Read LineLaser:5.733 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:58 PM	GlueWidthTest:Edge2 Read LineLaser:5.677 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:59 PM	GlueWidthTest:Edge1 Read LineLaser:5.742 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:59 PM	GlueWidthTest:Edge2 Read LineLaser:5.742 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:08:59 PM	GlueWidthTest:Edge1 Read LineLaser:5.763 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:00 PM	GlueWidthTest:Edge2 Read LineLaser:5.763 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:00 PM	GlueWidthTest:Edge1 Read LineLaser:5.870 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:00 PM	GlueWidthTest:Edge2 Read LineLaser:5.852 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:03 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:09:05 PM	GlueWidthTest:Edge1 Read LineLaser:5.861 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:05 PM	GlueWidthTest:Edge2 Read LineLaser:5.868 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:05 PM	GlueWidthTest:Edge1 Read LineLaser:5.890 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:05 PM	GlueWidthTest:Edge2 Read LineLaser:5.885 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:06 PM	GlueWidthTest:Edge1 Read LineLaser:5.929 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:06 PM	GlueWidthTest:Edge2 Read LineLaser:5.908 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:07 PM	GlueWidthTest:Edge1 Read LineLaser:5.890 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:07 PM	GlueWidthTest:Edge2 Read LineLaser:5.890 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:07 PM	GlueWidthTest:Edge1 Read LineLaser:5.892 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:07 PM	GlueWidthTest:Edge2 Read LineLaser:5.892 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 12:09:09 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.245,QueueError:FALSE,Code:0,UsedTime:21.650s
+a  3	4/17/2024 12:09:09 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Pressure Adjust,Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/17/2024 12:09:09 PM	ProcessingStarted
+a  3	4/17/2024 12:09:09 PM	"Automatic changeover"(0ms) Machine receive data from MES interface:
+a  3	4/17/2024 12:09:15 PM	Alarm:
+TCP Read in TCPClient.vi->MESrun.vi->AxxonSoftware.vi
+Continue?	No
+a  3	4/17/2024 12:09:16 PM	ProcessedEnd
+a  3	4/17/2024 12:09:16 PM	{"SN":"9042221D2310260549","StartTime":"24-04-17 12:09:09","StopTime":"24-04-17 12:09:15","ProgramName":"Conti_NBM_top","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:09:16 PM	"afterCoating"(5ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260549","return":"OK","msg":"","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:09:16 PM	Stop
+a  3	4/17/2024 12:09:29 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Width Test Para,Laser- film width check When First Run 2
+a  3	4/17/2024 12:09:33 PM	Coating Running
+a  3	4/17/2024 12:09:33 PM	
+a  3	4/17/2024 12:09:41 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:09:42 PM	ProcessingStarted
+a  3	4/17/2024 12:09:43 PM	"Automatic changeover"(1201ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417120942555,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260496\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9042221D2310260497\" processdirective_pos_02=\"Y\" subunitid_pos_03=\"9042221D2310260498\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9042221D2310260499\" processdirective_pos_04=\"Y\" subunitid_pos_05=\"9042221D2310260500\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9042221D2310260501\" processdirective_pos_06=\"Y\" subunitid_pos_07=\"9042221D2310260502\" processdirective_pos_07=\"P\" subunitid_pos_08=\"9042221D2310260503\" processdirective_pos_08=\"Y\" subunitid_pos_09=\"9042221D2310260504\" processdirective_pos_09=\"Y\" subunitid_pos_10=\"9042221D2310260505\" processdirective_pos_10=\"P\" subunitid_pos_11=\"9042221D2310260506\" processdirective_pos_11=\"P\" subunitid_pos_12=\"9042221D2310260507\" processdirective_pos_12=\"P\" subunitid_pos_13=\"9042221D2310260508\" processdirective_pos_13=\"P\" subunitid_pos_14=\"9042221D2310260509\" processdirective_pos_14=\"P\" subunitid_pos_15=\"9042221D2310260510\" processdirective_pos_15=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":true,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":true,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":true,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":true,"Number":8},{"Temp":"","Coating?":true,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:09:44 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.530 Y:185.134 Result:TRUE ;Score:94.132
+a  3	4/17/2024 12:09:46 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:220.409 Y:338.917 Result:TRUE ;Score:92.535
+a  3	4/17/2024 12:09:59 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:10:00 PM	Product0Weight	0.250g		Flowmeter1		0.074g		Flowmeter2		0.176g
+
+a  3	4/17/2024 12:10:07 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:10:07 PM	Product0Weight	0.271g		Flowmeter1		0.143g		Flowmeter2		0.128g
+
+a  3	4/17/2024 12:10:14 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:10:14 PM	Product0Weight	0.159g		Flowmeter2		0.159g
+
+a  3	4/17/2024 12:10:21 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:10:21 PM	Product0Weight	0.149g		Flowmeter2		0.149g
+
+a  3	4/17/2024 12:10:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:10:28 PM	Product0Weight	0.196g		Flowmeter1		0.113g		Flowmeter2		0.082g
+
+a  3	4/17/2024 12:10:28 PM	ProcessedEnd
+a  3	4/17/2024 12:10:28 PM	{"SN":"9042221D2310260504","StartTime":"24-04-17 12:09:41","StopTime":"24-04-17 12:10:28","ProgramName":"Conti_NBM_top","FlowmeterData":[1.0243992857142858],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:10:31 PM	"afterCoating"(2403ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417121029176,ACK\nUNIT_RESULT,COATING1,6,20240417121029352,ACK\nUNIT_RESULT,COATING1,6,20240417121029518,ACK\nUNIT_RESULT,COATING1,6,20240417121029712,ACK\nUNIT_RESULT,COATING1,6,20240417121030179,ACK\nUNIT_RESULT,COATING1,6,20240417121030679,ACK\nUNIT_RESULT,COATING1,6,20240417121030854,ACK\nUNIT_RESULT,COATING1,6,20240417121031029,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:13:57 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 12:14:44 PM	Stop
+a  3	4/17/2024 12:14:45 PM	Stop
+a  3	4/17/2024 12:14:48 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:14:49 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:15:33 PM	Coating Running
+a  3	4/17/2024 12:15:34 PM	
+a  3	4/17/2024 12:15:38 PM	Stop
+a  3	4/17/2024 12:15:40 PM	Stop
+a  3	4/17/2024 12:15:45 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:15:47 PM	Coating Running
+a  3	4/17/2024 12:15:48 PM	
+a  3	4/17/2024 12:15:56 PM	Automatically run to the Purge positionSetting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:15:56 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:15:56 PM	ProcessingStarted
+a  3	4/17/2024 12:15:56 PM	"Automatic changeover"(544ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417121556496,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260496\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9042221D2310260497\" processdirective_pos_02=\"Y\" subunitid_pos_03=\"9042221D2310260498\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9042221D2310260499\" processdirective_pos_04=\"Y\" subunitid_pos_05=\"9042221D2310260500\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9042221D2310260501\" processdirective_pos_06=\"Y\" subunitid_pos_07=\"9042221D2310260502\" processdirective_pos_07=\"P\" subunitid_pos_08=\"9042221D2310260503\" processdirective_pos_08=\"Y\" subunitid_pos_09=\"9042221D2310260504\" processdirective_pos_09=\"Y\" subunitid_pos_10=\"9042221D2310260505\" processdirective_pos_10=\"P\" subunitid_pos_11=\"9042221D2310260506\" processdirective_pos_11=\"P\" subunitid_pos_12=\"9042221D2310260507\" processdirective_pos_12=\"P\" subunitid_pos_13=\"9042221D2310260508\" processdirective_pos_13=\"P\" subunitid_pos_14=\"9042221D2310260509\" processdirective_pos_14=\"P\" subunitid_pos_15=\"9042221D2310260510\" processdirective_pos_15=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":true,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":true,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":true,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":true,"Number":8},{"Temp":"","Coating?":true,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:15:58 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.579 Y:185.134 Result:TRUE ;Score:91.536
+a  3	4/17/2024 12:16:00 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:220.678 Y:338.627 Result:TRUE ;Score:94.173
+a  3	4/17/2024 12:16:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:16:13 PM	Product0Weight	0.219g		Flowmeter1		0.112g		Flowmeter2		0.107g
+
+a  3	4/17/2024 12:16:20 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:16:20 PM	Product0Weight	0.233g		Flowmeter1		0.130g		Flowmeter2		0.103g
+
+a  3	4/17/2024 12:16:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:16:28 PM	Product0Weight	0.131g		Flowmeter2		0.131g
+
+a  3	4/17/2024 12:16:35 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:16:35 PM	Product0Weight	0.132g		Flowmeter2		0.132g
+
+a  3	4/17/2024 12:16:42 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:16:42 PM	Product0Weight	0.217g		Flowmeter1		0.110g		Flowmeter2		0.107g
+
+a  3	4/17/2024 12:16:42 PM	ProcessedEnd
+a  3	4/17/2024 12:16:42 PM	{"SN":"9042221D2310260504","StartTime":"24-04-17 12:15:56","StopTime":"24-04-17 12:16:42","ProgramName":"Conti_NBM_top","FlowmeterData":[0.93255681818181813],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:16:43 PM	"afterCoating"(1501ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417121642634,ACK\nUNIT_RESULT,COATING1,6,20240417121642787,ACK\nUNIT_RESULT,COATING1,6,20240417121642927,ACK\nUNIT_RESULT,COATING1,6,20240417121643074,ACK\nUNIT_RESULT,COATING1,6,20240417121643248,ACK\nUNIT_RESULT,COATING1,6,20240417121643411,ACK\nUNIT_RESULT,COATING1,6,20240417121643602,ACK\nUNIT_RESULT,COATING1,6,20240417121643775,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:20:11 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 12:23:52 PM	Stop
+a  3	4/17/2024 12:23:54 PM	Stop
+a  3	4/17/2024 12:24:00 PM	Coating Running
+a  3	4/17/2024 12:24:01 PM	
+a  3	4/17/2024 12:24:05 PM	Stop
+a  3	4/17/2024 12:25:18 PM	Coating Running
+a  3	4/17/2024 12:25:19 PM	
+a  3	4/17/2024 12:25:27 PM	Automatically run to the Purge positionSetting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:25:27 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:25:27 PM	ProcessingStarted
+a  3	4/17/2024 12:25:28 PM	"Automatic changeover"(505ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417122527676,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260496\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9042221D2310260497\" processdirective_pos_02=\"Y\" subunitid_pos_03=\"9042221D2310260498\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9042221D2310260499\" processdirective_pos_04=\"Y\" subunitid_pos_05=\"9042221D2310260500\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9042221D2310260501\" processdirective_pos_06=\"Y\" subunitid_pos_07=\"9042221D2310260502\" processdirective_pos_07=\"P\" subunitid_pos_08=\"9042221D2310260503\" processdirective_pos_08=\"Y\" subunitid_pos_09=\"9042221D2310260504\" processdirective_pos_09=\"Y\" subunitid_pos_10=\"9042221D2310260505\" processdirective_pos_10=\"P\" subunitid_pos_11=\"9042221D2310260506\" processdirective_pos_11=\"P\" subunitid_pos_12=\"9042221D2310260507\" processdirective_pos_12=\"P\" subunitid_pos_13=\"9042221D2310260508\" processdirective_pos_13=\"P\" subunitid_pos_14=\"9042221D2310260509\" processdirective_pos_14=\"P\" subunitid_pos_15=\"9042221D2310260510\" processdirective_pos_15=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":true,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":true,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":true,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":true,"Number":8},{"Temp":"","Coating?":true,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:25:29 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.576 Y:185.152 Result:TRUE ;Score:79.730
+a  3	4/17/2024 12:25:31 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:220.450 Y:338.927 Result:TRUE ;Score:93.956
+a  3	4/17/2024 12:25:37 PM	Stop
+a  3	4/17/2024 12:25:38 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	4/17/2024 12:25:38 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 12:25:38 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 12:25:38 PM	ProcessedEnd
+a  3	4/17/2024 12:25:38 PM	{"SN":"9042221D2310260504","StartTime":"24-04-17 12:25:27","StopTime":"24-04-17 12:25:37","ProgramName":"Conti_NBM_top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:25:38 PM	Stop
+a  3	4/17/2024 12:25:39 PM	"afterCoating"(1801ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"NG","msg":"UNIT_RESULT,COATING1,6,20240417122537857,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122538123,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122538304,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122538489,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122538694,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122538914,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122539100,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\nUNIT_RESULT,COATING1,6,20240417122539280,ERROR,<Error tokens=\"4\" ackrequired=\"true\" failurecode=\"0\" text=\"Unit result is fail.\" />\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:25:58 PM	key release or away:CurrentPosition--> X:117.238 Y:307.216 Z:5.000
+a  3	4/17/2024 12:26:23 PM	key release or away:CurrentPosition--> X:117.238 Y:307.216 Z:5.000
+a  3	4/17/2024 12:27:37 PM	Coating Running
+a  3	4/17/2024 12:27:38 PM	
+a  3	4/17/2024 12:27:43 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:27:43 PM	ProcessingStarted
+a  3	4/17/2024 12:27:44 PM	"Automatic changeover"(603ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417122743724,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260496\" processdirective_pos_01=\"N\" subunitid_pos_02=\"9042221D2310260497\" processdirective_pos_02=\"N\" subunitid_pos_03=\"9042221D2310260498\" processdirective_pos_03=\"N\" subunitid_pos_04=\"9042221D2310260499\" processdirective_pos_04=\"N\" subunitid_pos_05=\"9042221D2310260500\" processdirective_pos_05=\"N\" subunitid_pos_06=\"9042221D2310260501\" processdirective_pos_06=\"N\" subunitid_pos_07=\"9042221D2310260502\" processdirective_pos_07=\"N\" subunitid_pos_08=\"9042221D2310260503\" processdirective_pos_08=\"N\" subunitid_pos_09=\"9042221D2310260504\" processdirective_pos_09=\"N\" subunitid_pos_10=\"9042221D2310260505\" processdirective_pos_10=\"N\" subunitid_pos_11=\"9042221D2310260506\" processdirective_pos_11=\"N\" subunitid_pos_12=\"9042221D2310260507\" processdirective_pos_12=\"N\" subunitid_pos_13=\"9042221D2310260508\" processdirective_pos_13=\"N\" subunitid_pos_14=\"9042221D2310260509\" processdirective_pos_14=\"N\" subunitid_pos_15=\"9042221D2310260510\" processdirective_pos_15=\"N\" />","data":{"ProductCoating":[{"Temp":"","Coating?":false,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":false,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":false,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":false,"Number":8},{"Temp":"","Coating?":false,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:27:45 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.586 Y:185.165 Result:TRUE ;Score:79.663
+a  3	4/17/2024 12:27:47 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:220.434 Y:338.966 Result:TRUE ;Score:93.974
+a  3	4/17/2024 12:27:47 PM	ProcessedEnd
+a  3	4/17/2024 12:27:47 PM	{"SN":"9042221D2310260504","StartTime":"24-04-17 12:27:43","StopTime":"24-04-17 12:27:47","ProgramName":"Conti_NBM_top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:27:47 PM	"afterCoating"(0ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260504","return":"OK","msg":"","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:28:09 PM	Stop
+a  3	4/17/2024 12:28:10 PM	Stop
+a  3	4/17/2024 12:28:26 PM	key release or away:CurrentPosition--> X:220.854 Y:338.984 Z:5.000
+a  3	4/17/2024 12:28:59 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 12:28:59 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 12:28:59 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys,Numeric
+a  3	4/17/2024 12:29:45 PM	TrackAndPar.bin the modify parameters are Width Limit,Move speed_setting
+a  3	4/17/2024 12:29:45 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/17/2024 12:30:17 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/17/2024 12:30:32 PM	UnLoadBoard
+a  3	4/17/2024 12:30:38 PM	Coating Running
+a  3	4/17/2024 12:30:39 PM	
+a  3	4/17/2024 12:32:22 PM	Stop
+a  3	4/17/2024 12:32:23 PM	Stop
+a  3	4/17/2024 12:32:28 PM	Manua Clean
+a  3	4/17/2024 12:32:36 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 12:32:43 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 12:32:44 PM	Coating Running
+a  3	4/17/2024 12:32:45 PM	
+a  3	4/17/2024 12:33:12 PM	SN:9042221D2310260654 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 12:33:21 PM	Automatically run to the Purge positionSetting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:33:21 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:33:21 PM	ProcessingStarted
+a  3	4/17/2024 12:33:22 PM	"Automatic changeover"(505ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260654","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417123321607,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260646\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9042221D2310260647\" processdirective_pos_02=\"Y\" subunitid_pos_03=\"9042221D2310260648\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9042221D2310260649\" processdirective_pos_04=\"Y\" subunitid_pos_05=\"9042221D2310260650\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9042221D2310260651\" processdirective_pos_06=\"Y\" subunitid_pos_07=\"9042221D2310260652\" processdirective_pos_07=\"P\" subunitid_pos_08=\"9042221D2310260653\" processdirective_pos_08=\"Y\" subunitid_pos_09=\"9042221D2310260654\" processdirective_pos_09=\"Y\" subunitid_pos_10=\"9042221D2310260655\" processdirective_pos_10=\"P\" subunitid_pos_11=\"9042221D2310260656\" processdirective_pos_11=\"P\" subunitid_pos_12=\"9042221D2310260657\" processdirective_pos_12=\"P\" subunitid_pos_13=\"9042221D2310260658\" processdirective_pos_13=\"P\" subunitid_pos_14=\"9042221D2310260659\" processdirective_pos_14=\"P\" subunitid_pos_15=\"9042221D2310260660\" processdirective_pos_15=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":true,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":true,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":true,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":true,"Number":8},{"Temp":"","Coating?":true,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:33:23 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.565 Y:185.160 Result:TRUE ;Score:91.951
+a  3	4/17/2024 12:33:25 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:219.819 Y:339.846 Result:TRUE ;Score:93.114
+a  3	4/17/2024 12:33:38 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:33:38 PM	Product0Weight	0.280g		Flowmeter1		0.112g		Flowmeter2		0.168g
+
+a  3	4/17/2024 12:33:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:33:46 PM	Product0Weight	0.207g		Flowmeter1		0.106g		Flowmeter2		0.101g
+
+a  3	4/17/2024 12:33:53 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:33:53 PM	Product0Weight	0.131g		Flowmeter2		0.131g
+
+a  3	4/17/2024 12:34:00 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:34:00 PM	Product0Weight	0.143g		Flowmeter2		0.143g
+
+a  3	4/17/2024 12:34:07 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:34:07 PM	Product0Weight	0.227g		Flowmeter1		0.112g		Flowmeter2		0.115g
+
+a  3	4/17/2024 12:34:07 PM	ProcessedEnd
+a  3	4/17/2024 12:34:07 PM	{"SN":"9042221D2310260654","StartTime":"24-04-17 12:33:21","StopTime":"24-04-17 12:34:07","ProgramName":"Conti_NBM_top","FlowmeterData":[0.98839305194805183],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:34:09 PM	"afterCoating"(2100ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260654","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417123407835,ACK\nUNIT_RESULT,COATING1,6,20240417123408106,ACK\nUNIT_RESULT,COATING1,6,20240417123408357,ACK\nUNIT_RESULT,COATING1,6,20240417123408602,ACK\nUNIT_RESULT,COATING1,6,20240417123408833,ACK\nUNIT_RESULT,COATING1,6,20240417123409055,ACK\nUNIT_RESULT,COATING1,6,20240417123409272,ACK\nUNIT_RESULT,COATING1,6,20240417123409520,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:35:48 PM	Stop
+a  3	4/17/2024 12:35:50 PM	Stop
+a  3	4/17/2024 12:36:00 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	4/17/2024 12:36:00 PM	TrackAndPar.bin the modify parameters are 清洗设置
+a  3	4/17/2024 12:36:00 PM	ShareParameters.bin the modify parameters are 清洗设置
+a  3	4/17/2024 12:36:03 PM	Coating Running
+a  3	4/17/2024 12:36:04 PM	
+a  3	4/17/2024 12:36:37 PM	SN:9042221D2310260354 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 12:36:42 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 12:36:46 PM	Automatically run to the Purge positionSetting--->X:21.292 Y:58.960 Z:63.016 Current--->X:21.292 Y:58.960 Z:63.016 Result:TRUE GTS_Code:0
+a  3	4/17/2024 12:36:46 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 12:36:47 PM	ProcessingStarted
+a  3	4/17/2024 12:36:47 PM	"Automatic changeover"(500ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260354","return":"OK","msg":"UNIT_CHECKIN,COATING1,5,20240417123647029,ACK,<UnitCheckin tokens=\"32\" program_name=\"Conti_NBM_top\" subunitid_pos_01=\"9042221D2310260346\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9042221D2310260347\" processdirective_pos_02=\"Y\" subunitid_pos_03=\"9042221D2310260348\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9042221D2310260349\" processdirective_pos_04=\"Y\" subunitid_pos_05=\"9042221D2310260350\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9042221D2310260351\" processdirective_pos_06=\"Y\" subunitid_pos_07=\"9042221D2310260352\" processdirective_pos_07=\"P\" subunitid_pos_08=\"9042221D2310260353\" processdirective_pos_08=\"Y\" subunitid_pos_09=\"9042221D2310260354\" processdirective_pos_09=\"Y\" subunitid_pos_10=\"9042221D2310260355\" processdirective_pos_10=\"P\" subunitid_pos_11=\"9042221D2310260356\" processdirective_pos_11=\"P\" subunitid_pos_12=\"9042221D2310260357\" processdirective_pos_12=\"P\" subunitid_pos_13=\"9042221D2310260358\" processdirective_pos_13=\"P\" subunitid_pos_14=\"9042221D2310260359\" processdirective_pos_14=\"P\" subunitid_pos_15=\"9042221D2310260360\" processdirective_pos_15=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":true,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":true,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":true,"Number":6},{"Temp":"","Coating?":false,"Number":7},{"Temp":"","Coating?":true,"Number":8},{"Temp":"","Coating?":true,"Number":9},{"Temp":"","Coating?":false,"Number":10},{"Temp":"","Coating?":false,"Number":11},{"Temp":"","Coating?":false,"Number":12},{"Temp":"","Coating?":false,"Number":13},{"Temp":"","Coating?":false,"Number":14},{"Temp":"","Coating?":false,"Number":15}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"Conti_NBM_top"}}
+a  3	4/17/2024 12:36:49 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:16.548 Y:185.751 Z:20.600  Match-->X:16.602 Y:185.166 Result:TRUE ;Score:90.935
+a  3	4/17/2024 12:36:50 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:220.855 Y:338.984 Z:20.600  Match-->X:219.759 Y:339.873 Result:TRUE ;Score:94.198
+a  3	4/17/2024 12:37:04 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:37:04 PM	Product0Weight	0.232g		Flowmeter1		0.110g		Flowmeter2		0.122g
+
+a  3	4/17/2024 12:37:11 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:37:11 PM	Product0Weight	0.226g		Flowmeter1		0.107g		Flowmeter2		0.119g
+
+a  3	4/17/2024 12:37:18 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:37:18 PM	Product0Weight	0.150g		Flowmeter2		0.150g
+
+a  3	4/17/2024 12:37:25 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:37:25 PM	Product0Weight	0.149g		Flowmeter2		0.149g
+
+a  3	4/17/2024 12:37:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 12:37:33 PM	Product0Weight	0.232g		Flowmeter1		0.111g		Flowmeter2		0.121g
+
+a  3	4/17/2024 12:37:33 PM	ProcessedEnd
+a  3	4/17/2024 12:37:33 PM	{"SN":"9042221D2310260354","StartTime":"24-04-17 12:36:46","StopTime":"24-04-17 12:37:33","ProgramName":"Conti_NBM_top","FlowmeterData":[0.98879610389610395],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 12:37:34 PM	"afterCoating"(1903ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9042221D2310260354","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417123733234,ACK\nUNIT_RESULT,COATING1,6,20240417123733449,ACK\nUNIT_RESULT,COATING1,6,20240417123733690,ACK\nUNIT_RESULT,COATING1,6,20240417123733909,ACK\nUNIT_RESULT,COATING1,6,20240417123734147,ACK\nUNIT_RESULT,COATING1,6,20240417123734363,ACK\nUNIT_RESULT,COATING1,6,20240417123734570,ACK\nUNIT_RESULT,COATING1,6,20240417123734795,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 12:38:12 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 12:52:45 PM	Stop
+a  3	4/17/2024 12:52:46 PM	Stop
+a  3	4/17/2024 12:53:25 PM	Coating Running
+a  3	4/17/2024 12:53:26 PM	
+a  3	4/17/2024 12:53:58 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 12:54:37 PM	Stop
+a  3	4/17/2024 12:54:38 PM	Stop
+a  3	4/17/2024 12:55:03 PM	Mouse click:X-
+a  3	4/17/2024 12:55:03 PM	key release or away:CurrentPosition--> X:396.490 Y:62.452 Z:5.000
+a  3	4/17/2024 12:55:04 PM	key release or away:CurrentPosition--> X:396.296 Y:62.452 Z:5.000
+a  3	4/17/2024 12:55:04 PM	Mouse click:X-
+a  3	4/17/2024 12:55:07 PM	key release or away:CurrentPosition--> X:203.989 Y:62.452 Z:5.000
+a  3	4/17/2024 12:55:07 PM	Mouse click:Y+
+a  3	4/17/2024 12:55:09 PM	key release or away:CurrentPosition--> X:201.914 Y:169.439 Z:5.000
+a  3	4/17/2024 12:55:09 PM	Mouse click:Y+
+a  3	4/17/2024 12:55:09 PM	key release or away:CurrentPosition--> X:201.914 Y:181.903 Z:5.000
+a  3	4/17/2024 12:55:09 PM	key release or away:CurrentPosition--> X:201.914 Y:181.903 Z:5.000
+a  3	4/17/2024 12:55:14 PM	WorkOrigin
+a  3	4/17/2024 12:57:20 PM	Manua Clean
+a  3	4/17/2024 12:57:24 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 12:57:29 PM	Coating Running
+a  3	4/17/2024 12:57:29 PM	
+a  3	4/17/2024 12:58:02 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 2:24:49 PM	Stop
+a  3	4/17/2024 2:24:50 PM	Stop
+a  3	4/17/2024 2:24:51 PM	Exit 
+a  3	4/17/2024 2:24:51 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	4/17/2024 2:27:00 PM	Initializing...
+a  3	4/17/2024 2:27:00 PM	Current User: a
+a  3	4/17/2024 2:27:00 PM	Open Program:Conti_NBM_top
+a  3	4/17/2024 2:27:05 PM	The reset button is pressed
+a  3	4/17/2024 2:27:35 PM	Reset is completed
+a  3	4/17/2024 2:28:10 PM	Manua Clean
+a  3	4/17/2024 2:28:14 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 2:35:07 PM	Stop
+a  3	4/17/2024 2:35:07 PM	Stop
+a  3	4/17/2024 2:35:13 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 2:35:14 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 2:36:57 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	4/17/2024 2:36:57 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/17/2024 2:37:27 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	4/17/2024 2:37:27 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	4/17/2024 2:43:05 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 2:43:06 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 2:43:34 PM	Coating Running
+a  3	4/17/2024 2:43:35 PM	
+a  3	4/17/2024 2:43:42 PM	Stop
+a  3	4/17/2024 2:43:44 PM	Stop
+a  3	4/17/2024 2:43:54 PM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 2:44:17 PM	Coating Running
+a  3	4/17/2024 2:44:18 PM	
+a  3	4/17/2024 2:45:20 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 3:11:36 PM	SN:9360023121200120 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 3:11:42 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 3:11:42 PM	ProcessingStarted
+a  3	4/17/2024 3:11:43 PM	"Automatic changeover"(1003ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360023121200120","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417151143348,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_TOP\" subunitid_pos_01=\"9360023121200113\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360023121200114\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360023121200115\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360023121200116\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360023121200117\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360023121200118\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360023121200119\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360023121200120\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_TOP"}}
+a  3	4/17/2024 3:11:45 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:22.185 Y:181.544 Z:22.733  Match-->X:23.345 Y:174.001 Result:TRUE ;Score:99.345
+a  3	4/17/2024 3:11:47 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:284.667 Y:331.567 Z:22.733  Match-->X:284.654 Y:325.895 Result:TRUE ;Score:98.934
+a  3	4/17/2024 3:11:59 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:00 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:12:05 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:05 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:12:11 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:11 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:12:17 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:17 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:12:22 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:22 PM	Product0Weight	0.022g		Flowmeter1		0.009g		Flowmeter2		0.013g
+
+a  3	4/17/2024 3:12:27 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:12:27 PM	Product0Weight	0.049g		Flowmeter1		0.010g		Flowmeter2		0.039g
+
+a  3	4/17/2024 3:12:27 PM	The flowrate of valve 1 is 0.000000g/s, Pressure is 0.130000Mpa. 
+a  3	4/17/2024 3:12:27 PM	The flowrate of valve 2 is 0.003896g/s, Pressure is 0.130000Mpa. 
+a  3	4/17/2024 3:12:35 PM	AlarmCode 1038:
+The flowrate of valve  1  is 0.000000Out of range (0.030000±0.010000)
+The flowrate of valve  2  is 0.003896Out of range (0.030000±0.010000)
+
+continue or stop?	Continue
+a  3	4/17/2024 3:12:35 PM	ProcessedEnd
+a  3	4/17/2024 3:12:35 PM	{"SN":"9360023121200120","StartTime":"24-04-17 15:11:42","StopTime":"24-04-17 15:12:35","ProgramName":"BMW_Gen_4_1_TOP","FlowmeterData":[0.071453917142857148],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 3:12:36 PM	"afterCoating"(1401ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360023121200120","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417151235874,ACK\nUNIT_RESULT,COATING1,6,20240417151236163,ACK\nUNIT_RESULT,COATING1,6,20240417151236431,ACK\nUNIT_RESULT,COATING1,6,20240417151236708,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 3:12:43 PM	Stop
+a  3	4/17/2024 3:12:44 PM	Stop
+a  3	4/17/2024 3:13:18 PM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Mark1(37.726,252.186,22.733),Mark2(0.000,0.000,0.000),Two Mark,Angle(0)
+a  3	4/17/2024 3:13:25 PM	The 2 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(37.726,252.186,22.733),No Use,Angle(0)
+a  3	4/17/2024 3:13:56 PM	The 6 line of program in the pattern ->main(A) has been modified. DOjetpanel:Inser(37.702,252.228,22.733),No Use,Angle(0)
+a  3	4/17/2024 3:14:11 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Width Test Para,Laser- film width check When First Run 2
+a  3	4/17/2024 3:14:13 PM	Test Width Laser：Click Start
+a  3	4/17/2024 3:14:23 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:14:24 PM	GlueWidthTest:Edge1 Read LineLaser:3.062 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:24 PM	GlueWidthTest:Edge2 Read LineLaser:3.243 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:24 PM	GlueWidthTest:Edge1 Read LineLaser:3.239 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:24 PM	GlueWidthTest:Edge2 Read LineLaser:3.213 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:25 PM	GlueWidthTest:Edge1 Read LineLaser:3.229 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:25 PM	GlueWidthTest:Edge2 Read LineLaser:3.229 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:26 PM	GlueWidthTest:Edge1 Read LineLaser:3.297 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:26 PM	GlueWidthTest:Edge2 Read LineLaser:3.315 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:26 PM	GlueWidthTest:Edge1 Read LineLaser:3.334 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:26 PM	GlueWidthTest:Edge2 Read LineLaser:3.353 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:30 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:14:31 PM	GlueWidthTest:Edge1 Read LineLaser:3.309 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:31 PM	GlueWidthTest:Edge2 Read LineLaser:3.304 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:31 PM	GlueWidthTest:Edge1 Read LineLaser:3.316 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:31 PM	GlueWidthTest:Edge2 Read LineLaser:3.316 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:32 PM	GlueWidthTest:Edge1 Read LineLaser:3.304 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:32 PM	GlueWidthTest:Edge2 Read LineLaser:3.304 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:33 PM	GlueWidthTest:Edge1 Read LineLaser:3.313 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:33 PM	GlueWidthTest:Edge2 Read LineLaser:3.302 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:33 PM	GlueWidthTest:Edge1 Read LineLaser:3.301 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:33 PM	GlueWidthTest:Edge2 Read LineLaser:3.301 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:14:37 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/17/2024 3:15:58 PM	Test Width Laser：Click Start
+a  3	4/17/2024 3:16:00 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:16:01 PM	GlueWidthTest:Edge1 Read LineLaser:7.651 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:02 PM	GlueWidthTest:Edge2 Read LineLaser:7.782 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:02 PM	GlueWidthTest:Edge1 Read LineLaser:7.756 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:02 PM	GlueWidthTest:Edge2 Read LineLaser:7.791 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:03 PM	GlueWidthTest:Edge1 Read LineLaser:7.777 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:03 PM	GlueWidthTest:Edge2 Read LineLaser:7.777 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:03 PM	GlueWidthTest:Edge1 Read LineLaser:7.787 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:04 PM	GlueWidthTest:Edge2 Read LineLaser:7.807 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:04 PM	GlueWidthTest:Edge1 Read LineLaser:7.812 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:04 PM	GlueWidthTest:Edge2 Read LineLaser:7.807 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:07 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:16:09 PM	GlueWidthTest:Edge1 Read LineLaser:7.079 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:09 PM	GlueWidthTest:Edge2 Read LineLaser:7.079 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:09 PM	GlueWidthTest:Edge1 Read LineLaser:7.079 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:09 PM	GlueWidthTest:Edge2 Read LineLaser:7.023 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:10 PM	GlueWidthTest:Edge1 Read LineLaser:7.098 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:10 PM	GlueWidthTest:Edge2 Read LineLaser:7.091 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:11 PM	GlueWidthTest:Edge1 Read LineLaser:7.056 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:11 PM	GlueWidthTest:Edge2 Read LineLaser:7.056 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:11 PM	GlueWidthTest:Edge1 Read LineLaser:7.079 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:11 PM	GlueWidthTest:Edge2 Read LineLaser:7.079 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:14 PM	Manual GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:16:16 PM	GlueWidthTest:Edge1 Read LineLaser:6.102 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:16 PM	GlueWidthTest:Edge2 Read LineLaser:6.104 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:16 PM	GlueWidthTest:Edge1 Read LineLaser:6.016 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:16 PM	GlueWidthTest:Edge2 Read LineLaser:6.052 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:17 PM	GlueWidthTest:Edge1 Read LineLaser:6.090 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:17 PM	GlueWidthTest:Edge2 Read LineLaser:6.090 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:18 PM	GlueWidthTest:Edge1 Read LineLaser:6.081 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:18 PM	GlueWidthTest:Edge2 Read LineLaser:6.081 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:18 PM	GlueWidthTest:Edge1 Read LineLaser:6.137 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:18 PM	GlueWidthTest:Edge2 Read LineLaser:6.137 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:16:33 PM	Manua Clean
+a  3	4/17/2024 3:16:37 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 3:16:38 PM	Coating Running
+a  3	4/17/2024 3:16:40 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	4/17/2024 3:16:40 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2,Glue_Pressure 2
+a  3	4/17/2024 3:16:40 PM	TrackAndPar.bin the modify parameters are FlowAlarmLimitSettingData,模板映射参数2
+a  3	4/17/2024 3:16:40 PM	ShareParameters.bin the modify parameters are FlowAlarmLimitSettingData,模板映射参数2
+a  3	4/17/2024 3:17:14 PM	Save Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 3:17:14 PM	
+a  3	4/17/2024 3:18:17 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 3:18:39 PM	Stop
+a  3	4/17/2024 3:18:41 PM	Stop
+a  3	4/17/2024 3:19:16 PM	Open Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 3:19:17 PM	Open Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 3:19:43 PM	The 9 line of program in the pattern ->main(A) has been modified. DOpanel:Inser(153.884,246.932,20.600),No Use,Angle(180)
+a  3	4/17/2024 3:20:01 PM	The 13 line of program in the pattern ->main(A) has been modified. DOJet panel:Inser(153.874,246.932,20.600),No Use,Angle(180)
+a  3	4/17/2024 3:20:04 PM	Key click:
+a  3	4/17/2024 3:20:05 PM	Key click:
+a  3	4/17/2024 3:20:05 PM	key release:CurrentPosition--> X:153.874 Y:246.932 Z:20.600
+a  3	4/17/2024 3:20:05 PM	key release:CurrentPosition--> X:153.874 Y:246.932 Z:20.600
+a  3	4/17/2024 3:20:06 PM	TrackAndPar.bin the modify parameters are FlowAlarmLimitSettingData,模板映射参数2
+a  3	4/17/2024 3:20:06 PM	ShareParameters.bin the modify parameters are FlowAlarmLimitSettingData,模板映射参数2
+a  3	4/17/2024 3:20:07 PM	Save Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 3:20:09 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 3:20:10 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 3:20:10 PM	Coating Running
+a  3	4/17/2024 3:20:11 PM	
+a  3	4/17/2024 3:20:14 PM	SN:9360024011800168 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 3:20:20 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 3:20:26 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:20:27 PM	GlueWidthTest:Edge1 Read LineLaser:6.860 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:28 PM	GlueWidthTest:Edge2 Read LineLaser:6.919 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:28 PM	GlueWidthTest:Edge1 Read LineLaser:7.052 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:28 PM	GlueWidthTest:Edge2 Read LineLaser:7.052 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:29 PM	GlueWidthTest:Edge1 Read LineLaser:7.070 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:29 PM	GlueWidthTest:Edge2 Read LineLaser:7.070 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:29 PM	GlueWidthTest:Edge1 Read LineLaser:7.103 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:30 PM	GlueWidthTest:Edge2 Read LineLaser:7.108 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:30 PM	GlueWidthTest:Edge1 Read LineLaser:7.126 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:30 PM	GlueWidthTest:Edge2 Read LineLaser:7.082 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:33 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:20:35 PM	GlueWidthTest:Edge1 Read LineLaser:6.426 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:35 PM	GlueWidthTest:Edge2 Read LineLaser:6.479 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:35 PM	GlueWidthTest:Edge1 Read LineLaser:6.587 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:35 PM	GlueWidthTest:Edge2 Read LineLaser:6.594 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:36 PM	GlueWidthTest:Edge1 Read LineLaser:6.564 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:36 PM	GlueWidthTest:Edge2 Read LineLaser:6.564 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:36 PM	GlueWidthTest:Edge1 Read LineLaser:6.571 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:37 PM	GlueWidthTest:Edge2 Read LineLaser:6.571 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:37 PM	GlueWidthTest:Edge1 Read LineLaser:6.596 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:37 PM	GlueWidthTest:Edge2 Read LineLaser:6.610 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:40 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:20:42 PM	GlueWidthTest:Edge1 Read LineLaser:6.024 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:42 PM	GlueWidthTest:Edge2 Read LineLaser:5.969 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:42 PM	GlueWidthTest:Edge1 Read LineLaser:6.128 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:42 PM	GlueWidthTest:Edge2 Read LineLaser:6.128 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:43 PM	GlueWidthTest:Edge1 Read LineLaser:6.158 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:43 PM	GlueWidthTest:Edge2 Read LineLaser:6.158 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:44 PM	GlueWidthTest:Edge1 Read LineLaser:6.167 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:44 PM	GlueWidthTest:Edge2 Read LineLaser:6.184 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:44 PM	GlueWidthTest:Edge1 Read LineLaser:6.218 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:44 PM	GlueWidthTest:Edge2 Read LineLaser:6.218 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:20:46 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.215,QueueError:FALSE,Code:0,UsedTime:22.173s
+a  3	4/17/2024 3:20:46 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Pressure Adjust,Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/17/2024 3:20:46 PM	ProcessingStarted
+a  3	4/17/2024 3:20:46 PM	"Automatic changeover"(501ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024011800168","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417152046230,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_TOP\" subunitid_pos_01=\"9360024011800161\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360024011800162\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360024011800163\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360024011800164\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360024011800165\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360024011800166\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360024011800167\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360024011800168\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_TOP"}}
+a  3	4/17/2024 3:20:48 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:22.185 Y:181.544 Z:22.733  Match-->X:23.494 Y:174.084 Result:TRUE ;Score:99.271
+a  3	4/17/2024 3:20:49 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:284.667 Y:331.567 Z:22.733  Match-->X:285.201 Y:325.287 Result:TRUE ;Score:98.327
+a  3	4/17/2024 3:21:02 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:02 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:21:08 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:08 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:21:14 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:14 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:21:20 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:20 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:21:25 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:25 PM	Product0Weight	0.018g		Flowmeter1		0.008g		Flowmeter2		0.010g
+
+a  3	4/17/2024 3:21:30 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:21:30 PM	Product0Weight	0.042g		Flowmeter1		0.033g		Flowmeter2		0.009g
+
+a  3	4/17/2024 3:21:30 PM	The flowrate of valve 1 is 0.000000g/s, Pressure is 0.130000Mpa. 
+a  3	4/17/2024 3:21:30 PM	The flowrate of valve 2 is 0.000000g/s, Pressure is 0.130000Mpa. 
+a  3	4/17/2024 3:21:48 PM	AlarmCode 1038:
+The flowrate of valve  1  is 0.000000Out of range (0.030000±0.010000)
+The flowrate of valve  2  is 0.000000Out of range (0.030000±0.010000)
+
+continue or stop?	Continue
+a  3	4/17/2024 3:21:48 PM	ProcessedEnd
+a  3	4/17/2024 3:21:48 PM	{"SN":"9360024011800168","StartTime":"24-04-17 15:20:46","StopTime":"24-04-17 15:21:48","ProgramName":"BMW_Gen_4_1_TOP","FlowmeterData":[0.0606936580952381],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 3:21:50 PM	"afterCoating"(1301ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024011800168","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417152148949,ACK\nUNIT_RESULT,COATING1,6,20240417152149231,ACK\nUNIT_RESULT,COATING1,6,20240417152149519,ACK\nUNIT_RESULT,COATING1,6,20240417152149847,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 3:21:57 PM	Stop
+a  3	4/17/2024 3:21:59 PM	Stop
+a  3	4/17/2024 3:24:09 PM	key release or away:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 3:24:11 PM	key release or away:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 3:24:16 PM	Coating Running
+a  3	4/17/2024 3:24:18 PM	
+a  3	4/17/2024 3:25:20 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 3:29:21 PM	SN:9360024032000561 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 3:29:35 PM	The flow of the flowmeter1 Valve1 adjusted successfully，the pressure is 0.130Mpa,Flowrate is 0.028g/s
+
+a  3	4/17/2024 3:30:05 PM	The flow of the flowmeter1 Valve2 adjusted unsuccessfully，the pressure is 0.110Mpa,Flowrate is 0.000g/s
+
+a  3	4/17/2024 3:30:08 PM	AlarmCode 1030:The flow of the flowmeter1 Valve1 adjusted successfully，the pressure is 0.130Mpa,Flowrate is 0.028g/s
+The flow of the flowmeter1 Valve2 adjusted unsuccessfully，the pressure is 0.110Mpa,Flowrate is 0.000g/s
+
+a  3	4/17/2024 3:30:08 PM	Stop
+a  3	4/17/2024 3:30:36 PM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para,Numeric
+a  3	4/17/2024 3:30:36 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	4/17/2024 3:30:37 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	4/17/2024 3:30:49 PM	Key click:
+a  3	4/17/2024 3:30:49 PM	Key click:
+a  3	4/17/2024 3:30:50 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 3:30:50 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 3:30:50 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 3:30:50 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 3:30:52 PM	Save Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 3:30:53 PM	Coating Running
+a  3	4/17/2024 3:30:55 PM	
+a  3	4/17/2024 3:31:05 PM	Stop
+a  3	4/17/2024 3:31:08 PM	Stop
+a  3	4/17/2024 3:31:10 PM	
+a  3	4/17/2024 3:31:11 PM	Coating Running
+a  3	4/17/2024 3:31:24 PM	Stop
+a  3	4/17/2024 3:31:25 PM	Stop
+a  3	4/17/2024 3:31:49 PM	Coating Running
+a  3	4/17/2024 3:31:49 PM	
+a  3	4/17/2024 3:31:57 PM	Stop
+a  3	4/17/2024 3:31:58 PM	Stop
+a  3	4/17/2024 3:32:09 PM	Stop
+a  3	4/17/2024 3:32:22 PM	Coating Running
+a  3	4/17/2024 3:32:24 PM	
+a  3	4/17/2024 3:32:26 PM	Stop
+a  3	4/17/2024 3:32:29 PM	Stop
+a  3	4/17/2024 3:32:49 PM	Coating Running
+a  3	4/17/2024 3:32:51 PM	
+a  3	4/17/2024 3:32:56 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 3:33:01 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:33:03 PM	GlueWidthTest:Edge1 Read LineLaser:5.619 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:03 PM	GlueWidthTest:Edge2 Read LineLaser:5.763 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:03 PM	GlueWidthTest:Edge1 Read LineLaser:5.758 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:03 PM	GlueWidthTest:Edge2 Read LineLaser:5.773 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:04 PM	GlueWidthTest:Edge1 Read LineLaser:5.803 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:04 PM	GlueWidthTest:Edge2 Read LineLaser:5.803 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:05 PM	GlueWidthTest:Edge1 Read LineLaser:5.904 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:05 PM	GlueWidthTest:Edge2 Read LineLaser:5.904 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:05 PM	GlueWidthTest:Edge1 Read LineLaser:6.011 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:05 PM	GlueWidthTest:Edge2 Read LineLaser:6.013 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:33:07 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.215,QueueError:FALSE,Code:0,UsedTime:7.724s
+a  3	4/17/2024 3:33:07 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2
+a  3	4/17/2024 3:33:07 PM	ProcessingStarted
+a  3	4/17/2024 3:33:07 PM	"Automatic changeover"(502ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024032000561","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417153307284,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_TOP\" subunitid_pos_01=\"9360024032000561\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360024032000562\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360024032000563\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360024032000564\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360024032000565\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360024032000566\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360024032000567\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360024032000568\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_TOP"}}
+a  3	4/17/2024 3:33:09 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:22.185 Y:181.544 Z:22.733  Match-->X:25.246 Y:174.477 Result:TRUE ;Score:99.203
+a  3	4/17/2024 3:33:10 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:284.667 Y:331.567 Z:22.733  Match-->X:286.808 Y:325.947 Result:TRUE ;Score:98.844
+a  3	4/17/2024 3:33:23 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:23 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:33:29 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:29 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:33:35 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:35 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:33:41 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:41 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 3:33:46 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:46 PM	Product0Weight	0.100g		Flowmeter1		0.088g		Flowmeter2		0.012g
+
+a  3	4/17/2024 3:33:51 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 3:33:51 PM	Product0Weight	0.068g		Flowmeter1		0.022g		Flowmeter2		0.046g
+
+a  3	4/17/2024 3:33:51 PM	ProcessedEnd
+a  3	4/17/2024 3:33:51 PM	{"SN":"9360024032000561","StartTime":"24-04-17 15:33:07","StopTime":"24-04-17 15:33:51","ProgramName":"BMW_Gen_4_1_TOP","FlowmeterData":[0.16834154427128431],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 3:33:52 PM	"afterCoating"(1203ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024032000561","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417153351329,ACK\nUNIT_RESULT,COATING1,6,20240417153351586,ACK\nUNIT_RESULT,COATING1,6,20240417153351836,ACK\nUNIT_RESULT,COATING1,6,20240417153352102,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 3:35:00 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 3:59:43 PM	SN:9360023121200117 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 3:59:49 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 3:59:56 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 3:59:57 PM	GlueWidthTest:Edge1 Read LineLaser:5.359 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:57 PM	GlueWidthTest:Edge2 Read LineLaser:5.359 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:58 PM	GlueWidthTest:Edge1 Read LineLaser:5.423 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:58 PM	GlueWidthTest:Edge2 Read LineLaser:5.423 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:58 PM	GlueWidthTest:Edge1 Read LineLaser:5.418 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:58 PM	GlueWidthTest:Edge2 Read LineLaser:5.421 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:59 PM	GlueWidthTest:Edge1 Read LineLaser:5.388 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 3:59:59 PM	GlueWidthTest:Edge2 Read LineLaser:5.364 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:00 PM	GlueWidthTest:Edge1 Read LineLaser:5.332 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:00 PM	GlueWidthTest:Edge2 Read LineLaser:5.337 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:01 PM	SN:9360024011800166 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 4:00:03 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 4:00:04 PM	GlueWidthTest:Edge1 Read LineLaser:6.270 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:04 PM	GlueWidthTest:Edge2 Read LineLaser:6.309 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:05 PM	GlueWidthTest:Edge1 Read LineLaser:6.382 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:05 PM	GlueWidthTest:Edge2 Read LineLaser:6.389 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:05 PM	GlueWidthTest:Edge1 Read LineLaser:6.431 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:05 PM	GlueWidthTest:Edge2 Read LineLaser:6.431 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:06 PM	GlueWidthTest:Edge1 Read LineLaser:6.466 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:06 PM	GlueWidthTest:Edge2 Read LineLaser:6.466 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:07 PM	GlueWidthTest:Edge1 Read LineLaser:6.536 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:07 PM	GlueWidthTest:Edge2 Read LineLaser:6.536 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:10 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 4:00:11 PM	GlueWidthTest:Edge1 Read LineLaser:5.931 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:11 PM	GlueWidthTest:Edge2 Read LineLaser:5.899 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:12 PM	GlueWidthTest:Edge1 Read LineLaser:5.913 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:12 PM	GlueWidthTest:Edge2 Read LineLaser:5.915 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:12 PM	GlueWidthTest:Edge1 Read LineLaser:5.932 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:12 PM	GlueWidthTest:Edge2 Read LineLaser:5.932 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:13 PM	GlueWidthTest:Edge1 Read LineLaser:5.962 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:13 PM	GlueWidthTest:Edge2 Read LineLaser:5.964 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:14 PM	GlueWidthTest:Edge1 Read LineLaser:5.982 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:14 PM	GlueWidthTest:Edge2 Read LineLaser:5.987 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:00:15 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.225,QueueError:FALSE,Code:0,UsedTime:22.259s
+a  3	4/17/2024 4:00:15 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Pressure Adjust,Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/17/2024 4:00:15 PM	ProcessingStarted
+a  3	4/17/2024 4:00:16 PM	"Automatic changeover"(516ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360023121200117","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417160015742,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_BOT\" subunitid_pos_01=\"9360023121200113\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360023121200114\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360023121200115\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360023121200116\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360023121200117\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360023121200118\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360023121200119\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360023121200120\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_BOT"}}
+a  3	4/17/2024 4:00:16 PM	Open Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 4:00:19 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:23.919 Y:331.332 Z:20.600  Match-->X:24.058 Y:323.932 Result:TRUE ;Score:93.049
+a  3	4/17/2024 4:00:20 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:286.730 Y:181.864 Z:20.600  Match-->X:287.803 Y:176.135 Result:TRUE ;Score:98.166
+a  3	4/17/2024 4:00:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:00:33 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:00:39 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:00:39 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:00:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:00:45 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:00:51 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:00:51 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:00:59 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:00:59 PM	Product0Weight	0.125g		Flowmeter1		0.089g		Flowmeter2		0.036g
+
+a  3	4/17/2024 4:01:06 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:01:06 PM	Product0Weight	0.110g		Flowmeter1		0.071g		Flowmeter2		0.039g
+
+a  3	4/17/2024 4:01:06 PM	The flowrate of valve 1 is 0.059655g/s, Pressure is 0.135000Mpa. 
+a  3	4/17/2024 4:01:06 PM	The flowrate of valve 2 is 0.022562g/s, Pressure is 0.135000Mpa. The flowrate exceeds range,and the pressure is adjusted to 0.142747Mpa. 
+a  3	4/17/2024 4:01:12 PM	AlarmCode 1038:
+The flowrate of valve  1  is 0.059655Out of range (0.030000±0.010000)
+
+continue or stop?	Continue
+a  3	4/17/2024 4:01:12 PM	ProcessedEnd
+a  3	4/17/2024 4:01:12 PM	{"SN":"9360023121200117","StartTime":"24-04-17 16:00:15","StopTime":"24-04-17 16:01:12","ProgramName":"BMW_Gen_4_1_BOT","FlowmeterData":[0.23505129919191922],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 4:01:13 PM	"afterCoating"(1204ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360023121200117","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417160112630,ACK\nUNIT_RESULT,COATING1,6,20240417160112913,ACK\nUNIT_RESULT,COATING1,6,20240417160113193,ACK\nUNIT_RESULT,COATING1,6,20240417160113465,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 4:01:24 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 4:01:36 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 4:01:37 PM	GlueWidthTest:Edge1 Read LineLaser:6.015 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:38 PM	GlueWidthTest:Edge2 Read LineLaser:6.092 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:38 PM	GlueWidthTest:Edge1 Read LineLaser:6.122 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:38 PM	GlueWidthTest:Edge2 Read LineLaser:6.122 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:39 PM	GlueWidthTest:Edge1 Read LineLaser:6.120 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:39 PM	GlueWidthTest:Edge2 Read LineLaser:6.120 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:39 PM	GlueWidthTest:Edge1 Read LineLaser:6.181 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:39 PM	GlueWidthTest:Edge2 Read LineLaser:6.192 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:40 PM	GlueWidthTest:Edge1 Read LineLaser:6.218 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:40 PM	GlueWidthTest:Edge2 Read LineLaser:6.234 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:01:41 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.225,QueueError:FALSE,Code:0,UsedTime:8.301s
+a  3	4/17/2024 4:01:41 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2
+a  3	4/17/2024 4:01:42 PM	ProcessingStarted
+a  3	4/17/2024 4:01:42 PM	"Automatic changeover"(502ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024011800166","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417160142026,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_BOT\" subunitid_pos_01=\"9360024011800161\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360024011800162\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360024011800163\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360024011800164\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360024011800165\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360024011800166\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360024011800167\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360024011800168\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_BOT"}}
+a  3	4/17/2024 4:01:44 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:23.919 Y:331.332 Z:20.600  Match-->X:23.739 Y:323.924 Result:TRUE ;Score:95.248
+a  3	4/17/2024 4:01:46 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:286.730 Y:181.864 Z:20.600  Match-->X:287.607 Y:176.347 Result:TRUE ;Score:97.695
+a  3	4/17/2024 4:01:49 PM	SN:9360024032000563 Result:TRUE TimeOut:TRUE
+a  3	4/17/2024 4:01:58 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:01:58 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:02:04 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:02:04 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:02:10 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:02:10 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:02:16 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:02:16 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:02:24 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:02:24 PM	Product0Weight	0.130g		Flowmeter1		0.085g		Flowmeter2		0.045g
+
+a  3	4/17/2024 4:02:31 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:02:31 PM	Product0Weight	0.132g		Flowmeter1		0.087g		Flowmeter2		0.045g
+
+a  3	4/17/2024 4:02:31 PM	The flowrate of valve 1 is 0.055557g/s, Pressure is 0.135000Mpa. 
+a  3	4/17/2024 4:02:31 PM	The flowrate of valve 2 is 0.032440g/s, Pressure is 0.142747Mpa. 
+a  3	4/17/2024 4:02:34 PM	AlarmCode 1038:
+The flowrate of valve  1  is 0.055557Out of range (0.030000±0.010000)
+
+continue or stop?	Continue
+a  3	4/17/2024 4:02:34 PM	ProcessedEnd
+a  3	4/17/2024 4:02:34 PM	{"SN":"9360024011800166","StartTime":"24-04-17 16:01:41","StopTime":"24-04-17 16:02:34","ProgramName":"BMW_Gen_4_1_BOT","FlowmeterData":[0.2625125854834055],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 4:02:35 PM	"afterCoating"(1201ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024011800166","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417160234503,ACK\nUNIT_RESULT,COATING1,6,20240417160234784,ACK\nUNIT_RESULT,COATING1,6,20240417160235060,ACK\nUNIT_RESULT,COATING1,6,20240417160235344,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 4:02:46 PM	Board finished:TRUE EmergencyStop:FALSE
+a  3	4/17/2024 4:02:58 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 4:03:00 PM	GlueWidthTest:Edge1 Read LineLaser:6.094 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:00 PM	GlueWidthTest:Edge2 Read LineLaser:6.206 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:00 PM	GlueWidthTest:Edge1 Read LineLaser:6.349 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:00 PM	GlueWidthTest:Edge2 Read LineLaser:6.351 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:01 PM	GlueWidthTest:Edge1 Read LineLaser:6.332 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:01 PM	GlueWidthTest:Edge2 Read LineLaser:6.332 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:02 PM	GlueWidthTest:Edge1 Read LineLaser:6.346 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:02 PM	GlueWidthTest:Edge2 Read LineLaser:6.347 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:02 PM	GlueWidthTest:Edge1 Read LineLaser:6.374 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:02 PM	GlueWidthTest:Edge2 Read LineLaser:6.379 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:06 PM	Automatic GlueWidthTest:go to start position Setting--->X:96.474 Y:24.704 Z:38.854 Current--->X:96.474 Y:24.704 Z:28.854 Result:TRUE GTS_Code:0
+a  3	4/17/2024 4:03:07 PM	GlueWidthTest:Edge1 Read LineLaser:6.024 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:07 PM	GlueWidthTest:Edge2 Read LineLaser:6.024 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:07 PM	GlueWidthTest:Edge1 Read LineLaser:6.080 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:07 PM	GlueWidthTest:Edge2 Read LineLaser:6.081 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:08 PM	GlueWidthTest:Edge1 Read LineLaser:6.086 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:08 PM	GlueWidthTest:Edge2 Read LineLaser:6.090 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:09 PM	GlueWidthTest:Edge1 Read LineLaser:6.102 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:09 PM	GlueWidthTest:Edge2 Read LineLaser:6.099 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:09 PM	GlueWidthTest:Edge1 Read LineLaser:6.102 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:09 PM	GlueWidthTest:Edge2 Read LineLaser:6.100 Current--->X:96.474 Y:24.704 Z:28.854  GTS_Code:0
+a  3	4/17/2024 4:03:11 PM	Automatic GlueWidth VariableStatus-->Valve Valve 4,Film Width:0.000,Pressure:0.220,QueueError:FALSE,Code:0,UsedTime:15.428s
+a  3	4/17/2024 4:03:11 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Pressure Adjust,Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	4/17/2024 4:03:11 PM	ProcessingStarted
+a  3	4/17/2024 4:03:11 PM	"Automatic changeover"(503ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024032000563","return":"OK","msg":"j\u0002UNIT_CHECKIN,COATING1,5,20240417160311265,ACK,<UnitCheckin tokens=\"18\" program_name=\"BMW_Gen_4_1_BOT\" subunitid_pos_01=\"9360024032000561\" processdirective_pos_01=\"Y\" subunitid_pos_02=\"9360024032000562\" processdirective_pos_02=\"P\" subunitid_pos_03=\"9360024032000563\" processdirective_pos_03=\"Y\" subunitid_pos_04=\"9360024032000564\" processdirective_pos_04=\"P\" subunitid_pos_05=\"9360024032000565\" processdirective_pos_05=\"Y\" subunitid_pos_06=\"9360024032000566\" processdirective_pos_06=\"P\" subunitid_pos_07=\"9360024032000567\" processdirective_pos_07=\"Y\" subunitid_pos_08=\"9360024032000568\" processdirective_pos_08=\"P\" />","data":{"ProductCoating":[{"Temp":"","Coating?":true,"Number":1},{"Temp":"","Coating?":false,"Number":2},{"Temp":"","Coating?":true,"Number":3},{"Temp":"","Coating?":false,"Number":4},{"Temp":"","Coating?":true,"Number":5},{"Temp":"","Coating?":false,"Number":6},{"Temp":"","Coating?":true,"Number":7},{"Temp":"","Coating?":false,"Number":8}],"Alarm Type":1,"Temp CheckType":1,"Program Name":"BMW_Gen_4_1_BOT"}}
+a  3	4/17/2024 4:03:13 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:23.919 Y:331.332 Z:20.600  Match-->X:21.979 Y:324.288 Result:TRUE ;Score:97.744
+a  3	4/17/2024 4:03:15 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:286.730 Y:181.864 Z:20.600  Match-->X:285.818 Y:176.637 Result:TRUE ;Score:98.701
+a  3	4/17/2024 4:03:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:03:28 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:03:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:03:33 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:03:39 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:03:39 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:03:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:03:45 PM	Product0Weight	0.000g
+
+a  3	4/17/2024 4:03:53 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:03:53 PM	Product0Weight	0.125g		Flowmeter1		0.072g		Flowmeter2		0.053g
+
+a  3	4/17/2024 4:04:00 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	4/17/2024 4:04:00 PM	Product0Weight	0.134g		Flowmeter1		0.075g		Flowmeter2		0.060g
+
+a  3	4/17/2024 4:04:00 PM	The flowrate of valve 1 is 0.062177g/s, Pressure is 0.135000Mpa. 
+a  3	4/17/2024 4:04:00 PM	The flowrate of valve 2 is 0.033806g/s, Pressure is 0.142747Mpa. 
+a  3	4/17/2024 4:04:07 PM	AlarmCode 1038:
+The flowrate of valve  1  is 0.062177Out of range (0.030000±0.010000)
+
+continue or stop?	Continue
+a  3	4/17/2024 4:04:07 PM	ProcessedEnd
+a  3	4/17/2024 4:04:07 PM	{"SN":"9360024032000563","StartTime":"24-04-17 16:03:11","StopTime":"24-04-17 16:04:07","ProgramName":"BMW_Gen_4_1_BOT","FlowmeterData":[0.25993203396825398],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	4/17/2024 4:04:09 PM	"afterCoating"(1405ms) Machine receive data from MES interface:{"id":"Coating","station":"station1","boardId":"9360024032000563","return":"OK","msg":"UNIT_RESULT,COATING1,6,20240417160407931,ACK\nUNIT_RESULT,COATING1,6,20240417160408250,ACK\nUNIT_RESULT,COATING1,6,20240417160408590,ACK\nUNIT_RESULT,COATING1,6,20240417160408879,ACK\r\n","data":{"ProductCoating":[],"Alarm Type":1,"Temp CheckType":0,"Program Name":""}}
+a  3	4/17/2024 4:06:37 PM	Stop
+a  3	4/17/2024 4:06:38 PM	Stop
+a  3	4/17/2024 4:06:50 PM	key release or away:CurrentPosition--> X:118.844 Y:420.884 Z:5.000
+a  3	4/17/2024 4:06:50 PM	key release or away:CurrentPosition--> X:118.844 Y:420.884 Z:5.000
+a  3	4/17/2024 4:07:45 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	4/17/2024 4:07:45 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	4/17/2024 4:07:45 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	4/17/2024 4:08:08 PM	Key click:
+a  3	4/17/2024 4:08:08 PM	Key click:
+a  3	4/17/2024 4:08:08 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 4:08:08 PM	key release:CurrentPosition--> X:21.292 Y:58.960 Z:63.016
+a  3	4/17/2024 4:08:09 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 4:08:09 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	4/17/2024 4:08:10 PM	Save Program:BMW_Gen_4_1_BOT
+a  3	4/17/2024 4:08:12 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 4:08:13 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 4:08:48 PM	ParametersOfSystemSetting.bin the modify parameters are WindSpeed Para,Flow hardware para
+a  3	4/17/2024 4:08:52 PM	Coating Running
+a  3	4/17/2024 4:08:53 PM	
+a  3	4/17/2024 4:08:54 PM	Stop
+a  3	4/17/2024 4:08:56 PM	Stop
+a  3	4/17/2024 4:08:58 PM	Manua Clean
+a  3	4/17/2024 4:09:01 PM	Coating Running
+a  3	4/17/2024 4:09:02 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 4:09:02 PM	
+a  3	4/17/2024 4:10:05 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	4/17/2024 4:16:06 PM	Stop
+a  3	4/17/2024 4:16:08 PM	Stop
+a  3	4/17/2024 4:16:22 PM	key release or away:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 4:16:23 PM	Key click:
+a  3	4/17/2024 4:16:23 PM	Key click:
+a  3	4/17/2024 4:16:23 PM	key release:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 4:16:23 PM	key release:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 4:16:24 PM	Save Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 4:16:25 PM	key release:CurrentPosition--> X:405.594 Y:62.452 Z:66.166
+a  3	4/17/2024 4:16:29 PM	Exit 
+a  3	4/17/2024 4:16:29 PM	AlarmCode 1006:Pressure Low
+a  3	4/17/2024 4:52:55 PM	Initializing...
+a  3	4/17/2024 4:52:55 PM	Current User: a
+a  3	4/17/2024 4:52:55 PM	Open Program:BMW_Gen_4_1_TOP
+a  3	4/17/2024 4:52:58 PM	The reset button is pressed
+a  3	4/17/2024 4:53:19 PM	Reset is completed
+a  3	4/17/2024 4:53:24 PM	Manua Clean
+a  3	4/17/2024 4:53:29 PM	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	4/17/2024 4:53:30 PM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	4/17/2024 4:53:30 PM	Stop
+a  3	4/17/2024 4:53:33 PM	The Power Off button was pressed
+a  3	4/17/2024 4:54:06 PM	AlarmCode 1006:Pressure Low

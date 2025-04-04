@@ -1,0 +1,115 @@
+
+a  3	2024/8/8 9:43:03	Éè±¸³õÊ¼»¯......
+a  3	2024/8/8 9:43:03	µ±Ç°ÓÃ»§£º a
+a  3	2024/8/8 9:43:03	´ò¿ª³ÌÐò£ºf069   »Ò½º
+a  3	2024/8/8 9:43:07	AlarmCode 1006:ÆøÑ¹¼ì²â±¨¾¯
+a  3	2024/8/8 9:43:08	Í£Ö¹
+a  3	2024/8/8 9:43:56	English
+a  3	2024/8/8 9:52:42	Initializing...
+a  3	2024/8/8 9:52:42	Current User: a
+a  3	2024/8/8 9:52:42	Open Program:f069   »Ò½º
+a  3	2024/8/8 9:52:47	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 9:52:47	Stop
+a  3	2024/8/8 10:06:06	Initializing...
+a  3	2024/8/8 10:06:06	Current User: a
+a  3	2024/8/8 10:06:06	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:06:10	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:06:10	Stop
+a  3	2024/8/8 10:09:21	Initializing...
+a  3	2024/8/8 10:09:21	Current User: a
+a  3	2024/8/8 10:09:21	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:09:25	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:09:25	Stop
+a  3	2024/8/8 10:14:31	Initializing...
+a  3	2024/8/8 10:14:31	Current User: a
+a  3	2024/8/8 10:14:31	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:14:36	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:14:36	Stop
+a  3	2024/8/8 10:22:09	Initializing...
+a  3	2024/8/8 10:22:09	Current User: a
+a  3	2024/8/8 10:22:09	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:22:14	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:22:14	Stop
+a  3	2024/8/8 10:22:48	Key click:
+a  3	2024/8/8 10:22:48	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:24:23	Initializing...
+a  3	2024/8/8 10:24:23	Current User: a
+a  3	2024/8/8 10:24:23	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:24:27	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:24:27	Stop
+a  3	2024/8/8 10:26:11	Initializing...
+a  3	2024/8/8 10:26:11	Current User: a
+a  3	2024/8/8 10:26:11	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:26:15	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:26:15	Stop
+a  3	2024/8/8 10:27:18	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:27:18	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:27:37	Initializing...
+a  3	2024/8/8 10:27:38	Current User: a
+a  3	2024/8/8 10:27:38	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:27:42	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:27:42	Stop
+a  3	2024/8/8 10:29:03	Initializing...
+a  3	2024/8/8 10:29:03	Current User: a
+a  3	2024/8/8 10:29:03	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:29:07	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:29:08	Stop
+a  3	2024/8/8 10:31:07	Initializing...
+a  3	2024/8/8 10:31:07	Current User: a
+a  3	2024/8/8 10:31:07	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:31:12	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:31:12	Stop
+a  3	2024/8/8 10:31:34	Key click:
+a  3	2024/8/8 10:31:34	Key click:
+a  3	2024/8/8 10:31:34	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:31:34	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:32:59	Initializing...
+a  3	2024/8/8 10:32:59	Current User: a
+a  3	2024/8/8 10:32:59	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:33:03	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:33:04	Stop
+a  3	2024/8/8 10:34:07	Initializing...
+a  3	2024/8/8 10:34:08	Current User: a
+a  3	2024/8/8 10:34:08	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:34:12	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:34:12	Stop
+a  3	2024/8/8 10:35:52	Initializing...
+a  3	2024/8/8 10:35:53	Current User: a
+a  3	2024/8/8 10:35:53	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:35:57	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:35:57	Stop
+a  3	2024/8/8 10:36:04	Key click:
+a  3	2024/8/8 10:36:04	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:38:54	Initializing...
+a  3	2024/8/8 10:38:55	Current User: a
+a  3	2024/8/8 10:38:55	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:38:59	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:38:59	Stop
+a  3	2024/8/8 10:39:42	Initializing...
+a  3	2024/8/8 10:39:42	Current User: a
+a  3	2024/8/8 10:39:42	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:39:47	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:39:47	Stop
+a  3	2024/8/8 10:40:51	Initializing...
+a  3	2024/8/8 10:40:51	Current User: a
+a  3	2024/8/8 10:40:51	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:40:55	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:40:56	Stop
+a  3	2024/8/8 10:47:59	Initializing...
+a  3	2024/8/8 10:47:59	Current User: a
+a  3	2024/8/8 10:47:59	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:48:04	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:48:04	Stop
+a  3	2024/8/8 10:49:19	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:49:20	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/8 10:55:35	Initializing...
+a  3	2024/8/8 10:55:35	Current User: a
+a  3	2024/8/8 10:55:35	Open Program:f069   »Ò½º
+a  3	2024/8/8 10:55:39	AlarmCode 1006:Pressure Low
+a  3	2024/8/8 10:55:39	Stop
+a  3	2024/8/8 10:55:45	Chinese
+a  3	2024/8/8 11:19:23	Éè±¸³õÊ¼»¯......
+a  3	2024/8/8 11:19:23	µ±Ç°ÓÃ»§£º a
+a  3	2024/8/8 11:19:23	´ò¿ª³ÌÐò£ºf069   »Ò½º
+a  3	2024/8/8 11:19:27	AlarmCode 1006:ÆøÑ¹¼ì²â±¨¾¯
+a  3	2024/8/8 11:19:27	Í£Ö¹

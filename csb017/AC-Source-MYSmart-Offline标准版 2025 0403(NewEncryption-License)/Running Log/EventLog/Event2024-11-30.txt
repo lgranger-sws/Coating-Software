@@ -1,0 +1,2651 @@
+
+a  3	11/30/2024 9:14:00 AM	设备初始化......
+a  3	11/30/2024 9:14:00 AM	当前用户： a
+a  3	11/30/2024 9:14:00 AM	打开程序：test
+a  3	11/30/2024 9:14:01 AM	复位按钮按下
+a  3	11/30/2024 9:14:23 AM	设备复位完成
+a  3	11/30/2024 9:14:48 AM	键盘按下：
+a  3	11/30/2024 9:14:49 AM	键盘释放：CurrentPosition--> X:218.850 Y:186.946 Z:18.326
+a  3	11/30/2024 9:14:53 AM	键盘按下：Up
+a  3	11/30/2024 9:14:54 AM	键盘释放：CurrentPosition--> X:218.850 Y:186.946 Z:18.326
+a  3	11/30/2024 9:14:56 AM	键盘按下：Up
+a  3	11/30/2024 9:14:56 AM	键盘释放：CurrentPosition--> X:218.850 Y:199.975 Z:18.326
+a  3	11/30/2024 9:14:57 AM	键盘按下：Down
+a  3	11/30/2024 9:14:57 AM	键盘释放：CurrentPosition--> X:218.850 Y:200.108 Z:18.326
+a  3	11/30/2024 9:15:00 AM	键盘按下：Right
+a  3	11/30/2024 9:15:05 AM	键盘释放：CurrentPosition--> X:319.514 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:05 AM	键盘按下：Right
+a  3	11/30/2024 9:15:05 AM	键盘释放：CurrentPosition--> X:319.514 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:05 AM	键盘按下：Right
+a  3	11/30/2024 9:15:05 AM	键盘释放：CurrentPosition--> X:324.134 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:13 AM	模板->main(A)中第1行程序被修改:PullBackHeight:30.000
+
+a  3	11/30/2024 9:15:13 AM	键盘按下：
+a  3	11/30/2024 9:15:14 AM	键盘按下：
+a  3	11/30/2024 9:15:14 AM	键盘释放：CurrentPosition--> X:325.028 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:14 AM	键盘释放：CurrentPosition--> X:325.028 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:14 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust
+a  3	11/30/2024 9:15:14 AM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage,Light source adjust
+a  3	11/30/2024 9:15:15 AM	保存程序：test
+a  3	11/30/2024 9:15:29 AM	键盘按下：
+a  3	11/30/2024 9:15:32 AM	键盘释放：CurrentPosition--> X:325.028 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:33 AM	键盘按下：
+a  3	11/30/2024 9:15:33 AM	键盘按下：
+a  3	11/30/2024 9:15:33 AM	键盘释放：CurrentPosition--> X:325.028 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:33 AM	键盘释放：CurrentPosition--> X:325.028 Y:199.070 Z:18.326
+a  3	11/30/2024 9:15:33 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:15:33 AM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 9:15:34 AM	保存程序：test
+a  3	11/30/2024 9:15:38 AM	涂胶运行
+a  3	11/30/2024 9:15:39 AM	
+a  3	11/30/2024 9:15:43 AM	ProcessingStarted
+a  3	11/30/2024 9:15:46 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:15:48 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:15:50 AM	停止
+a  3	11/30/2024 9:15:51 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:15:51 AM	ProcessedEnd
+a  3	11/30/2024 9:15:51 AM	{"SN":"","StartTime":"24-11-30 09:15:43","StopTime":"24-11-30 09:15:51","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:15:52 AM	停止
+a  3	11/30/2024 9:16:48 AM	模板->main(A)中第1行程序被修改:PullBackHeight:50.000
+
+a  3	11/30/2024 9:16:49 AM	键盘按下：
+a  3	11/30/2024 9:16:49 AM	键盘按下：
+a  3	11/30/2024 9:16:49 AM	键盘释放：CurrentPosition--> X:229.976 Y:320.874 Z:84.155
+a  3	11/30/2024 9:16:49 AM	键盘释放：CurrentPosition--> X:229.976 Y:320.874 Z:84.155
+a  3	11/30/2024 9:16:49 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:16:49 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:16:50 AM	保存程序：test
+a  3	11/30/2024 9:16:55 AM	涂胶运行
+a  3	11/30/2024 9:16:56 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:16:56 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:16:58 AM	保存程序：test
+a  3	11/30/2024 9:16:58 AM	
+a  3	11/30/2024 9:17:00 AM	ProcessingStarted
+a  3	11/30/2024 9:17:03 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:17:06 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:17:08 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:17:09 AM	停止
+a  3	11/30/2024 9:17:10 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:17:10 AM	ProcessedEnd
+a  3	11/30/2024 9:17:10 AM	{"SN":"","StartTime":"24-11-30 09:17:00","StopTime":"24-11-30 09:17:09","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:17:10 AM	停止
+a  3	11/30/2024 9:17:32 AM	涂胶运行
+a  3	11/30/2024 9:17:33 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:17:33 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:17:34 AM	保存程序：test
+a  3	11/30/2024 9:17:34 AM	
+a  3	11/30/2024 9:17:37 AM	ProcessingStarted
+a  3	11/30/2024 9:17:40 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:17:40 AM	ProcessedEnd
+a  3	11/30/2024 9:17:40 AM	{"SN":"","StartTime":"24-11-30 09:17:37","StopTime":"24-11-30 09:17:40","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:17:41 AM	停止
+a  3	11/30/2024 9:17:43 AM	停止
+a  3	11/30/2024 9:17:47 AM	运行测试：开始
+a  3	11/30/2024 9:17:50 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:17:55 AM	运行测试：开始
+a  3	11/30/2024 9:17:58 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:18:07 AM	键盘按下：
+a  3	11/30/2024 9:18:07 AM	键盘释放：CurrentPosition--> X:329.486 Y:343.196 Z:5.000
+a  3	11/30/2024 9:18:07 AM	键盘按下：
+a  3	11/30/2024 9:18:07 AM	键盘释放：CurrentPosition--> X:329.486 Y:343.196 Z:5.000
+a  3	11/30/2024 9:18:08 AM	键盘按下：
+a  3	11/30/2024 9:18:09 AM	键盘释放：CurrentPosition--> X:329.486 Y:343.196 Z:5.000
+a  3	11/30/2024 9:18:17 AM	键盘按下：
+a  3	11/30/2024 9:18:17 AM	键盘按下：
+a  3	11/30/2024 9:18:18 AM	键盘释放：CurrentPosition--> X:329.486 Y:343.196 Z:5.000
+a  3	11/30/2024 9:18:18 AM	键盘释放：CurrentPosition--> X:329.486 Y:343.196 Z:5.000
+a  3	11/30/2024 9:18:18 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:18:18 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:18:19 AM	保存程序：test
+a  3	11/30/2024 9:18:21 AM	涂胶运行
+a  3	11/30/2024 9:18:22 AM	
+a  3	11/30/2024 9:18:25 AM	ProcessingStarted
+a  3	11/30/2024 9:18:27 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:18:30 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:18:32 AM	停止
+a  3	11/30/2024 9:18:33 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:18:33 AM	ProcessedEnd
+a  3	11/30/2024 9:18:33 AM	{"SN":"","StartTime":"24-11-30 09:18:25","StopTime":"24-11-30 09:18:33","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:18:34 AM	停止
+a  3	11/30/2024 9:18:40 AM	模板->main(A)中第1行程序被修改:PullBackHeight:0.000
+
+a  3	11/30/2024 9:18:40 AM	键盘按下：
+a  3	11/30/2024 9:18:41 AM	键盘按下：
+a  3	11/30/2024 9:18:41 AM	键盘释放：CurrentPosition--> X:229.976 Y:320.874 Z:84.155
+a  3	11/30/2024 9:18:41 AM	键盘释放：CurrentPosition--> X:229.976 Y:320.874 Z:84.155
+a  3	11/30/2024 9:18:41 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:18:41 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:18:42 AM	保存程序：test
+a  3	11/30/2024 9:18:43 AM	涂胶运行
+a  3	11/30/2024 9:18:44 AM	
+a  3	11/30/2024 9:18:48 AM	ProcessingStarted
+a  3	11/30/2024 9:18:50 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:18:52 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:18:53 AM	停止
+a  3	11/30/2024 9:18:54 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:18:54 AM	ProcessedEnd
+a  3	11/30/2024 9:18:54 AM	{"SN":"","StartTime":"24-11-30 09:18:48","StopTime":"24-11-30 09:18:53","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:18:54 AM	停止
+a  3	11/30/2024 9:22:31 AM	设备初始化......
+a  3	11/30/2024 9:22:31 AM	当前用户： a
+a  3	11/30/2024 9:22:31 AM	打开程序：test
+a  3	11/30/2024 9:22:31 AM	复位按钮按下
+a  3	11/30/2024 9:22:57 AM	设备复位完成
+a  3	11/30/2024 9:23:20 AM	模板->main(A)中第1行程序被修改:PullBackHeight:50.000
+
+a  3	11/30/2024 9:23:20 AM	键盘按下：
+a  3	11/30/2024 9:23:20 AM	键盘按下：
+a  3	11/30/2024 9:23:20 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:23:20 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:23:21 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:23:21 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:23:22 AM	保存程序：test
+a  3	11/30/2024 9:23:23 AM	涂胶运行
+a  3	11/30/2024 9:23:24 AM	
+a  3	11/30/2024 9:23:28 AM	ProcessingStarted
+a  3	11/30/2024 9:23:31 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:23:32 AM	停止
+a  3	11/30/2024 9:23:34 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:23:34 AM	ProcessedEnd
+a  3	11/30/2024 9:23:34 AM	{"SN":"","StartTime":"24-11-30 09:23:28","StopTime":"24-11-30 09:23:33","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:23:34 AM	停止
+a  3	11/30/2024 9:26:36 AM	设备初始化......
+a  3	11/30/2024 9:26:36 AM	当前用户： a
+a  3	11/30/2024 9:26:36 AM	打开程序：test
+a  3	11/30/2024 9:26:36 AM	复位按钮按下
+a  3	11/30/2024 9:27:02 AM	设备复位完成
+a  3	11/30/2024 9:27:11 AM	涂胶运行
+a  3	11/30/2024 9:27:11 AM	
+a  3	11/30/2024 9:27:15 AM	ProcessingStarted
+a  3	11/30/2024 9:27:18 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:27:21 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:27:22 AM	停止
+a  3	11/30/2024 9:27:24 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:27:24 AM	ProcessedEnd
+a  3	11/30/2024 9:27:24 AM	{"SN":"","StartTime":"24-11-30 09:27:15","StopTime":"24-11-30 09:27:23","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:27:24 AM	停止
+a  3	11/30/2024 9:27:40 AM	模板->main(A)中第1行程序被修改:PullBackHeight:0.000
+
+a  3	11/30/2024 9:27:43 AM	涂胶运行
+a  3	11/30/2024 9:27:44 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:27:44 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:27:46 AM	保存程序：test
+a  3	11/30/2024 9:27:46 AM	
+a  3	11/30/2024 9:27:48 AM	ProcessingStarted
+a  3	11/30/2024 9:27:50 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:27:52 AM	停止
+a  3	11/30/2024 9:27:52 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:27:52 AM	ProcessedEnd
+a  3	11/30/2024 9:27:52 AM	{"SN":"","StartTime":"24-11-30 09:27:48","StopTime":"24-11-30 09:27:51","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:27:52 AM	停止
+a  3	11/30/2024 9:27:56 AM	涂胶运行
+a  3	11/30/2024 9:27:57 AM	
+a  3	11/30/2024 9:28:00 AM	ProcessingStarted
+a  3	11/30/2024 9:28:03 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:28:04 AM	停止
+a  3	11/30/2024 9:28:05 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:28:06 AM	ProcessedEnd
+a  3	11/30/2024 9:28:06 AM	{"SN":"","StartTime":"24-11-30 09:28:00","StopTime":"24-11-30 09:28:05","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:28:06 AM	停止
+a  3	11/30/2024 9:28:08 AM	涂胶运行
+a  3	11/30/2024 9:28:09 AM	
+a  3	11/30/2024 9:28:13 AM	ProcessingStarted
+a  3	11/30/2024 9:28:15 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:28:15 AM	停止
+a  3	11/30/2024 9:28:16 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:28:17 AM	ProcessedEnd
+a  3	11/30/2024 9:28:17 AM	{"SN":"","StartTime":"24-11-30 09:28:13","StopTime":"24-11-30 09:28:16","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:28:17 AM	停止
+a  3	11/30/2024 9:28:24 AM	模板->main(A)中第1行程序被修改:PullBackHeight:70.000
+
+a  3	11/30/2024 9:28:25 AM	键盘按下：
+a  3	11/30/2024 9:28:25 AM	键盘按下：
+a  3	11/30/2024 9:28:25 AM	键盘释放：CurrentPosition--> X:242.256 Y:325.874 Z:64.155
+a  3	11/30/2024 9:28:25 AM	键盘释放：CurrentPosition--> X:242.256 Y:325.874 Z:64.155
+a  3	11/30/2024 9:28:25 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:28:25 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:28:26 AM	保存程序：test
+a  3	11/30/2024 9:28:28 AM	涂胶运行
+a  3	11/30/2024 9:28:29 AM	
+a  3	11/30/2024 9:28:32 AM	ProcessingStarted
+a  3	11/30/2024 9:28:34 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:28:37 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:28:39 AM	停止
+a  3	11/30/2024 9:28:40 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:28:40 AM	ProcessedEnd
+a  3	11/30/2024 9:28:40 AM	{"SN":"","StartTime":"24-11-30 09:28:32","StopTime":"24-11-30 09:28:39","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:28:41 AM	停止
+a  3	11/30/2024 9:37:29 AM	设备初始化......
+a  3	11/30/2024 9:37:30 AM	当前用户： a
+a  3	11/30/2024 9:37:30 AM	打开程序：test
+a  3	11/30/2024 9:37:30 AM	复位按钮按下
+a  3	11/30/2024 9:37:55 AM	设备复位完成
+a  3	11/30/2024 9:38:01 AM	键盘按下：
+a  3	11/30/2024 9:38:03 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:38:03 AM	键盘按下：
+a  3	11/30/2024 9:38:03 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:38:05 AM	键盘按下：
+a  3	11/30/2024 9:38:05 AM	键盘按下：
+a  3	11/30/2024 9:38:05 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:38:05 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:38:05 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:38:06 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:38:06 AM	保存程序：test
+a  3	11/30/2024 9:38:08 AM	涂胶运行
+a  3	11/30/2024 9:38:09 AM	
+a  3	11/30/2024 9:38:13 AM	ProcessingStarted
+a  3	11/30/2024 9:38:16 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:20 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:22 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:23 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:24 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:27 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:29 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:29 AM	ProcessedEnd
+a  3	11/30/2024 9:38:29 AM	{"SN":"","StartTime":"24-11-30 09:38:13","StopTime":"24-11-30 09:38:29","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:38:32 AM	停止
+a  3	11/30/2024 9:38:34 AM	停止
+a  3	11/30/2024 9:38:35 AM	涂胶运行
+a  3	11/30/2024 9:38:36 AM	
+a  3	11/30/2024 9:38:39 AM	ProcessingStarted
+a  3	11/30/2024 9:38:41 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:44 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:46 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:47 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:48 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:50 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:52 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:54 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:38:54 AM	ProcessedEnd
+a  3	11/30/2024 9:38:54 AM	{"SN":"","StartTime":"24-11-30 09:38:39","StopTime":"24-11-30 09:38:54","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:38:56 AM	停止
+a  3	11/30/2024 9:38:58 AM	停止
+a  3	11/30/2024 9:39:06 AM	运行测试：开始
+a  3	11/30/2024 9:39:09 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:12 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:13 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:14 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:15 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:17 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:22 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:39:29 AM	键盘按下：
+a  3	11/30/2024 9:39:30 AM	键盘释放：CurrentPosition--> X:317.988 Y:305.874 Z:5.000
+a  3	11/30/2024 9:39:31 AM	模板1中第1,2,3,4,5行程序被删除
+a  3	11/30/2024 9:39:35 AM	键盘按下：
+a  3	11/30/2024 9:39:38 AM	键盘释放：CurrentPosition--> X:317.988 Y:305.874 Z:5.000
+a  3	11/30/2024 9:39:40 AM	模板->main(A)中第1,3,4,5,6,7行程序被复制
+a  3	11/30/2024 9:39:44 AM	模板1中第1行程序被粘贴
+a  3	11/30/2024 9:39:44 AM	键盘按下：
+a  3	11/30/2024 9:39:44 AM	键盘按下：
+a  3	11/30/2024 9:39:44 AM	键盘释放：CurrentPosition--> X:317.988 Y:305.874 Z:5.000
+a  3	11/30/2024 9:39:44 AM	键盘释放：CurrentPosition--> X:317.988 Y:305.874 Z:5.000
+a  3	11/30/2024 9:39:44 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:39:45 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:39:46 AM	保存程序：test
+a  3	11/30/2024 9:39:55 AM	键盘按下：
+a  3	11/30/2024 9:39:57 AM	键盘释放：CurrentPosition--> X:218.850 Y:199.070 Z:18.326
+a  3	11/30/2024 9:40:00 AM	键盘按下：
+a  3	11/30/2024 9:40:00 AM	键盘按下：
+a  3	11/30/2024 9:40:00 AM	键盘释放：CurrentPosition--> X:218.850 Y:199.070 Z:18.326
+a  3	11/30/2024 9:40:00 AM	键盘释放：CurrentPosition--> X:218.850 Y:199.070 Z:18.326
+a  3	11/30/2024 9:40:00 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:40:00 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:40:01 AM	保存程序：test
+a  3	11/30/2024 9:40:04 AM	涂胶运行
+a  3	11/30/2024 9:40:05 AM	
+a  3	11/30/2024 9:40:09 AM	ProcessingStarted
+a  3	11/30/2024 9:40:24 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:40:24 AM	ProcessedEnd
+a  3	11/30/2024 9:40:24 AM	{"SN":"","StartTime":"24-11-30 09:40:09","StopTime":"24-11-30 09:40:24","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:40:26 AM	停止
+a  3	11/30/2024 9:40:28 AM	停止
+a  3	11/30/2024 9:40:29 AM	运行测试：开始
+a  3	11/30/2024 9:40:45 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:40:46 AM	运行测试：停止
+a  3	11/30/2024 9:40:50 AM	键盘按下：
+a  3	11/30/2024 9:40:50 AM	键盘释放：CurrentPosition--> X:317.988 Y:293.750 Z:5.000
+a  3	11/30/2024 9:40:50 AM	键盘按下：
+a  3	11/30/2024 9:40:50 AM	键盘释放：CurrentPosition--> X:317.988 Y:293.750 Z:5.000
+a  3	11/30/2024 9:40:51 AM	键盘按下：
+a  3	11/30/2024 9:40:53 AM	键盘释放：CurrentPosition--> X:317.988 Y:293.750 Z:5.000
+a  3	11/30/2024 9:41:00 AM	模板->main(A)中第1行程序被修改:PullBackHeight:0.000
+
+a  3	11/30/2024 9:41:00 AM	键盘按下：
+a  3	11/30/2024 9:41:01 AM	键盘按下：
+a  3	11/30/2024 9:41:01 AM	键盘释放：CurrentPosition--> X:317.988 Y:293.750 Z:5.000
+a  3	11/30/2024 9:41:01 AM	键盘释放：CurrentPosition--> X:317.988 Y:293.750 Z:5.000
+a  3	11/30/2024 9:41:01 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 9:41:01 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:41:01 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:41:02 AM	保存程序：test
+a  3	11/30/2024 9:41:03 AM	涂胶运行
+a  3	11/30/2024 9:41:04 AM	
+a  3	11/30/2024 9:41:08 AM	ProcessingStarted
+a  3	11/30/2024 9:41:10 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 9:41:12 AM	停止
+a  3	11/30/2024 9:41:13 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:41:14 AM	ProcessedEnd
+a  3	11/30/2024 9:41:14 AM	{"SN":"","StartTime":"24-11-30 09:41:08","StopTime":"24-11-30 09:41:13","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:41:14 AM	停止
+a  3	11/30/2024 1:58:32 PM	设备初始化......
+a  3	11/30/2024 1:58:32 PM	当前用户： a
+a  3	11/30/2024 1:58:32 PM	打开程序：test
+a  3	11/30/2024 1:58:35 PM	复位按钮按下
+a  3	11/30/2024 1:58:59 PM	设备复位完成
+a  3	11/30/2024 1:59:09 PM	键盘按下：
+a  3	11/30/2024 1:59:10 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 1:59:14 PM	涂胶运行
+a  3	11/30/2024 1:59:15 PM	
+a  3	11/30/2024 1:59:20 PM	ProcessingStarted
+a  3	11/30/2024 1:59:23 PM	停止
+a  3	11/30/2024 1:59:23 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 1:59:23 PM	ProcessedEnd
+a  3	11/30/2024 1:59:24 PM	{"SN":"","StartTime":"24-11-30 13:59:20","StopTime":"24-11-30 13:59:23","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 1:59:24 PM	停止
+a  3	11/30/2024 2:00:22 PM	设备初始化......
+a  3	11/30/2024 2:00:22 PM	当前用户： a
+a  3	11/30/2024 2:00:22 PM	打开程序：test
+a  3	11/30/2024 2:00:22 PM	复位按钮按下
+a  3	11/30/2024 2:00:47 PM	设备复位完成
+a  3	11/30/2024 2:00:59 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:01:02 PM	涂胶运行
+a  3	11/30/2024 2:01:03 PM	
+a  3	11/30/2024 2:01:07 PM	ProcessingStarted
+a  3	11/30/2024 2:01:19 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:29 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:38 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:47 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:52 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:54 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:01:57 PM	停止
+a  3	11/30/2024 2:01:58 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 2:01:58 PM	ProcessedEnd
+a  3	11/30/2024 2:01:58 PM	{"SN":"","StartTime":"24-11-30 14:01:07","StopTime":"24-11-30 14:01:57","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:01:58 PM	停止
+a  3	11/30/2024 2:04:01 PM	键盘按下：
+a  3	11/30/2024 2:04:02 PM	键盘释放：CurrentPosition--> X:308.306 Y:256.980 Z:84.155
+a  3	11/30/2024 2:04:02 PM	键盘释放：CurrentPosition--> X:308.306 Y:256.980 Z:84.155
+a  3	11/30/2024 2:04:02 PM	键盘释放：CurrentPosition--> X:308.306 Y:256.980 Z:84.155
+a  3	11/30/2024 2:17:19 PM	设备初始化......
+a  3	11/30/2024 2:17:19 PM	当前用户： a
+a  3	11/30/2024 2:17:19 PM	打开程序：test
+a  3	11/30/2024 2:21:06 PM	设备初始化......
+a  3	11/30/2024 2:21:06 PM	当前用户： a
+a  3	11/30/2024 2:21:06 PM	打开程序：test
+a  3	11/30/2024 2:21:06 PM	复位按钮按下
+a  3	11/30/2024 2:21:31 PM	设备复位完成
+a  3	11/30/2024 2:21:40 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:43 PM	键盘按下：
+a  3	11/30/2024 2:21:43 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:45 PM	键盘按下：
+a  3	11/30/2024 2:21:46 PM	键盘按下：
+a  3	11/30/2024 2:21:46 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:46 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:47 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:21:47 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 2:21:48 PM	保存程序：test
+a  3	11/30/2024 2:21:55 PM	模板->main(A)中第8行程序被修改:Speed:30.000
+
+a  3	11/30/2024 2:21:56 PM	键盘按下：
+a  3	11/30/2024 2:21:56 PM	键盘按下：
+a  3	11/30/2024 2:21:56 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:56 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 2:21:56 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:21:57 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 2:21:57 PM	保存程序：test
+a  3	11/30/2024 2:21:58 PM	涂胶运行
+a  3	11/30/2024 2:22:00 PM	
+a  3	11/30/2024 2:22:03 PM	ProcessingStarted
+a  3	11/30/2024 2:22:08 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:22:12 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:22:15 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:22:18 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:22:21 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:22:25 PM	停止
+a  3	11/30/2024 2:22:26 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 2:22:26 PM	ProcessedEnd
+a  3	11/30/2024 2:22:26 PM	{"SN":"","StartTime":"24-11-30 14:22:03","StopTime":"24-11-30 14:22:25","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:22:26 PM	停止
+a  3	11/30/2024 2:22:31 PM	键盘按下：
+a  3	11/30/2024 2:22:32 PM	键盘按下：
+a  3	11/30/2024 2:22:32 PM	键盘释放：CurrentPosition--> X:241.892 Y:256.980 Z:84.155
+a  3	11/30/2024 2:22:32 PM	键盘释放：CurrentPosition--> X:241.892 Y:256.980 Z:84.155
+a  3	11/30/2024 2:22:32 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:22:32 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:22:33 PM	保存程序：test
+a  3	11/30/2024 2:22:53 PM	键盘按下：
+a  3	11/30/2024 2:22:53 PM	键盘按下：
+a  3	11/30/2024 2:22:53 PM	键盘释放：CurrentPosition--> X:241.892 Y:256.980 Z:84.155
+a  3	11/30/2024 2:22:53 PM	键盘释放：CurrentPosition--> X:241.892 Y:256.980 Z:84.155
+a  3	11/30/2024 2:22:54 PM	保存程序：test
+a  3	11/30/2024 2:22:55 PM	涂胶运行
+a  3	11/30/2024 2:22:56 PM	
+a  3	11/30/2024 2:23:00 PM	ProcessingStarted
+a  3	11/30/2024 2:28:29 PM	停止
+a  3	11/30/2024 2:28:30 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 2:28:30 PM	ProcessedEnd
+a  3	11/30/2024 2:28:30 PM	{"SN":"","StartTime":"24-11-30 14:23:00","StopTime":"24-11-30 14:28:29","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:28:30 PM	停止
+a  3	11/30/2024 2:29:26 PM	涂胶运行
+a  3	11/30/2024 2:29:27 PM	
+a  3	11/30/2024 2:29:31 PM	ProcessingStarted
+a  3	11/30/2024 2:32:09 PM	停止
+a  3	11/30/2024 2:32:10 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 2:32:10 PM	ProcessedEnd
+a  3	11/30/2024 2:32:10 PM	{"SN":"","StartTime":"24-11-30 14:29:31","StopTime":"24-11-30 14:32:09","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:32:11 PM	停止
+a  3	11/30/2024 2:33:39 PM	设备初始化......
+a  3	11/30/2024 2:33:39 PM	复位按钮按下
+a  3	11/30/2024 2:33:39 PM	当前用户： a
+a  3	11/30/2024 2:33:40 PM	打开程序：test
+a  3	11/30/2024 2:34:05 PM	设备复位完成
+a  3	11/30/2024 2:34:17 PM	涂胶运行
+a  3	11/30/2024 2:34:18 PM	
+a  3	11/30/2024 2:34:22 PM	ProcessingStarted
+a  3	11/30/2024 2:34:27 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:34 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:37 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:39 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:40 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:42 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:44 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:46 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:48 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:34:48 PM	ProcessedEnd
+a  3	11/30/2024 2:34:48 PM	{"SN":"","StartTime":"24-11-30 14:34:22","StopTime":"24-11-30 14:34:48","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:34:54 PM	停止
+a  3	11/30/2024 2:34:55 PM	停止
+a  3	11/30/2024 2:34:57 PM	涂胶运行
+a  3	11/30/2024 2:34:57 PM	
+a  3	11/30/2024 2:35:01 PM	ProcessingStarted
+a  3	11/30/2024 2:35:05 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:09 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:12 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:15 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:17 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:18 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:22 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:24 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:26 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:35:26 PM	ProcessedEnd
+a  3	11/30/2024 2:35:26 PM	{"SN":"","StartTime":"24-11-30 14:35:01","StopTime":"24-11-30 14:35:26","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:35:54 PM	停止
+a  3	11/30/2024 2:35:55 PM	停止
+a  3	11/30/2024 2:36:02 PM	鼠标释放或离开：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:36:18 PM	鼠标释放或离开：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:37:36 PM	模板->main(A)中第5行程序被剪切
+a  3	11/30/2024 2:37:40 PM	模板->main(A)中第4行程序被粘贴
+a  3	11/30/2024 2:37:45 PM	键盘按下：
+a  3	11/30/2024 2:37:45 PM	键盘按下：
+a  3	11/30/2024 2:37:45 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:37:45 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:37:45 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:37:45 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:37:47 PM	保存程序：test
+a  3	11/30/2024 2:37:49 PM	涂胶运行
+a  3	11/30/2024 2:37:50 PM	
+a  3	11/30/2024 2:37:53 PM	ProcessingStarted
+a  3	11/30/2024 2:37:58 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:01 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:04 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:08 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:10 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:11 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:13 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:15 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:17 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:19 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:38:19 PM	ProcessedEnd
+a  3	11/30/2024 2:38:19 PM	{"SN":"","StartTime":"24-11-30 14:37:53","StopTime":"24-11-30 14:38:19","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:39:39 PM	停止
+a  3	11/30/2024 2:39:40 PM	停止
+a  3	11/30/2024 2:39:58 PM	模板->main(A)中第5行程序被剪切
+a  3	11/30/2024 2:40:00 PM	模板->main(A)中第3行程序被粘贴
+a  3	11/30/2024 2:40:05 PM	键盘按下：
+a  3	11/30/2024 2:40:05 PM	键盘按下：
+a  3	11/30/2024 2:40:05 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:40:05 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:40:05 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:40:05 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:40:06 PM	保存程序：test
+a  3	11/30/2024 2:40:08 PM	涂胶运行
+a  3	11/30/2024 2:40:09 PM	
+a  3	11/30/2024 2:40:15 PM	ProcessingStarted
+a  3	11/30/2024 2:40:19 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:23 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:26 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:29 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:31 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:34 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:36 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:38 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:41 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:40:41 PM	ProcessedEnd
+a  3	11/30/2024 2:40:41 PM	{"SN":"","StartTime":"24-11-30 14:40:15","StopTime":"24-11-30 14:40:41","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:42:00 PM	停止
+a  3	11/30/2024 2:42:01 PM	停止
+a  3	11/30/2024 2:43:58 PM	键盘按下：
+a  3	11/30/2024 2:43:58 PM	键盘按下：
+a  3	11/30/2024 2:43:58 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:43:58 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:44:00 PM	保存程序：test
+a  3	11/30/2024 2:45:37 PM	键盘按下：
+a  3	11/30/2024 2:45:37 PM	键盘按下：
+a  3	11/30/2024 2:45:37 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:45:38 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:45:40 PM	保存程序：test
+a  3	11/30/2024 2:47:04 PM	涂胶运行
+a  3	11/30/2024 2:47:06 PM	保存程序：test
+a  3	11/30/2024 2:47:06 PM	
+a  3	11/30/2024 2:47:08 PM	ProcessingStarted
+a  3	11/30/2024 2:47:13 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:16 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:23 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:25 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:26 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:28 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:47:33 PM	停止
+a  3	11/30/2024 2:47:35 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 2:47:35 PM	ProcessedEnd
+a  3	11/30/2024 2:47:35 PM	{"SN":"","StartTime":"24-11-30 14:47:08","StopTime":"24-11-30 14:47:34","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:47:35 PM	停止
+a  3	11/30/2024 2:49:56 PM	键盘按下：
+a  3	11/30/2024 2:49:56 PM	键盘按下：
+a  3	11/30/2024 2:49:56 PM	键盘释放：CurrentPosition--> X:320.946 Y:251.980 Z:84.155
+a  3	11/30/2024 2:49:56 PM	键盘释放：CurrentPosition--> X:320.946 Y:251.980 Z:84.155
+a  3	11/30/2024 2:49:57 PM	保存程序：test
+a  3	11/30/2024 2:50:00 PM	涂胶运行
+a  3	11/30/2024 2:50:01 PM	
+a  3	11/30/2024 2:50:06 PM	ProcessingStarted
+a  3	11/30/2024 2:50:10 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:14 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:17 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:22 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:23 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:25 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:27 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:29 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:50:32 PM	ProcessedEnd
+a  3	11/30/2024 2:50:32 PM	{"SN":"","StartTime":"24-11-30 14:50:06","StopTime":"24-11-30 14:50:32","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:54:54 PM	设备初始化......
+a  3	11/30/2024 2:54:55 PM	当前用户： a
+a  3	11/30/2024 2:54:55 PM	打开程序：test
+a  3	11/30/2024 2:54:55 PM	复位按钮按下
+a  3	11/30/2024 2:55:19 PM	设备复位完成
+a  3	11/30/2024 2:56:07 PM	设备初始化......
+a  3	11/30/2024 2:56:07 PM	复位按钮按下
+a  3	11/30/2024 2:56:07 PM	当前用户： a
+a  3	11/30/2024 2:56:07 PM	打开程序：test
+a  3	11/30/2024 2:56:15 PM	设备复位完成
+a  3	11/30/2024 2:56:33 PM	涂胶运行
+a  3	11/30/2024 2:56:34 PM	
+a  3	11/30/2024 2:56:37 PM	ProcessingStarted
+a  3	11/30/2024 2:56:42 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:46 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:49 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:52 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:54 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:55 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:57 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:56:59 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:01 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:03 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:03 PM	ProcessedEnd
+a  3	11/30/2024 2:57:03 PM	{"SN":"","StartTime":"24-11-30 14:56:37","StopTime":"24-11-30 14:57:03","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:57:06 PM	停止
+a  3	11/30/2024 2:57:07 PM	停止
+a  3	11/30/2024 2:57:13 PM	模板->main(A)中第3行程序被剪切
+a  3	11/30/2024 2:57:14 PM	模板->main(A)中第5行程序被粘贴
+a  3	11/30/2024 2:57:17 PM	键盘按下：
+a  3	11/30/2024 2:57:18 PM	键盘按下：
+a  3	11/30/2024 2:57:18 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:57:18 PM	键盘释放：CurrentPosition--> X:331.076 Y:251.980 Z:5.000
+a  3	11/30/2024 2:57:18 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:57:18 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 2:57:19 PM	保存程序：test
+a  3	11/30/2024 2:57:20 PM	停止
+a  3	11/30/2024 2:57:21 PM	涂胶运行
+a  3	11/30/2024 2:57:22 PM	
+a  3	11/30/2024 2:57:26 PM	ProcessingStarted
+a  3	11/30/2024 2:57:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:34 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:37 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:40 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:42 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:43 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:45 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:47 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:49 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:51 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 2:57:51 PM	ProcessedEnd
+a  3	11/30/2024 2:57:51 PM	{"SN":"","StartTime":"24-11-30 14:57:26","StopTime":"24-11-30 14:57:51","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 2:57:52 PM	停止
+a  3	11/30/2024 3:31:44 PM	设备初始化......
+a  3	11/30/2024 3:31:44 PM	当前用户： a
+a  3	11/30/2024 3:31:44 PM	打开程序：test
+a  3	11/30/2024 3:31:46 PM	门禁打开
+a  3	11/30/2024 3:31:54 PM	复位按钮按下
+a  3	11/30/2024 3:32:18 PM	设备复位完成
+a  3	11/30/2024 3:32:22 PM	键盘按下：
+a  3	11/30/2024 3:32:23 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 3:33:30 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 3:43:43 PM	设备初始化......
+a  3	11/30/2024 3:43:43 PM	当前用户： a
+a  3	11/30/2024 3:43:43 PM	打开程序：test
+a  3	11/30/2024 3:43:43 PM	复位按钮按下
+a  3	11/30/2024 3:44:08 PM	设备复位完成
+a  3	11/30/2024 3:44:10 PM	鼠标点击：X-
+a  3	11/30/2024 3:44:10 PM	X轴原点
+a  3	11/30/2024 3:44:10 PM	报警代码 1012:X轴负极限触发
+a  3	11/30/2024 3:44:25 PM	鼠标释放或离开：CurrentPosition--> X:-0.762 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:25 PM	鼠标释放或离开：CurrentPosition--> X:-0.762 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:27 PM	鼠标点击：X+
+a  3	11/30/2024 3:44:28 PM	鼠标释放或离开：CurrentPosition--> X:10.541 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:29 PM	鼠标点击：X+
+a  3	11/30/2024 3:44:30 PM	鼠标释放或离开：CurrentPosition--> X:30.943 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:30 PM	鼠标释放或离开：CurrentPosition--> X:31.862 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:43 PM	键盘按下：Left
+a  3	11/30/2024 3:44:43 PM	键盘释放：CurrentPosition--> X:29.273 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:43 PM	键盘按下：Right
+a  3	11/30/2024 3:44:44 PM	键盘释放：CurrentPosition--> X:34.103 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:47 PM	鼠标点击：X-
+a  3	11/30/2024 3:44:47 PM	鼠标释放或离开：CurrentPosition--> X:31.363 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:47 PM	鼠标释放或离开：CurrentPosition--> X:30.220 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:49 PM	键盘按下：Right
+a  3	11/30/2024 3:44:49 PM	键盘释放：CurrentPosition--> X:56.087 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:49 PM	键盘按下：Left
+a  3	11/30/2024 3:44:50 PM	键盘释放：CurrentPosition--> X:2.719 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:51 PM	键盘按下：Left
+a  3	11/30/2024 3:44:51 PM	X轴原点
+a  3	11/30/2024 3:44:51 PM	报警代码 1012:X轴负极限触发
+a  3	11/30/2024 3:44:54 PM	键盘释放：CurrentPosition--> X:-1.514 Y:0.000 Z:0.000
+a  3	11/30/2024 3:44:55 PM	报警代码 1012:X轴负极限触发
+a  3	11/30/2024 3:45:00 PM	报警代码 1012:X轴负极限触发
+a  3	11/30/2024 3:45:07 PM	键盘按下：Right
+a  3	11/30/2024 3:45:07 PM	键盘释放：CurrentPosition--> X:48.709 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:08 PM	键盘按下：Right
+a  3	11/30/2024 3:45:09 PM	键盘释放：CurrentPosition--> X:92.951 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:09 PM	键盘按下：Left
+a  3	11/30/2024 3:45:09 PM	键盘释放：CurrentPosition--> X:64.632 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:10 PM	键盘按下：Right
+a  3	11/30/2024 3:45:11 PM	键盘释放：CurrentPosition--> X:135.165 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:13 PM	键盘按下：Right
+a  3	11/30/2024 3:45:15 PM	键盘释放：CurrentPosition--> X:165.167 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:16 PM	键盘按下：Left
+a  3	11/30/2024 3:45:17 PM	键盘释放：CurrentPosition--> X:136.496 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:17 PM	键盘按下：Right
+a  3	11/30/2024 3:45:18 PM	键盘释放：CurrentPosition--> X:154.906 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:23 PM	键盘按下：Left
+a  3	11/30/2024 3:45:23 PM	键盘释放：CurrentPosition--> X:134.908 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:23 PM	键盘按下：Right
+a  3	11/30/2024 3:45:24 PM	键盘释放：CurrentPosition--> X:210.370 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:25 PM	键盘按下：Left
+a  3	11/30/2024 3:45:25 PM	键盘释放：CurrentPosition--> X:136.008 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:26 PM	键盘按下：Right
+a  3	11/30/2024 3:45:26 PM	键盘释放：CurrentPosition--> X:126.894 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:26 PM	键盘按下：Right
+a  3	11/30/2024 3:45:27 PM	键盘释放：CurrentPosition--> X:144.828 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:27 PM	键盘按下：Left
+a  3	11/30/2024 3:45:28 PM	键盘释放：CurrentPosition--> X:136.418 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:28 PM	键盘按下：Right
+a  3	11/30/2024 3:45:29 PM	键盘释放：CurrentPosition--> X:159.369 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:31 PM	键盘按下：Right
+a  3	11/30/2024 3:45:31 PM	键盘释放：CurrentPosition--> X:163.606 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:31 PM	键盘按下：Right
+a  3	11/30/2024 3:45:32 PM	键盘释放：CurrentPosition--> X:179.404 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:32 PM	键盘按下：Left
+a  3	11/30/2024 3:45:33 PM	键盘释放：CurrentPosition--> X:168.014 Y:0.000 Z:0.000
+a  3	11/30/2024 3:45:33 PM	键盘按下：Up
+a  3	11/30/2024 3:45:33 PM	键盘释放：CurrentPosition--> X:167.190 Y:4.169 Z:0.000
+a  3	11/30/2024 3:45:33 PM	键盘按下：Down
+a  3	11/30/2024 3:45:33 PM	键盘释放：CurrentPosition--> X:167.190 Y:0.508 Z:0.000
+a  3	11/30/2024 3:45:34 PM	报警代码 1019:Y 为负值
+a  3	11/30/2024 3:45:41 PM	键盘按下：Right
+a  3	11/30/2024 3:45:43 PM	键盘按下：Left
+a  3	11/30/2024 3:45:43 PM	键盘释放：CurrentPosition--> X:206.114 Y:1.226 Z:0.000
+a  3	11/30/2024 3:45:44 PM	键盘按下：Left
+a  3	11/30/2024 3:45:44 PM	键盘释放：CurrentPosition--> X:202.694 Y:1.226 Z:0.000
+a  3	11/30/2024 3:45:44 PM	键盘按下：Right
+a  3	11/30/2024 3:45:45 PM	键盘释放：CurrentPosition--> X:218.055 Y:1.226 Z:0.000
+a  3	11/30/2024 3:45:45 PM	键盘按下：Up
+a  3	11/30/2024 3:45:47 PM	键盘释放：CurrentPosition--> X:220.108 Y:28.035 Z:0.000
+a  3	11/30/2024 3:45:49 PM	键盘按下：Up
+a  3	11/30/2024 3:45:49 PM	键盘释放：CurrentPosition--> X:220.108 Y:60.595 Z:0.000
+a  3	11/30/2024 3:45:49 PM	键盘按下：Right
+a  3	11/30/2024 3:45:49 PM	键盘释放：CurrentPosition--> X:239.177 Y:68.156 Z:0.000
+a  3	11/30/2024 3:45:49 PM	键盘按下：Left
+a  3	11/30/2024 3:45:50 PM	键盘释放：CurrentPosition--> X:217.330 Y:68.156 Z:0.000
+a  3	11/30/2024 3:45:51 PM	键盘按下：Right
+a  3	11/30/2024 3:45:51 PM	键盘释放：CurrentPosition--> X:235.032 Y:68.156 Z:0.000
+a  3	11/30/2024 3:45:53 PM	键盘按下：Left
+a  3	11/30/2024 3:45:54 PM	键盘释放：CurrentPosition--> X:231.985 Y:68.156 Z:0.000
+a  3	11/30/2024 3:45:54 PM	键盘按下：Right
+a  3	11/30/2024 3:45:55 PM	键盘释放：CurrentPosition--> X:242.681 Y:68.156 Z:0.000
+a  3	11/30/2024 3:46:14 PM	鼠标释放或离开：CurrentPosition--> X:244.680 Y:68.156 Z:0.000
+a  3	11/30/2024 3:46:15 PM	鼠标释放或离开：CurrentPosition--> X:244.680 Y:68.156 Z:0.000
+a  3	11/30/2024 3:46:17 PM	键盘按下：Up
+a  3	11/30/2024 3:46:17 PM	键盘释放：CurrentPosition--> X:244.680 Y:70.190 Z:0.000
+a  3	11/30/2024 3:46:17 PM	键盘按下：Down
+a  3	11/30/2024 3:46:18 PM	键盘释放：CurrentPosition--> X:244.680 Y:67.904 Z:0.000
+a  3	11/30/2024 3:46:18 PM	鼠标释放或离开：CurrentPosition--> X:244.680 Y:66.406 Z:0.000
+a  3	11/30/2024 3:46:18 PM	鼠标释放或离开：CurrentPosition--> X:244.680 Y:66.406 Z:0.000
+a  3	11/30/2024 3:46:21 PM	键盘按下：Up
+a  3	11/30/2024 3:46:21 PM	键盘释放：CurrentPosition--> X:244.680 Y:75.907 Z:0.000
+a  3	11/30/2024 3:46:22 PM	键盘按下：Down
+a  3	11/30/2024 3:46:22 PM	键盘释放：CurrentPosition--> X:244.680 Y:65.519 Z:0.000
+a  3	11/30/2024 3:46:24 PM	键盘按下：Down
+a  3	11/30/2024 3:46:25 PM	键盘释放：CurrentPosition--> X:244.680 Y:57.456 Z:0.000
+a  3	11/30/2024 3:46:25 PM	键盘按下：Up
+a  3	11/30/2024 3:46:25 PM	键盘释放：CurrentPosition--> X:244.680 Y:63.502 Z:0.000
+a  3	11/30/2024 3:46:25 PM	键盘按下：Left
+a  3	11/30/2024 3:46:26 PM	键盘释放：CurrentPosition--> X:240.141 Y:64.820 Z:0.000
+a  3	11/30/2024 3:46:26 PM	键盘按下：Right
+a  3	11/30/2024 3:46:26 PM	键盘释放：CurrentPosition--> X:244.867 Y:64.820 Z:0.000
+a  3	11/30/2024 3:48:33 PM	键盘按下：
+a  3	11/30/2024 3:48:33 PM	键盘按下：Right
+a  3	11/30/2024 3:48:34 PM	键盘释放：CurrentPosition--> X:311.056 Y:64.820 Z:0.000
+a  3	11/30/2024 3:48:34 PM	键盘按下：Left
+a  3	11/30/2024 3:48:35 PM	键盘释放：CurrentPosition--> X:244.993 Y:64.820 Z:0.000
+a  3	11/30/2024 3:48:35 PM	键盘按下：Up
+a  3	11/30/2024 3:48:35 PM	键盘释放：CurrentPosition--> X:240.930 Y:108.271 Z:0.000
+a  3	11/30/2024 3:48:35 PM	键盘按下：Down
+a  3	11/30/2024 3:48:36 PM	键盘释放：CurrentPosition--> X:240.930 Y:65.508 Z:0.000
+a  3	11/30/2024 3:48:36 PM	键盘按下：Right
+a  3	11/30/2024 3:48:37 PM	键盘释放：CurrentPosition--> X:283.131 Y:63.620 Z:0.000
+a  3	11/30/2024 3:48:37 PM	键盘按下：Up
+a  3	11/30/2024 3:48:37 PM	键盘释放：CurrentPosition--> X:291.270 Y:95.046 Z:0.000
+a  3	11/30/2024 3:48:37 PM	键盘按下：Left
+a  3	11/30/2024 3:48:38 PM	键盘释放：CurrentPosition--> X:271.119 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:38 PM	键盘按下：Right
+a  3	11/30/2024 3:48:38 PM	键盘释放：CurrentPosition--> X:268.831 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:38 PM	键盘释放：CurrentPosition--> X:271.770 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:45 PM	鼠标释放或离开：CurrentPosition--> X:271.770 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:47 PM	键盘按下：
+a  3	11/30/2024 3:48:48 PM	键盘按下：Right
+a  3	11/30/2024 3:48:49 PM	键盘释放：CurrentPosition--> X:326.846 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:49 PM	键盘按下：Left
+a  3	11/30/2024 3:48:49 PM	键盘释放：CurrentPosition--> X:264.559 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:50 PM	键盘按下：Right
+a  3	11/30/2024 3:48:50 PM	键盘释放：CurrentPosition--> X:277.122 Y:99.460 Z:0.000
+a  3	11/30/2024 3:48:50 PM	键盘按下：Down
+a  3	11/30/2024 3:48:50 PM	键盘释放：CurrentPosition--> X:281.410 Y:79.384 Z:0.000
+a  3	11/30/2024 3:48:51 PM	键盘按下：Up
+a  3	11/30/2024 3:48:51 PM	键盘释放：CurrentPosition--> X:281.410 Y:87.171 Z:0.000
+a  3	11/30/2024 3:48:51 PM	键盘释放：CurrentPosition--> X:281.410 Y:98.760 Z:0.000
+a  3	11/30/2024 3:48:51 PM	鼠标释放或离开：CurrentPosition--> X:281.410 Y:98.760 Z:0.000
+a  3	11/30/2024 3:49:13 PM	键盘释放：CurrentPosition--> X:281.410 Y:98.760 Z:0.000
+a  3	11/30/2024 3:49:13 PM	键盘释放：CurrentPosition--> X:281.410 Y:98.760 Z:0.000
+a  3	11/30/2024 4:01:22 PM	设备初始化......
+a  3	11/30/2024 4:01:22 PM	当前用户： a
+a  3	11/30/2024 4:01:22 PM	打开程序：test
+a  3	11/30/2024 4:01:23 PM	复位按钮按下
+a  3	11/30/2024 4:01:45 PM	设备复位完成
+a  3	11/30/2024 4:02:42 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 4:03:05 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 4:03:06 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 4:28:02 PM	设备初始化......
+a  3	11/30/2024 4:28:02 PM	当前用户： a
+a  3	11/30/2024 4:28:02 PM	打开程序：test
+a  3	11/30/2024 4:28:03 PM	复位按钮按下
+a  3	11/30/2024 4:28:15 PM	设备复位完成
+a  3	11/30/2024 4:29:56 PM	鼠标释放或离开：CurrentPosition--> X:0.196 Y:0.020 Z:4.955
+a  3	11/30/2024 4:30:52 PM	鼠标释放或离开：CurrentPosition--> X:1.304 Y:0.500 Z:5.490
+a  3	11/30/2024 4:31:01 PM	报警代码 1018:X 为负值
+a  3	11/30/2024 4:31:19 PM	鼠标释放或离开：CurrentPosition--> X:1.290 Y:1.310 Z:5.000
+a  3	11/30/2024 4:35:32 PM	设备初始化......
+a  3	11/30/2024 4:35:32 PM	当前用户： a
+a  3	11/30/2024 4:35:32 PM	打开程序：test
+a  3	11/30/2024 4:35:35 PM	复位按钮按下
+a  3	11/30/2024 4:35:47 PM	设备复位完成
+a  3	11/30/2024 4:35:52 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:19 PM	键盘按下：Left
+a  3	11/30/2024 4:36:19 PM	X轴原点
+a  3	11/30/2024 4:36:20 PM	报警代码 1012:X轴负极限触发
+a  3	11/30/2024 4:36:24 PM	键盘释放：CurrentPosition--> X:-1.204 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:29 PM	鼠标释放或离开：CurrentPosition--> X:0.492 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:44 PM	键盘按下：
+a  3	11/30/2024 4:36:45 PM	键盘按下：Right
+a  3	11/30/2024 4:36:45 PM	键盘释放：CurrentPosition--> X:10.068 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:45 PM	键盘释放：CurrentPosition--> X:12.832 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:45 PM	键盘按下：
+a  3	11/30/2024 4:36:46 PM	键盘按下：Right
+a  3	11/30/2024 4:36:46 PM	键盘释放：CurrentPosition--> X:12.832 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:46 PM	键盘释放：CurrentPosition--> X:25.296 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:54 PM	键盘释放：CurrentPosition--> X:25.296 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:54 PM	键盘释放：CurrentPosition--> X:25.296 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:54 PM	键盘按下：
+a  3	11/30/2024 4:36:54 PM	键盘按下：Right
+a  3	11/30/2024 4:36:54 PM	键盘释放：CurrentPosition--> X:25.296 Y:0.000 Z:0.000
+a  3	11/30/2024 4:36:55 PM	键盘释放：CurrentPosition--> X:35.236 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:20 PM	键盘释放：CurrentPosition--> X:35.236 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:20 PM	键盘释放：CurrentPosition--> X:35.236 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:21 PM	键盘按下：
+a  3	11/30/2024 4:37:21 PM	键盘按下：Right
+a  3	11/30/2024 4:37:21 PM	键盘释放：CurrentPosition--> X:35.236 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:21 PM	键盘释放：CurrentPosition--> X:44.126 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:22 PM	键盘按下：
+a  3	11/30/2024 4:37:22 PM	键盘释放：CurrentPosition--> X:44.126 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:23 PM	键盘按下：
+a  3	11/30/2024 4:37:24 PM	键盘释放：CurrentPosition--> X:44.126 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:25 PM	键盘按下：Right
+a  3	11/30/2024 4:37:25 PM	键盘释放：CurrentPosition--> X:44.126 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:26 PM	键盘按下：
+a  3	11/30/2024 4:37:26 PM	键盘按下：Right
+a  3	11/30/2024 4:37:26 PM	键盘释放：CurrentPosition--> X:46.550 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:27 PM	键盘按下：Right
+a  3	11/30/2024 4:37:28 PM	键盘释放：CurrentPosition--> X:53.740 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:28 PM	键盘释放：CurrentPosition--> X:60.104 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:29 PM	键盘按下：Left
+a  3	11/30/2024 4:37:29 PM	键盘释放：CurrentPosition--> X:60.104 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:29 PM	键盘按下：Right
+a  3	11/30/2024 4:37:29 PM	键盘释放：CurrentPosition--> X:61.582 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:30 PM	键盘按下：Left
+a  3	11/30/2024 4:37:30 PM	键盘释放：CurrentPosition--> X:62.952 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:30 PM	键盘按下：Right
+a  3	11/30/2024 4:37:30 PM	键盘释放：CurrentPosition--> X:63.629 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:31 PM	键盘按下：Right
+a  3	11/30/2024 4:37:31 PM	键盘释放：CurrentPosition--> X:64.592 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:31 PM	键盘按下：
+a  3	11/30/2024 4:37:32 PM	键盘释放：CurrentPosition--> X:68.904 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:33 PM	键盘按下：Right
+a  3	11/30/2024 4:37:33 PM	键盘释放：CurrentPosition--> X:68.904 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:34 PM	键盘按下：
+a  3	11/30/2024 4:37:34 PM	键盘按下：Right
+a  3	11/30/2024 4:37:34 PM	键盘释放：CurrentPosition--> X:72.594 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:34 PM	键盘释放：CurrentPosition--> X:81.484 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:34 PM	鼠标释放或离开：CurrentPosition--> X:81.484 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:42 PM	键盘按下：
+a  3	11/30/2024 4:37:42 PM	键盘按下：Right
+a  3	11/30/2024 4:37:42 PM	键盘释放：CurrentPosition--> X:81.484 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:43 PM	键盘按下：Right
+a  3	11/30/2024 4:37:43 PM	键盘释放：CurrentPosition--> X:100.575 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:43 PM	键盘按下：Right
+a  3	11/30/2024 4:37:43 PM	键盘释放：CurrentPosition--> X:102.238 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:44 PM	键盘释放：CurrentPosition--> X:109.452 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:52 PM	键盘按下：Right
+a  3	11/30/2024 4:37:53 PM	键盘释放：CurrentPosition--> X:147.254 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:53 PM	键盘按下：Left
+a  3	11/30/2024 4:37:53 PM	键盘释放：CurrentPosition--> X:137.151 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:54 PM	键盘按下：
+a  3	11/30/2024 4:37:54 PM	键盘按下：Right
+a  3	11/30/2024 4:37:54 PM	键盘释放：CurrentPosition--> X:148.755 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:54 PM	键盘按下：Right
+a  3	11/30/2024 4:37:54 PM	键盘释放：CurrentPosition--> X:148.755 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:55 PM	键盘按下：Left
+a  3	11/30/2024 4:37:55 PM	键盘释放：CurrentPosition--> X:131.893 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:55 PM	键盘按下：Right
+a  3	11/30/2024 4:37:57 PM	键盘释放：CurrentPosition--> X:291.655 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:58 PM	键盘按下：Left
+a  3	11/30/2024 4:37:58 PM	键盘释放：CurrentPosition--> X:249.368 Y:0.000 Z:0.000
+a  3	11/30/2024 4:37:59 PM	键盘释放：CurrentPosition--> X:247.230 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:37 PM	键盘按下：Left
+a  3	11/30/2024 4:38:37 PM	键盘释放：CurrentPosition--> X:233.000 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:37 PM	键盘按下：Right
+a  3	11/30/2024 4:38:38 PM	键盘释放：CurrentPosition--> X:245.182 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:38 PM	键盘按下：Left
+a  3	11/30/2024 4:38:39 PM	键盘释放：CurrentPosition--> X:225.134 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:39 PM	键盘按下：Right
+a  3	11/30/2024 4:38:40 PM	键盘释放：CurrentPosition--> X:262.040 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:40 PM	键盘按下：Left
+a  3	11/30/2024 4:38:40 PM	键盘释放：CurrentPosition--> X:256.220 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:40 PM	键盘按下：
+a  3	11/30/2024 4:38:41 PM	键盘按下：Left
+a  3	11/30/2024 4:38:41 PM	键盘释放：CurrentPosition--> X:227.081 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:41 PM	键盘按下：Right
+a  3	11/30/2024 4:38:42 PM	键盘释放：CurrentPosition--> X:263.493 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:42 PM	键盘按下：Left
+a  3	11/30/2024 4:38:43 PM	键盘释放：CurrentPosition--> X:237.331 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:43 PM	键盘按下：Right
+a  3	11/30/2024 4:38:44 PM	键盘释放：CurrentPosition--> X:298.118 Y:0.000 Z:0.000
+a  3	11/30/2024 4:38:44 PM	键盘释放：CurrentPosition--> X:299.856 Y:0.000 Z:0.000
+a  3	11/30/2024 4:39:35 PM	键盘按下：
+a  3	11/30/2024 4:39:35 PM	键盘按下：Right
+a  3	11/30/2024 4:39:36 PM	键盘释放：CurrentPosition--> X:357.857 Y:0.000 Z:0.000
+a  3	11/30/2024 4:39:36 PM	键盘按下：Left
+a  3	11/30/2024 4:39:37 PM	键盘释放：CurrentPosition--> X:234.095 Y:0.000 Z:0.000
+a  3	11/30/2024 4:39:37 PM	键盘按下：Right
+a  3	11/30/2024 4:39:38 PM	键盘释放：CurrentPosition--> X:303.683 Y:0.000 Z:0.000
+a  3	11/30/2024 4:39:38 PM	键盘按下：Up
+a  3	11/30/2024 4:39:38 PM	键盘释放：CurrentPosition--> X:337.346 Y:0.000 Z:0.000
+a  3	11/30/2024 4:39:39 PM	键盘按下：Up
+a  3	11/30/2024 4:39:39 PM	键盘释放：CurrentPosition--> X:337.346 Y:53.690 Z:0.000
+a  3	11/30/2024 4:39:40 PM	键盘按下：Left
+a  3	11/30/2024 4:39:40 PM	键盘释放：CurrentPosition--> X:283.020 Y:66.078 Z:0.000
+a  3	11/30/2024 4:39:40 PM	键盘按下：Right
+a  3	11/30/2024 4:39:41 PM	键盘释放：CurrentPosition--> X:363.282 Y:66.078 Z:0.000
+a  3	11/30/2024 4:39:41 PM	键盘释放：CurrentPosition--> X:363.282 Y:66.078 Z:0.000
+a  3	11/30/2024 4:50:36 PM	设备初始化......
+a  3	11/30/2024 4:50:36 PM	当前用户： a
+a  3	11/30/2024 4:50:36 PM	打开程序：test
+a  3	11/30/2024 4:57:02 PM	复位按钮按下
+a  3	11/30/2024 4:57:23 PM	设备复位完成
+a  3	11/30/2024 4:57:30 PM	键盘按下：Right
+a  3	11/30/2024 4:57:31 PM	键盘释放：CurrentPosition--> X:15.361 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:31 PM	键盘按下：Right
+a  3	11/30/2024 4:57:32 PM	键盘释放：CurrentPosition--> X:26.322 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:32 PM	键盘按下：
+a  3	11/30/2024 4:57:32 PM	键盘按下：Right
+a  3	11/30/2024 4:57:33 PM	键盘释放：CurrentPosition--> X:95.433 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:33 PM	键盘释放：CurrentPosition--> X:106.596 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:37 PM	键盘按下：Right
+a  3	11/30/2024 4:57:37 PM	键盘释放：CurrentPosition--> X:120.410 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:37 PM	键盘按下：
+a  3	11/30/2024 4:57:38 PM	键盘按下：Right
+a  3	11/30/2024 4:57:39 PM	键盘释放：CurrentPosition--> X:140.068 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:39 PM	键盘按下：Left
+a  3	11/30/2024 4:57:39 PM	键盘释放：CurrentPosition--> X:132.007 Y:0.000 Z:0.000
+a  3	11/30/2024 4:57:39 PM	键盘按下：Up
+a  3	11/30/2024 4:57:40 PM	键盘释放：CurrentPosition--> X:131.378 Y:10.929 Z:0.000
+a  3	11/30/2024 4:57:40 PM	键盘按下：Down
+a  3	11/30/2024 4:57:41 PM	键盘释放：CurrentPosition--> X:131.378 Y:5.774 Z:0.000
+a  3	11/30/2024 4:57:41 PM	键盘释放：CurrentPosition--> X:131.378 Y:4.196 Z:0.000
+a  3	11/30/2024 4:57:42 PM	键盘按下：
+a  3	11/30/2024 4:57:42 PM	键盘按下：Up
+a  3	11/30/2024 4:57:43 PM	键盘释放：CurrentPosition--> X:131.378 Y:6.564 Z:0.000
+a  3	11/30/2024 4:57:43 PM	键盘按下：Right
+a  3	11/30/2024 4:57:44 PM	键盘释放：CurrentPosition--> X:133.413 Y:6.904 Z:0.000
+a  3	11/30/2024 4:57:44 PM	键盘释放：CurrentPosition--> X:133.413 Y:6.904 Z:0.000
+a  3	11/30/2024 4:57:45 PM	键盘按下：Right
+a  3	11/30/2024 4:57:45 PM	键盘释放：CurrentPosition--> X:135.724 Y:6.904 Z:0.000
+a  3	11/30/2024 4:57:45 PM	键盘按下：Up
+a  3	11/30/2024 4:57:46 PM	键盘释放：CurrentPosition--> X:135.878 Y:7.355 Z:0.000
+a  3	11/30/2024 4:57:46 PM	键盘按下：Down
+a  3	11/30/2024 4:57:46 PM	键盘释放：CurrentPosition--> X:135.878 Y:6.472 Z:0.000
+a  3	11/30/2024 4:57:46 PM	键盘按下：Left
+a  3	11/30/2024 4:57:46 PM	键盘释放：CurrentPosition--> X:135.066 Y:6.408 Z:0.000
+a  3	11/30/2024 4:57:47 PM	键盘按下：Up
+a  3	11/30/2024 4:57:48 PM	键盘释放：CurrentPosition--> X:135.038 Y:7.291 Z:0.000
+a  3	11/30/2024 4:57:48 PM	键盘按下：
+a  3	11/30/2024 4:57:48 PM	键盘按下：Right
+a  3	11/30/2024 4:57:48 PM	键盘释放：CurrentPosition--> X:136.531 Y:7.510 Z:0.000
+a  3	11/30/2024 4:57:49 PM	键盘按下：Up
+a  3	11/30/2024 4:57:49 PM	键盘释放：CurrentPosition--> X:136.554 Y:8.259 Z:0.000
+a  3	11/30/2024 4:57:49 PM	键盘按下：Down
+a  3	11/30/2024 4:57:49 PM	键盘释放：CurrentPosition--> X:136.554 Y:7.481 Z:0.000
+a  3	11/30/2024 4:57:50 PM	键盘按下：Left
+a  3	11/30/2024 4:57:50 PM	键盘释放：CurrentPosition--> X:136.185 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:50 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:52 PM	键盘按下：PageUp
+a  3	11/30/2024 4:57:52 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:57 PM	键盘按下：PageUp
+a  3	11/30/2024 4:57:57 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:58 PM	键盘按下：PageDown
+a  3	11/30/2024 4:57:58 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:58 PM	键盘按下：PageUp
+a  3	11/30/2024 4:57:58 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:58 PM	键盘按下：PageDown
+a  3	11/30/2024 4:57:58 PM	键盘释放：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:57:59 PM	鼠标释放或离开：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 4:58:55 PM	鼠标释放或离开：CurrentPosition--> X:135.860 Y:7.454 Z:0.000
+a  3	11/30/2024 5:23:12 PM	设备初始化......
+a  3	11/30/2024 5:23:12 PM	当前用户： a
+a  3	11/30/2024 5:23:12 PM	打开程序：test
+a  3	11/30/2024 5:23:17 PM	复位按钮按下
+a  3	11/30/2024 5:23:30 PM	设备复位完成
+a  3	11/30/2024 5:23:51 PM	键盘按下：
+a  3	11/30/2024 5:23:51 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 5:23:56 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:23:56 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 5:23:57 PM	涂胶运行
+a  3	11/30/2024 5:23:59 PM	保存程序：test
+a  3	11/30/2024 5:23:59 PM	
+a  3	11/30/2024 5:24:01 PM	ProcessingStarted
+a  3	11/30/2024 5:24:06 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:24:09 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:24:12 PM	停止
+a  3	11/30/2024 5:24:13 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:24:13 PM	ProcessedEnd
+a  3	11/30/2024 5:24:14 PM	{"SN":"","StartTime":"24-11-30 17:24:01","StopTime":"24-11-30 17:24:13","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:24:14 PM	停止
+a  3	11/30/2024 5:24:18 PM	进板
+a  3	11/30/2024 5:24:20 PM	运行测试：开始
+a  3	11/30/2024 5:24:26 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:24:29 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:24:33 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:24:35 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:24:35 PM	运行测试：停止
+a  3	11/30/2024 5:24:38 PM	涂胶运行
+a  3	11/30/2024 5:24:39 PM	
+a  3	11/30/2024 5:24:49 PM	ProcessingStarted
+a  3	11/30/2024 5:24:57 PM	停止
+a  3	11/30/2024 5:24:58 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:24:58 PM	ProcessedEnd
+a  3	11/30/2024 5:24:58 PM	{"SN":"","StartTime":"24-11-30 17:24:49","StopTime":"24-11-30 17:24:57","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:24:59 PM	停止
+a  3	11/30/2024 5:25:04 PM	涂胶运行
+a  3	11/30/2024 5:25:04 PM	
+a  3	11/30/2024 5:25:09 PM	ProcessingStarted
+a  3	11/30/2024 5:25:13 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:16 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:23 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:27 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:34 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:25:35 PM	ProcessedEnd
+a  3	11/30/2024 5:25:35 PM	{"SN":"","StartTime":"24-11-30 17:25:09","StopTime":"24-11-30 17:25:34","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:25:38 PM	停止
+a  3	11/30/2024 5:25:40 PM	停止
+a  3	11/30/2024 5:25:41 PM	进板
+a  3	11/30/2024 5:26:15 PM	涂胶运行
+a  3	11/30/2024 5:26:16 PM	
+a  3	11/30/2024 5:26:20 PM	ProcessingStarted
+a  3	11/30/2024 5:26:24 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:28 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:31 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:34 PM	停止
+a  3	11/30/2024 5:26:36 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:26:36 PM	ProcessedEnd
+a  3	11/30/2024 5:26:36 PM	{"SN":"","StartTime":"24-11-30 17:26:20","StopTime":"24-11-30 17:26:35","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:26:36 PM	停止
+a  3	11/30/2024 5:26:38 PM	运行测试：开始
+a  3	11/30/2024 5:26:43 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:47 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:50 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 5:26:51 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:26:51 PM	运行测试：停止
+a  3	11/30/2024 5:26:54 PM	鼠标释放或离开：CurrentPosition--> X:319.668 Y:266.980 Z:84.155
+a  3	11/30/2024 5:26:56 PM	鼠标释放或离开：CurrentPosition--> X:319.668 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:27 PM	键盘按下：Right
+a  3	11/30/2024 5:27:28 PM	键盘释放：CurrentPosition--> X:330.977 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:28 PM	键盘按下：
+a  3	11/30/2024 5:27:28 PM	键盘按下：Left
+a  3	11/30/2024 5:27:29 PM	键盘释放：CurrentPosition--> X:317.157 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:29 PM	键盘释放：CurrentPosition--> X:317.157 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:35 PM	键盘按下：Left
+a  3	11/30/2024 5:27:36 PM	键盘释放：CurrentPosition--> X:297.170 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:36 PM	键盘按下：Right
+a  3	11/30/2024 5:27:37 PM	键盘释放：CurrentPosition--> X:302.845 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:37 PM	键盘按下：
+a  3	11/30/2024 5:27:37 PM	键盘按下：Right
+a  3	11/30/2024 5:27:38 PM	键盘释放：CurrentPosition--> X:316.743 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:38 PM	键盘按下：Left
+a  3	11/30/2024 5:27:38 PM	键盘释放：CurrentPosition--> X:308.012 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:38 PM	键盘释放：CurrentPosition--> X:308.012 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:44 PM	键盘按下：Right
+a  3	11/30/2024 5:27:44 PM	键盘释放：CurrentPosition--> X:306.944 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:44 PM	键盘按下：Right
+a  3	11/30/2024 5:27:45 PM	键盘释放：CurrentPosition--> X:320.266 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:45 PM	键盘按下：Left
+a  3	11/30/2024 5:27:45 PM	键盘释放：CurrentPosition--> X:314.566 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:48 PM	键盘按下：Right
+a  3	11/30/2024 5:27:48 PM	键盘释放：CurrentPosition--> X:321.500 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:48 PM	键盘按下：Right
+a  3	11/30/2024 5:27:48 PM	键盘释放：CurrentPosition--> X:346.303 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:48 PM	键盘按下：Left
+a  3	11/30/2024 5:27:49 PM	键盘释放：CurrentPosition--> X:351.206 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:49 PM	键盘按下：Left
+a  3	11/30/2024 5:27:50 PM	键盘释放：CurrentPosition--> X:323.602 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:50 PM	鼠标释放或离开：CurrentPosition--> X:319.384 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:50 PM	鼠标释放或离开：CurrentPosition--> X:319.384 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:56 PM	键盘按下：Left
+a  3	11/30/2024 5:27:56 PM	键盘释放：CurrentPosition--> X:317.172 Y:266.980 Z:84.155
+a  3	11/30/2024 5:27:56 PM	键盘按下：Right
+a  3	11/30/2024 5:27:56 PM	键盘释放：CurrentPosition--> X:317.113 Y:266.980 Z:84.155
+a  3	11/30/2024 5:28:04 PM	键盘释放：CurrentPosition--> X:317.826 Y:266.980 Z:84.155
+a  3	11/30/2024 5:28:04 PM	键盘释放：CurrentPosition--> X:317.826 Y:266.980 Z:84.155
+a  3	11/30/2024 5:29:46 PM	设备初始化......
+a  3	11/30/2024 5:29:46 PM	当前用户： a
+a  3	11/30/2024 5:29:46 PM	打开程序：test
+a  3	11/30/2024 5:29:48 PM	复位按钮按下
+a  3	11/30/2024 5:30:13 PM	设备复位完成
+a  3	11/30/2024 5:30:28 PM	模板1中第1行程序被删除
+a  3	11/30/2024 5:30:30 PM	键盘按下：
+a  3	11/30/2024 5:30:31 PM	键盘按下：
+a  3	11/30/2024 5:30:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 5:30:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 5:30:34 PM	模板->main(A)中第8行程序被复制
+a  3	11/30/2024 5:30:39 PM	模板1中第1行程序被粘贴
+a  3	11/30/2024 5:30:47 PM	模板1中第1行程序被修改:,
+
+a  3	11/30/2024 5:30:51 PM	键盘按下：Down
+a  3	11/30/2024 5:30:51 PM	键盘释放：CurrentPosition--> X:223.018 Y:127.883 Z:18.326
+a  3	11/30/2024 5:30:51 PM	键盘按下：Right
+a  3	11/30/2024 5:30:51 PM	键盘释放：CurrentPosition--> X:249.968 Y:122.706 Z:18.326
+a  3	11/30/2024 5:30:52 PM	键盘按下：Up
+a  3	11/30/2024 5:30:52 PM	键盘释放：CurrentPosition--> X:251.506 Y:122.706 Z:18.326
+a  3	11/30/2024 5:30:55 PM	键盘按下：
+a  3	11/30/2024 5:30:55 PM	键盘按下：
+a  3	11/30/2024 5:30:55 PM	键盘释放：CurrentPosition--> X:251.506 Y:128.966 Z:18.326
+a  3	11/30/2024 5:30:56 PM	键盘释放：CurrentPosition--> X:251.506 Y:128.966 Z:18.326
+a  3	11/30/2024 5:30:56 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:30:56 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 5:30:57 PM	保存程序：test
+a  3	11/30/2024 5:30:57 PM	键盘按下：Right
+a  3	11/30/2024 5:30:58 PM	键盘释放：CurrentPosition--> X:257.354 Y:128.966 Z:18.326
+a  3	11/30/2024 5:31:01 PM	模板1中第1行程序被删除
+a  3	11/30/2024 5:31:03 PM	键盘按下：Right
+a  3	11/30/2024 5:31:04 PM	键盘释放：CurrentPosition--> X:279.737 Y:128.966 Z:18.326
+a  3	11/30/2024 5:31:04 PM	键盘按下：Down
+a  3	11/30/2024 5:31:04 PM	键盘释放：CurrentPosition--> X:284.884 Y:128.966 Z:18.326
+a  3	11/30/2024 5:31:08 PM	键盘按下：
+a  3	11/30/2024 5:31:08 PM	键盘按下：
+a  3	11/30/2024 5:31:08 PM	键盘释放：CurrentPosition--> X:284.884 Y:122.950 Z:18.326
+a  3	11/30/2024 5:31:08 PM	键盘释放：CurrentPosition--> X:284.884 Y:122.950 Z:18.326
+a  3	11/30/2024 5:31:09 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:31:09 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:31:10 PM	保存程序：test
+a  3	11/30/2024 5:31:16 PM	模板->main(A)中第8行程序被修改:,
+
+a  3	11/30/2024 5:31:21 PM	键盘按下：
+a  3	11/30/2024 5:31:22 PM	键盘按下：
+a  3	11/30/2024 5:31:22 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:22 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:22 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	11/30/2024 5:31:22 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	11/30/2024 5:31:23 PM	保存程序：test
+a  3	11/30/2024 5:31:29 PM	键盘按下：
+a  3	11/30/2024 5:31:29 PM	键盘按下：
+a  3	11/30/2024 5:31:29 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:29 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:29 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:31:30 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:31:30 PM	保存程序：test
+a  3	11/30/2024 5:31:38 PM	键盘按下：
+a  3	11/30/2024 5:31:38 PM	键盘按下：
+a  3	11/30/2024 5:31:38 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:38 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:39 PM	保存程序：test
+a  3	11/30/2024 5:31:46 PM	模板->main(A)中第8行程序被删除
+a  3	11/30/2024 5:31:53 PM	键盘按下：
+a  3	11/30/2024 5:31:53 PM	键盘按下：
+a  3	11/30/2024 5:31:53 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:54 PM	键盘释放：CurrentPosition--> X:223.018 Y:140.354 Z:18.326
+a  3	11/30/2024 5:31:55 PM	保存程序：test
+a  3	11/30/2024 5:32:08 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	11/30/2024 5:32:08 PM	手动模式
+a  3	11/30/2024 5:32:10 PM	涂胶运行
+a  3	11/30/2024 5:32:11 PM	
+a  3	11/30/2024 5:32:12 PM	ProcessingStarted
+a  3	11/30/2024 5:32:31 PM	停止
+a  3	11/30/2024 5:32:32 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:32:32 PM	ProcessedEnd
+a  3	11/30/2024 5:32:32 PM	{"SN":"","StartTime":"24-11-30 17:32:12","StopTime":"24-11-30 17:32:31","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:32:32 PM	停止
+a  3	11/30/2024 5:32:38 PM	键盘按下：
+a  3	11/30/2024 5:32:38 PM	键盘按下：
+a  3	11/30/2024 5:32:38 PM	键盘释放：CurrentPosition--> X:329.198 Y:248.092 Z:84.155
+a  3	11/30/2024 5:32:38 PM	键盘释放：CurrentPosition--> X:329.198 Y:248.092 Z:84.155
+a  3	11/30/2024 5:32:39 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 5:32:39 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,运行模式2
+a  3	11/30/2024 5:32:39 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:32:40 PM	保存程序：test
+a  3	11/30/2024 5:32:45 PM	键盘按下：
+a  3	11/30/2024 5:32:45 PM	键盘按下：
+a  3	11/30/2024 5:32:45 PM	键盘释放：CurrentPosition--> X:329.198 Y:248.092 Z:84.155
+a  3	11/30/2024 5:32:45 PM	键盘释放：CurrentPosition--> X:329.198 Y:248.092 Z:84.155
+a  3	11/30/2024 5:32:46 PM	保存程序：test
+a  3	11/30/2024 5:32:48 PM	涂胶运行
+a  3	11/30/2024 5:32:48 PM	
+a  3	11/30/2024 5:32:50 PM	ProcessingStarted
+a  3	11/30/2024 5:33:04 PM	停止
+a  3	11/30/2024 5:33:05 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:33:05 PM	ProcessedEnd
+a  3	11/30/2024 5:33:05 PM	{"SN":"","StartTime":"24-11-30 17:32:50","StopTime":"24-11-30 17:33:05","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:33:06 PM	停止
+a  3	11/30/2024 5:33:07 PM	涂胶运行
+a  3	11/30/2024 5:33:08 PM	
+a  3	11/30/2024 5:33:09 PM	ProcessingStarted
+a  3	11/30/2024 5:33:20 PM	停止
+a  3	11/30/2024 5:33:21 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:33:21 PM	ProcessedEnd
+a  3	11/30/2024 5:33:21 PM	{"SN":"","StartTime":"24-11-30 17:33:09","StopTime":"24-11-30 17:33:20","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:33:21 PM	停止
+a  3	11/30/2024 5:33:27 PM	模板1中第1行程序被修改:PullBackHeight:20.000
+
+a  3	11/30/2024 5:33:28 PM	键盘按下：
+a  3	11/30/2024 5:33:28 PM	键盘按下：
+a  3	11/30/2024 5:33:28 PM	键盘释放：CurrentPosition--> X:361.264 Y:263.092 Z:84.155
+a  3	11/30/2024 5:33:28 PM	键盘释放：CurrentPosition--> X:361.264 Y:263.092 Z:84.155
+a  3	11/30/2024 5:33:28 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 5:33:28 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:33:28 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:33:29 PM	保存程序：test
+a  3	11/30/2024 5:33:33 PM	涂胶运行
+a  3	11/30/2024 5:33:34 PM	
+a  3	11/30/2024 5:33:35 PM	ProcessingStarted
+a  3	11/30/2024 5:33:47 PM	停止
+a  3	11/30/2024 5:33:49 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 5:33:49 PM	ProcessedEnd
+a  3	11/30/2024 5:33:49 PM	{"SN":"","StartTime":"24-11-30 17:33:35","StopTime":"24-11-30 17:33:48","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 5:33:49 PM	停止
+a  3	11/30/2024 5:33:54 PM	键盘按下：
+a  3	11/30/2024 5:33:54 PM	键盘按下：
+a  3	11/30/2024 5:33:54 PM	键盘释放：CurrentPosition--> X:329.986 Y:258.092 Z:84.155
+a  3	11/30/2024 5:33:54 PM	键盘释放：CurrentPosition--> X:329.986 Y:258.092 Z:84.155
+a  3	11/30/2024 5:33:54 PM	键盘按下：
+a  3	11/30/2024 5:33:54 PM	键盘释放：CurrentPosition--> X:329.986 Y:258.092 Z:84.155
+a  3	11/30/2024 5:33:55 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 5:33:55 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:33:55 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 5:33:56 PM	保存程序：test
+a  3	11/30/2024 5:34:05 PM	鼠标释放或离开：CurrentPosition--> X:329.986 Y:258.092 Z:84.155
+a  3	11/30/2024 5:35:30 PM	设备初始化......
+a  3	11/30/2024 5:35:30 PM	当前用户： a
+a  3	11/30/2024 5:35:30 PM	打开程序：test
+a  3	11/30/2024 5:35:30 PM	复位按钮按下
+a  3	11/30/2024 5:35:56 PM	设备复位完成
+a  3	11/30/2024 5:36:07 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 5:37:45 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 5:45:20 PM	设备初始化......
+a  3	11/30/2024 5:45:20 PM	当前用户： a
+a  3	11/30/2024 5:45:20 PM	打开程序：test
+a  3	11/30/2024 5:45:20 PM	复位按钮按下
+a  3	11/30/2024 5:45:32 PM	设备复位完成
+a  3	11/30/2024 6:07:42 PM	设备初始化......
+a  3	11/30/2024 6:07:42 PM	当前用户： a
+a  3	11/30/2024 6:07:42 PM	打开程序：test
+a  3	11/30/2024 6:07:43 PM	复位按钮按下
+a  3	11/30/2024 6:07:54 PM	设备复位完成
+a  3	11/30/2024 6:16:35 PM	设备初始化......
+a  3	11/30/2024 6:16:35 PM	当前用户： a
+a  3	11/30/2024 6:16:35 PM	打开程序：test
+a  3	11/30/2024 6:16:36 PM	复位按钮按下
+a  3	11/30/2024 6:16:48 PM	设备复位完成
+a  3	11/30/2024 6:16:57 PM	运行测试：开始
+a  3	11/30/2024 6:16:59 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 6:16:59 PM	运行测试：停止
+a  3	11/30/2024 6:17:02 PM	运行测试：开始
+a  3	11/30/2024 6:17:03 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 6:17:03 PM	运行测试：停止
+a  3	11/30/2024 6:18:45 PM	设备初始化......
+a  3	11/30/2024 6:18:45 PM	当前用户： a
+a  3	11/30/2024 6:18:45 PM	复位按钮按下
+a  3	11/30/2024 6:18:45 PM	打开程序：test
+a  3	11/30/2024 6:19:04 PM	设备复位完成
+a  3	11/30/2024 6:19:25 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 6:19:26 PM	键盘按下：
+a  3	11/30/2024 6:19:26 PM	键盘按下：Right
+a  3	11/30/2024 6:19:27 PM	键盘释放：CurrentPosition--> X:89.951 Y:0.000 Z:0.000
+a  3	11/30/2024 6:19:27 PM	键盘释放：CurrentPosition--> X:89.951 Y:0.000 Z:0.000
+a  3	11/30/2024 6:19:28 PM	键盘按下：Up
+a  3	11/30/2024 6:19:29 PM	键盘释放：CurrentPosition--> X:95.214 Y:133.815 Z:0.000
+a  3	11/30/2024 6:19:33 PM	键盘按下：Right
+a  3	11/30/2024 6:19:34 PM	键盘释放：CurrentPosition--> X:151.292 Y:135.450 Z:0.000
+a  3	11/30/2024 6:19:35 PM	键盘按下：Right
+a  3	11/30/2024 6:19:35 PM	键盘释放：CurrentPosition--> X:191.412 Y:135.450 Z:0.000
+a  3	11/30/2024 6:19:37 PM	键盘按下：Down
+a  3	11/30/2024 6:19:37 PM	键盘释放：CurrentPosition--> X:197.926 Y:127.081 Z:0.000
+a  3	11/30/2024 6:19:38 PM	键盘按下：Left
+a  3	11/30/2024 6:19:38 PM	键盘释放：CurrentPosition--> X:150.710 Y:117.606 Z:0.000
+a  3	11/30/2024 6:19:38 PM	键盘按下：Left
+a  3	11/30/2024 6:19:39 PM	键盘释放：CurrentPosition--> X:89.011 Y:117.606 Z:0.000
+a  3	11/30/2024 6:19:40 PM	键盘按下：Right
+a  3	11/30/2024 6:19:41 PM	键盘释放：CurrentPosition--> X:164.119 Y:117.606 Z:0.000
+a  3	11/30/2024 6:19:41 PM	键盘按下：Right
+a  3	11/30/2024 6:19:42 PM	键盘释放：CurrentPosition--> X:181.505 Y:117.606 Z:0.000
+a  3	11/30/2024 6:19:43 PM	键盘按下：Right
+a  3	11/30/2024 6:19:44 PM	键盘释放：CurrentPosition--> X:234.472 Y:117.606 Z:0.000
+a  3	11/30/2024 6:19:44 PM	键盘按下：Up
+a  3	11/30/2024 6:19:45 PM	键盘释放：CurrentPosition--> X:238.698 Y:162.971 Z:0.000
+a  3	11/30/2024 6:19:47 PM	键盘按下：
+a  3	11/30/2024 6:19:47 PM	键盘按下：
+a  3	11/30/2024 6:19:47 PM	键盘释放：CurrentPosition--> X:238.698 Y:172.228 Z:0.000
+a  3	11/30/2024 6:19:47 PM	键盘释放：CurrentPosition--> X:238.698 Y:172.228 Z:0.000
+a  3	11/30/2024 6:19:47 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Pattern Name,Light source adjust,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	11/30/2024 6:19:47 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Pattern Name,Light source adjust,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	11/30/2024 6:19:48 PM	保存程序：test
+a  3	11/30/2024 6:19:49 PM	键盘按下：
+a  3	11/30/2024 6:19:50 PM	键盘释放：CurrentPosition--> X:238.698 Y:172.228 Z:0.000
+a  3	11/30/2024 6:19:56 PM	运行测试：开始
+a  3	11/30/2024 6:19:58 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:20:00 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:20:01 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:20:31 PM	键盘按下：
+a  3	11/30/2024 6:20:31 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 6:20:32 PM	模板2中第2,3行程序被删除
+a  3	11/30/2024 6:20:41 PM	键盘按下：Up
+a  3	11/30/2024 6:20:42 PM	键盘释放：CurrentPosition--> X:191.412 Y:181.447 Z:0.000
+a  3	11/30/2024 6:20:45 PM	键盘按下：Left
+a  3	11/30/2024 6:20:46 PM	键盘释放：CurrentPosition--> X:107.962 Y:185.848 Z:0.000
+a  3	11/30/2024 6:20:47 PM	键盘按下：Down
+a  3	11/30/2024 6:20:48 PM	键盘释放：CurrentPosition--> X:98.772 Y:149.803 Z:0.000
+a  3	11/30/2024 6:20:48 PM	键盘按下：Down
+a  3	11/30/2024 6:20:48 PM	键盘释放：CurrentPosition--> X:98.772 Y:147.274 Z:0.000
+a  3	11/30/2024 6:20:50 PM	键盘按下：Up
+a  3	11/30/2024 6:20:50 PM	键盘释放：CurrentPosition--> X:98.772 Y:167.936 Z:0.000
+a  3	11/30/2024 6:21:10 PM	模板2中第3行程序被剪切
+a  3	11/30/2024 6:21:12 PM	模板2中第1行程序被粘贴
+a  3	11/30/2024 6:21:24 PM	键盘按下：Left
+a  3	11/30/2024 6:21:25 PM	键盘释放：CurrentPosition--> X:70.783 Y:185.848 Z:0.000
+a  3	11/30/2024 6:21:27 PM	键盘按下：Right
+a  3	11/30/2024 6:21:28 PM	键盘释放：CurrentPosition--> X:95.722 Y:185.848 Z:0.000
+a  3	11/30/2024 6:21:28 PM	键盘按下：Down
+a  3	11/30/2024 6:21:29 PM	键盘释放：CurrentPosition--> X:99.404 Y:156.488 Z:0.000
+a  3	11/30/2024 6:21:29 PM	键盘按下：Down
+a  3	11/30/2024 6:21:29 PM	键盘释放：CurrentPosition--> X:99.404 Y:152.066 Z:0.000
+a  3	11/30/2024 6:21:30 PM	键盘按下：Down
+a  3	11/30/2024 6:21:30 PM	键盘释放：CurrentPosition--> X:99.404 Y:144.370 Z:0.000
+a  3	11/30/2024 6:21:43 PM	键盘按下：Down
+a  3	11/30/2024 6:21:43 PM	键盘释放：CurrentPosition--> X:99.404 Y:132.442 Z:0.000
+a  3	11/30/2024 6:21:44 PM	键盘按下：Up
+a  3	11/30/2024 6:21:44 PM	键盘释放：CurrentPosition--> X:99.404 Y:125.538 Z:0.000
+a  3	11/30/2024 6:21:46 PM	键盘按下：
+a  3	11/30/2024 6:21:46 PM	键盘按下：
+a  3	11/30/2024 6:21:46 PM	键盘释放：CurrentPosition--> X:99.404 Y:135.128 Z:0.000
+a  3	11/30/2024 6:21:46 PM	键盘释放：CurrentPosition--> X:99.404 Y:135.128 Z:0.000
+a  3	11/30/2024 6:21:46 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 6:21:46 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 6:21:47 PM	保存程序：test
+a  3	11/30/2024 6:21:50 PM	运行测试：开始
+a  3	11/30/2024 6:21:51 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 6:21:51 PM	停止
+a  3	11/30/2024 6:21:54 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 6:21:56 PM	运行测试：开始
+a  3	11/30/2024 6:21:59 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:21:59 PM	运行测试：开始
+a  3	11/30/2024 6:22:01 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:22:01 PM	运行测试：开始
+a  3	11/30/2024 6:22:03 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:22:04 PM	运行测试：开始
+a  3	11/30/2024 6:22:06 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:22:41 PM	键盘按下：
+a  3	11/30/2024 6:22:41 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 6:22:59 PM	键盘按下：
+a  3	11/30/2024 6:23:00 PM	键盘按下：
+a  3	11/30/2024 6:23:00 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 6:23:00 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 6:23:00 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	11/30/2024 6:23:00 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	11/30/2024 6:23:01 PM	保存程序：test
+a  3	11/30/2024 6:23:04 PM	运行测试：开始
+a  3	11/30/2024 6:23:09 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 6:23:10 PM	运行测试：停止
+a  3	11/30/2024 6:23:13 PM	涂胶运行
+a  3	11/30/2024 6:23:14 PM	
+a  3	11/30/2024 6:23:15 PM	ProcessingStarted
+a  3	11/30/2024 6:23:19 PM	停止
+a  3	11/30/2024 6:23:20 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 6:23:20 PM	ProcessedEnd
+a  3	11/30/2024 6:23:20 PM	{"SN":"","StartTime":"24-11-30 18:23:15","StopTime":"24-11-30 18:23:19","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 6:23:21 PM	停止
+a  3	11/30/2024 6:25:10 PM	设备初始化......
+a  3	11/30/2024 6:25:10 PM	当前用户： a
+a  3	11/30/2024 6:25:10 PM	打开程序：test
+a  3	11/30/2024 6:25:10 PM	复位按钮按下
+a  3	11/30/2024 6:25:32 PM	设备复位完成
+a  3	11/30/2024 6:25:49 PM	运行测试：开始
+a  3	11/30/2024 6:25:52 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 6:25:52 PM	运行测试：停止
+a  3	11/30/2024 6:25:54 PM	运行测试：开始
+a  3	11/30/2024 6:25:54 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 6:25:55 PM	停止
+a  3	11/30/2024 6:25:57 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 6:26:23 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 6:26:23 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 6:26:28 PM	运行测试：开始
+a  3	11/30/2024 6:26:28 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 6:26:29 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 6:26:36 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 6:26:36 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 6:26:40 PM	运行测试：开始
+a  3	11/30/2024 6:26:40 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 6:26:42 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 6:28:11 PM	设备初始化......
+a  3	11/30/2024 6:28:11 PM	当前用户： a
+a  3	11/30/2024 6:28:11 PM	打开程序：test
+a  3	11/30/2024 6:28:11 PM	复位按钮按下
+a  3	11/30/2024 6:28:33 PM	设备复位完成
+a  3	11/30/2024 6:28:36 PM	English
+a  3	11/30/2024 6:28:50 PM	TestRun：Start
+a  3	11/30/2024 6:28:51 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:28:51 PM	Stop
+a  3	11/30/2024 6:28:54 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:33:58 PM	Initializing...
+a  3	11/30/2024 6:33:58 PM	Current User: a
+a  3	11/30/2024 6:33:58 PM	Open Program:test
+a  3	11/30/2024 6:33:58 PM	The reset button is pressed
+a  3	11/30/2024 6:33:59 PM	AlarmCode 1006:Pressure Low
+a  3	11/30/2024 6:33:59 PM	Stop
+a  3	11/30/2024 6:34:02 PM	Z home timeout
+a  3	11/30/2024 6:34:04 PM	Z home timeout
+a  3	11/30/2024 6:34:05 PM	The reset button is pressed
+a  3	11/30/2024 6:34:05 PM	AlarmCode 1006:Pressure Low
+a  3	11/30/2024 6:34:05 PM	Stop
+a  3	11/30/2024 6:34:09 PM	Z home timeout
+a  3	11/30/2024 6:34:10 PM	Z home timeout
+a  3	11/30/2024 6:34:14 PM	The reset button is pressed
+a  3	11/30/2024 6:34:26 PM	Reset is completed
+a  3	11/30/2024 6:34:27 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 6:34:32 PM	TestRun：Start
+a  3	11/30/2024 6:34:33 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:34:33 PM	Stop
+a  3	11/30/2024 6:34:34 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:35:11 PM	TestRun：Start
+a  3	11/30/2024 6:35:11 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:35:13 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:35:17 PM	TestRun：Start
+a  3	11/30/2024 6:35:20 PM	TestRun：Stop
+a  3	11/30/2024 6:35:22 PM	TestRun：Start
+a  3	11/30/2024 6:35:22 PM	TestRun：Start
+a  3	11/30/2024 6:35:28 PM	TestRun：Start
+a  3	11/30/2024 6:35:29 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:35:38 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:37:45 PM	Initializing...
+a  3	11/30/2024 6:37:45 PM	Current User: a
+a  3	11/30/2024 6:37:45 PM	Open Program:test
+a  3	11/30/2024 6:38:02 PM	The reset button is pressed
+a  3	11/30/2024 6:38:14 PM	Reset is completed
+a  3	11/30/2024 6:38:25 PM	TestRun：Start
+a  3	11/30/2024 6:38:26 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:38:26 PM	Stop
+a  3	11/30/2024 6:38:27 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:38:39 PM	TestRun：Start
+a  3	11/30/2024 6:38:39 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:38:40 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:38:43 PM	TestRun：Start
+a  3	11/30/2024 6:38:43 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:38:44 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:38:52 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 6:38:52 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 6:39:24 PM	TestRun：Start
+a  3	11/30/2024 6:39:24 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:39:25 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:39:47 PM	TestRun：Start
+a  3	11/30/2024 6:39:47 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:39:48 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:42:29 PM	Initializing...
+a  3	11/30/2024 6:42:29 PM	Current User: a
+a  3	11/30/2024 6:42:29 PM	Open Program:test
+a  3	11/30/2024 6:42:30 PM	The reset button is pressed
+a  3	11/30/2024 6:42:42 PM	Reset is completed
+a  3	11/30/2024 6:43:06 PM	Key click:
+a  3	11/30/2024 6:43:06 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 6:43:08 PM	TestRun：Start
+a  3	11/30/2024 6:43:09 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:43:09 PM	Stop
+a  3	11/30/2024 6:43:09 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:43:19 PM	TestRun：Start
+a  3	11/30/2024 6:43:19 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:43:20 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:43:28 PM	TestRun：Start
+a  3	11/30/2024 6:43:28 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:43:29 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:43:31 PM	TestRun：Start
+a  3	11/30/2024 6:43:32 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:43:33 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:47:54 PM	Initializing...
+a  3	11/30/2024 6:47:54 PM	Current User: a
+a  3	11/30/2024 6:47:54 PM	Open Program:test
+a  3	11/30/2024 6:47:55 PM	The reset button is pressed
+a  3	11/30/2024 6:48:06 PM	Reset is completed
+a  3	11/30/2024 6:48:38 PM	TestRun：Start
+a  3	11/30/2024 6:48:39 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:48:39 PM	Stop
+a  3	11/30/2024 6:48:39 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:49:04 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 6:49:04 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 6:49:16 PM	TestRun：Start
+a  3	11/30/2024 6:49:19 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:51:24 PM	key release:CurrentPosition--> X:163.114 Y:329.974 Z:65.829
+a  3	11/30/2024 6:51:24 PM	key release:CurrentPosition--> X:163.114 Y:329.974 Z:65.829
+a  3	11/30/2024 6:51:31 PM	TestRun：Start
+a  3	11/30/2024 6:51:32 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:51:33 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:51:35 PM	TestRun：Stop
+a  3	11/30/2024 6:52:00 PM	TestRun：Start
+a  3	11/30/2024 6:52:02 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:52:02 PM	TestRun：Stop
+a  3	11/30/2024 6:52:09 PM	Key click:
+a  3	11/30/2024 6:52:09 PM	key release:CurrentPosition--> X:170.122 Y:279.576 Z:65.829
+a  3	11/30/2024 6:52:12 PM	TestRun：Start
+a  3	11/30/2024 6:52:13 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:52:14 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:53:39 PM	TestRun：Start
+a  3	11/30/2024 6:53:41 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:53:41 PM	TestRun：Stop
+a  3	11/30/2024 6:57:12 PM	Key click:
+a  3	11/30/2024 6:57:13 PM	key release:CurrentPosition--> X:195.870 Y:307.008 Z:65.829
+a  3	11/30/2024 6:57:15 PM	TestRun：Start
+a  3	11/30/2024 6:57:16 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 6:57:17 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 6:58:34 PM	Initializing...
+a  3	11/30/2024 6:58:34 PM	Current User: a
+a  3	11/30/2024 6:58:34 PM	Open Program:test
+a  3	11/30/2024 6:58:34 PM	The reset button is pressed
+a  3	11/30/2024 6:58:57 PM	Reset is completed
+a  3	11/30/2024 6:59:07 PM	TestRun：Start
+a  3	11/30/2024 6:59:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 6:59:16 PM	TestRun：Start
+a  3	11/30/2024 6:59:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 6:59:17 PM	TestRun：Stop
+a  3	11/30/2024 6:59:24 PM	TestRun：Start
+a  3	11/30/2024 6:59:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 6:59:29 PM	TestRun：Start
+a  3	11/30/2024 6:59:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 6:59:35 PM	TestRun：Stop
+a  3	11/30/2024 7:00:15 PM	TestRun：Start
+a  3	11/30/2024 7:00:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:00:18 PM	TestRun：Start
+a  3	11/30/2024 7:00:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:00:20 PM	TestRun：Start
+a  3	11/30/2024 7:00:21 PM	TestRun：Start
+a  3	11/30/2024 7:00:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:00:23 PM	TestRun：Start
+a  3	11/30/2024 7:00:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:01:04 PM	Initializing...
+a  3	11/30/2024 7:01:04 PM	Current User: a
+a  3	11/30/2024 7:01:04 PM	Open Program:test
+a  3	11/30/2024 7:01:05 PM	The reset button is pressed
+a  3	11/30/2024 7:01:28 PM	Reset is completed
+a  3	11/30/2024 7:01:46 PM	TestRun：Start
+a  3	11/30/2024 7:01:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:02:41 PM	TestRun：Start
+a  3	11/30/2024 7:02:42 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:02:42 PM	Stop
+a  3	11/30/2024 7:02:42 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:04:55 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 7:04:55 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 7:05:00 PM	TestRun：Start
+a  3	11/30/2024 7:05:01 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:05:01 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:06:07 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 7:06:07 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 7:06:10 PM	TestRun：Start
+a  3	11/30/2024 7:06:11 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:06:12 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:10:04 PM	TestRun：Start
+a  3	11/30/2024 7:13:41 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:13:42 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:24:57 PM	Initializing...
+a  3	11/30/2024 7:24:57 PM	Current User: a
+a  3	11/30/2024 7:24:57 PM	Open Program:test
+a  3	11/30/2024 7:24:58 PM	The reset button is pressed
+a  3	11/30/2024 7:24:58 PM	AlarmCode 1006:Pressure Low
+a  3	11/30/2024 7:24:58 PM	Stop
+a  3	11/30/2024 7:25:01 PM	Z home timeout
+a  3	11/30/2024 7:25:02 PM	Z home timeout
+a  3	11/30/2024 7:25:08 PM	The reset button is pressed
+a  3	11/30/2024 7:25:30 PM	Reset is completed
+a  3	11/30/2024 7:25:34 PM	Key click:
+a  3	11/30/2024 7:25:34 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 7:25:35 PM	Key click:
+a  3	11/30/2024 7:25:36 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 7:25:39 PM	Coating Running
+a  3	11/30/2024 7:25:40 PM	
+a  3	11/30/2024 7:25:41 PM	Stop
+a  3	11/30/2024 7:25:42 PM	Stop
+a  3	11/30/2024 7:25:47 PM	TestRun：Start
+a  3	11/30/2024 7:25:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:25:50 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:25:51 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:26:00 PM	TestRun：Start
+a  3	11/30/2024 7:26:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:03 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:26:04 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:26:05 PM	TestRun：Stop
+a  3	11/30/2024 7:26:13 PM	TestRun：Start
+a  3	11/30/2024 7:26:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:17 PM	TestRun：Start
+a  3	11/30/2024 7:26:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:19 PM	TestRun：Start
+a  3	11/30/2024 7:26:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:22 PM	TestRun：Start
+a  3	11/30/2024 7:26:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:32 PM	TestRun：Start
+a  3	11/30/2024 7:26:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:26:36 PM	TestRun：Stop
+a  3	11/30/2024 7:27:09 PM	key release:CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 7:27:09 PM	key release or away:CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 7:27:09 PM	key release:CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 7:27:21 PM	TestRun：Start
+a  3	11/30/2024 7:27:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:27:23 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:27:24 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:27:24 PM	TestRun：Stop
+a  3	11/30/2024 7:30:41 PM	Initializing...
+a  3	11/30/2024 7:30:42 PM	Current User: a
+a  3	11/30/2024 7:30:42 PM	Open Program:test
+a  3	11/30/2024 7:30:42 PM	The reset button is pressed
+a  3	11/30/2024 7:31:06 PM	Reset is completed
+a  3	11/30/2024 7:31:13 PM	TestRun：Start
+a  3	11/30/2024 7:31:14 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:31:14 PM	Stop
+a  3	11/30/2024 7:31:15 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:31:16 PM	TestRun：Start
+a  3	11/30/2024 7:31:16 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:31:17 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:31:18 PM	TestRun：Stop
+a  3	11/30/2024 7:31:25 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 7:31:25 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 7:32:07 PM	Initializing...
+a  3	11/30/2024 7:32:07 PM	Current User: a
+a  3	11/30/2024 7:32:07 PM	Open Program:test
+a  3	11/30/2024 7:32:07 PM	The reset button is pressed
+a  3	11/30/2024 7:32:07 PM	AlarmCode 1006:Pressure Low
+a  3	11/30/2024 7:32:08 PM	Stop
+a  3	11/30/2024 7:32:11 PM	Z home timeout
+a  3	11/30/2024 7:32:13 PM	Z home timeout
+a  3	11/30/2024 7:32:15 PM	The reset button is pressed
+a  3	11/30/2024 7:32:26 PM	Reset is completed
+a  3	11/30/2024 7:32:36 PM	TestRun：Start
+a  3	11/30/2024 7:32:37 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:32:37 PM	Stop
+a  3	11/30/2024 7:32:38 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:34:23 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 7:34:23 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 7:34:28 PM	TestRun：Start
+a  3	11/30/2024 7:35:20 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:35:22 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:38:07 PM	Initializing...
+a  3	11/30/2024 7:38:07 PM	Current User: a
+a  3	11/30/2024 7:38:07 PM	Open Program:test
+a  3	11/30/2024 7:38:07 PM	The reset button is pressed
+a  3	11/30/2024 7:38:19 PM	Reset is completed
+a  3	11/30/2024 7:38:34 PM	TestRun：Start
+a  3	11/30/2024 7:38:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:38:37 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:38:37 PM	Stop
+a  3	11/30/2024 7:38:39 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:40:29 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:40:29 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:40:33 PM	TestRun：Start
+a  3	11/30/2024 7:40:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:40:38 PM	TestRun：Start
+a  3	11/30/2024 7:40:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:40:42 PM	TestRun：Start
+a  3	11/30/2024 7:40:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:40:45 PM	TestRun：Start
+a  3	11/30/2024 7:40:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:41:26 PM	key release:CurrentPosition--> X:195.870 Y:329.974 Z:5.000
+a  3	11/30/2024 7:41:26 PM	key release:CurrentPosition--> X:195.870 Y:329.974 Z:5.000
+a  3	11/30/2024 7:41:29 PM	TestRun：Start
+a  3	11/30/2024 7:42:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:42:25 PM	TestRun：Start
+a  3	11/30/2024 7:42:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:42:39 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:42:40 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:44:39 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:44:39 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:44:42 PM	TestRun：Start
+a  3	11/30/2024 7:44:51 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:44:51 PM	TestRun：Stop
+a  3	11/30/2024 7:46:44 PM	key release:CurrentPosition--> X:180.822 Y:279.576 Z:65.829
+a  3	11/30/2024 7:46:44 PM	key release:CurrentPosition--> X:180.822 Y:279.576 Z:65.829
+a  3	11/30/2024 7:46:50 PM	TestRun：Start
+a  3	11/30/2024 7:46:52 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:46:52 PM	TestRun：Stop
+a  3	11/30/2024 7:48:36 PM	Initializing...
+a  3	11/30/2024 7:48:36 PM	Current User: a
+a  3	11/30/2024 7:48:36 PM	Open Program:test
+a  3	11/30/2024 7:48:36 PM	The reset button is pressed
+a  3	11/30/2024 7:49:00 PM	Reset is completed
+a  3	11/30/2024 7:49:06 PM	TestRun：Start
+a  3	11/30/2024 7:49:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 7:49:09 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 7:49:09 PM	Stop
+a  3	11/30/2024 7:49:10 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 7:49:11 PM	TestRun：Stop
+a  3	11/30/2024 7:55:31 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:55:32 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 7:58:59 PM	Initializing...
+a  3	11/30/2024 7:58:59 PM	Current User: a
+a  3	11/30/2024 7:59:00 PM	Open Program:test
+a  3	11/30/2024 7:59:00 PM	The reset button is pressed
+a  3	11/30/2024 7:59:24 PM	Reset is completed
+a  3	11/30/2024 7:59:38 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 7:59:38 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 7:59:42 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 7:59:42 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 8:00:02 PM	TestRun：Start
+a  3	11/30/2024 8:00:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 8:00:36 PM	TestRun：Start
+a  3	11/30/2024 8:00:37 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 8:00:37 PM	Stop
+a  3	11/30/2024 8:00:43 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 8:00:47 PM	TestRun：Start
+a  3	11/30/2024 8:00:48 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 8:01:29 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 8:02:43 PM	TestRun：Start
+a  3	11/30/2024 8:02:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/30/2024 8:03:30 PM	TestRun：Start
+a  3	11/30/2024 8:03:30 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 8:03:34 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 8:04:59 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:04:59 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:05:03 PM	TestRun：Start
+a  3	11/30/2024 8:05:03 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 8:05:07 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 8:05:52 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:05:52 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:05:56 PM	TestRun：Start
+a  3	11/30/2024 8:05:56 PM	AlarmCode 1025:Z position is out of limit!
+a  3	11/30/2024 8:06:00 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	11/30/2024 8:09:14 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:09:15 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:10:41 PM	Key click:
+a  3	11/30/2024 8:10:41 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:10:42 PM	Key click:
+a  3	11/30/2024 8:10:42 PM	Key click:
+a  3	11/30/2024 8:10:42 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:10:42 PM	key release:CurrentPosition--> X:195.870 Y:279.576 Z:5.000
+a  3	11/30/2024 8:10:59 PM	Key click:
+a  3	11/30/2024 8:10:59 PM	Key click:
+a  3	11/30/2024 8:10:59 PM	key release:CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:00 PM	key release:CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:00 PM	TrackAndPar.bin the modify parameters are Track storage
+a  3	11/30/2024 8:11:00 PM	ShareParameters.bin the modify parameters are Track storage
+a  3	11/30/2024 8:11:02 PM	Save Program:test
+a  3	11/30/2024 8:11:09 PM	Chinese
+a  3	11/30/2024 8:11:14 PM	模板->main(A)中第8行程序被删除
+a  3	11/30/2024 8:11:16 PM	键盘按下：
+a  3	11/30/2024 8:11:17 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:17 PM	键盘按下：
+a  3	11/30/2024 8:11:18 PM	键盘按下：
+a  3	11/30/2024 8:11:18 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:18 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:19 PM	模板2中第1,2,3,4行程序被复制
+a  3	11/30/2024 8:11:23 PM	模板->main(A)中第1行程序被粘贴
+a  3	11/30/2024 8:11:24 PM	键盘按下：
+a  3	11/30/2024 8:11:24 PM	键盘按下：
+a  3	11/30/2024 8:11:24 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:25 PM	键盘释放：CurrentPosition--> X:95.214 Y:135.450 Z:0.000
+a  3	11/30/2024 8:11:25 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	11/30/2024 8:11:25 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	11/30/2024 8:11:26 PM	保存程序：test
+a  3	11/30/2024 8:11:29 PM	Chinese
+a  3	11/30/2024 8:11:35 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	11/30/2024 8:11:35 PM	在线模式
+a  3	11/30/2024 8:11:38 PM	涂胶运行
+a  3	11/30/2024 8:11:39 PM	
+a  3	11/30/2024 8:11:43 PM	ProcessingStarted
+a  3	11/30/2024 8:11:45 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 8:11:46 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 8:11:46 PM	停止
+a  3	11/30/2024 8:11:49 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 8:11:49 PM	ProcessedEnd
+a  3	11/30/2024 8:11:49 PM	{"SN":"","StartTime":"24-11-30 20:11:43","StopTime":"24-11-30 20:11:49","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:11:52 PM	涂胶运行
+a  3	11/30/2024 8:11:53 PM	
+a  3	11/30/2024 8:11:58 PM	ProcessingStarted
+a  3	11/30/2024 8:11:59 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 8:12:01 PM	报警代码 1025:Z轴坐标超出范围！请检查程序
+a  3	11/30/2024 8:12:01 PM	停止
+a  3	11/30/2024 8:12:01 PM	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	11/30/2024 8:12:01 PM	ProcessedEnd
+a  3	11/30/2024 8:12:02 PM	{"SN":"","StartTime":"24-11-30 20:11:58","StopTime":"24-11-30 20:12:01","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:12:02 PM	停止
+a  3	11/30/2024 8:12:15 PM	鼠标释放或离开：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:17 PM	键盘按下：
+a  3	11/30/2024 8:12:17 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:18 PM	键盘按下：
+a  3	11/30/2024 8:12:19 PM	键盘按下：
+a  3	11/30/2024 8:12:19 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:19 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:19 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,运行模式2
+a  3	11/30/2024 8:12:19 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:12:21 PM	保存程序：test
+a  3	11/30/2024 8:12:23 PM	键盘按下：
+a  3	11/30/2024 8:12:23 PM	键盘按下：
+a  3	11/30/2024 8:12:23 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:24 PM	键盘释放：CurrentPosition--> X:195.870 Y:279.576 Z:65.829
+a  3	11/30/2024 8:12:24 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:12:24 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:12:26 PM	保存程序：test
+a  3	11/30/2024 8:13:17 PM	涂胶运行
+a  3	11/30/2024 8:13:19 PM	
+a  3	11/30/2024 8:13:23 PM	ProcessingStarted
+a  3	11/30/2024 8:13:33 PM	停止
+a  3	11/30/2024 8:13:35 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:13:35 PM	ProcessedEnd
+a  3	11/30/2024 8:13:35 PM	{"SN":"","StartTime":"24-11-30 20:13:23","StopTime":"24-11-30 20:13:34","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:13:35 PM	停止
+a  3	11/30/2024 8:14:29 PM	键盘释放：CurrentPosition--> X:338.246 Y:263.092 Z:84.155
+a  3	11/30/2024 8:14:29 PM	键盘释放：CurrentPosition--> X:338.246 Y:263.092 Z:84.155
+a  3	11/30/2024 8:14:39 PM	模板1中第2行程序被修改:,
+
+a  3	11/30/2024 8:14:41 PM	键盘按下：Up
+a  3	11/30/2024 8:14:41 PM	键盘释放：CurrentPosition--> X:223.018 Y:169.497 Z:18.326
+a  3	11/30/2024 8:14:45 PM	键盘按下：Right
+a  3	11/30/2024 8:14:45 PM	键盘释放：CurrentPosition--> X:269.058 Y:171.066 Z:18.326
+a  3	11/30/2024 8:14:52 PM	键盘按下：
+a  3	11/30/2024 8:14:52 PM	键盘按下：
+a  3	11/30/2024 8:14:52 PM	键盘释放：CurrentPosition--> X:272.196 Y:171.066 Z:18.326
+a  3	11/30/2024 8:14:52 PM	键盘释放：CurrentPosition--> X:272.196 Y:171.066 Z:18.326
+a  3	11/30/2024 8:14:52 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:14:52 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:14:52 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:14:53 PM	保存程序：test
+a  3	11/30/2024 8:15:05 PM	键盘按下：
+a  3	11/30/2024 8:15:05 PM	键盘按下：
+a  3	11/30/2024 8:15:06 PM	键盘释放：CurrentPosition--> X:272.196 Y:171.066 Z:18.326
+a  3	11/30/2024 8:15:06 PM	键盘释放：CurrentPosition--> X:272.196 Y:171.066 Z:18.326
+a  3	11/30/2024 8:15:07 PM	保存程序：test
+a  3	11/30/2024 8:15:09 PM	涂胶运行
+a  3	11/30/2024 8:15:10 PM	
+a  3	11/30/2024 8:15:13 PM	ProcessingStarted
+a  3	11/30/2024 8:15:15 PM	停止
+a  3	11/30/2024 8:15:16 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:15:17 PM	ProcessedEnd
+a  3	11/30/2024 8:15:17 PM	{"SN":"","StartTime":"24-11-30 20:15:13","StopTime":"24-11-30 20:15:15","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:15:17 PM	停止
+a  3	11/30/2024 8:22:42 PM	键盘释放：CurrentPosition--> X:286.504 Y:239.880 Z:84.155
+a  3	11/30/2024 8:22:42 PM	键盘释放：CurrentPosition--> X:286.504 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:20 PM	键盘按下：
+a  3	11/30/2024 8:24:20 PM	键盘按下：
+a  3	11/30/2024 8:24:20 PM	键盘释放：CurrentPosition--> X:286.504 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:20 PM	键盘释放：CurrentPosition--> X:286.504 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:20 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:24:21 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:24:21 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:24:22 PM	保存程序：test
+a  3	11/30/2024 8:24:24 PM	涂胶运行
+a  3	11/30/2024 8:24:26 PM	
+a  3	11/30/2024 8:24:30 PM	ProcessingStarted
+a  3	11/30/2024 8:24:33 PM	停止
+a  3	11/30/2024 8:24:35 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:24:35 PM	ProcessedEnd
+a  3	11/30/2024 8:24:35 PM	{"SN":"","StartTime":"24-11-30 20:24:30","StopTime":"24-11-30 20:24:34","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:24:36 PM	停止
+a  3	11/30/2024 8:24:38 PM	键盘按下：
+a  3	11/30/2024 8:24:38 PM	键盘释放：CurrentPosition--> X:323.098 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:39 PM	键盘按下：
+a  3	11/30/2024 8:24:39 PM	键盘按下：
+a  3	11/30/2024 8:24:39 PM	键盘释放：CurrentPosition--> X:323.098 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:39 PM	键盘释放：CurrentPosition--> X:323.098 Y:239.880 Z:84.155
+a  3	11/30/2024 8:24:40 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:24:40 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:24:40 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:24:41 PM	保存程序：test
+a  3	11/30/2024 8:24:43 PM	涂胶运行
+a  3	11/30/2024 8:24:44 PM	
+a  3	11/30/2024 8:24:48 PM	ProcessingStarted
+a  3	11/30/2024 8:24:53 PM	停止
+a  3	11/30/2024 8:24:55 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:24:55 PM	ProcessedEnd
+a  3	11/30/2024 8:24:55 PM	{"SN":"","StartTime":"24-11-30 20:24:48","StopTime":"24-11-30 20:24:54","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:24:55 PM	停止
+a  3	11/30/2024 8:26:00 PM	键盘按下：
+a  3	11/30/2024 8:26:01 PM	键盘按下：
+a  3	11/30/2024 8:26:01 PM	键盘释放：CurrentPosition--> X:337.166 Y:234.880 Z:84.155
+a  3	11/30/2024 8:26:01 PM	键盘释放：CurrentPosition--> X:337.166 Y:234.880 Z:84.155
+a  3	11/30/2024 8:26:01 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:26:01 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:26:01 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:26:02 PM	保存程序：test
+a  3	11/30/2024 8:26:04 PM	涂胶运行
+a  3	11/30/2024 8:26:05 PM	
+a  3	11/30/2024 8:26:09 PM	ProcessingStarted
+a  3	11/30/2024 8:26:10 PM	停止
+a  3	11/30/2024 8:26:12 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:26:12 PM	ProcessedEnd
+a  3	11/30/2024 8:26:12 PM	{"SN":"","StartTime":"24-11-30 20:26:09","StopTime":"24-11-30 20:26:11","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:26:12 PM	停止
+a  3	11/30/2024 8:27:02 PM	键盘按下：
+a  3	11/30/2024 8:27:02 PM	键盘按下：
+a  3	11/30/2024 8:27:03 PM	键盘释放：CurrentPosition--> X:312.210 Y:273.092 Z:84.155
+a  3	11/30/2024 8:27:03 PM	键盘释放：CurrentPosition--> X:312.210 Y:273.092 Z:84.155
+a  3	11/30/2024 8:27:03 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:27:03 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:27:03 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:27:04 PM	保存程序：test
+a  3	11/30/2024 8:27:07 PM	涂胶运行
+a  3	11/30/2024 8:27:09 PM	
+a  3	11/30/2024 8:27:15 PM	ProcessingStarted
+a  3	11/30/2024 8:27:19 PM	停止
+a  3	11/30/2024 8:27:21 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:27:21 PM	ProcessedEnd
+a  3	11/30/2024 8:27:21 PM	{"SN":"","StartTime":"24-11-30 20:27:15","StopTime":"24-11-30 20:27:20","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:27:21 PM	停止
+a  3	11/30/2024 8:28:40 PM	涂胶运行
+a  3	11/30/2024 8:28:41 PM	
+a  3	11/30/2024 8:28:47 PM	ProcessingStarted
+a  3	11/30/2024 8:28:49 PM	停止
+a  3	11/30/2024 8:28:50 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:28:50 PM	ProcessedEnd
+a  3	11/30/2024 8:28:50 PM	{"SN":"","StartTime":"24-11-30 20:28:47","StopTime":"24-11-30 20:28:49","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:28:51 PM	停止
+a  3	11/30/2024 8:30:56 PM	键盘释放：CurrentPosition--> X:291.710 Y:239.880 Z:84.155
+a  3	11/30/2024 8:30:56 PM	键盘释放：CurrentPosition--> X:291.710 Y:239.880 Z:84.155
+a  3	11/30/2024 8:31:19 PM	涂胶运行
+a  3	11/30/2024 8:31:28 PM	
+a  3	11/30/2024 8:31:35 PM	ProcessingStarted
+a  3	11/30/2024 8:31:43 PM	停止
+a  3	11/30/2024 8:31:45 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:31:45 PM	ProcessedEnd
+a  3	11/30/2024 8:31:45 PM	{"SN":"","StartTime":"24-11-30 20:31:35","StopTime":"24-11-30 20:31:44","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:31:45 PM	停止
+a  3	11/30/2024 8:33:16 PM	键盘按下：
+a  3	11/30/2024 8:33:16 PM	键盘按下：
+a  3	11/30/2024 8:33:16 PM	键盘释放：CurrentPosition--> X:361.888 Y:239.880 Z:84.155
+a  3	11/30/2024 8:33:16 PM	键盘释放：CurrentPosition--> X:361.888 Y:239.880 Z:84.155
+a  3	11/30/2024 8:33:17 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:33:17 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:33:17 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:33:18 PM	保存程序：test
+a  3	11/30/2024 8:33:22 PM	涂胶运行
+a  3	11/30/2024 8:33:23 PM	
+a  3	11/30/2024 8:33:27 PM	ProcessingStarted
+a  3	11/30/2024 8:33:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 8:33:32 PM	ProcessedEnd
+a  3	11/30/2024 8:33:33 PM	{"SN":"","StartTime":"24-11-30 20:33:27","StopTime":"24-11-30 20:33:32","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:33:33 PM	停止
+a  3	11/30/2024 8:33:35 PM	停止
+a  3	11/30/2024 8:34:11 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:11 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:53 PM	键盘按下：
+a  3	11/30/2024 8:34:53 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:53 PM	键盘按下：
+a  3	11/30/2024 8:34:53 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:53 PM	键盘按下：
+a  3	11/30/2024 8:34:54 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:56 PM	键盘按下：
+a  3	11/30/2024 8:34:56 PM	键盘按下：
+a  3	11/30/2024 8:34:56 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:56 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:34:56 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:34:56 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,FlowAlarmLimitSettingData
+a  3	11/30/2024 8:34:57 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,FlowAlarmLimitSettingData
+a  3	11/30/2024 8:34:58 PM	保存程序：test
+a  3	11/30/2024 8:34:59 PM	涂胶运行
+a  3	11/30/2024 8:35:00 PM	
+a  3	11/30/2024 8:35:04 PM	ProcessingStarted
+a  3	11/30/2024 8:35:05 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 8:35:05 PM	ProcessedEnd
+a  3	11/30/2024 8:35:05 PM	{"SN":"","StartTime":"24-11-30 20:35:04","StopTime":"24-11-30 20:35:05","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:35:06 PM	停止
+a  3	11/30/2024 8:35:08 PM	停止
+a  3	11/30/2024 8:40:42 PM	键盘按下：
+a  3	11/30/2024 8:40:42 PM	键盘按下：
+a  3	11/30/2024 8:40:42 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:40:42 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:40:43 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 8:40:43 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:40:43 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:40:44 PM	保存程序：test
+a  3	11/30/2024 8:40:49 PM	键盘按下：
+a  3	11/30/2024 8:40:49 PM	键盘按下：
+a  3	11/30/2024 8:40:49 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:40:49 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:40:49 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:40:49 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:40:51 PM	保存程序：test
+a  3	11/30/2024 8:41:21 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:21 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:21 PM	键盘按下：
+a  3	11/30/2024 8:41:22 PM	键盘按下：
+a  3	11/30/2024 8:41:22 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:22 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:24 PM	保存程序：test
+a  3	11/30/2024 8:41:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:33 PM	键盘按下：
+a  3	11/30/2024 8:41:33 PM	键盘按下：
+a  3	11/30/2024 8:41:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:35 PM	保存程序：test
+a  3	11/30/2024 8:41:47 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:47 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:51 PM	保存程序：test
+a  3	11/30/2024 8:41:59 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:41:59 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 8:42:03 PM	保存程序：test
+a  3	11/30/2024 8:44:08 PM	设备初始化......
+a  3	11/30/2024 8:44:08 PM	当前用户： a
+a  3	11/30/2024 8:44:08 PM	打开程序：test
+a  3	11/30/2024 8:44:09 PM	复位按钮按下
+a  3	11/30/2024 8:44:31 PM	设备复位完成
+a  3	11/30/2024 8:44:48 PM	键盘按下：
+a  3	11/30/2024 8:44:48 PM	键盘按下：
+a  3	11/30/2024 8:44:48 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 8:44:49 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 8:44:49 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:44:49 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 8:44:50 PM	保存程序：test
+a  3	11/30/2024 8:49:28 PM	涂胶运行
+a  3	11/30/2024 8:49:29 PM	
+a  3	11/30/2024 8:49:33 PM	ProcessingStarted
+a  3	11/30/2024 8:49:34 PM	停止
+a  3	11/30/2024 8:49:36 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:49:36 PM	ProcessedEnd
+a  3	11/30/2024 8:49:36 PM	{"SN":"","StartTime":"24-11-30 20:49:33","StopTime":"24-11-30 20:49:34","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:49:36 PM	停止
+a  3	11/30/2024 8:51:19 PM	键盘按下：
+a  3	11/30/2024 8:51:20 PM	键盘释放：CurrentPosition--> X:250.420 Y:224.324 Z:5.000
+a  3	11/30/2024 8:51:34 PM	涂胶运行
+a  3	11/30/2024 8:51:35 PM	
+a  3	11/30/2024 8:51:39 PM	ProcessingStarted
+a  3	11/30/2024 8:51:59 PM	停止
+a  3	11/30/2024 8:52:00 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:52:00 PM	ProcessedEnd
+a  3	11/30/2024 8:52:00 PM	{"SN":"","StartTime":"24-11-30 20:51:39","StopTime":"24-11-30 20:51:59","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:52:00 PM	停止
+a  3	11/30/2024 8:55:16 PM	设备初始化......
+a  3	11/30/2024 8:55:17 PM	当前用户： a
+a  3	11/30/2024 8:55:17 PM	打开程序：test
+a  3	11/30/2024 8:55:17 PM	复位按钮按下
+a  3	11/30/2024 8:55:43 PM	设备复位完成
+a  3	11/30/2024 8:55:48 PM	涂胶运行
+a  3	11/30/2024 8:55:49 PM	
+a  3	11/30/2024 8:55:53 PM	ProcessingStarted
+a  3	11/30/2024 8:55:56 PM	停止
+a  3	11/30/2024 8:55:57 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 8:55:57 PM	ProcessedEnd
+a  3	11/30/2024 8:55:58 PM	{"SN":"","StartTime":"24-11-30 20:55:53","StopTime":"24-11-30 20:55:56","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 8:55:58 PM	停止
+a  3	11/30/2024 9:00:11 PM	设备初始化......
+a  3	11/30/2024 9:00:11 PM	当前用户： a
+a  3	11/30/2024 9:00:11 PM	打开程序：test
+a  3	11/30/2024 9:00:11 PM	复位按钮按下
+a  3	11/30/2024 9:00:36 PM	设备复位完成
+a  3	11/30/2024 9:01:05 PM	涂胶运行
+a  3	11/30/2024 9:01:06 PM	
+a  3	11/30/2024 9:01:09 PM	ProcessingStarted
+a  3	11/30/2024 9:01:36 PM	停止
+a  3	11/30/2024 9:01:37 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:01:38 PM	ProcessedEnd
+a  3	11/30/2024 9:01:38 PM	{"SN":"","StartTime":"24-11-30 21:01:09","StopTime":"24-11-30 21:01:37","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:01:38 PM	停止
+a  3	11/30/2024 9:01:42 PM	键盘按下：
+a  3	11/30/2024 9:01:43 PM	键盘按下：
+a  3	11/30/2024 9:01:43 PM	键盘释放：CurrentPosition--> X:368.884 Y:209.880 Z:5.000
+a  3	11/30/2024 9:01:43 PM	键盘释放：CurrentPosition--> X:368.884 Y:209.880 Z:5.000
+a  3	11/30/2024 9:01:43 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 9:01:43 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:01:43 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:01:44 PM	保存程序：test
+a  3	11/30/2024 9:01:45 PM	涂胶运行
+a  3	11/30/2024 9:01:47 PM	
+a  3	11/30/2024 9:01:51 PM	ProcessingStarted
+a  3	11/30/2024 9:02:03 PM	停止
+a  3	11/30/2024 9:02:04 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:02:05 PM	ProcessedEnd
+a  3	11/30/2024 9:02:05 PM	{"SN":"","StartTime":"24-11-30 21:01:51","StopTime":"24-11-30 21:02:03","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:02:05 PM	停止
+a  3	11/30/2024 9:02:12 PM	键盘按下：
+a  3	11/30/2024 9:02:12 PM	键盘按下：
+a  3	11/30/2024 9:02:12 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:02:12 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:02:12 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 9:02:12 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:02:13 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:02:13 PM	保存程序：test
+a  3	11/30/2024 9:02:36 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:02:36 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:02:41 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:02:41 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:07:40 PM	键盘按下：
+a  3	11/30/2024 9:07:40 PM	键盘按下：
+a  3	11/30/2024 9:07:41 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:07:41 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:07:41 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:07:41 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:07:42 PM	保存程序：test
+a  3	11/30/2024 9:12:44 PM	键盘按下：
+a  3	11/30/2024 9:12:44 PM	键盘按下：
+a  3	11/30/2024 9:12:44 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:12:45 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:12:45 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:12:45 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:12:46 PM	保存程序：test
+a  3	11/30/2024 9:12:53 PM	键盘按下：
+a  3	11/30/2024 9:12:54 PM	键盘按下：
+a  3	11/30/2024 9:12:54 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:12:54 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:12:54 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:12:54 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:12:56 PM	保存程序：test
+a  3	11/30/2024 9:13:02 PM	键盘按下：
+a  3	11/30/2024 9:13:03 PM	键盘按下：
+a  3	11/30/2024 9:13:03 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:13:03 PM	键盘释放：CurrentPosition--> X:358.504 Y:224.880 Z:84.155
+a  3	11/30/2024 9:13:03 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:13:03 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:13:05 PM	保存程序：test
+a  3	11/30/2024 9:20:55 PM	设备初始化......
+a  3	11/30/2024 9:20:56 PM	当前用户： a
+a  3	11/30/2024 9:20:56 PM	打开程序：test
+a  3	11/30/2024 9:20:58 PM	复位按钮按下
+a  3	11/30/2024 9:21:25 PM	设备复位完成
+a  3	11/30/2024 9:23:21 PM	设备初始化......
+a  3	11/30/2024 9:23:22 PM	当前用户： a
+a  3	11/30/2024 9:23:22 PM	打开程序：test
+a  3	11/30/2024 9:23:23 PM	复位按钮按下
+a  3	11/30/2024 9:23:32 PM	设备复位完成
+a  3	11/30/2024 9:23:44 PM	键盘按下：
+a  3	11/30/2024 9:23:45 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:23:55 PM	键盘按下：
+a  3	11/30/2024 9:23:55 PM	键盘按下：
+a  3	11/30/2024 9:23:55 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:23:56 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:23:56 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:23:56 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:23:57 PM	保存程序：test
+a  3	11/30/2024 9:24:07 PM	键盘按下：
+a  3	11/30/2024 9:24:07 PM	键盘按下：
+a  3	11/30/2024 9:24:07 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:24:07 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:24:08 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:24:08 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:24:09 PM	保存程序：test
+a  3	11/30/2024 9:24:57 PM	键盘按下：
+a  3	11/30/2024 9:24:58 PM	键盘按下：
+a  3	11/30/2024 9:24:58 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:24:58 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:24:58 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:24:58 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:00 PM	保存程序：test
+a  3	11/30/2024 9:25:13 PM	模板->main(A)中第15行程序被删除
+a  3	11/30/2024 9:25:14 PM	键盘按下：
+a  3	11/30/2024 9:25:15 PM	键盘按下：
+a  3	11/30/2024 9:25:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:15 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:15 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:17 PM	保存程序：test
+a  3	11/30/2024 9:25:22 PM	键盘按下：
+a  3	11/30/2024 9:25:22 PM	键盘按下：
+a  3	11/30/2024 9:25:23 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:23 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:23 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:23 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:24 PM	保存程序：test
+a  3	11/30/2024 9:25:38 PM	键盘按下：
+a  3	11/30/2024 9:25:38 PM	键盘按下：
+a  3	11/30/2024 9:25:39 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:39 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:25:39 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:39 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:25:41 PM	保存程序：test
+a  3	11/30/2024 9:27:00 PM	键盘按下：
+a  3	11/30/2024 9:27:00 PM	键盘按下：
+a  3	11/30/2024 9:27:00 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:27:00 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:27:01 PM	保存程序：test
+a  3	11/30/2024 9:29:31 PM	设备初始化......
+a  3	11/30/2024 9:29:31 PM	当前用户： a
+a  3	11/30/2024 9:29:31 PM	打开程序：test
+a  3	11/30/2024 9:29:33 PM	复位按钮按下
+a  3	11/30/2024 9:29:42 PM	设备复位完成
+a  3	11/30/2024 9:30:30 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:30:30 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:32:26 PM	设备初始化......
+a  3	11/30/2024 9:32:26 PM	当前用户： a
+a  3	11/30/2024 9:32:26 PM	打开程序：test
+a  3	11/30/2024 9:32:28 PM	复位按钮按下
+a  3	11/30/2024 9:32:36 PM	设备复位完成
+a  3	11/30/2024 9:34:48 PM	设备初始化......
+a  3	11/30/2024 9:34:48 PM	当前用户： a
+a  3	11/30/2024 9:34:48 PM	打开程序：test
+a  3	11/30/2024 9:34:48 PM	复位按钮按下
+a  3	11/30/2024 9:34:57 PM	设备复位完成
+a  3	11/30/2024 9:40:25 PM	设备初始化......
+a  3	11/30/2024 9:40:26 PM	当前用户： a
+a  3	11/30/2024 9:40:26 PM	打开程序：test
+a  3	11/30/2024 9:43:01 PM	设备初始化......
+a  3	11/30/2024 9:43:02 PM	当前用户： a
+a  3	11/30/2024 9:43:02 PM	打开程序：test
+a  3	11/30/2024 9:44:05 PM	复位按钮按下
+a  3	11/30/2024 9:44:14 PM	设备复位完成
+a  3	11/30/2024 9:44:19 PM	键盘按下：
+a  3	11/30/2024 9:44:20 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:44:20 PM	键盘按下：
+a  3	11/30/2024 9:44:20 PM	键盘按下：
+a  3	11/30/2024 9:44:21 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:44:21 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:44:21 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:44:21 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:44:22 PM	保存程序：test
+a  3	11/30/2024 9:44:30 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:44:30 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:47:18 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:47:18 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:50:06 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:50:06 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:52:58 PM	设备初始化......
+a  3	11/30/2024 9:52:59 PM	当前用户： a
+a  3	11/30/2024 9:52:59 PM	打开程序：test
+a  3	11/30/2024 9:53:07 PM	复位按钮按下
+a  3	11/30/2024 9:53:16 PM	设备复位完成
+a  3	11/30/2024 9:54:26 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:33 PM	键盘按下：
+a  3	11/30/2024 9:54:34 PM	键盘按下：
+a  3	11/30/2024 9:54:34 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:34 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:34 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:34 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:35 PM	保存程序：test
+a  3	11/30/2024 9:54:41 PM	键盘按下：
+a  3	11/30/2024 9:54:42 PM	键盘按下：
+a  3	11/30/2024 9:54:42 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:42 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:42 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:42 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:44 PM	保存程序：test
+a  3	11/30/2024 9:54:52 PM	键盘按下：
+a  3	11/30/2024 9:54:52 PM	键盘按下：
+a  3	11/30/2024 9:54:52 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:52 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:54:52 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:52 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:54:54 PM	保存程序：test
+a  3	11/30/2024 9:56:27 PM	键盘按下：
+a  3	11/30/2024 9:56:27 PM	键盘按下：
+a  3	11/30/2024 9:56:27 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:27 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:28 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:28 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:29 PM	保存程序：test
+a  3	11/30/2024 9:56:37 PM	键盘按下：
+a  3	11/30/2024 9:56:37 PM	键盘按下：
+a  3	11/30/2024 9:56:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:37 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:38 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:38 PM	保存程序：test
+a  3	11/30/2024 9:56:48 PM	键盘按下：
+a  3	11/30/2024 9:56:48 PM	键盘按下：
+a  3	11/30/2024 9:56:48 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:48 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:56:49 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:49 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:56:50 PM	保存程序：test
+a  3	11/30/2024 9:56:59 PM	键盘按下：
+a  3	11/30/2024 9:56:59 PM	键盘按下：
+a  3	11/30/2024 9:56:59 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:00 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:00 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:00 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:01 PM	保存程序：test
+a  3	11/30/2024 9:57:12 PM	键盘按下：
+a  3	11/30/2024 9:57:13 PM	键盘按下：
+a  3	11/30/2024 9:57:13 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:13 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:13 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:13 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:14 PM	保存程序：test
+a  3	11/30/2024 9:57:24 PM	键盘按下：
+a  3	11/30/2024 9:57:24 PM	键盘按下：
+a  3	11/30/2024 9:57:24 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:24 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:24 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:25 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:26 PM	保存程序：test
+a  3	11/30/2024 9:57:31 PM	键盘按下：
+a  3	11/30/2024 9:57:31 PM	键盘按下：
+a  3	11/30/2024 9:57:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:32 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:32 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:33 PM	保存程序：test
+a  3	11/30/2024 9:57:40 PM	键盘按下：
+a  3	11/30/2024 9:57:40 PM	键盘按下：
+a  3	11/30/2024 9:57:40 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:41 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:41 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:41 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:42 PM	保存程序：test
+a  3	11/30/2024 9:57:51 PM	键盘按下：
+a  3	11/30/2024 9:57:51 PM	键盘按下：
+a  3	11/30/2024 9:57:51 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:51 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:57:51 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:52 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:57:52 PM	保存程序：test
+a  3	11/30/2024 9:58:22 PM	键盘按下：
+a  3	11/30/2024 9:58:22 PM	键盘按下：
+a  3	11/30/2024 9:58:22 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:22 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:22 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:22 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:23 PM	保存程序：test
+a  3	11/30/2024 9:58:37 PM	键盘按下：
+a  3	11/30/2024 9:58:38 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:38 PM	键盘按下：
+a  3	11/30/2024 9:58:39 PM	键盘按下：
+a  3	11/30/2024 9:58:39 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:39 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:39 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:39 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:40 PM	保存程序：test
+a  3	11/30/2024 9:58:53 PM	键盘按下：
+a  3	11/30/2024 9:58:53 PM	键盘按下：
+a  3	11/30/2024 9:58:54 PM	键盘按下：
+a  3	11/30/2024 9:58:54 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:54 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:54 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:54 PM	键盘按下：
+a  3	11/30/2024 9:58:54 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:54 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:54 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 9:58:54 PM	键盘按下：
+a  3	11/30/2024 9:58:54 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:54 PM	键盘按下：
+a  3	11/30/2024 9:58:55 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 9:58:56 PM	保存程序：test
+a  3	11/30/2024 9:59:10 PM	涂胶运行
+a  3	11/30/2024 9:59:11 PM	
+a  3	11/30/2024 9:59:14 PM	ProcessingStarted
+a  3	11/30/2024 9:59:18 PM	停止
+a  3	11/30/2024 9:59:20 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 9:59:20 PM	ProcessedEnd
+a  3	11/30/2024 9:59:20 PM	{"SN":"","StartTime":"24-11-30 21:59:14","StopTime":"24-11-30 21:59:19","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 9:59:20 PM	停止
+a  3	11/30/2024 9:59:29 PM	键盘按下：
+a  3	11/30/2024 9:59:30 PM	键盘按下：
+a  3	11/30/2024 9:59:30 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 9:59:30 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 9:59:30 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 9:59:31 PM	保存程序：test
+a  3	11/30/2024 10:02:07 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:02:07 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:02:12 PM	键盘按下：
+a  3	11/30/2024 10:02:13 PM	键盘按下：
+a  3	11/30/2024 10:02:13 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:02:13 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:02:13 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:02:13 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:02:14 PM	保存程序：test
+a  3	11/30/2024 10:03:19 PM	键盘按下：
+a  3	11/30/2024 10:03:19 PM	键盘按下：
+a  3	11/30/2024 10:03:19 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:03:19 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:03:20 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:03:20 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:03:21 PM	保存程序：test
+a  3	11/30/2024 10:03:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:03:33 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:06:38 PM	设备初始化......
+a  3	11/30/2024 10:06:38 PM	当前用户： a
+a  3	11/30/2024 10:06:38 PM	打开程序：test
+a  3	11/30/2024 10:06:38 PM	复位按钮按下
+a  3	11/30/2024 10:07:00 PM	设备复位完成
+a  3	11/30/2024 10:07:09 PM	键盘按下：
+a  3	11/30/2024 10:07:10 PM	键盘按下：
+a  3	11/30/2024 10:07:10 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:10 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:10 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:10 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:11 PM	保存程序：test
+a  3	11/30/2024 10:07:15 PM	键盘按下：
+a  3	11/30/2024 10:07:15 PM	键盘按下：
+a  3	11/30/2024 10:07:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:15 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:16 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:16 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:17 PM	保存程序：test
+a  3	11/30/2024 10:07:24 PM	键盘按下：
+a  3	11/30/2024 10:07:24 PM	键盘按下：
+a  3	11/30/2024 10:07:24 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:24 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:25 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:25 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:26 PM	保存程序：test
+a  3	11/30/2024 10:07:31 PM	键盘按下：
+a  3	11/30/2024 10:07:31 PM	键盘按下：
+a  3	11/30/2024 10:07:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:32 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:32 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:32 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:33 PM	保存程序：test
+a  3	11/30/2024 10:07:37 PM	键盘按下：
+a  3	11/30/2024 10:07:37 PM	键盘按下：
+a  3	11/30/2024 10:07:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:38 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:38 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:39 PM	保存程序：test
+a  3	11/30/2024 10:07:45 PM	键盘按下：
+a  3	11/30/2024 10:07:45 PM	键盘按下：
+a  3	11/30/2024 10:07:45 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:46 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:46 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:46 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:47 PM	保存程序：test
+a  3	11/30/2024 10:07:51 PM	键盘按下：
+a  3	11/30/2024 10:07:52 PM	键盘按下：
+a  3	11/30/2024 10:07:52 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:52 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:52 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:52 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:53 PM	保存程序：test
+a  3	11/30/2024 10:07:58 PM	键盘按下：
+a  3	11/30/2024 10:07:58 PM	键盘按下：
+a  3	11/30/2024 10:07:58 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:58 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:07:58 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:07:59 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:08:00 PM	保存程序：test
+a  3	11/30/2024 10:08:02 PM	键盘按下：
+a  3	11/30/2024 10:08:03 PM	键盘按下：
+a  3	11/30/2024 10:08:03 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:08:03 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:08:04 PM	保存程序：test
+a  3	11/30/2024 10:38:29 PM	设备初始化......
+a  3	11/30/2024 10:38:29 PM	当前用户： a
+a  3	11/30/2024 10:38:29 PM	打开程序：test
+a  3	11/30/2024 10:38:30 PM	复位按钮按下
+a  3	11/30/2024 10:38:34 PM	阀气缸上升超时
+a  3	11/30/2024 10:38:36 PM	复位失败
+a  3	11/30/2024 10:38:36 PM	停止
+a  3	11/30/2024 10:38:37 PM	Z轴复位失败
+a  3	11/30/2024 10:38:38 PM	报警代码 1006:气压检测报警
+a  3	11/30/2024 10:38:42 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:39:04 PM	设备初始化......
+a  3	11/30/2024 10:39:04 PM	当前用户： a
+a  3	11/30/2024 10:39:04 PM	打开程序：test
+a  3	11/30/2024 10:39:06 PM	复位按钮按下
+a  3	11/30/2024 10:39:10 PM	阀气缸上升超时
+a  3	11/30/2024 10:39:11 PM	复位失败
+a  3	11/30/2024 10:39:11 PM	停止
+a  3	11/30/2024 10:39:12 PM	Z轴复位失败
+a  3	11/30/2024 10:39:13 PM	报警代码 1006:气压检测报警
+a  3	11/30/2024 10:40:04 PM	设备初始化......
+a  3	11/30/2024 10:40:04 PM	当前用户： a
+a  3	11/30/2024 10:40:04 PM	打开程序：test
+a  3	11/30/2024 10:40:07 PM	复位按钮按下
+a  3	11/30/2024 10:46:13 PM	设备初始化......
+a  3	11/30/2024 10:46:13 PM	当前用户： a
+a  3	11/30/2024 10:46:13 PM	打开程序：test
+a  3	11/30/2024 10:46:30 PM	复位按钮按下
+a  3	11/30/2024 10:46:35 PM	阀气缸上升超时
+a  3	11/30/2024 10:46:36 PM	复位失败
+a  3	11/30/2024 10:46:36 PM	停止
+a  3	11/30/2024 10:46:36 PM	Z轴复位失败
+a  3	11/30/2024 10:46:38 PM	报警代码 1006:气压检测报警
+a  3	11/30/2024 10:49:45 PM	设备初始化......
+a  3	11/30/2024 10:49:45 PM	当前用户： a
+a  3	11/30/2024 10:49:45 PM	打开程序：test
+a  3	11/30/2024 10:49:46 PM	复位按钮按下
+a  3	11/30/2024 10:49:55 PM	设备复位完成
+a  3	11/30/2024 10:50:07 PM	键盘按下：
+a  3	11/30/2024 10:50:07 PM	键盘按下：
+a  3	11/30/2024 10:50:07 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:50:07 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:50:08 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:50:08 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 10:50:09 PM	保存程序：test
+a  3	11/30/2024 10:50:09 PM	键盘按下：
+a  3	11/30/2024 10:50:10 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:50:10 PM	键盘按下：
+a  3	11/30/2024 10:50:11 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/30/2024 10:50:12 PM	运行测试：开始
+a  3	11/30/2024 10:50:27 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 10:50:35 PM	键盘按下：
+a  3	11/30/2024 10:50:35 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:50:39 PM	键盘按下：
+a  3	11/30/2024 10:50:39 PM	键盘按下：
+a  3	11/30/2024 10:50:39 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:50:39 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:50:39 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:50:39 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	11/30/2024 10:50:41 PM	保存程序：test
+a  3	11/30/2024 10:50:44 PM	运行测试：开始
+a  3	11/30/2024 10:50:47 PM	运行测试：开始
+a  3	11/30/2024 10:50:51 PM	运行测试：停止
+a  3	11/30/2024 10:50:55 PM	键盘按下：
+a  3	11/30/2024 10:50:55 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:50:56 PM	键盘按下：
+a  3	11/30/2024 10:50:57 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:50:59 PM	运行测试：开始
+a  3	11/30/2024 10:51:00 PM	运行测试：开始
+a  3	11/30/2024 10:51:00 PM	运行测试：开始
+a  3	11/30/2024 10:51:01 PM	运行测试：开始
+a  3	11/30/2024 10:51:02 PM	运行测试：停止
+a  3	11/30/2024 10:51:03 PM	运行测试：开始
+a  3	11/30/2024 10:51:07 PM	键盘按下：
+a  3	11/30/2024 10:51:08 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:09 PM	运行测试：开始
+a  3	11/30/2024 10:51:13 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 10:51:16 PM	键盘按下：
+a  3	11/30/2024 10:51:17 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:18 PM	运行测试：开始
+a  3	11/30/2024 10:51:19 PM	运行测试：开始
+a  3	11/30/2024 10:51:19 PM	运行测试：开始
+a  3	11/30/2024 10:51:20 PM	运行测试：开始
+a  3	11/30/2024 10:51:20 PM	运行测试：开始
+a  3	11/30/2024 10:51:20 PM	运行测试：开始
+a  3	11/30/2024 10:51:21 PM	运行测试：开始
+a  3	11/30/2024 10:51:21 PM	运行测试：开始
+a  3	11/30/2024 10:51:21 PM	运行测试：开始
+a  3	11/30/2024 10:51:22 PM	运行测试：开始
+a  3	11/30/2024 10:51:22 PM	运行测试：开始
+a  3	11/30/2024 10:51:22 PM	运行测试：开始
+a  3	11/30/2024 10:51:23 PM	运行测试：开始
+a  3	11/30/2024 10:51:30 PM	键盘按下：
+a  3	11/30/2024 10:51:31 PM	键盘按下：
+a  3	11/30/2024 10:51:31 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:31 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:31 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:51:31 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:51:32 PM	保存程序：test
+a  3	11/30/2024 10:51:34 PM	运行测试：开始
+a  3	11/30/2024 10:51:38 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 10:51:38 PM	运行测试：开始
+a  3	11/30/2024 10:51:43 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 10:51:43 PM	运行测试：开始
+a  3	11/30/2024 10:51:48 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 10:51:49 PM	运行测试：停止
+a  3	11/30/2024 10:51:53 PM	键盘按下：
+a  3	11/30/2024 10:51:53 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:54 PM	键盘按下：
+a  3	11/30/2024 10:51:54 PM	键盘按下：
+a  3	11/30/2024 10:51:54 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:54 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 10:51:54 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 10:51:54 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:51:54 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 10:51:55 PM	保存程序：test
+a  3	11/30/2024 10:51:57 PM	运行测试：开始
+a  3	11/30/2024 10:51:58 PM	运行测试：开始
+a  3	11/30/2024 10:51:58 PM	运行测试：开始
+a  3	11/30/2024 10:51:58 PM	运行测试：开始
+a  3	11/30/2024 10:53:05 PM	设备初始化......
+a  3	11/30/2024 10:53:05 PM	当前用户： a
+a  3	11/30/2024 10:53:05 PM	打开程序：test
+a  3	11/30/2024 10:53:05 PM	复位按钮按下
+a  3	11/30/2024 10:53:27 PM	设备复位完成
+a  3	11/30/2024 10:53:30 PM	运行测试：开始
+a  3	11/30/2024 10:54:30 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 10:54:31 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 10:54:32 PM	运行测试：开始
+a  3	11/30/2024 10:54:33 PM	运行测试：开始
+a  3	11/30/2024 10:55:34 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 10:55:34 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 10:55:36 PM	运行测试：开始
+a  3	11/30/2024 11:00:03 PM	运行测试：开始
+a  3	11/30/2024 11:00:04 PM	运行测试：停止
+a  3	11/30/2024 11:00:08 PM	键盘按下：
+a  3	11/30/2024 11:00:09 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	11/30/2024 11:00:10 PM	运行测试：开始
+a  3	11/30/2024 11:00:15 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 11:00:50 PM	键盘按下：
+a  3	11/30/2024 11:00:51 PM	键盘按下：
+a  3	11/30/2024 11:00:51 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:00:51 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:00:57 PM	运行测试：开始
+a  3	11/30/2024 11:00:59 PM	运行测试：停止
+a  3	11/30/2024 11:01:40 PM	运行测试：开始
+a  3	11/30/2024 11:01:41 PM	运行测试：停止
+a  3	11/30/2024 11:01:43 PM	键盘按下：
+a  3	11/30/2024 11:01:44 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:01:46 PM	运行测试：开始
+a  3	11/30/2024 11:01:48 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 11:01:48 PM	运行测试：停止
+a  3	11/30/2024 11:02:09 PM	键盘释放：CurrentPosition--> X:195.870 Y:320.758 Z:65.829
+a  3	11/30/2024 11:02:09 PM	键盘释放：CurrentPosition--> X:195.870 Y:320.758 Z:65.829
+a  3	11/30/2024 11:02:52 PM	键盘释放：CurrentPosition--> X:195.870 Y:320.758 Z:65.829
+a  3	11/30/2024 11:02:52 PM	键盘释放：CurrentPosition--> X:195.870 Y:320.758 Z:65.829
+a  3	11/30/2024 11:03:45 PM	运行测试：开始
+a  3	11/30/2024 11:03:47 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 11:03:47 PM	运行测试：停止
+a  3	11/30/2024 11:03:56 PM	运行测试：开始
+a  3	11/30/2024 11:03:58 PM	运行测试：停止
+a  3	11/30/2024 11:04:33 PM	键盘按下：
+a  3	11/30/2024 11:04:33 PM	键盘释放：CurrentPosition--> X:151.922 Y:279.576 Z:5.000
+a  3	11/30/2024 11:04:35 PM	运行测试：开始
+a  3	11/30/2024 11:04:36 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 11:06:25 PM	运行测试：开始
+a  3	11/30/2024 11:07:53 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:07:53 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:00 PM	键盘按下：
+a  3	11/30/2024 11:08:01 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:01 PM	键盘按下：
+a  3	11/30/2024 11:08:01 PM	键盘按下：
+a  3	11/30/2024 11:08:01 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:01 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:02 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:02 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:03 PM	保存程序：test
+a  3	11/30/2024 11:08:05 PM	键盘按下：
+a  3	11/30/2024 11:08:05 PM	键盘按下：
+a  3	11/30/2024 11:08:05 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:05 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:05 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:05 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:06 PM	保存程序：test
+a  3	11/30/2024 11:08:08 PM	键盘按下：
+a  3	11/30/2024 11:08:09 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:09 PM	键盘按下：
+a  3	11/30/2024 11:08:09 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:10 PM	键盘按下：
+a  3	11/30/2024 11:08:10 PM	键盘按下：
+a  3	11/30/2024 11:08:10 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:10 PM	键盘释放：CurrentPosition--> X:99.672 Y:279.576 Z:5.000
+a  3	11/30/2024 11:08:10 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:10 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:11 PM	保存程序：test
+a  3	11/30/2024 11:08:14 PM	运行测试：开始
+a  3	11/30/2024 11:08:18 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	11/30/2024 11:08:21 PM	涂胶运行
+a  3	11/30/2024 11:08:22 PM	
+a  3	11/30/2024 11:08:26 PM	ProcessingStarted
+a  3	11/30/2024 11:08:29 PM	停止
+a  3	11/30/2024 11:08:31 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	11/30/2024 11:08:31 PM	ProcessedEnd
+a  3	11/30/2024 11:08:31 PM	{"SN":"","StartTime":"24-11-30 23:08:26","StopTime":"24-11-30 23:08:30","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 11:08:31 PM	停止
+a  3	11/30/2024 11:08:33 PM	键盘按下：
+a  3	11/30/2024 11:08:34 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:08:34 PM	键盘按下：
+a  3	11/30/2024 11:08:34 PM	键盘按下：
+a  3	11/30/2024 11:08:35 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:08:35 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	11/30/2024 11:08:35 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	11/30/2024 11:08:35 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:35 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	11/30/2024 11:08:36 PM	保存程序：test
+a  3	11/30/2024 11:08:37 PM	涂胶运行
+a  3	11/30/2024 11:08:38 PM	
+a  3	11/30/2024 11:08:41 PM	ProcessingStarted
+a  3	11/30/2024 11:08:42 PM	ProcessedEnd
+a  3	11/30/2024 11:08:42 PM	{"SN":"","StartTime":"24-11-30 23:08:41","StopTime":"24-11-30 23:08:41","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 11:08:47 PM	停止
+a  3	11/30/2024 11:08:49 PM	停止
+a  3	11/30/2024 11:09:36 PM	涂胶运行
+a  3	11/30/2024 11:09:37 PM	
+a  3	11/30/2024 11:09:41 PM	ProcessingStarted
+a  3	11/30/2024 11:09:42 PM	ProcessedEnd
+a  3	11/30/2024 11:09:42 PM	{"SN":"","StartTime":"24-11-30 23:09:41","StopTime":"24-11-30 23:09:42","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/30/2024 11:09:43 PM	停止
+a  3	11/30/2024 11:09:46 PM	停止

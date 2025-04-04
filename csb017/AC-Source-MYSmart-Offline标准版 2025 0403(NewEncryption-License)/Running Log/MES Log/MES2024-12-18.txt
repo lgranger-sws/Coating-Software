@@ -1,0 +1,4 @@
+
+14:23:39	MES-America-Vitesco14--Machine ComppareGuleSN	ComppareGuleSN OK
+14:32:01	MES-America-Vitesco14--Machine ComppareGuleSN	ComppareGuleSN OK
+14:32:28	MES-America-Vitesco14--Machine ComppareGuleSN	ComppareGuleSN OK

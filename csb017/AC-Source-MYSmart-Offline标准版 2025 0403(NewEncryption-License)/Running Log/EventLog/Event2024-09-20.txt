@@ -1,0 +1,278 @@
+
+a  3	2024/9/20 15:17:37	Initializing...
+a  3	2024/9/20 15:17:37	Current User: a
+a  3	2024/9/20 15:17:38	Open Program:flowtest
+a  3	2024/9/20 15:17:40	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 15:17:40	Stop
+a  3	2024/9/20 15:17:49	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:17:49	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:17:50	Key click:
+a  3	2024/9/20 15:17:50	Key click:
+a  3	2024/9/20 15:17:50	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:17:50	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:22:20	Initializing...
+a  3	2024/9/20 15:22:21	Current User: a
+a  3	2024/9/20 15:22:21	Open Program:flowtest
+a  3	2024/9/20 15:22:22	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 15:22:22	Stop
+a  3	2024/9/20 15:22:39	The expiry date is in warning period,the glue can be used for <40> days.	Cancel
+a  3	2024/9/20 15:22:43	Chinese
+a  3	2024/9/20 15:22:53	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:22:54	涂胶运行
+a  3	2024/9/20 15:22:54	
+a  3	2024/9/20 15:22:54	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:22:55	停止
+a  3	2024/9/20 15:22:55	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:22:59	气压检测:Disable
+a  3	2024/9/20 15:23:00	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Pressure detecting,Bar Code Match
+a  3	2024/9/20 15:23:00	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/20 15:23:06	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:23:07	涂胶运行
+a  3	2024/9/20 15:23:07	
+a  3	2024/9/20 15:23:08	ProcessingStarted
+a  3	2024/9/20 15:24:11	停止
+a  3	2024/9/20 15:24:12	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2024/9/20 15:24:13	产品0重量	0.000g
+
+a  3	2024/9/20 15:24:13	产品0重量	0.000g
+
+a  3	2024/9/20 15:24:13	ProcessedEnd
+a  3	2024/9/20 15:24:13	{"SN":"","StartTime":"24-09-20 15:23:08","StopTime":"24-09-20 15:24:11","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:24:13	停止
+a  3	2024/9/20 15:24:19	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:24:25	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:24:27	涂胶运行
+a  3	2024/9/20 15:24:27	
+a  3	2024/9/20 15:24:27	ProcessingStarted
+a  3	2024/9/20 15:30:03	停止
+a  3	2024/9/20 15:30:04	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2024/9/20 15:30:04	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:04	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:04	ProcessedEnd
+a  3	2024/9/20 15:30:04	{"SN":"","StartTime":"24-09-20 15:24:27","StopTime":"24-09-20 15:30:03","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:30:04	停止
+a  3	2024/9/20 15:30:08	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:30:09	涂胶运行
+a  3	2024/9/20 15:30:09	
+a  3	2024/9/20 15:30:10	ProcessingStarted
+a  3	2024/9/20 15:30:23	停止
+a  3	2024/9/20 15:30:24	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2024/9/20 15:30:24	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:24	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:24	ProcessedEnd
+a  3	2024/9/20 15:30:24	{"SN":"","StartTime":"24-09-20 15:30:10","StopTime":"24-09-20 15:30:23","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:30:24	停止
+a  3	2024/9/20 15:30:27	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:30:30	涂胶运行
+a  3	2024/9/20 15:30:30	
+a  3	2024/9/20 15:30:30	ProcessingStarted
+a  3	2024/9/20 15:30:41	停止
+a  3	2024/9/20 15:30:42	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2024/9/20 15:30:42	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:42	产品0重量	0.000g
+
+a  3	2024/9/20 15:30:42	ProcessedEnd
+a  3	2024/9/20 15:30:42	{"SN":"","StartTime":"24-09-20 15:30:30","StopTime":"24-09-20 15:30:41","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:30:42	停止
+a  3	2024/9/20 15:30:55	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:30:57	涂胶运行
+a  3	2024/9/20 15:30:57	
+a  3	2024/9/20 15:30:57	ProcessingStarted
+a  3	2024/9/20 15:31:58	设备初始化......
+a  3	2024/9/20 15:31:59	当前用户： a
+a  3	2024/9/20 15:31:59	打开程序：flowtest
+a  3	2024/9/20 15:32:01	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:32:02	停止
+a  3	2024/9/20 15:32:07	气压检测:Disable
+a  3	2024/9/20 15:32:08	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/20 15:32:13	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:32:16	涂胶运行
+a  3	2024/9/20 15:32:16	
+a  3	2024/9/20 15:32:16	ProcessingStarted
+a  3	2024/9/20 15:35:12	停止
+a  3	2024/9/20 15:35:14	设备加工流程标志：TRUE 异常停机：TRUE
+a  3	2024/9/20 15:35:14	产品0重量	0.000g
+
+a  3	2024/9/20 15:35:14	产品0重量	0.000g
+
+a  3	2024/9/20 15:35:14	ProcessedEnd
+a  3	2024/9/20 15:35:14	{"SN":"","StartTime":"24-09-20 15:32:16","StopTime":"24-09-20 15:35:12","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:35:14	停止
+a  3	2024/9/20 15:35:50	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:35:50	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:35:52	键盘按下：
+a  3	2024/9/20 15:35:52	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:35:54	键盘按下：
+a  3	2024/9/20 15:35:54	键盘按下：
+a  3	2024/9/20 15:35:54	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:35:54	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:35:54	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	2024/9/20 15:35:55	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	2024/9/20 15:35:55	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	2024/9/20 15:35:56	保存程序：flowtest
+a  3	2024/9/20 15:35:59	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:36:01	涂胶运行
+a  3	2024/9/20 15:36:01	
+a  3	2024/9/20 15:36:01	ProcessingStarted
+a  3	2024/9/20 15:36:01	ProcessedEnd
+a  3	2024/9/20 15:36:03	{"SN":"","StartTime":"24-09-20 15:36:01","StopTime":"24-09-20 15:36:01","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:36:03	停止
+a  3	2024/9/20 15:36:08	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:36:09	涂胶运行
+a  3	2024/9/20 15:36:10	
+a  3	2024/9/20 15:36:10	ProcessingStarted
+a  3	2024/9/20 15:36:10	ProcessedEnd
+a  3	2024/9/20 15:36:11	{"SN":"","StartTime":"24-09-20 15:36:10","StopTime":"24-09-20 15:36:10","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:36:11	停止
+a  3	2024/9/20 15:36:41	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:36:43	涂胶运行
+a  3	2024/9/20 15:36:43	
+a  3	2024/9/20 15:36:43	ProcessingStarted
+a  3	2024/9/20 15:36:43	ProcessedEnd
+a  3	2024/9/20 15:36:43	{"SN":"","StartTime":"24-09-20 15:36:43","StopTime":"24-09-20 15:36:43","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:36:46	停止
+a  3	2024/9/20 15:36:53	胶水即将过期，剩余使用40 天，请提前准备胶水	Continue
+a  3	2024/9/20 15:36:55	涂胶运行
+a  3	2024/9/20 15:36:56	
+a  3	2024/9/20 15:36:56	ProcessingStarted
+a  3	2024/9/20 15:36:56	ProcessedEnd
+a  3	2024/9/20 15:36:57	{"SN":"","StartTime":"24-09-20 15:36:55","StopTime":"24-09-20 15:36:56","ProgramName":"flowtest","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:36:57	停止
+a  3	2024/9/20 15:37:27	设备初始化......
+a  3	2024/9/20 15:37:27	当前用户： a
+a  3	2024/9/20 15:37:27	打开程序：flowtest
+a  3	2024/9/20 15:37:32	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:37:32	停止
+a  3	2024/9/20 15:37:35	气压检测:Disable
+a  3	2024/9/20 15:37:40	涂胶运行
+a  3	2024/9/20 15:37:42	
+a  3	2024/9/20 15:37:42	ProcessingStarted
+a  3	2024/9/20 15:37:42	ProcessedEnd
+a  3	2024/9/20 15:37:42	{"SN":"","StartTime":"24-09-20 15:37:42","StopTime":"24-09-20 15:37:42","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:37:43	停止
+a  3	2024/9/20 15:38:20	设备初始化......
+a  3	2024/9/20 15:38:20	当前用户： a
+a  3	2024/9/20 15:38:20	打开程序：flowtest
+a  3	2024/9/20 15:38:23	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:38:23	停止
+a  3	2024/9/20 15:38:28	气压检测:Disable
+a  3	2024/9/20 15:38:32	涂胶运行
+a  3	2024/9/20 15:38:34	
+a  3	2024/9/20 15:38:34	ProcessingStarted
+a  3	2024/9/20 15:38:34	ProcessedEnd
+a  3	2024/9/20 15:38:34	{"SN":"","StartTime":"24-09-20 15:38:34","StopTime":"24-09-20 15:38:34","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:38:35	停止
+a  3	2024/9/20 15:38:37	涂胶运行
+a  3	2024/9/20 15:38:39	
+a  3	2024/9/20 15:38:39	ProcessingStarted
+a  3	2024/9/20 15:38:39	ProcessedEnd
+a  3	2024/9/20 15:38:40	{"SN":"","StartTime":"24-09-20 15:38:39","StopTime":"24-09-20 15:38:39","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:38:41	停止
+a  3	2024/9/20 15:39:11	设备初始化......
+a  3	2024/9/20 15:39:12	当前用户： a
+a  3	2024/9/20 15:39:12	打开程序：flowtest
+a  3	2024/9/20 15:39:13	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:39:13	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:39:14	停止
+a  3	2024/9/20 15:39:17	气压检测:Disable
+a  3	2024/9/20 15:39:22	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	2024/9/20 15:39:22	在线模式
+a  3	2024/9/20 15:39:24	涂胶运行
+a  3	2024/9/20 15:39:25	
+a  3	2024/9/20 15:39:25	设备运行时间已达到1分钟,请进行保养
+a  3	2024/9/20 15:39:31	停止
+a  3	2024/9/20 15:39:35	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	2024/9/20 15:39:35	手动模式
+a  3	2024/9/20 15:39:37	涂胶运行
+a  3	2024/9/20 15:39:38	
+a  3	2024/9/20 15:39:38	设备运行时间已达到1分钟,请进行保养
+a  3	2024/9/20 15:39:40	ProcessingStarted
+a  3	2024/9/20 15:39:40	ProcessedEnd
+a  3	2024/9/20 15:39:41	{"SN":"","StartTime":"24-09-20 15:39:40","StopTime":"24-09-20 15:39:40","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:39:42	停止
+a  3	2024/9/20 15:39:55	涂胶运行
+a  3	2024/9/20 15:39:56	
+a  3	2024/9/20 15:39:56	设备运行时间已达到1分钟,请进行保养
+a  3	2024/9/20 15:40:02	ProcessingStarted
+a  3	2024/9/20 15:40:02	ProcessedEnd
+a  3	2024/9/20 15:40:02	{"SN":"","StartTime":"24-09-20 15:40:02","StopTime":"24-09-20 15:40:02","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:40:03	停止
+a  3	2024/9/20 15:41:13	设备初始化......
+a  3	2024/9/20 15:41:13	当前用户： a
+a  3	2024/9/20 15:41:13	打开程序：flowtest
+a  3	2024/9/20 15:41:14	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 15:41:15	报警代码 1006:气压检测报警
+a  3	2024/9/20 15:41:15	停止
+a  3	2024/9/20 15:41:18	气压检测:Disable
+a  3	2024/9/20 15:41:23	涂胶运行
+a  3	2024/9/20 15:41:25	
+a  3	2024/9/20 15:41:25	ProcessingStarted
+a  3	2024/9/20 15:41:26	ProcessedEnd
+a  3	2024/9/20 15:41:27	{"SN":"","StartTime":"24-09-20 15:41:25","StopTime":"24-09-20 15:41:25","ProgramName":"flowtest","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":"C63000256401-0001"}}
+a  3	2024/9/20 15:41:27	停止
+a  3	2024/9/20 15:41:29	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
+a  3	2024/9/20 15:41:29	在线模式
+a  3	2024/9/20 15:41:31	涂胶运行
+a  3	2024/9/20 15:41:33	
+a  3	2024/9/20 15:42:30	设备运行时间已达到1分钟,请进行保养
+a  3	2024/9/20 15:42:38	停止
+a  3	2024/9/20 16:05:30	设备初始化......
+a  3	2024/9/20 16:05:30	当前用户： a
+a  3	2024/9/20 16:05:30	打开程序：flowtest
+a  3	2024/9/20 16:05:43	报警代码 1006:气压检测报警
+a  3	2024/9/20 16:05:44	停止
+a  3	2024/9/20 16:08:27	设备初始化......
+a  3	2024/9/20 16:08:27	当前用户： a
+a  3	2024/9/20 16:08:27	打开程序：flowtest
+a  3	2024/9/20 16:08:30	报警代码 1006:气压检测报警
+a  3	2024/9/20 16:08:31	停止
+a  3	2024/9/20 16:08:35	气压检测:Disable
+a  3	2024/9/20 16:09:29	MES:192.168.100.200连接异常！
+a  3	2024/9/20 16:10:34	MES:192.168.100.200连接异常！
+a  3	2024/9/20 16:12:56	设备初始化......
+a  3	2024/9/20 16:12:56	当前用户： a
+a  3	2024/9/20 16:12:56	打开程序：flowtest
+a  3	2024/9/20 16:15:20	MES:192.168.100.200连接异常！
+a  3	2024/9/20 16:22:13	设备初始化......
+a  3	2024/9/20 16:22:14	当前用户： a
+a  3	2024/9/20 16:22:14	打开程序：flowtest
+a  3	2024/9/20 16:22:42	报警代码 1006:气压检测报警
+a  3	2024/9/20 16:22:43	停止
+a  3	2024/9/20 16:22:45	气压检测:Disable
+a  3	2024/9/20 16:22:50	English
+a  3	2024/9/20 16:23:32	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 16:23:32	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/20 16:25:53	Initializing...
+a  3	2024/9/20 16:25:53	Current User: a
+a  3	2024/9/20 16:25:54	Open Program:flowtest
+a  3	2024/9/20 16:26:06	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 16:26:16	Stop
+a  3	2024/9/20 16:26:57	Low Pressure Alarm:Enable
+a  3	2024/9/20 16:26:57	ParametersOfSystemSetting.bin the modify parameters are Pressure detecting
+a  3	2024/9/20 16:27:15	MES:192.168.100.200connection exception
+a  3	2024/9/20 16:27:54	Coating Running
+a  3	2024/9/20 16:27:57	
+a  3	2024/9/20 16:27:57	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 16:27:59	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 16:27:59	Stop
+a  3	2024/9/20 16:28:02	Low Pressure Alarm:Disable
+a  3	2024/9/20 16:28:03	ParametersOfSystemSetting.bin the modify parameters are Pressure detecting
+a  3	2024/9/20 16:28:13	Coating Running
+a  3	2024/9/20 16:28:15	
+a  3	2024/9/20 16:28:38	Stop
+a  3	2024/9/20 16:28:52	Coating Running
+a  3	2024/9/20 16:28:53	
+a  3	2024/9/20 16:29:51	Device Runtime has reached1miniutes
+a  3	2024/9/20 16:30:40	Stop
+a  3	2024/9/20 16:30:56	Stop
+a  3	2024/9/20 16:32:09	Initializing...
+a  3	2024/9/20 16:32:09	Current User: a
+a  3	2024/9/20 16:32:09	Open Program:flowtest
+a  3	2024/9/20 16:32:11	AlarmCode 1006:Pressure Low
+a  3	2024/9/20 16:32:12	Stop
+a  3	2024/9/20 16:32:16	Low Pressure Alarm:Disable

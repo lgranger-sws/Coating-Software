@@ -1,0 +1,242 @@
+
+a  3	10/21/2024 3:48:06 PM	设备初始化......
+a  3	10/21/2024 3:48:06 PM	当前用户： a
+a  3	10/21/2024 3:48:06 PM	打开程序：20240914132666
+a  3	10/21/2024 3:48:06 PM	复位按钮按下
+a  3	10/21/2024 3:48:08 PM	复位失败
+a  3	10/21/2024 3:48:08 PM	停止
+a  3	10/21/2024 3:48:10 PM	Z轴复位失败
+a  3	10/21/2024 3:48:11 PM	报警代码 1006:气压检测报警
+a  3	10/21/2024 3:48:24 PM	复位按钮按下
+a  3	10/21/2024 3:48:26 PM	复位失败
+a  3	10/21/2024 3:48:26 PM	停止
+a  3	10/21/2024 3:48:27 PM	Z轴复位失败
+a  3	10/21/2024 3:48:28 PM	报警代码 1006:气压检测报警
+a  3	10/21/2024 3:51:36 PM	设备初始化......
+a  3	10/21/2024 3:51:36 PM	当前用户： a
+a  3	10/21/2024 3:51:36 PM	打开程序：20240914132666
+a  3	10/21/2024 3:51:38 PM	门禁打开
+a  3	10/21/2024 3:54:32 PM	复位按钮按下
+a  3	10/21/2024 3:54:44 PM	设备复位完成
+a  3	10/21/2024 3:54:53 PM	键盘按下：Left
+a  3	10/21/2024 3:54:53 PM	X轴原点
+a  3	10/21/2024 3:54:53 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 3:55:39 PM	鼠标释放或离开：CurrentPosition--> X:25.364 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:53 PM	键盘释放：CurrentPosition--> X:25.364 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:53 PM	键盘释放：CurrentPosition--> X:25.364 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:54 PM	键盘按下：Left
+a  3	10/21/2024 3:57:54 PM	键盘释放：CurrentPosition--> X:23.325 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:54 PM	键盘按下：Left
+a  3	10/21/2024 3:57:55 PM	键盘释放：CurrentPosition--> X:20.892 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:55 PM	键盘按下：Left
+a  3	10/21/2024 3:57:56 PM	键盘释放：CurrentPosition--> X:1.879 Y:0.000 Z:0.000
+a  3	10/21/2024 3:57:56 PM	键盘按下：Left
+a  3	10/21/2024 3:57:57 PM	X轴原点
+a  3	10/21/2024 3:57:57 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 3:58:01 PM	键盘释放：CurrentPosition--> X:-0.752 Y:0.000 Z:0.000
+a  3	10/21/2024 3:58:02 PM	鼠标释放或离开：CurrentPosition--> X:20.818 Y:0.000 Z:0.000
+a  3	10/21/2024 4:04:40 PM	设备初始化......
+a  3	10/21/2024 4:04:40 PM	当前用户： a
+a  3	10/21/2024 4:04:40 PM	打开程序：20240914132666
+a  3	10/21/2024 4:04:40 PM	复位按钮按下
+a  3	10/21/2024 4:04:50 PM	设备复位完成
+a  3	10/21/2024 4:04:57 PM	键盘按下：Left
+a  3	10/21/2024 4:04:57 PM	X轴原点
+a  3	10/21/2024 4:04:58 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 4:05:01 PM	键盘释放：CurrentPosition--> X:-0.752 Y:0.000 Z:0.000
+a  3	10/21/2024 4:20:46 PM	设备初始化......
+a  3	10/21/2024 4:20:46 PM	当前用户： a
+a  3	10/21/2024 4:20:46 PM	打开程序：20240914132666
+a  3	10/21/2024 4:20:47 PM	复位按钮按下
+a  3	10/21/2024 4:20:56 PM	设备复位完成
+a  3	10/21/2024 4:21:18 PM	键盘按下：Left
+a  3	10/21/2024 4:21:18 PM	X轴原点
+a  3	10/21/2024 4:21:19 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 4:21:23 PM	键盘释放：CurrentPosition--> X:-0.758 Y:0.000 Z:0.000
+a  3	10/21/2024 4:21:26 PM	键盘按下：Left
+a  3	10/21/2024 4:21:27 PM	X轴原点
+a  3	10/21/2024 4:21:27 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 4:21:32 PM	键盘释放：CurrentPosition--> X:-0.745 Y:0.000 Z:0.000
+a  3	10/21/2024 4:25:36 PM	设备初始化......
+a  3	10/21/2024 4:25:36 PM	当前用户： a
+a  3	10/21/2024 4:25:37 PM	打开程序：20240914132666
+a  3	10/21/2024 4:25:38 PM	复位按钮按下
+a  3	10/21/2024 4:25:47 PM	设备复位完成
+a  3	10/21/2024 4:26:12 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 4:26:49 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 4:26:50 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 4:42:17 PM	设备初始化......
+a  3	10/21/2024 4:42:17 PM	当前用户： a
+a  3	10/21/2024 4:42:17 PM	打开程序：20240914132666
+a  3	10/21/2024 4:42:18 PM	复位按钮按下
+a  3	10/21/2024 4:42:26 PM	设备复位完成
+a  3	10/21/2024 4:50:34 PM	设备初始化......
+a  3	10/21/2024 4:50:34 PM	当前用户： a
+a  3	10/21/2024 4:50:34 PM	打开程序：20240914132666
+a  3	10/21/2024 4:50:35 PM	复位按钮按下
+a  3	10/21/2024 4:50:43 PM	设备复位完成
+a  3	10/21/2024 5:03:13 PM	设备初始化......
+a  3	10/21/2024 5:03:13 PM	当前用户： a
+a  3	10/21/2024 5:03:13 PM	打开程序：20240914132666
+a  3	10/21/2024 5:03:13 PM	复位按钮按下
+a  3	10/21/2024 5:03:22 PM	设备复位完成
+a  3	10/21/2024 5:04:03 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:06:22 PM	设备初始化......
+a  3	10/21/2024 5:06:22 PM	当前用户： a
+a  3	10/21/2024 5:06:22 PM	打开程序：20240914132666
+a  3	10/21/2024 5:06:23 PM	复位按钮按下
+a  3	10/21/2024 5:06:32 PM	设备复位完成
+a  3	10/21/2024 5:08:10 PM	设备初始化......
+a  3	10/21/2024 5:08:10 PM	当前用户： a
+a  3	10/21/2024 5:08:10 PM	打开程序：20240914132666
+a  3	10/21/2024 5:08:11 PM	复位按钮按下
+a  3	10/21/2024 5:08:19 PM	设备复位完成
+a  3	10/21/2024 5:11:22 PM	设备初始化......
+a  3	10/21/2024 5:11:22 PM	当前用户： a
+a  3	10/21/2024 5:11:22 PM	打开程序：20240914132666
+a  3	10/21/2024 5:11:22 PM	复位按钮按下
+a  3	10/21/2024 5:11:31 PM	设备复位完成
+a  3	10/21/2024 5:12:59 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:43 PM	键盘按下：
+a  3	10/21/2024 5:13:43 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:44 PM	键盘按下：
+a  3	10/21/2024 5:13:44 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:44 PM	键盘按下：
+a  3	10/21/2024 5:13:44 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:44 PM	键盘按下：
+a  3	10/21/2024 5:13:44 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:46 PM	键盘按下：
+a  3	10/21/2024 5:13:46 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:50 PM	键盘按下：Left
+a  3	10/21/2024 5:13:50 PM	X轴原点
+a  3	10/21/2024 5:13:50 PM	报警代码 1012:X轴负极限触发
+a  3	10/21/2024 5:13:58 PM	键盘释放：CurrentPosition--> X:-0.768 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:58 PM	鼠标释放或离开：CurrentPosition--> X:10.774 Y:0.000 Z:0.000
+a  3	10/21/2024 5:13:59 PM	鼠标释放或离开：CurrentPosition--> X:10.774 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:06 PM	English
+a  3	10/21/2024 5:15:26 PM	key release or away:CurrentPosition--> X:10.774 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:27 PM	key release or away:CurrentPosition--> X:10.774 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:28 PM	Key click:
+a  3	10/21/2024 5:15:29 PM	Key click:Left
+a  3	10/21/2024 5:15:29 PM	AlarmCode 1018:X Value Error
+a  3	10/21/2024 5:15:33 PM	key release:CurrentPosition--> X:-0.677 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:35 PM	key release or away:CurrentPosition--> X:6.326 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:35 PM	Mouse click:X-
+a  3	10/21/2024 5:15:35 PM	X Home
+a  3	10/21/2024 5:15:36 PM	AlarmCode 1012:X- limit
+a  3	10/21/2024 5:15:39 PM	key release or away:CurrentPosition--> X:-2.358 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:39 PM	key release or away:CurrentPosition--> X:-2.358 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:40 PM	Mouse click:X+
+a  3	10/21/2024 5:15:40 PM	key release or away:CurrentPosition--> X:26.583 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:41 PM	Mouse click:X-
+a  3	10/21/2024 5:15:41 PM	X Home
+a  3	10/21/2024 5:15:42 PM	AlarmCode 1012:X- limit
+a  3	10/21/2024 5:15:45 PM	key release or away:CurrentPosition--> X:-2.366 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:45 PM	key release or away:CurrentPosition--> X:-2.366 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:46 PM	Mouse click:X+
+a  3	10/21/2024 5:15:46 PM	key release or away:CurrentPosition--> X:42.470 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:47 PM	Mouse click:X-
+a  3	10/21/2024 5:15:48 PM	X Home
+a  3	10/21/2024 5:15:48 PM	AlarmCode 1012:X- limit
+a  3	10/21/2024 5:15:52 PM	key release or away:CurrentPosition--> X:-2.378 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:53 PM	key release or away:CurrentPosition--> X:-2.378 Y:0.000 Z:0.000
+a  3	10/21/2024 5:15:53 PM	Mouse click:Y-
+a  3	10/21/2024 5:15:53 PM	Y Home
+a  3	10/21/2024 5:15:54 PM	AlarmCode 1013:Y- limit
+a  3	10/21/2024 5:15:57 PM	key release or away:CurrentPosition--> X:9.634 Y:-2.360 Z:0.000
+a  3	10/21/2024 5:15:57 PM	AlarmCode 1013:Y- limit
+a  3	10/21/2024 5:16:01 PM	Mouse click:Z+
+a  3	10/21/2024 5:16:01 PM	key release or away:CurrentPosition--> X:28.212 Y:12.118 Z:34.540
+a  3	10/21/2024 5:16:02 PM	Mouse click:Z-
+a  3	10/21/2024 5:16:03 PM	Z Home
+a  3	10/21/2024 5:16:03 PM	AlarmCode 1014:Z- limit
+a  3	10/21/2024 5:16:06 PM	key release or away:CurrentPosition--> X:28.212 Y:12.118 Z:-2.238
+a  3	10/21/2024 5:16:07 PM	Mouse click:X-
+a  3	10/21/2024 5:16:07 PM	key release or away:CurrentPosition--> X:17.191 Y:12.118 Z:7.740
+a  3	10/21/2024 5:16:09 PM	Mouse click:X+
+a  3	10/21/2024 5:16:10 PM	key release or away:CurrentPosition--> X:37.610 Y:12.118 Z:7.740
+a  3	10/21/2024 5:16:10 PM	Mouse click:X-
+a  3	10/21/2024 5:16:11 PM	X Home
+a  3	10/21/2024 5:16:11 PM	AlarmCode 1012:X- limit
+a  3	10/21/2024 5:16:16 PM	key release or away:CurrentPosition--> X:-2.305 Y:12.118 Z:7.740
+a  3	10/21/2024 5:16:16 PM	key release or away:CurrentPosition--> X:-2.305 Y:12.118 Z:7.740
+a  3	10/21/2024 5:16:17 PM	AlarmCode 1012:X- limit
+a  3	10/21/2024 5:16:30 PM	key release or away:CurrentPosition--> X:0.572 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:32 PM	key release or away:CurrentPosition--> X:0.572 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:38 PM	key release or away:CurrentPosition--> X:0.572 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:50 PM	Key click:Right
+a  3	10/21/2024 5:16:52 PM	key release:CurrentPosition--> X:11.236 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:53 PM	Key click:Left
+a  3	10/21/2024 5:16:54 PM	key release:CurrentPosition--> X:7.875 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:54 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:57 PM	Key click:
+a  3	10/21/2024 5:16:57 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:16:57 PM	Key click:
+a  3	10/21/2024 5:16:57 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:00 PM	Key click:Return
+a  3	10/21/2024 5:17:00 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:00 PM	Stop
+a  3	10/21/2024 5:17:06 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:08 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:17 PM	Key click:
+a  3	10/21/2024 5:17:17 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:17 PM	Key click:
+a  3	10/21/2024 5:17:17 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:21 PM	Key click:
+a  3	10/21/2024 5:17:21 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:21 PM	Key click:
+a  3	10/21/2024 5:17:21 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:26 PM	Key click:Return
+a  3	10/21/2024 5:17:26 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:30 PM	Key click:
+a  3	10/21/2024 5:17:30 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:31 PM	Key click:
+a  3	10/21/2024 5:17:31 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:33 PM	Key click:
+a  3	10/21/2024 5:17:33 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:33 PM	Key click:
+a  3	10/21/2024 5:17:33 PM	Key click:
+a  3	10/21/2024 5:17:33 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:33 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:34 PM	Key click:
+a  3	10/21/2024 5:17:34 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:36 PM	Key click:
+a  3	10/21/2024 5:17:36 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:37 PM	Key click:
+a  3	10/21/2024 5:17:37 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:39 PM	Key click:
+a  3	10/21/2024 5:17:39 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:39 PM	Key click:
+a  3	10/21/2024 5:17:39 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:43 PM	Key click:Return
+a  3	10/21/2024 5:17:43 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:45 PM	Key click:
+a  3	10/21/2024 5:17:45 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:45 PM	Key click:
+a  3	10/21/2024 5:17:45 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:48 PM	Key click:Return
+a  3	10/21/2024 5:17:48 PM	key release:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:50 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:50 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:51 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:17:51 PM	key release or away:CurrentPosition--> X:7.178 Y:12.118 Z:8.028
+a  3	10/21/2024 5:18:17 PM	Initializing...
+a  3	10/21/2024 5:18:17 PM	Current User: a
+a  3	10/21/2024 5:18:17 PM	Open Program:20240914132666
+a  3	10/21/2024 5:18:17 PM	The reset button is pressed
+a  3	10/21/2024 5:18:18 PM	AlarmCode 1006:Pressure Low
+a  3	10/21/2024 5:18:18 PM	Stop
+a  3	10/21/2024 5:18:22 PM	Z home timeout
+a  3	10/21/2024 5:18:23 PM	Z home timeout
+a  3	10/21/2024 5:18:26 PM	The reset button is pressed
+a  3	10/21/2024 5:18:39 PM	Reset is completed
+a  3	10/21/2024 5:18:52 PM	Key click:
+a  3	10/21/2024 5:18:52 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:18:52 PM	Key click:
+a  3	10/21/2024 5:18:52 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:19:04 PM	Key click:Return
+a  3	10/21/2024 5:19:04 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	10/21/2024 5:19:05 PM	Stop
+a  3	10/21/2024 5:19:12 PM	Coating Running
+a  3	10/21/2024 5:19:13 PM	
+a  3	10/21/2024 5:19:15 PM	Stop

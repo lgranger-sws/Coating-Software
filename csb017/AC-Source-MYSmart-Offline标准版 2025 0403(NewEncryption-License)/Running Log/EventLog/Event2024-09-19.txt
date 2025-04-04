@@ -1,0 +1,13 @@
+
+a  3	2024/9/19 21:13:06	Initializing...
+a  3	2024/9/19 21:13:06	Current User: a
+a  3	2024/9/19 21:13:06	Open Program:flowtest
+a  3	2024/9/19 21:13:09	AlarmCode 1006:Pressure Low
+a  3	2024/9/19 21:13:09	Stop
+a  3	2024/9/19 21:15:32	Initializing...
+a  3	2024/9/19 21:15:32	Current User: a
+a  3	2024/9/19 21:15:33	Open Program:flowtest
+a  3	2024/9/19 21:15:35	AlarmCode 1006:Pressure Low
+a  3	2024/9/19 21:15:35	Stop
+a  3	2024/9/19 21:16:23	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/19 21:16:23	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000

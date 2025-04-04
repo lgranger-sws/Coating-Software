@@ -1,0 +1,2669 @@
+
+a  3	12/1/2024 10:28:26 AM	设备初始化......
+a  3	12/1/2024 10:28:26 AM	当前用户： a
+a  3	12/1/2024 10:28:26 AM	打开程序：test
+a  3	12/1/2024 10:28:29 AM	复位按钮按下
+a  3	12/1/2024 10:28:55 AM	设备复位完成
+a  3	12/1/2024 10:32:35 AM	打开程序：20241130ok2
+a  3	12/1/2024 10:32:36 AM	打开程序：20241130ok2
+a  3	12/1/2024 10:32:41 AM	键盘按下：
+a  3	12/1/2024 10:32:42 AM	键盘释放：CurrentPosition--> X:238.502 Y:263.502 Z:92.854
+a  3	12/1/2024 10:36:24 AM	English
+a  3	12/1/2024 10:36:54 AM	Key click:
+a  3	12/1/2024 10:36:54 AM	Key click:
+a  3	12/1/2024 10:36:54 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:36:54 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:36:54 AM	TrackAndPar.bin the modify parameters are Track storage
+a  3	12/1/2024 10:36:54 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Track storage
+a  3	12/1/2024 10:36:55 AM	Save Program:20241130ok2
+a  3	12/1/2024 10:36:55 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:36:58 AM	TestRun：Start
+a  3	12/1/2024 10:37:05 AM	TestRun：Start
+a  3	12/1/2024 10:37:06 AM	TestRun：Stop
+a  3	12/1/2024 10:37:15 AM	TestRun：Start
+a  3	12/1/2024 10:37:17 AM	TestRun：Start
+a  3	12/1/2024 10:37:21 AM	Coating Running
+a  3	12/1/2024 10:37:22 AM	
+a  3	12/1/2024 10:37:25 AM	Stop
+a  3	12/1/2024 10:37:27 AM	Stop
+a  3	12/1/2024 10:37:30 AM	ParametersOfSystemSetting.bin the modify parameters are Track closed,Opening the conveyor belt
+a  3	12/1/2024 10:37:30 AM	Manual Mode
+a  3	12/1/2024 10:37:32 AM	Coating Running
+a  3	12/1/2024 10:37:33 AM	
+a  3	12/1/2024 10:37:34 AM	ProcessingStarted
+a  3	12/1/2024 10:37:34 AM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:37:41 AM	"AlarmCode 1037:Flow Error!	Stop
+a  3	12/1/2024 10:37:41 AM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:37:41 AM	Stop
+a  3	12/1/2024 10:37:41 AM	ProcessedEnd
+a  3	12/1/2024 10:37:42 AM	{"SN":"","StartTime":"24-12-01 10:37:34","StopTime":"24-12-01 10:37:41","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:37:53 AM	ParametersOfSystemSetting.bin the modify parameters are Flow hardware para
+a  3	12/1/2024 10:37:53 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/1/2024 10:37:56 AM	Key click:
+a  3	12/1/2024 10:37:56 AM	Key click:
+a  3	12/1/2024 10:37:56 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:37:57 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:37:58 AM	Save Program:20241130ok2
+a  3	12/1/2024 10:37:58 AM	key release:CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:38:03 AM	Coating Running
+a  3	12/1/2024 10:38:04 AM	
+a  3	12/1/2024 10:38:05 AM	ProcessingStarted
+a  3	12/1/2024 10:38:06 AM	ProcessedEnd
+a  3	12/1/2024 10:38:06 AM	{"SN":"","StartTime":"24-12-01 10:38:05","StopTime":"24-12-01 10:38:06","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:38:06 AM	Stop
+a  3	12/1/2024 10:38:09 AM	Coating Running
+a  3	12/1/2024 10:38:11 AM	
+a  3	12/1/2024 10:38:12 AM	ProcessingStarted
+a  3	12/1/2024 10:38:12 AM	ProcessedEnd
+a  3	12/1/2024 10:38:12 AM	{"SN":"","StartTime":"24-12-01 10:38:12","StopTime":"24-12-01 10:38:12","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:38:12 AM	Stop
+a  3	12/1/2024 10:38:20 AM	TestRun：Start
+a  3	12/1/2024 10:38:28 AM	TestRun：Stop
+a  3	12/1/2024 10:38:35 AM	Chinese
+a  3	12/1/2024 10:38:40 AM	涂胶运行
+a  3	12/1/2024 10:38:42 AM	
+a  3	12/1/2024 10:38:42 AM	ProcessingStarted
+a  3	12/1/2024 10:38:42 AM	ProcessedEnd
+a  3	12/1/2024 10:38:43 AM	{"SN":"","StartTime":"24-12-01 10:38:42","StopTime":"24-12-01 10:38:42","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:38:44 AM	停止
+a  3	12/1/2024 10:39:34 AM	鼠标释放或离开：CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:39:36 AM	鼠标释放或离开：CurrentPosition--> X:239.040 Y:265.718 Z:5.000
+a  3	12/1/2024 10:39:44 AM	键盘按下：
+a  3	12/1/2024 10:39:44 AM	键盘按下：Right
+a  3	12/1/2024 10:39:45 AM	键盘释放：CurrentPosition--> X:263.339 Y:265.718 Z:5.000
+a  3	12/1/2024 10:39:45 AM	键盘释放：CurrentPosition--> X:263.339 Y:265.718 Z:5.000
+a  3	12/1/2024 10:39:45 AM	键盘按下：Right
+a  3	12/1/2024 10:39:47 AM	键盘释放：CurrentPosition--> X:284.032 Y:265.718 Z:5.000
+a  3	12/1/2024 10:39:47 AM	键盘按下：
+a  3	12/1/2024 10:39:47 AM	键盘按下：Down
+a  3	12/1/2024 10:39:47 AM	键盘释放：CurrentPosition--> X:284.700 Y:254.604 Z:5.000
+a  3	12/1/2024 10:39:48 AM	键盘释放：CurrentPosition--> X:284.700 Y:254.604 Z:5.000
+a  3	12/1/2024 10:39:49 AM	鼠标释放或离开：CurrentPosition--> X:284.700 Y:253.010 Z:5.000
+a  3	12/1/2024 10:39:50 AM	鼠标释放或离开：CurrentPosition--> X:284.700 Y:253.010 Z:5.000
+a  3	12/1/2024 10:39:59 AM	ParametersOfAxis.bin文件中以下参数已经被修改：Shift+Ctrl+Move,Ctrl+Move
+a  3	12/1/2024 10:40:01 AM	键盘按下：
+a  3	12/1/2024 10:40:02 AM	键盘按下：Right
+a  3	12/1/2024 10:40:02 AM	键盘释放：CurrentPosition--> X:327.626 Y:253.010 Z:5.000
+a  3	12/1/2024 10:40:03 AM	键盘按下：Left
+a  3	12/1/2024 10:40:03 AM	键盘释放：CurrentPosition--> X:290.639 Y:253.010 Z:5.000
+a  3	12/1/2024 10:40:03 AM	键盘按下：
+a  3	12/1/2024 10:40:03 AM	键盘释放：CurrentPosition--> X:286.826 Y:253.010 Z:5.000
+a  3	12/1/2024 10:40:04 AM	键盘释放：CurrentPosition--> X:286.826 Y:253.010 Z:5.000
+a  3	12/1/2024 10:40:06 AM	键盘按下：
+a  3	12/1/2024 10:40:07 AM	键盘按下：Up
+a  3	12/1/2024 10:40:07 AM	键盘释放：CurrentPosition--> X:286.826 Y:263.574 Z:5.000
+a  3	12/1/2024 10:40:07 AM	键盘按下：Right
+a  3	12/1/2024 10:40:08 AM	键盘释放：CurrentPosition--> X:293.105 Y:264.688 Z:5.000
+a  3	12/1/2024 10:40:08 AM	键盘按下：Down
+a  3	12/1/2024 10:40:08 AM	键盘释放：CurrentPosition--> X:294.028 Y:255.919 Z:5.000
+a  3	12/1/2024 10:40:09 AM	键盘释放：CurrentPosition--> X:294.028 Y:255.919 Z:5.000
+a  3	12/1/2024 10:40:09 AM	键盘按下：
+a  3	12/1/2024 10:40:09 AM	键盘按下：Right
+a  3	12/1/2024 10:40:10 AM	键盘释放：CurrentPosition--> X:300.597 Y:255.646 Z:5.000
+a  3	12/1/2024 10:40:10 AM	键盘按下：Down
+a  3	12/1/2024 10:40:11 AM	键盘释放：CurrentPosition--> X:308.480 Y:239.037 Z:5.000
+a  3	12/1/2024 10:40:11 AM	键盘按下：Left
+a  3	12/1/2024 10:40:11 AM	键盘释放：CurrentPosition--> X:308.480 Y:239.037 Z:5.000
+a  3	12/1/2024 10:40:12 AM	键盘按下：Left
+a  3	12/1/2024 10:40:13 AM	键盘释放：CurrentPosition--> X:286.133 Y:238.648 Z:5.000
+a  3	12/1/2024 10:40:14 AM	键盘按下：Left
+a  3	12/1/2024 10:40:15 AM	键盘释放：CurrentPosition--> X:263.791 Y:238.648 Z:5.000
+a  3	12/1/2024 10:40:15 AM	键盘按下：
+a  3	12/1/2024 10:40:16 AM	键盘按下：Up
+a  3	12/1/2024 10:40:17 AM	键盘释放：CurrentPosition--> X:263.548 Y:263.632 Z:5.000
+a  3	12/1/2024 10:40:17 AM	键盘按下：Right
+a  3	12/1/2024 10:40:17 AM	键盘释放：CurrentPosition--> X:263.548 Y:263.632 Z:5.000
+a  3	12/1/2024 10:40:18 AM	键盘按下：Right
+a  3	12/1/2024 10:40:19 AM	键盘释放：CurrentPosition--> X:285.500 Y:264.166 Z:5.000
+a  3	12/1/2024 10:40:19 AM	键盘按下：Right
+a  3	12/1/2024 10:40:20 AM	键盘释放：CurrentPosition--> X:307.227 Y:264.166 Z:5.000
+a  3	12/1/2024 10:40:21 AM	键盘按下：Down
+a  3	12/1/2024 10:40:22 AM	键盘释放：CurrentPosition--> X:307.476 Y:237.052 Z:5.000
+a  3	12/1/2024 10:40:23 AM	键盘按下：Left
+a  3	12/1/2024 10:40:24 AM	键盘释放：CurrentPosition--> X:286.592 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:24 AM	键盘释放：CurrentPosition--> X:286.592 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:24 AM	键盘释放：CurrentPosition--> X:286.592 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:56 AM	键盘按下：
+a  3	12/1/2024 10:40:57 AM	键盘按下：
+a  3	12/1/2024 10:40:57 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:57 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:57 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:40:57 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:40:57 AM	键盘按下：
+a  3	12/1/2024 10:40:57 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:40:58 AM	保存程序：20241130ok2
+a  3	12/1/2024 10:40:58 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:41:02 AM	键盘按下：
+a  3	12/1/2024 10:41:03 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:41:04 AM	键盘按下：
+a  3	12/1/2024 10:41:04 AM	键盘按下：
+a  3	12/1/2024 10:41:04 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:41:04 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:41:04 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:04 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:05 AM	保存程序：20241130ok2
+a  3	12/1/2024 10:41:05 AM	键盘释放：CurrentPosition--> X:286.264 Y:236.854 Z:5.000
+a  3	12/1/2024 10:41:11 AM	涂胶运行
+a  3	12/1/2024 10:41:12 AM	
+a  3	12/1/2024 10:41:13 AM	ProcessingStarted
+a  3	12/1/2024 10:41:14 AM	报警代码 1042:没有匹配到图片！
+a  3	12/1/2024 10:41:21 AM	自动识别1_Mark：OneMark:Set-->X:250.317 Y:224.282 Z:18.890  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/1/2024 10:41:21 AM	ProcessedEnd
+a  3	12/1/2024 10:41:21 AM	{"SN":"","StartTime":"24-12-01 10:41:13","StopTime":"24-12-01 10:41:21","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:41:22 AM	停止
+a  3	12/1/2024 10:41:35 AM	键盘按下：
+a  3	12/1/2024 10:41:36 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:37 AM	键盘按下：
+a  3	12/1/2024 10:41:37 AM	键盘按下：
+a  3	12/1/2024 10:41:37 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:37 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:38 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:38 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:38 AM	保存程序：20241130ok2
+a  3	12/1/2024 10:41:38 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:41 AM	涂胶运行
+a  3	12/1/2024 10:41:41 AM	
+a  3	12/1/2024 10:41:42 AM	ProcessingStarted
+a  3	12/1/2024 10:41:43 AM	报警代码 1042:没有匹配到图片！
+a  3	12/1/2024 10:41:46 AM	自动识别1_Mark：OneMark:Set-->X:250.317 Y:224.282 Z:18.890  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/1/2024 10:41:46 AM	ProcessedEnd
+a  3	12/1/2024 10:41:47 AM	{"SN":"","StartTime":"24-12-01 10:41:42","StopTime":"24-12-01 10:41:46","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:41:48 AM	停止
+a  3	12/1/2024 10:41:52 AM	键盘按下：
+a  3	12/1/2024 10:41:52 AM	键盘按下：
+a  3	12/1/2024 10:41:52 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:52 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:53 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:53 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:41:53 AM	保存程序：20241130ok2
+a  3	12/1/2024 10:41:53 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 10:41:55 AM	涂胶运行
+a  3	12/1/2024 10:41:56 AM	
+a  3	12/1/2024 10:41:57 AM	ProcessingStarted
+a  3	12/1/2024 10:41:57 AM	ProcessedEnd
+a  3	12/1/2024 10:41:57 AM	{"SN":"","StartTime":"24-12-01 10:41:57","StopTime":"24-12-01 10:41:57","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:41:57 AM	停止
+a  3	12/1/2024 10:42:17 AM	新建程序：20241201OK2
+a  3	12/1/2024 10:42:22 AM	鼠标释放或离开：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 10:42:23 AM	键盘按下：Up
+a  3	12/1/2024 10:42:23 AM	键盘释放：CurrentPosition--> X:195.022 Y:229.947 Z:18.890
+a  3	12/1/2024 10:42:24 AM	键盘按下：Down
+a  3	12/1/2024 10:42:25 AM	键盘释放：CurrentPosition--> X:195.022 Y:181.031 Z:18.890
+a  3	12/1/2024 10:42:25 AM	键盘按下：Right
+a  3	12/1/2024 10:42:25 AM	键盘释放：CurrentPosition--> X:199.629 Y:176.328 Z:18.890
+a  3	12/1/2024 10:42:27 AM	键盘按下：Left
+a  3	12/1/2024 10:42:28 AM	键盘按下：Down
+a  3	12/1/2024 10:42:28 AM	键盘释放：CurrentPosition--> X:195.054 Y:174.233 Z:18.890
+a  3	12/1/2024 10:42:28 AM	键盘释放：CurrentPosition--> X:195.054 Y:174.233 Z:18.890
+a  3	12/1/2024 10:42:28 AM	键盘按下：Down
+a  3	12/1/2024 10:42:29 AM	键盘释放：CurrentPosition--> X:194.748 Y:173.920 Z:18.890
+a  3	12/1/2024 10:42:29 AM	键盘按下：Right
+a  3	12/1/2024 10:42:29 AM	键盘释放：CurrentPosition--> X:194.748 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:29 AM	键盘按下：Right
+a  3	12/1/2024 10:42:30 AM	键盘释放：CurrentPosition--> X:194.862 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:38 AM	ValveAndCalibretingData.bin文件中以下参数已经被修改：InitParamemter
+a  3	12/1/2024 10:42:38 AM	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	12/1/2024 10:42:38 AM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	12/1/2024 10:42:40 AM	键盘按下：Return
+a  3	12/1/2024 10:42:40 AM	键盘释放：CurrentPosition--> X:195.228 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:43 AM	键盘按下：Right
+a  3	12/1/2024 10:42:44 AM	键盘释放：CurrentPosition--> X:204.431 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:44 AM	键盘按下：Right
+a  3	12/1/2024 10:42:45 AM	键盘释放：CurrentPosition--> X:204.788 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:45 AM	键盘按下：Right
+a  3	12/1/2024 10:42:45 AM	键盘释放：CurrentPosition--> X:205.296 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:46 AM	键盘按下：Return
+a  3	12/1/2024 10:42:46 AM	键盘释放：CurrentPosition--> X:205.750 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:46 AM	键盘按下：Return
+a  3	12/1/2024 10:42:46 AM	键盘释放：CurrentPosition--> X:205.750 Y:173.408 Z:18.890
+a  3	12/1/2024 10:42:46 AM	键盘按下：Down
+a  3	12/1/2024 10:42:49 AM	键盘释放：CurrentPosition--> X:205.750 Y:158.807 Z:18.890
+a  3	12/1/2024 10:42:49 AM	键盘按下：Return
+a  3	12/1/2024 10:42:50 AM	键盘释放：CurrentPosition--> X:205.750 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:50 AM	键盘按下：Return
+a  3	12/1/2024 10:42:50 AM	键盘释放：CurrentPosition--> X:205.750 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:51 AM	键盘按下：Left
+a  3	12/1/2024 10:42:52 AM	键盘释放：CurrentPosition--> X:196.375 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:52 AM	键盘按下：Left
+a  3	12/1/2024 10:42:52 AM	键盘释放：CurrentPosition--> X:196.142 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:52 AM	键盘按下：Left
+a  3	12/1/2024 10:42:53 AM	键盘释放：CurrentPosition--> X:196.142 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:53 AM	键盘按下：Return
+a  3	12/1/2024 10:42:53 AM	键盘释放：CurrentPosition--> X:194.816 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:54 AM	键盘按下：
+a  3	12/1/2024 10:42:55 AM	键盘按下：
+a  3	12/1/2024 10:42:55 AM	键盘释放：CurrentPosition--> X:194.816 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:55 AM	键盘释放：CurrentPosition--> X:194.816 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:55 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Pattern Name,TwoValveDistanceData
+a  3	12/1/2024 10:42:55 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Pattern Name,TwoValveDistanceData
+a  3	12/1/2024 10:42:55 AM	键盘按下：
+a  3	12/1/2024 10:42:55 AM	键盘释放：CurrentPosition--> X:194.816 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:56 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:42:56 AM	键盘释放：CurrentPosition--> X:194.816 Y:158.150 Z:18.890
+a  3	12/1/2024 10:42:57 AM	涂胶运行
+a  3	12/1/2024 10:42:58 AM	
+a  3	12/1/2024 10:42:59 AM	ProcessingStarted
+a  3	12/1/2024 10:42:59 AM	ProcessedEnd
+a  3	12/1/2024 10:42:59 AM	{"SN":"","StartTime":"24-12-01 10:42:59","StopTime":"24-12-01 10:42:59","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:43:00 AM	停止
+a  3	12/1/2024 10:43:32 AM	键盘按下：
+a  3	12/1/2024 10:43:32 AM	键盘按下：
+a  3	12/1/2024 10:43:32 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:33 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:33 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:43:33 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:43:33 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:43:33 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:34 AM	键盘按下：
+a  3	12/1/2024 10:43:34 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:35 AM	键盘按下：
+a  3	12/1/2024 10:43:36 AM	键盘按下：
+a  3	12/1/2024 10:43:36 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:36 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:36 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:43:36 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:43:36 AM	键盘按下：
+a  3	12/1/2024 10:43:36 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:37 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:43:37 AM	键盘释放：CurrentPosition--> X:219.268 Y:101.946 Z:18.890
+a  3	12/1/2024 10:43:38 AM	涂胶运行
+a  3	12/1/2024 10:43:39 AM	
+a  3	12/1/2024 10:43:40 AM	ProcessingStarted
+a  3	12/1/2024 10:43:40 AM	ProcessedEnd
+a  3	12/1/2024 10:43:41 AM	{"SN":"","StartTime":"24-12-01 10:43:40","StopTime":"24-12-01 10:43:40","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:43:41 AM	停止
+a  3	12/1/2024 10:43:45 AM	鼠标释放或离开：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:43:57 AM	键盘按下：
+a  3	12/1/2024 10:43:57 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:43:59 AM	键盘按下：
+a  3	12/1/2024 10:43:59 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:01 AM	模板->main(A)中第1,2,3,4行程序被复制
+a  3	12/1/2024 10:44:04 AM	模板DDDD中第1行程序被粘贴
+a  3	12/1/2024 10:44:13 AM	设置1_Mark匹配坐标：X:178.130 Y:174.809 Z:18.890 Result:TRUE
+a  3	12/1/2024 10:44:19 AM	键盘按下：
+a  3	12/1/2024 10:44:19 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:24 AM	键盘按下：
+a  3	12/1/2024 10:44:24 AM	键盘按下：
+a  3	12/1/2024 10:44:24 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:24 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:25 AM	键盘按下：
+a  3	12/1/2024 10:44:25 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,PatternOffset,Pattern Name,Light source adjust,MatchPosition,TwoValveDistanceData,MarkLights,FlowAlarmLimitSettingData,模板映射参数2,Mark所有参数输出
+a  3	12/1/2024 10:44:25 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage,PatternOffset,Pattern Name,Light source adjust,MatchPosition,TwoValveDistanceData,MarkLights,FlowAlarmLimitSettingData,模板映射参数2,Mark所有参数输出
+a  3	12/1/2024 10:44:25 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:25 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:44:25 AM	键盘释放：CurrentPosition--> X:178.096 Y:173.408 Z:18.890
+a  3	12/1/2024 10:44:27 AM	涂胶运行
+a  3	12/1/2024 10:44:28 AM	
+a  3	12/1/2024 10:44:28 AM	ProcessingStarted
+a  3	12/1/2024 10:44:29 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.127 Y:174.793 Result:TRUE ;Score:99.587
+a  3	12/1/2024 10:44:37 AM	停止
+a  3	12/1/2024 10:44:38 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:44:38 AM	ProcessedEnd
+a  3	12/1/2024 10:44:38 AM	{"SN":"","StartTime":"24-12-01 10:44:28","StopTime":"24-12-01 10:44:38","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:44:39 AM	停止
+a  3	12/1/2024 10:44:51 AM	键盘按下：Down
+a  3	12/1/2024 10:44:52 AM	键盘释放：CurrentPosition--> X:178.096 Y:172.748 Z:18.890
+a  3	12/1/2024 10:44:52 AM	鼠标释放或离开：CurrentPosition--> X:178.096 Y:172.124 Z:18.890
+a  3	12/1/2024 10:44:53 AM	键盘按下：Right
+a  3	12/1/2024 10:44:53 AM	键盘释放：CurrentPosition--> X:180.327 Y:172.124 Z:18.890
+a  3	12/1/2024 10:44:53 AM	键盘按下：Down
+a  3	12/1/2024 10:44:53 AM	键盘释放：CurrentPosition--> X:180.844 Y:171.462 Z:18.890
+a  3	12/1/2024 10:44:53 AM	键盘按下：Left
+a  3	12/1/2024 10:44:53 AM	键盘按下：Down
+a  3	12/1/2024 10:44:54 AM	键盘释放：CurrentPosition--> X:180.844 Y:171.052 Z:18.890
+a  3	12/1/2024 10:44:54 AM	键盘释放：CurrentPosition--> X:180.844 Y:171.052 Z:18.890
+a  3	12/1/2024 10:44:54 AM	键盘按下：Right
+a  3	12/1/2024 10:44:54 AM	键盘释放：CurrentPosition--> X:180.530 Y:170.912 Z:18.890
+a  3	12/1/2024 10:44:55 AM	鼠标释放或离开：CurrentPosition--> X:181.050 Y:170.912 Z:18.890
+a  3	12/1/2024 10:44:57 AM	键盘按下：Return
+a  3	12/1/2024 10:44:57 AM	键盘释放：CurrentPosition--> X:181.050 Y:170.912 Z:18.890
+a  3	12/1/2024 10:44:57 AM	键盘按下：Down
+a  3	12/1/2024 10:44:58 AM	键盘按下：Right
+a  3	12/1/2024 10:44:59 AM	键盘释放：CurrentPosition--> X:186.804 Y:163.108 Z:18.890
+a  3	12/1/2024 10:44:59 AM	键盘释放：CurrentPosition--> X:186.804 Y:163.108 Z:18.890
+a  3	12/1/2024 10:44:59 AM	键盘按下：Right
+a  3	12/1/2024 10:44:59 AM	键盘按下：Down
+a  3	12/1/2024 10:44:59 AM	键盘释放：CurrentPosition--> X:189.357 Y:162.588 Z:18.890
+a  3	12/1/2024 10:44:59 AM	键盘释放：CurrentPosition--> X:189.766 Y:162.382 Z:18.890
+a  3	12/1/2024 10:45:00 AM	键盘按下：Right
+a  3	12/1/2024 10:45:00 AM	键盘释放：CurrentPosition--> X:189.766 Y:162.382 Z:18.890
+a  3	12/1/2024 10:45:00 AM	键盘按下：Down
+a  3	12/1/2024 10:45:00 AM	键盘按下：Right
+a  3	12/1/2024 10:45:00 AM	键盘释放：CurrentPosition--> X:189.766 Y:162.382 Z:18.890
+a  3	12/1/2024 10:45:00 AM	键盘释放：CurrentPosition--> X:189.766 Y:162.382 Z:18.890
+a  3	12/1/2024 10:45:00 AM	键盘按下：Down
+a  3	12/1/2024 10:45:00 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.989 Z:18.890
+a  3	12/1/2024 10:45:01 AM	键盘按下：Return
+a  3	12/1/2024 10:45:01 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:14 AM	模板DDDD中第1行程序被修改:PullBackHeight:10.000
+
+a  3	12/1/2024 10:45:15 AM	键盘按下：
+a  3	12/1/2024 10:45:15 AM	键盘按下：
+a  3	12/1/2024 10:45:15 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:15 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:16 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 10:45:16 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,FlowAlarmLimitSettingData
+a  3	12/1/2024 10:45:16 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,FlowAlarmLimitSettingData
+a  3	12/1/2024 10:45:16 AM	键盘按下：
+a  3	12/1/2024 10:45:16 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:16 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:45:16 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:25 AM	模板DDDD中第2行程序被修改:Line Width:8.000
+
+a  3	12/1/2024 10:45:26 AM	键盘按下：
+a  3	12/1/2024 10:45:26 AM	键盘按下：
+a  3	12/1/2024 10:45:26 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:26 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:26 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:45:26 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:45:26 AM	键盘按下：
+a  3	12/1/2024 10:45:26 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:27 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:45:27 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:35 AM	键盘按下：
+a  3	12/1/2024 10:45:35 AM	键盘按下：
+a  3	12/1/2024 10:45:35 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:36 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:36 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:45:36 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:45:36 AM	键盘按下：
+a  3	12/1/2024 10:45:36 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:36 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:45:36 AM	键盘释放：CurrentPosition--> X:190.608 Y:160.484 Z:18.890
+a  3	12/1/2024 10:45:39 AM	涂胶运行
+a  3	12/1/2024 10:45:39 AM	
+a  3	12/1/2024 10:45:40 AM	ProcessingStarted
+a  3	12/1/2024 10:45:42 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.129 Y:174.793 Result:TRUE ;Score:99.443
+a  3	12/1/2024 10:45:48 AM	停止
+a  3	12/1/2024 10:45:49 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:45:49 AM	ProcessedEnd
+a  3	12/1/2024 10:45:49 AM	{"SN":"","StartTime":"24-12-01 10:45:40","StopTime":"24-12-01 10:45:48","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:45:49 AM	停止
+a  3	12/1/2024 10:46:05 AM	键盘按下：
+a  3	12/1/2024 10:46:05 AM	键盘按下：
+a  3	12/1/2024 10:46:05 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:05 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:06 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 10:46:06 AM	键盘按下：
+a  3	12/1/2024 10:46:06 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:46:06 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:12 AM	模板DDDD中第1行程序被复制
+a  3	12/1/2024 10:46:13 AM	模板DDDD中第2行程序被粘贴
+a  3	12/1/2024 10:46:22 AM	模板DDDD中第2行程序偏移:X:30.000,Y:-40.000,Z:0.000,R:0.000,T:0.000
+a  3	12/1/2024 10:46:24 AM	键盘按下：
+a  3	12/1/2024 10:46:24 AM	键盘按下：
+a  3	12/1/2024 10:46:24 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:24 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:24 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:46:25 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:46:25 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:46:25 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:29 AM	键盘按下：
+a  3	12/1/2024 10:46:29 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:31 AM	键盘按下：
+a  3	12/1/2024 10:46:31 AM	键盘按下：
+a  3	12/1/2024 10:46:31 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:31 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:32 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:46:32 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:46:32 AM	键盘按下：
+a  3	12/1/2024 10:46:32 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:32 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:46:32 AM	键盘释放：CurrentPosition--> X:209.128 Y:297.652 Z:84.719
+a  3	12/1/2024 10:46:34 AM	涂胶运行
+a  3	12/1/2024 10:46:34 AM	
+a  3	12/1/2024 10:46:35 AM	ProcessingStarted
+a  3	12/1/2024 10:46:37 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.129 Y:174.793 Result:TRUE ;Score:99.465
+a  3	12/1/2024 10:46:57 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 10:46:57 AM	ProcessedEnd
+a  3	12/1/2024 10:46:57 AM	{"SN":"","StartTime":"24-12-01 10:46:35","StopTime":"24-12-01 10:46:57","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:46:59 AM	停止
+a  3	12/1/2024 10:46:59 AM	键盘按下：
+a  3	12/1/2024 10:46:59 AM	键盘释放：CurrentPosition--> X:199.272 Y:302.260 Z:5.000
+a  3	12/1/2024 10:46:59 AM	键盘按下：
+a  3	12/1/2024 10:47:00 AM	键盘按下：
+a  3	12/1/2024 10:47:00 AM	键盘释放：CurrentPosition--> X:199.272 Y:302.260 Z:5.000
+a  3	12/1/2024 10:47:00 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 10:47:00 AM	键盘释放：CurrentPosition--> X:199.272 Y:302.260 Z:5.000
+a  3	12/1/2024 10:47:01 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:47:01 AM	键盘释放：CurrentPosition--> X:199.272 Y:302.260 Z:5.000
+a  3	12/1/2024 10:47:35 AM	运行测试：开始
+a  3	12/1/2024 10:47:37 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.130 Y:174.789 Result:TRUE ;Score:99.453
+a  3	12/1/2024 10:47:41 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:47:41 AM	运行测试：停止
+a  3	12/1/2024 10:47:44 AM	运行测试：开始
+a  3	12/1/2024 10:47:45 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.130 Y:174.790 Result:TRUE ;Score:99.458
+a  3	12/1/2024 10:47:52 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:47:52 AM	运行测试：停止
+a  3	12/1/2024 10:48:04 AM	运行测试：开始
+a  3	12/1/2024 10:48:06 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.130 Y:174.790 Result:TRUE ;Score:99.466
+a  3	12/1/2024 10:48:07 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:48:07 AM	运行测试：停止
+a  3	12/1/2024 10:48:28 AM	键盘按下：
+a  3	12/1/2024 10:48:28 AM	键盘释放：CurrentPosition--> X:178.816 Y:186.084 Z:5.000
+a  3	12/1/2024 10:48:38 AM	键盘释放：CurrentPosition--> X:178.816 Y:186.084 Z:5.000
+a  3	12/1/2024 10:48:38 AM	键盘释放：CurrentPosition--> X:178.816 Y:186.084 Z:5.000
+a  3	12/1/2024 10:49:58 AM	设备初始化......
+a  3	12/1/2024 10:49:58 AM	当前用户： a
+a  3	12/1/2024 10:49:58 AM	打开程序：20241201OK2
+a  3	12/1/2024 10:49:58 AM	复位按钮按下
+a  3	12/1/2024 10:50:17 AM	设备复位完成
+a  3	12/1/2024 10:50:35 AM	键盘按下：
+a  3	12/1/2024 10:50:36 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:50:37 AM	键盘按下：
+a  3	12/1/2024 10:50:37 AM	键盘按下：
+a  3	12/1/2024 10:50:37 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:50:37 AM	键盘按下：
+a  3	12/1/2024 10:50:37 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:50:38 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:50:38 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust
+a  3	12/1/2024 10:50:38 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust
+a  3	12/1/2024 10:50:39 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:50:41 AM	涂胶运行
+a  3	12/1/2024 10:50:42 AM	
+a  3	12/1/2024 10:50:43 AM	ProcessingStarted
+a  3	12/1/2024 10:50:43 AM	ProcessedEnd
+a  3	12/1/2024 10:50:45 AM	{"SN":"","StartTime":"24-12-01 10:50:43","StopTime":"24-12-01 10:50:43","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:50:45 AM	停止
+a  3	12/1/2024 10:51:18 AM	键盘按下：
+a  3	12/1/2024 10:51:19 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	12/1/2024 10:51:21 AM	键盘按下：
+a  3	12/1/2024 10:51:22 AM	键盘按下：
+a  3	12/1/2024 10:51:22 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	12/1/2024 10:51:22 AM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	12/1/2024 10:51:22 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:51:22 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:51:24 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:51:25 AM	涂胶运行
+a  3	12/1/2024 10:51:26 AM	
+a  3	12/1/2024 10:51:27 AM	ProcessingStarted
+a  3	12/1/2024 10:51:27 AM	ProcessedEnd
+a  3	12/1/2024 10:51:28 AM	{"SN":"","StartTime":"24-12-01 10:51:27","StopTime":"24-12-01 10:51:27","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:51:28 AM	停止
+a  3	12/1/2024 10:51:52 AM	涂胶运行
+a  3	12/1/2024 10:51:53 AM	
+a  3	12/1/2024 10:51:54 AM	ProcessingStarted
+a  3	12/1/2024 10:51:54 AM	ProcessedEnd
+a  3	12/1/2024 10:51:55 AM	{"SN":"","StartTime":"24-12-01 10:51:54","StopTime":"24-12-01 10:51:54","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:51:55 AM	停止
+a  3	12/1/2024 10:52:52 AM	涂胶运行
+a  3	12/1/2024 10:52:53 AM	
+a  3	12/1/2024 10:52:53 AM	ProcessingStarted
+a  3	12/1/2024 10:52:53 AM	ProcessedEnd
+a  3	12/1/2024 10:52:55 AM	{"SN":"","StartTime":"24-12-01 10:52:53","StopTime":"24-12-01 10:52:53","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:52:55 AM	停止
+a  3	12/1/2024 10:54:09 AM	涂胶运行
+a  3	12/1/2024 10:54:10 AM	
+a  3	12/1/2024 10:54:10 AM	ProcessingStarted
+a  3	12/1/2024 10:54:12 AM	ProcessedEnd
+a  3	12/1/2024 10:54:12 AM	{"SN":"","StartTime":"24-12-01 10:54:10","StopTime":"24-12-01 10:54:10","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:54:12 AM	停止
+a  3	12/1/2024 10:55:03 AM	涂胶运行
+a  3	12/1/2024 10:55:04 AM	
+a  3	12/1/2024 10:55:04 AM	ProcessingStarted
+a  3	12/1/2024 10:55:04 AM	ProcessedEnd
+a  3	12/1/2024 10:55:06 AM	{"SN":"","StartTime":"24-12-01 10:55:04","StopTime":"24-12-01 10:55:04","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:55:06 AM	停止
+a  3	12/1/2024 10:58:53 AM	设备初始化......
+a  3	12/1/2024 10:58:53 AM	当前用户： a
+a  3	12/1/2024 10:58:53 AM	打开程序：20241201OK2
+a  3	12/1/2024 10:58:53 AM	复位按钮按下
+a  3	12/1/2024 10:59:05 AM	设备复位完成
+a  3	12/1/2024 10:59:12 AM	涂胶运行
+a  3	12/1/2024 10:59:12 AM	
+a  3	12/1/2024 10:59:13 AM	ProcessingStarted
+a  3	12/1/2024 10:59:17 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 10:59:18 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 10:59:20 AM	停止
+a  3	12/1/2024 10:59:21 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 10:59:21 AM	ProcessedEnd
+a  3	12/1/2024 10:59:21 AM	{"SN":"","StartTime":"24-12-01 10:59:13","StopTime":"24-12-01 10:59:20","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:59:21 AM	停止
+a  3	12/1/2024 10:59:23 AM	键盘按下：
+a  3	12/1/2024 10:59:23 AM	键盘释放：CurrentPosition--> X:205.714 Y:297.668 Z:84.719
+a  3	12/1/2024 10:59:25 AM	键盘按下：
+a  3	12/1/2024 10:59:25 AM	键盘按下：
+a  3	12/1/2024 10:59:25 AM	键盘释放：CurrentPosition--> X:205.714 Y:297.668 Z:84.719
+a  3	12/1/2024 10:59:25 AM	键盘释放：CurrentPosition--> X:205.714 Y:297.668 Z:84.719
+a  3	12/1/2024 10:59:25 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:25 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:26 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:59:27 AM	涂胶运行
+a  3	12/1/2024 10:59:28 AM	
+a  3	12/1/2024 10:59:30 AM	ProcessingStarted
+a  3	12/1/2024 10:59:33 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 10:59:34 AM	ProcessedEnd
+a  3	12/1/2024 10:59:34 AM	{"SN":"","StartTime":"24-12-01 10:59:30","StopTime":"24-12-01 10:59:33","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:59:34 AM	停止
+a  3	12/1/2024 10:59:36 AM	涂胶运行
+a  3	12/1/2024 10:59:37 AM	
+a  3	12/1/2024 10:59:38 AM	ProcessingStarted
+a  3	12/1/2024 10:59:41 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 10:59:41 AM	ProcessedEnd
+a  3	12/1/2024 10:59:43 AM	{"SN":"","StartTime":"24-12-01 10:59:38","StopTime":"24-12-01 10:59:41","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:59:43 AM	停止
+a  3	12/1/2024 10:59:43 AM	键盘按下：
+a  3	12/1/2024 10:59:44 AM	键盘按下：
+a  3	12/1/2024 10:59:44 AM	键盘释放：CurrentPosition--> X:199.274 Y:302.276 Z:5.000
+a  3	12/1/2024 10:59:44 AM	键盘释放：CurrentPosition--> X:199.274 Y:302.276 Z:5.000
+a  3	12/1/2024 10:59:44 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:44 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:45 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:59:47 AM	键盘按下：
+a  3	12/1/2024 10:59:47 AM	键盘按下：
+a  3	12/1/2024 10:59:47 AM	键盘释放：CurrentPosition--> X:199.274 Y:302.276 Z:5.000
+a  3	12/1/2024 10:59:47 AM	键盘释放：CurrentPosition--> X:199.274 Y:302.276 Z:5.000
+a  3	12/1/2024 10:59:47 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:47 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 10:59:48 AM	保存程序：20241201OK2
+a  3	12/1/2024 10:59:51 AM	运行测试：开始
+a  3	12/1/2024 10:59:55 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:00:00 AM	运行测试：开始
+a  3	12/1/2024 11:00:02 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:00:03 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:00:03 AM	运行测试：停止
+a  3	12/1/2024 11:00:07 AM	运行测试：开始
+a  3	12/1/2024 11:00:09 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.090 Y:174.796 Result:TRUE ;Score:99.624
+a  3	12/1/2024 11:00:11 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:00:11 AM	运行测试：停止
+a  3	12/1/2024 11:00:18 AM	运行测试：开始
+a  3	12/1/2024 11:00:20 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:00:20 AM	运行测试：停止
+a  3	12/1/2024 11:00:22 AM	运行测试：开始
+a  3	12/1/2024 11:00:24 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:00:24 AM	运行测试：停止
+a  3	12/1/2024 11:02:12 AM	键盘释放：CurrentPosition--> X:197.114 Y:313.534 Z:84.719
+a  3	12/1/2024 11:02:12 AM	键盘释放：CurrentPosition--> X:197.114 Y:313.534 Z:84.719
+a  3	12/1/2024 11:02:18 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:02:19 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:02:23 AM	涂胶运行
+a  3	12/1/2024 11:02:24 AM	
+a  3	12/1/2024 11:02:25 AM	ProcessingStarted
+a  3	12/1/2024 11:02:26 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:27 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:28 AM	停止
+a  3	12/1/2024 11:02:29 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:02:29 AM	ProcessedEnd
+a  3	12/1/2024 11:02:29 AM	{"SN":"","StartTime":"24-12-01 11:02:25","StopTime":"24-12-01 11:02:28","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:02:30 AM	停止
+a  3	12/1/2024 11:02:34 AM	键盘按下：
+a  3	12/1/2024 11:02:34 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:34 AM	键盘按下：
+a  3	12/1/2024 11:02:35 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:36 AM	键盘按下：
+a  3	12/1/2024 11:02:36 AM	键盘按下：
+a  3	12/1/2024 11:02:36 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:36 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:36 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:02:36 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:02:36 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:02:39 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:02:41 AM	键盘按下：
+a  3	12/1/2024 11:02:41 AM	键盘按下：
+a  3	12/1/2024 11:02:41 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:41 AM	键盘释放：CurrentPosition--> X:232.310 Y:345.540 Z:84.719
+a  3	12/1/2024 11:02:41 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:02:41 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:02:42 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:02:46 AM	运行测试：开始
+a  3	12/1/2024 11:02:48 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:49 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:50 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:51 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:51 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:02:51 AM	运行测试：停止
+a  3	12/1/2024 11:02:56 AM	运行测试：开始
+a  3	12/1/2024 11:02:58 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:02:59 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:00 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:03:00 AM	运行测试：停止
+a  3	12/1/2024 11:03:14 AM	模板dd中第8行程序被修改:,
+
+a  3	12/1/2024 11:03:17 AM	运行测试：开始
+a  3	12/1/2024 11:03:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:20 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:21 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:22 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:22 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:03:22 AM	运行测试：停止
+a  3	12/1/2024 11:03:27 AM	运行测试：开始
+a  3	12/1/2024 11:03:29 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:30 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:03:31 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:03:31 AM	运行测试：停止
+a  3	12/1/2024 11:03:40 AM	模板dd中第8行程序被修改:,
+
+a  3	12/1/2024 11:03:50 AM	键盘按下：
+a  3	12/1/2024 11:03:50 AM	键盘按下：
+a  3	12/1/2024 11:03:50 AM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:03:50 AM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:03:50 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:03:50 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:03:51 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:03:53 AM	运行测试：开始
+a  3	12/1/2024 11:03:55 AM	报警代码 1042:没有匹配到图片！
+a  3	12/1/2024 11:03:57 AM	自动识别1_Mark：OneMark:Set-->X:250.317 Y:224.282 Z:18.890  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/1/2024 11:04:18 AM	键盘按下：
+a  3	12/1/2024 11:04:18 AM	键盘按下：
+a  3	12/1/2024 11:04:18 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 11:04:18 AM	键盘释放：CurrentPosition--> X:250.316 Y:224.282 Z:18.890
+a  3	12/1/2024 11:04:18 AM	TrackAndPar.bin文件中以下参数已经被修改：MatchPosition
+a  3	12/1/2024 11:04:19 AM	ShareParameters.bin文件中以下参数已经被修改：MatchPosition
+a  3	12/1/2024 11:04:20 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:04:23 AM	运行测试：开始
+a  3	12/1/2024 11:04:25 AM	报警代码 1042:没有匹配到图片！
+a  3	12/1/2024 11:04:28 AM	自动识别1_Mark：OneMark:Set-->X:250.317 Y:224.282 Z:18.890  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/1/2024 11:04:34 AM	运行测试：开始
+a  3	12/1/2024 11:04:37 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:04:37 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:04:37 AM	运行测试：停止
+a  3	12/1/2024 11:04:54 AM	模板dd中第8行程序被修改:,
+
+a  3	12/1/2024 11:05:03 AM	键盘按下：
+a  3	12/1/2024 11:05:03 AM	键盘按下：
+a  3	12/1/2024 11:05:03 AM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:05:03 AM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:05:04 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	12/1/2024 11:05:04 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
+a  3	12/1/2024 11:05:05 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:05:07 AM	运行测试：开始
+a  3	12/1/2024 11:05:11 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:05:13 AM	涂胶运行
+a  3	12/1/2024 11:05:14 AM	
+a  3	12/1/2024 11:05:15 AM	ProcessingStarted
+a  3	12/1/2024 11:05:18 AM	停止
+a  3	12/1/2024 11:05:19 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:05:19 AM	ProcessedEnd
+a  3	12/1/2024 11:05:19 AM	{"SN":"","StartTime":"24-12-01 11:05:15","StopTime":"24-12-01 11:05:18","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:05:19 AM	停止
+a  3	12/1/2024 11:05:45 AM	模板dd中第8行程序被修改:,
+
+a  3	12/1/2024 11:05:49 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:05:50 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:05:53 AM	键盘按下：
+a  3	12/1/2024 11:05:53 AM	键盘释放：CurrentPosition--> X:208.942 Y:352.970 Z:84.719
+a  3	12/1/2024 11:05:55 AM	键盘按下：
+a  3	12/1/2024 11:05:55 AM	键盘按下：
+a  3	12/1/2024 11:05:56 AM	键盘释放：CurrentPosition--> X:208.942 Y:352.970 Z:84.719
+a  3	12/1/2024 11:05:56 AM	键盘释放：CurrentPosition--> X:208.942 Y:352.970 Z:84.719
+a  3	12/1/2024 11:05:56 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:05:56 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:05:56 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:05:57 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:06:00 AM	涂胶运行
+a  3	12/1/2024 11:06:01 AM	
+a  3	12/1/2024 11:06:02 AM	ProcessingStarted
+a  3	12/1/2024 11:06:04 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.094 Y:174.790 Result:TRUE ;Score:99.797
+a  3	12/1/2024 11:06:12 AM	停止
+a  3	12/1/2024 11:06:13 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:06:13 AM	ProcessedEnd
+a  3	12/1/2024 11:06:13 AM	{"SN":"","StartTime":"24-12-01 11:06:02","StopTime":"24-12-01 11:06:12","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:06:13 AM	停止
+a  3	12/1/2024 11:06:17 AM	键盘按下：
+a  3	12/1/2024 11:06:17 AM	键盘释放：CurrentPosition--> X:201.162 Y:289.716 Z:84.719
+a  3	12/1/2024 11:06:18 AM	键盘按下：
+a  3	12/1/2024 11:06:18 AM	键盘按下：
+a  3	12/1/2024 11:06:18 AM	键盘释放：CurrentPosition--> X:201.162 Y:289.716 Z:84.719
+a  3	12/1/2024 11:06:18 AM	键盘释放：CurrentPosition--> X:201.162 Y:289.716 Z:84.719
+a  3	12/1/2024 11:06:18 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:06:19 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:06:19 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:06:19 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:06:21 AM	涂胶运行
+a  3	12/1/2024 11:06:22 AM	
+a  3	12/1/2024 11:06:23 AM	停止
+a  3	12/1/2024 11:06:24 AM	停止
+a  3	12/1/2024 11:06:27 AM	运行测试：开始
+a  3	12/1/2024 11:06:30 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:32 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:34 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:34 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:06:34 AM	运行测试：停止
+a  3	12/1/2024 11:07:35 AM	运行测试：开始
+a  3	12/1/2024 11:07:39 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:40 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:42 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:44 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:45 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:07:45 AM	运行测试：停止
+a  3	12/1/2024 11:07:50 AM	打开程序：20241130153654
+a  3	12/1/2024 11:07:51 AM	打开程序：20241130153654
+a  3	12/1/2024 11:07:54 AM	打开程序：test
+a  3	12/1/2024 11:07:55 AM	打开程序：test
+a  3	12/1/2024 11:07:57 AM	键盘按下：
+a  3	12/1/2024 11:07:58 AM	键盘释放：CurrentPosition--> X:207.744 Y:281.804 Z:84.719
+a  3	12/1/2024 11:08:00 AM	运行测试：开始
+a  3	12/1/2024 11:08:05 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:08:06 AM	运行测试：停止
+a  3	12/1/2024 11:08:11 AM	键盘按下：
+a  3	12/1/2024 11:08:13 AM	运行测试：开始
+a  3	12/1/2024 11:08:17 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:08:18 AM	运行测试：停止
+a  3	12/1/2024 11:08:25 AM	运行测试：开始
+a  3	12/1/2024 11:08:29 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:08:33 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:08:34 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:08:34 AM	运行测试：停止
+a  3	12/1/2024 11:09:12 AM	键盘释放：CurrentPosition--> X:244.610 Y:271.980 Z:84.155
+a  3	12/1/2024 11:09:12 AM	键盘释放：CurrentPosition--> X:244.610 Y:271.980 Z:84.155
+a  3	12/1/2024 11:09:26 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:09:27 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:09:54 AM	涂胶运行
+a  3	12/1/2024 11:09:55 AM	
+a  3	12/1/2024 11:09:56 AM	ProcessingStarted
+a  3	12/1/2024 11:09:57 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.094 Y:174.787 Result:TRUE ;Score:99.846
+a  3	12/1/2024 11:10:07 AM	停止
+a  3	12/1/2024 11:10:08 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:10:08 AM	ProcessedEnd
+a  3	12/1/2024 11:10:08 AM	{"SN":"","StartTime":"24-12-01 11:09:56","StopTime":"24-12-01 11:10:07","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:10:09 AM	停止
+a  3	12/1/2024 11:10:25 AM	运行测试：开始
+a  3	12/1/2024 11:10:28 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.094 Y:174.789 Result:TRUE ;Score:99.828
+a  3	12/1/2024 11:10:34 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:10:34 AM	运行测试：停止
+a  3	12/1/2024 11:10:41 AM	运行测试：开始
+a  3	12/1/2024 11:10:43 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.096 Y:174.786 Result:TRUE ;Score:99.842
+a  3	12/1/2024 11:10:44 AM	运行测试：停止
+a  3	12/1/2024 11:10:44 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:11:02 AM	运行测试：开始
+a  3	12/1/2024 11:11:03 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.094 Y:174.788 Result:TRUE ;Score:99.831
+a  3	12/1/2024 11:11:04 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:11:04 AM	运行测试：停止
+a  3	12/1/2024 11:11:21 AM	运行测试：开始
+a  3	12/1/2024 11:11:22 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.094 Y:174.789 Result:TRUE ;Score:99.812
+a  3	12/1/2024 11:11:23 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:11:23 AM	运行测试：停止
+a  3	12/1/2024 11:38:55 AM	设备初始化......
+a  3	12/1/2024 11:38:55 AM	当前用户： a
+a  3	12/1/2024 11:38:55 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:38:58 AM	复位按钮按下
+a  3	12/1/2024 11:39:16 AM	设备复位完成
+a  3	12/1/2024 11:39:23 AM	运行测试：开始
+a  3	12/1/2024 11:39:26 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.090 Y:174.794 Result:TRUE ;Score:99.685
+a  3	12/1/2024 11:39:26 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:39:26 AM	运行测试：停止
+a  3	12/1/2024 11:40:42 AM	鼠标释放或离开：CurrentPosition--> X:178.508 Y:181.062 Z:5.000
+a  3	12/1/2024 11:40:42 AM	鼠标释放或离开：CurrentPosition--> X:178.508 Y:181.062 Z:5.000
+a  3	12/1/2024 11:41:19 AM	模板DDDD中第3行程序被修改:,
+
+a  3	12/1/2024 11:41:21 AM	运行测试：开始
+a  3	12/1/2024 11:41:24 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:41:24 AM	运行测试：停止
+a  3	12/1/2024 11:45:39 AM	设备初始化......
+a  3	12/1/2024 11:45:39 AM	当前用户： a
+a  3	12/1/2024 11:45:39 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:45:40 AM	复位按钮按下
+a  3	12/1/2024 11:46:05 AM	设备复位完成
+a  3	12/1/2024 11:46:11 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	12/1/2024 11:46:17 AM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 11:46:18 AM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 11:46:57 AM	设备初始化......
+a  3	12/1/2024 11:46:57 AM	当前用户： a
+a  3	12/1/2024 11:46:57 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:46:58 AM	复位按钮按下
+a  3	12/1/2024 11:47:06 AM	设备复位完成
+a  3	12/1/2024 11:47:10 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	12/1/2024 11:47:19 AM	运行测试：开始
+a  3	12/1/2024 11:47:21 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.087 Y:174.741 Result:TRUE ;Score:99.676
+a  3	12/1/2024 11:47:24 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:47:24 AM	运行测试：停止
+a  3	12/1/2024 11:47:40 AM	复位按钮按下
+a  3	12/1/2024 11:48:00 AM	设备复位完成
+a  3	12/1/2024 11:49:53 AM	设备初始化......
+a  3	12/1/2024 11:49:53 AM	当前用户： a
+a  3	12/1/2024 11:49:53 AM	打开程序：20241201OK2
+a  3	12/1/2024 11:49:53 AM	复位按钮按下
+a  3	12/1/2024 11:50:02 AM	设备复位完成
+a  3	12/1/2024 11:50:12 AM	运行测试：开始
+a  3	12/1/2024 11:50:26 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.084 Y:174.794 Result:TRUE ;Score:99.437
+a  3	12/1/2024 11:50:37 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:50:37 AM	运行测试：停止
+a  3	12/1/2024 11:50:39 AM	运行测试：开始
+a  3	12/1/2024 11:50:47 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.083 Y:174.795 Result:TRUE ;Score:99.370
+a  3	12/1/2024 11:50:48 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:50:49 AM	运行测试：停止
+a  3	12/1/2024 11:50:52 AM	运行测试：开始
+a  3	12/1/2024 11:50:53 AM	自动识别1_Mark：OneMark:Set-->X:178.130 Y:174.809 Z:18.890  Match-->X:178.083 Y:174.796 Result:TRUE ;Score:99.348
+a  3	12/1/2024 11:50:54 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:50:54 AM	运行测试：停止
+a  3	12/1/2024 11:50:55 AM	鼠标释放或离开：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:51 AM	键盘按下：
+a  3	12/1/2024 11:51:51 AM	键盘按下：
+a  3	12/1/2024 11:51:51 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:51 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:51 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:51:51 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:51:51 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:51:52 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:51:52 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:53 AM	键盘按下：
+a  3	12/1/2024 11:51:54 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:54 AM	键盘按下：
+a  3	12/1/2024 11:51:55 AM	键盘按下：
+a  3	12/1/2024 11:51:55 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:55 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:55 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:51:55 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:51:55 AM	键盘按下：
+a  3	12/1/2024 11:51:55 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:56 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:51:56 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:57 AM	键盘按下：
+a  3	12/1/2024 11:51:57 AM	键盘按下：
+a  3	12/1/2024 11:51:57 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:58 AM	键盘释放：CurrentPosition--> X:183.286 Y:260.154 Z:5.000
+a  3	12/1/2024 11:51:58 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:51:58 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:52:00 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:52:02 AM	涂胶运行
+a  3	12/1/2024 11:52:02 AM	
+a  3	12/1/2024 11:52:03 AM	ProcessingStarted
+a  3	12/1/2024 11:52:06 AM	停止
+a  3	12/1/2024 11:52:07 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:52:07 AM	ProcessedEnd
+a  3	12/1/2024 11:52:07 AM	{"SN":"","StartTime":"24-12-01 11:52:03","StopTime":"24-12-01 11:52:06","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:52:07 AM	停止
+a  3	12/1/2024 11:52:09 AM	涂胶运行
+a  3	12/1/2024 11:52:10 AM	
+a  3	12/1/2024 11:52:11 AM	ProcessingStarted
+a  3	12/1/2024 11:52:13 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:15 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:17 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:21 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:22 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:24 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:26 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:28 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:52:29 AM	停止
+a  3	12/1/2024 11:52:30 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:52:30 AM	ProcessedEnd
+a  3	12/1/2024 11:52:30 AM	{"SN":"","StartTime":"24-12-01 11:52:11","StopTime":"24-12-01 11:52:29","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:52:31 AM	停止
+a  3	12/1/2024 11:52:34 AM	键盘按下：
+a  3	12/1/2024 11:52:35 AM	键盘释放：CurrentPosition--> X:210.208 Y:313.996 Z:84.719
+a  3	12/1/2024 11:52:41 AM	模板->main(A)中第3,4,5 行程序批量修改；Speed :80.000
+
+a  3	12/1/2024 11:52:41 AM	键盘按下：
+a  3	12/1/2024 11:52:42 AM	键盘按下：
+a  3	12/1/2024 11:52:42 AM	键盘释放：CurrentPosition--> X:210.208 Y:313.996 Z:84.719
+a  3	12/1/2024 11:52:42 AM	键盘释放：CurrentPosition--> X:210.208 Y:313.996 Z:84.719
+a  3	12/1/2024 11:52:42 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:52:42 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:52:43 AM	保存程序：20241201OK2
+a  3	12/1/2024 11:52:43 AM	键盘释放：CurrentPosition--> X:210.208 Y:313.996 Z:84.719
+a  3	12/1/2024 11:52:44 AM	涂胶运行
+a  3	12/1/2024 11:52:45 AM	
+a  3	12/1/2024 11:52:46 AM	ProcessingStarted
+a  3	12/1/2024 11:52:47 AM	停止
+a  3	12/1/2024 11:52:48 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:52:48 AM	ProcessedEnd
+a  3	12/1/2024 11:52:49 AM	{"SN":"","StartTime":"24-12-01 11:52:46","StopTime":"24-12-01 11:52:47","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:52:49 AM	停止
+a  3	12/1/2024 11:52:50 AM	涂胶运行
+a  3	12/1/2024 11:52:51 AM	
+a  3	12/1/2024 11:52:52 AM	ProcessingStarted
+a  3	12/1/2024 11:52:53 AM	停止
+a  3	12/1/2024 11:52:54 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:52:54 AM	ProcessedEnd
+a  3	12/1/2024 11:52:54 AM	{"SN":"","StartTime":"24-12-01 11:52:52","StopTime":"24-12-01 11:52:53","ProgramName":"20241201OK2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:52:55 AM	停止
+a  3	12/1/2024 11:52:57 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:52:58 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:53:07 AM	键盘按下：
+a  3	12/1/2024 11:53:07 AM	键盘按下：
+a  3	12/1/2024 11:53:07 AM	键盘释放：CurrentPosition--> X:210.208 Y:314.052 Z:84.719
+a  3	12/1/2024 11:53:08 AM	键盘释放：CurrentPosition--> X:210.208 Y:314.052 Z:84.719
+a  3	12/1/2024 11:53:08 AM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:53:08 AM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:53:09 AM	保存程序：20241130ok2
+a  3	12/1/2024 11:53:09 AM	键盘释放：CurrentPosition--> X:210.208 Y:314.052 Z:84.719
+a  3	12/1/2024 11:53:10 AM	涂胶运行
+a  3	12/1/2024 11:53:11 AM	
+a  3	12/1/2024 11:53:12 AM	ProcessingStarted
+a  3	12/1/2024 11:53:13 AM	停止
+a  3	12/1/2024 11:53:14 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:53:14 AM	ProcessedEnd
+a  3	12/1/2024 11:53:14 AM	{"SN":"","StartTime":"24-12-01 11:53:12","StopTime":"24-12-01 11:53:13","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:53:14 AM	停止
+a  3	12/1/2024 11:53:16 AM	
+a  3	12/1/2024 11:53:16 AM	涂胶运行
+a  3	12/1/2024 11:53:17 AM	ProcessingStarted
+a  3	12/1/2024 11:53:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:20 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:21 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:22 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:23 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:24 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:25 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:25 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:27 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:27 AM	ProcessedEnd
+a  3	12/1/2024 11:53:27 AM	{"SN":"","StartTime":"24-12-01 11:53:17","StopTime":"24-12-01 11:53:27","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:53:28 AM	停止
+a  3	12/1/2024 11:53:30 AM	涂胶运行
+a  3	12/1/2024 11:53:31 AM	
+a  3	12/1/2024 11:53:32 AM	ProcessingStarted
+a  3	12/1/2024 11:53:34 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:35 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:35 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:36 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:37 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:38 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:39 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:40 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:41 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:53:43 AM	ProcessedEnd
+a  3	12/1/2024 11:53:43 AM	{"SN":"","StartTime":"24-12-01 11:53:32","StopTime":"24-12-01 11:53:41","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:53:43 AM	停止
+a  3	12/1/2024 11:53:50 AM	打开程序：20241130ok3
+a  3	12/1/2024 11:53:51 AM	打开程序：20241130ok3
+a  3	12/1/2024 11:54:04 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:54:05 AM	打开程序：20241130ok2
+a  3	12/1/2024 11:54:08 AM	涂胶运行
+a  3	12/1/2024 11:54:09 AM	
+a  3	12/1/2024 11:54:10 AM	ProcessingStarted
+a  3	12/1/2024 11:54:11 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:12 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:13 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:14 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:15 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:16 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:17 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:18 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:19 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:19 AM	ProcessedEnd
+a  3	12/1/2024 11:54:21 AM	{"SN":"","StartTime":"24-12-01 11:54:10","StopTime":"24-12-01 11:54:19","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:54:21 AM	停止
+a  3	12/1/2024 11:54:23 AM	涂胶运行
+a  3	12/1/2024 11:54:24 AM	
+a  3	12/1/2024 11:54:25 AM	ProcessingStarted
+a  3	12/1/2024 11:54:26 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:27 AM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:54:28 AM	停止
+a  3	12/1/2024 11:54:29 AM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:54:29 AM	ProcessedEnd
+a  3	12/1/2024 11:54:29 AM	{"SN":"","StartTime":"24-12-01 11:54:25","StopTime":"24-12-01 11:54:28","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:54:29 AM	停止
+a  3	12/1/2024 11:54:44 AM	鼠标释放或离开：CurrentPosition--> X:213.860 Y:345.540 Z:84.719
+a  3	12/1/2024 11:54:45 AM	键盘按下：Down
+a  3	12/1/2024 11:54:46 AM	键盘按下：Right
+a  3	12/1/2024 11:54:46 AM	键盘释放：CurrentPosition--> X:225.009 Y:324.736 Z:84.719
+a  3	12/1/2024 11:54:46 AM	键盘释放：CurrentPosition--> X:225.009 Y:324.736 Z:84.719
+a  3	12/1/2024 11:54:49 AM	键盘按下：Down
+a  3	12/1/2024 11:54:51 AM	键盘释放：CurrentPosition--> X:225.348 Y:219.795 Z:84.719
+a  3	12/1/2024 11:54:51 AM	键盘按下：Down
+a  3	12/1/2024 11:54:51 AM	键盘释放：CurrentPosition--> X:225.348 Y:206.115 Z:84.719
+a  3	12/1/2024 11:54:52 AM	键盘按下：Right
+a  3	12/1/2024 11:54:52 AM	键盘释放：CurrentPosition--> X:230.057 Y:205.220 Z:84.719
+a  3	12/1/2024 11:54:52 AM	鼠标释放或离开：CurrentPosition--> X:231.084 Y:205.220 Z:84.719
+a  3	12/1/2024 11:55:00 AM	键盘按下：Left
+a  3	12/1/2024 11:55:00 AM	键盘释放：CurrentPosition--> X:221.299 Y:205.220 Z:84.719
+a  3	12/1/2024 11:55:00 AM	键盘按下：Down
+a  3	12/1/2024 11:55:01 AM	键盘释放：CurrentPosition--> X:219.144 Y:184.551 Z:84.719
+a  3	12/1/2024 11:55:08 AM	鼠标点击：Z-
+a  3	12/1/2024 11:55:08 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:57.846
+a  3	12/1/2024 11:55:09 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:53.472
+a  3	12/1/2024 11:55:10 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:53.472
+a  3	12/1/2024 11:55:10 AM	鼠标点击：Z-
+a  3	12/1/2024 11:55:11 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:26.071
+a  3	12/1/2024 11:55:11 AM	鼠标点击：Z-
+a  3	12/1/2024 11:55:11 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:15.608
+a  3	12/1/2024 11:55:12 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:12.410
+a  3	12/1/2024 11:55:16 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:12.410
+a  3	12/1/2024 11:55:17 AM	鼠标点击：Z+
+a  3	12/1/2024 11:55:17 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:17.095
+a  3	12/1/2024 11:55:18 AM	鼠标点击：Z-
+a  3	12/1/2024 11:55:18 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:23.029
+a  3	12/1/2024 11:55:22 AM	鼠标释放或离开：CurrentPosition--> X:219.144 Y:182.456 Z:18.722
+a  3	12/1/2024 11:58:06 AM	键盘按下：
+a  3	12/1/2024 11:58:06 AM	键盘按下：Right
+a  3	12/1/2024 11:58:06 AM	键盘释放：CurrentPosition--> X:219.144 Y:182.456 Z:0.000
+a  3	12/1/2024 11:58:07 AM	键盘释放：CurrentPosition--> X:219.144 Y:182.456 Z:0.000
+a  3	12/1/2024 11:58:08 AM	鼠标点击：X+
+a  3	12/1/2024 11:58:09 AM	鼠标释放或离开：CurrentPosition--> X:223.865 Y:182.456 Z:0.000
+a  3	12/1/2024 11:58:09 AM	鼠标释放或离开：CurrentPosition--> X:224.916 Y:182.456 Z:0.000
+a  3	12/1/2024 11:58:09 AM	键盘按下：
+a  3	12/1/2024 11:58:09 AM	键盘按下：Right
+a  3	12/1/2024 11:58:10 AM	键盘释放：CurrentPosition--> X:245.742 Y:182.456 Z:0.000
+a  3	12/1/2024 11:58:10 AM	键盘按下：Down
+a  3	12/1/2024 11:58:10 AM	键盘释放：CurrentPosition--> X:253.580 Y:171.755 Z:0.000
+a  3	12/1/2024 11:58:10 AM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.000
+a  3	12/1/2024 11:58:11 AM	鼠标释放或离开：CurrentPosition--> X:253.580 Y:166.766 Z:0.000
+a  3	12/1/2024 12:00:04 PM	鼠标释放或离开：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:38:58 PM	鼠标释放或离开：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:02 PM	鼠标释放或离开：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:10 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:11 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:14 PM	键盘按下：
+a  3	12/1/2024 1:39:14 PM	键盘按下：
+a  3	12/1/2024 1:39:14 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:14 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:20 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:39:20 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:0.002
+a  3	12/1/2024 1:40:55 PM	键盘按下：
+a  3	12/1/2024 1:40:56 PM	键盘按下：
+a  3	12/1/2024 1:40:56 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:25.096
+a  3	12/1/2024 1:40:56 PM	键盘释放：CurrentPosition--> X:253.580 Y:166.766 Z:25.096
+a  3	12/1/2024 1:43:17 PM	设备初始化......
+a  3	12/1/2024 1:43:17 PM	当前用户： a
+a  3	12/1/2024 1:43:17 PM	打开程序：20241130ok2
+a  3	12/1/2024 1:43:17 PM	复位按钮按下
+a  3	12/1/2024 1:43:39 PM	设备复位完成
+a  3	12/1/2024 1:46:34 PM	设备初始化......
+a  3	12/1/2024 1:46:34 PM	当前用户： a
+a  3	12/1/2024 1:46:34 PM	打开程序：20241130ok2
+a  3	12/1/2024 1:46:34 PM	复位按钮按下
+a  3	12/1/2024 1:46:51 PM	设备复位完成
+a  3	12/1/2024 1:51:00 PM	设备初始化......
+a  3	12/1/2024 1:51:01 PM	当前用户： a
+a  3	12/1/2024 1:51:01 PM	复位按钮按下
+a  3	12/1/2024 1:51:01 PM	打开程序：20241130ok2
+a  3	12/1/2024 1:51:16 PM	设备复位完成
+a  3	12/1/2024 1:51:20 PM	键盘按下：
+a  3	12/1/2024 1:51:20 PM	键盘按下：Right
+a  3	12/1/2024 1:51:23 PM	键盘释放：CurrentPosition--> X:64.501 Y:0.000 Z:0.000
+a  3	12/1/2024 1:51:24 PM	键盘释放：CurrentPosition--> X:64.501 Y:0.000 Z:0.000
+a  3	12/1/2024 1:51:24 PM	键盘按下：Up
+a  3	12/1/2024 1:51:24 PM	键盘释放：CurrentPosition--> X:300.414 Y:34.841 Z:0.000
+a  3	12/1/2024 1:51:25 PM	键盘按下：Up
+a  3	12/1/2024 1:51:25 PM	键盘释放：CurrentPosition--> X:300.414 Y:57.161 Z:0.000
+a  3	12/1/2024 1:51:26 PM	键盘按下：Up
+a  3	12/1/2024 1:51:26 PM	键盘释放：CurrentPosition--> X:300.414 Y:60.216 Z:0.000
+a  3	12/1/2024 1:51:30 PM	键盘按下：Left
+a  3	12/1/2024 1:51:31 PM	键盘释放：CurrentPosition--> X:284.137 Y:60.804 Z:0.000
+a  3	12/1/2024 1:51:31 PM	键盘按下：Down
+a  3	12/1/2024 1:51:31 PM	键盘释放：CurrentPosition--> X:281.658 Y:29.887 Z:0.000
+a  3	12/1/2024 1:51:32 PM	键盘按下：Left
+a  3	12/1/2024 1:51:32 PM	键盘释放：CurrentPosition--> X:271.909 Y:25.824 Z:0.000
+a  3	12/1/2024 1:51:32 PM	键盘按下：Up
+a  3	12/1/2024 1:51:32 PM	键盘释放：CurrentPosition--> X:269.802 Y:35.729 Z:0.000
+a  3	12/1/2024 8:04:01 PM	设备初始化......
+a  3	12/1/2024 8:04:01 PM	当前用户： a
+a  3	12/1/2024 8:04:01 PM	打开程序：20241130ok2
+a  3	12/1/2024 8:04:01 PM	复位按钮按下
+a  3	12/1/2024 8:04:19 PM	设备复位完成
+a  3	12/1/2024 8:04:24 PM	涂胶运行
+a  3	12/1/2024 8:04:24 PM	
+a  3	12/1/2024 8:04:25 PM	ProcessingStarted
+a  3	12/1/2024 8:04:28 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:04:29 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:04:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:04:31 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:04:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:04:33 PM	停止
+a  3	12/1/2024 8:04:33 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:04:33 PM	ProcessedEnd
+a  3	12/1/2024 8:04:33 PM	{"SN":"","StartTime":"24-12-01 20:04:25","StopTime":"24-12-01 20:04:33","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:04:34 PM	停止
+a  3	12/1/2024 8:04:38 PM	鼠标释放或离开：CurrentPosition--> X:203.480 Y:323.248 Z:84.719
+a  3	12/1/2024 8:04:43 PM	English
+a  3	12/1/2024 8:04:51 PM	Coating Running
+a  3	12/1/2024 8:04:51 PM	
+a  3	12/1/2024 8:04:53 PM	ProcessingStarted
+a  3	12/1/2024 8:04:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:04:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:04:56 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 8:04:56 PM	Stop
+a  3	12/1/2024 8:04:56 PM	ProcessedEnd
+a  3	12/1/2024 8:04:57 PM	{"SN":"","StartTime":"24-12-01 20:04:53","StopTime":"24-12-01 20:04:57","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:04:58 PM	Stop
+a  3	12/1/2024 8:05:00 PM	Coating Running
+a  3	12/1/2024 8:05:01 PM	
+a  3	12/1/2024 8:05:03 PM	ProcessingStarted
+a  3	12/1/2024 8:05:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:05:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:05:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:05:07 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 8:05:07 PM	Stop
+a  3	12/1/2024 8:05:07 PM	ProcessedEnd
+a  3	12/1/2024 8:05:07 PM	{"SN":"","StartTime":"24-12-01 20:05:03","StopTime":"24-12-01 20:05:07","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:05:08 PM	Stop
+a  3	12/1/2024 8:05:30 PM	Exit 
+a  3	12/1/2024 8:05:30 PM	TrackAndPar.bin the modify parameters are Light source adjust
+a  3	12/1/2024 8:05:31 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust
+a  3	12/1/2024 8:14:40 PM	Initializing...
+a  3	12/1/2024 8:14:40 PM	Current User: a
+a  3	12/1/2024 8:14:40 PM	Open Program:20241130ok2
+a  3	12/1/2024 8:14:41 PM	The reset button is pressed
+a  3	12/1/2024 8:15:06 PM	Reset is completed
+a  3	12/1/2024 8:15:10 PM	Coating Running
+a  3	12/1/2024 8:15:10 PM	
+a  3	12/1/2024 8:15:12 PM	ProcessingStarted
+a  3	12/1/2024 8:15:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:15:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:15:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:15:17 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:15:17 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 8:15:17 PM	Stop
+a  3	12/1/2024 8:15:17 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:15:17 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:15:18 PM	ProcessedEnd
+a  3	12/1/2024 8:15:18 PM	{"SN":"","StartTime":"24-12-01 20:15:12","StopTime":"24-12-01 20:15:18","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:15:18 PM	Stop
+a  3	12/1/2024 8:15:49 PM	Exit 
+a  3	12/1/2024 8:15:51 PM	AlarmCode 1006:Pressure Low
+a  3	12/1/2024 8:17:59 PM	Initializing...
+a  3	12/1/2024 8:17:59 PM	Current User: a
+a  3	12/1/2024 8:17:59 PM	Open Program:20241130ok2
+a  3	12/1/2024 8:18:01 PM	The reset button is pressed
+a  3	12/1/2024 8:18:26 PM	Reset is completed
+a  3	12/1/2024 8:18:35 PM	The <10> line of program in the pattern <->main(A)> has been modified. ,
+
+a  3	12/1/2024 8:18:36 PM	Coating Running
+a  3	12/1/2024 8:18:37 PM	
+a  3	12/1/2024 8:18:39 PM	ProcessingStarted
+a  3	12/1/2024 8:18:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:18:42 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:18:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:18:43 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:18:44 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 8:18:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:18:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:18:44 PM	Stop
+a  3	12/1/2024 8:18:45 PM	ProcessedEnd
+a  3	12/1/2024 8:18:45 PM	{"SN":"","StartTime":"24-12-01 20:18:39","StopTime":"24-12-01 20:18:45","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:18:45 PM	Stop
+a  3	12/1/2024 8:19:00 PM	key release or away:CurrentPosition--> X:195.022 Y:198.092 Z:18.890
+a  3	12/1/2024 8:19:07 PM	New Program:20241201201903
+a  3	12/1/2024 8:19:10 PM	key release or away:CurrentPosition--> X:195.022 Y:198.092 Z:18.890
+a  3	12/1/2024 8:19:12 PM	key release or away:CurrentPosition--> X:195.022 Y:198.092 Z:18.890
+a  3	12/1/2024 8:19:13 PM	Key click:Down
+a  3	12/1/2024 8:19:13 PM	key release:CurrentPosition--> X:195.022 Y:181.848 Z:18.890
+a  3	12/1/2024 8:19:30 PM	Key click:
+a  3	12/1/2024 8:19:31 PM	Key click:
+a  3	12/1/2024 8:19:31 PM	key release:CurrentPosition--> X:232.434 Y:125.898 Z:18.890
+a  3	12/1/2024 8:19:31 PM	key release:CurrentPosition--> X:232.434 Y:125.898 Z:18.890
+a  3	12/1/2024 8:19:31 PM	Key click:
+a  3	12/1/2024 8:19:31 PM	key release:CurrentPosition--> X:232.434 Y:125.898 Z:18.890
+a  3	12/1/2024 8:19:31 PM	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	12/1/2024 8:19:31 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	12/1/2024 8:19:32 PM	Key click:
+a  3	12/1/2024 8:19:32 PM	Save Program:20241201201903
+a  3	12/1/2024 8:19:32 PM	key release:CurrentPosition--> X:232.434 Y:125.898 Z:18.890
+a  3	12/1/2024 8:19:35 PM	Coating Running
+a  3	12/1/2024 8:19:36 PM	
+a  3	12/1/2024 8:19:37 PM	ProcessingStarted
+a  3	12/1/2024 8:19:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:19:40 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:19:42 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:19:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 8:19:46 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:46 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 8:19:47 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:47 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 8:19:47 PM	Stop
+a  3	12/1/2024 8:19:47 PM	ProcessedEnd
+a  3	12/1/2024 8:19:48 PM	{"SN":"","StartTime":"24-12-01 20:19:37","StopTime":"24-12-01 20:19:47","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:19:48 PM	Stop
+a  3	12/1/2024 8:19:56 PM	Chinese
+a  3	12/1/2024 8:20:04 PM	涂胶运行
+a  3	12/1/2024 8:20:05 PM	
+a  3	12/1/2024 8:20:06 PM	ProcessingStarted
+a  3	12/1/2024 8:20:09 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:20:09 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:10 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:20:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:11 PM	停止
+a  3	12/1/2024 8:20:12 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:20:12 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:12 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:12 PM	ProcessedEnd
+a  3	12/1/2024 8:20:13 PM	{"SN":"","StartTime":"24-12-01 20:20:06","StopTime":"24-12-01 20:20:12","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:20:13 PM	停止
+a  3	12/1/2024 8:20:16 PM	涂胶运行
+a  3	12/1/2024 8:20:17 PM	
+a  3	12/1/2024 8:20:18 PM	ProcessingStarted
+a  3	12/1/2024 8:20:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:20:20 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:22 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:20:22 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:22 PM	停止
+a  3	12/1/2024 8:20:24 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:20:24 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:24 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:20:24 PM	ProcessedEnd
+a  3	12/1/2024 8:20:24 PM	{"SN":"","StartTime":"24-12-01 20:20:18","StopTime":"24-12-01 20:20:23","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:20:24 PM	停止
+a  3	12/1/2024 8:23:27 PM	设备初始化......
+a  3	12/1/2024 8:23:27 PM	当前用户： a
+a  3	12/1/2024 8:23:27 PM	打开程序：20241201201903
+a  3	12/1/2024 8:23:28 PM	复位按钮按下
+a  3	12/1/2024 8:23:53 PM	设备复位完成
+a  3	12/1/2024 8:24:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 8:24:37 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 8:24:40 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 8:24:41 PM	键盘按下：
+a  3	12/1/2024 8:24:41 PM	键盘按下：Right
+a  3	12/1/2024 8:24:42 PM	键盘释放：CurrentPosition--> X:105.376 Y:0.000 Z:0.000
+a  3	12/1/2024 8:24:43 PM	键盘按下：Down
+a  3	12/1/2024 8:24:43 PM	键盘释放：CurrentPosition--> X:108.014 Y:0.000 Z:0.000
+a  3	12/1/2024 8:24:43 PM	Y轴原点
+a  3	12/1/2024 8:24:43 PM	报警代码 1013:Y轴负极限触发
+a  3	12/1/2024 8:24:51 PM	键盘按下：
+a  3	12/1/2024 8:24:51 PM	键盘按下：Up
+a  3	12/1/2024 8:24:51 PM	键盘释放：CurrentPosition--> X:108.014 Y:32.405 Z:0.000
+a  3	12/1/2024 8:24:52 PM	键盘释放：CurrentPosition--> X:108.014 Y:40.394 Z:0.000
+a  3	12/1/2024 8:24:53 PM	鼠标点击：Z+
+a  3	12/1/2024 8:24:56 PM	鼠标释放或离开：CurrentPosition--> X:108.014 Y:40.394 Z:53.405
+a  3	12/1/2024 8:24:56 PM	鼠标释放或离开：CurrentPosition--> X:108.014 Y:40.394 Z:54.568
+a  3	12/1/2024 8:24:58 PM	停止
+a  3	12/1/2024 8:25:48 PM	停止
+a  3	12/1/2024 8:25:52 PM	停止
+a  3	12/1/2024 8:25:53 PM	停止
+a  3	12/1/2024 8:25:54 PM	停止
+a  3	12/1/2024 8:25:56 PM	涂胶运行
+a  3	12/1/2024 8:25:57 PM	
+a  3	12/1/2024 8:25:58 PM	ProcessingStarted
+a  3	12/1/2024 8:26:00 PM	停止
+a  3	12/1/2024 8:26:01 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:26:01 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:26:01 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:26:01 PM	ProcessedEnd
+a  3	12/1/2024 8:26:01 PM	{"SN":"","StartTime":"24-12-01 20:25:58","StopTime":"24-12-01 20:26:00","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:26:02 PM	停止
+a  3	12/1/2024 8:26:05 PM	涂胶运行
+a  3	12/1/2024 8:26:06 PM	
+a  3	12/1/2024 8:26:07 PM	ProcessingStarted
+a  3	12/1/2024 8:26:09 PM	停止
+a  3	12/1/2024 8:26:10 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:26:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:26:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:26:10 PM	ProcessedEnd
+a  3	12/1/2024 8:26:10 PM	{"SN":"","StartTime":"24-12-01 20:26:07","StopTime":"24-12-01 20:26:09","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:26:10 PM	停止
+a  3	12/1/2024 8:26:29 PM	键盘释放：CurrentPosition--> X:229.470 Y:321.306 Z:84.719
+a  3	12/1/2024 8:26:30 PM	键盘释放：CurrentPosition--> X:229.470 Y:321.306 Z:84.719
+a  3	12/1/2024 8:27:01 PM	涂胶运行
+a  3	12/1/2024 8:27:01 PM	
+a  3	12/1/2024 8:27:03 PM	ProcessingStarted
+a  3	12/1/2024 8:27:05 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:27:05 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:27:06 PM	停止
+a  3	12/1/2024 8:27:07 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:27:07 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:27:07 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:27:07 PM	ProcessedEnd
+a  3	12/1/2024 8:27:07 PM	{"SN":"","StartTime":"24-12-01 20:27:03","StopTime":"24-12-01 20:27:06","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:27:07 PM	停止
+a  3	12/1/2024 8:33:27 PM	设备初始化......
+a  3	12/1/2024 8:33:27 PM	当前用户： a
+a  3	12/1/2024 8:33:27 PM	打开程序：20241201201903
+a  3	12/1/2024 8:33:28 PM	复位按钮按下
+a  3	12/1/2024 8:33:54 PM	设备复位完成
+a  3	12/1/2024 8:33:55 PM	涂胶运行
+a  3	12/1/2024 8:33:56 PM	
+a  3	12/1/2024 8:33:57 PM	ProcessingStarted
+a  3	12/1/2024 8:34:00 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:34:01 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:34:02 PM	停止
+a  3	12/1/2024 8:34:03 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:34:03 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:34:03 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:34:03 PM	ProcessedEnd
+a  3	12/1/2024 8:34:03 PM	{"SN":"","StartTime":"24-12-01 20:33:57","StopTime":"24-12-01 20:34:03","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:34:04 PM	停止
+a  3	12/1/2024 8:35:35 PM	设备初始化......
+a  3	12/1/2024 8:35:35 PM	当前用户： a
+a  3	12/1/2024 8:35:35 PM	打开程序：20241201201903
+a  3	12/1/2024 8:35:36 PM	复位按钮按下
+a  3	12/1/2024 8:36:01 PM	设备复位完成
+a  3	12/1/2024 8:36:18 PM	停止时回安全高度:Enable
+a  3	12/1/2024 8:36:19 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	12/1/2024 8:36:19 PM	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust
+a  3	12/1/2024 8:36:19 PM	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
+a  3	12/1/2024 8:36:40 PM	涂胶运行
+a  3	12/1/2024 8:36:41 PM	
+a  3	12/1/2024 8:36:42 PM	ProcessingStarted
+a  3	12/1/2024 8:36:44 PM	停止
+a  3	12/1/2024 8:36:45 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:36:45 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:36:45 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:36:45 PM	ProcessedEnd
+a  3	12/1/2024 8:36:45 PM	{"SN":"","StartTime":"24-12-01 20:36:42","StopTime":"24-12-01 20:36:44","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:36:46 PM	停止
+a  3	12/1/2024 8:36:50 PM	停止时回安全高度:Disable
+a  3	12/1/2024 8:36:51 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	12/1/2024 8:36:51 PM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	12/1/2024 8:36:54 PM	涂胶运行
+a  3	12/1/2024 8:36:55 PM	
+a  3	12/1/2024 8:36:57 PM	ProcessingStarted
+a  3	12/1/2024 8:36:58 PM	停止
+a  3	12/1/2024 8:36:59 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:36:59 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:36:59 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:36:59 PM	ProcessedEnd
+a  3	12/1/2024 8:36:59 PM	{"SN":"","StartTime":"24-12-01 20:36:57","StopTime":"24-12-01 20:36:58","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:37:01 PM	停止
+a  3	12/1/2024 8:37:05 PM	涂胶运行
+a  3	12/1/2024 8:37:06 PM	
+a  3	12/1/2024 8:37:07 PM	ProcessingStarted
+a  3	12/1/2024 8:37:09 PM	停止
+a  3	12/1/2024 8:37:10 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:37:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:37:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:37:10 PM	ProcessedEnd
+a  3	12/1/2024 8:37:10 PM	{"SN":"","StartTime":"24-12-01 20:37:07","StopTime":"24-12-01 20:37:09","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:37:12 PM	停止
+a  3	12/1/2024 8:37:18 PM	鼠标释放或离开：CurrentPosition--> X:101.952 Y:94.740 Z:11.633
+a  3	12/1/2024 8:37:26 PM	停止时回安全高度:Enable
+a  3	12/1/2024 8:37:28 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
+a  3	12/1/2024 8:37:31 PM	涂胶运行
+a  3	12/1/2024 8:37:32 PM	
+a  3	12/1/2024 8:37:33 PM	ProcessingStarted
+a  3	12/1/2024 8:37:35 PM	停止
+a  3	12/1/2024 8:37:36 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:37:37 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:37:37 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:37:37 PM	ProcessedEnd
+a  3	12/1/2024 8:37:37 PM	{"SN":"","StartTime":"24-12-01 20:37:33","StopTime":"24-12-01 20:37:36","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:37:37 PM	停止
+a  3	12/1/2024 8:37:40 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:62.882
+a  3	12/1/2024 8:37:40 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:62.882
+a  3	12/1/2024 8:37:42 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:62.882
+a  3	12/1/2024 8:37:42 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:62.882
+a  3	12/1/2024 8:37:43 PM	停止
+a  3	12/1/2024 8:37:45 PM	停止
+a  3	12/1/2024 8:37:46 PM	停止
+a  3	12/1/2024 8:37:54 PM	键盘释放：CurrentPosition--> X:223.740 Y:321.306 Z:30.044
+a  3	12/1/2024 8:37:54 PM	键盘释放：CurrentPosition--> X:223.740 Y:321.306 Z:30.044
+a  3	12/1/2024 8:37:56 PM	停止
+a  3	12/1/2024 8:38:11 PM	鼠标点击：Z+
+a  3	12/1/2024 8:38:12 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:29.979
+a  3	12/1/2024 8:38:12 PM	鼠标释放或离开：CurrentPosition--> X:223.740 Y:321.306 Z:31.307
+a  3	12/1/2024 8:38:13 PM	停止
+a  3	12/1/2024 8:39:14 PM	停止
+a  3	12/1/2024 8:41:41 PM	设备初始化......
+a  3	12/1/2024 8:41:41 PM	当前用户： a
+a  3	12/1/2024 8:41:41 PM	打开程序：20241201201903
+a  3	12/1/2024 8:41:42 PM	复位按钮按下
+a  3	12/1/2024 8:42:05 PM	设备复位完成
+a  3	12/1/2024 8:42:40 PM	涂胶运行
+a  3	12/1/2024 8:42:42 PM	
+a  3	12/1/2024 8:42:42 PM	ProcessingStarted
+a  3	12/1/2024 8:42:44 PM	停止
+a  3	12/1/2024 8:42:45 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:42:46 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:42:46 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:42:46 PM	ProcessedEnd
+a  3	12/1/2024 8:42:46 PM	{"SN":"","StartTime":"24-12-01 20:42:42","StopTime":"24-12-01 20:42:45","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:42:46 PM	停止
+a  3	12/1/2024 8:42:50 PM	停止
+a  3	12/1/2024 8:44:43 PM	键盘释放：CurrentPosition--> X:206.950 Y:321.306 Z:50.878
+a  3	12/1/2024 8:44:43 PM	键盘释放：CurrentPosition--> X:206.950 Y:321.306 Z:50.878
+a  3	12/1/2024 8:44:45 PM	鼠标释放或离开：CurrentPosition--> X:206.950 Y:321.306 Z:50.878
+a  3	12/1/2024 8:48:49 PM	设备初始化......
+a  3	12/1/2024 8:48:49 PM	当前用户： a
+a  3	12/1/2024 8:48:49 PM	打开程序：20241201201903
+a  3	12/1/2024 8:48:49 PM	复位按钮按下
+a  3	12/1/2024 8:49:13 PM	设备复位完成
+a  3	12/1/2024 8:49:15 PM	涂胶运行
+a  3	12/1/2024 8:49:16 PM	
+a  3	12/1/2024 8:49:17 PM	ProcessingStarted
+a  3	12/1/2024 8:49:18 PM	停止
+a  3	12/1/2024 8:49:20 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:49:20 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:49:20 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:49:20 PM	ProcessedEnd
+a  3	12/1/2024 8:49:20 PM	{"SN":"","StartTime":"24-12-01 20:49:17","StopTime":"24-12-01 20:49:19","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:49:20 PM	停止
+a  3	12/1/2024 8:50:19 PM	停止
+a  3	12/1/2024 8:50:19 PM	停止
+a  3	12/1/2024 8:50:20 PM	停止
+a  3	12/1/2024 8:51:46 PM	设备初始化......
+a  3	12/1/2024 8:51:46 PM	当前用户： a
+a  3	12/1/2024 8:51:46 PM	打开程序：20241201201903
+a  3	12/1/2024 8:51:48 PM	复位按钮按下
+a  3	12/1/2024 8:52:14 PM	设备复位完成
+a  3	12/1/2024 8:52:16 PM	涂胶运行
+a  3	12/1/2024 8:52:17 PM	
+a  3	12/1/2024 8:52:18 PM	ProcessingStarted
+a  3	12/1/2024 8:52:20 PM	停止
+a  3	12/1/2024 8:52:21 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:52:21 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:21 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:21 PM	ProcessedEnd
+a  3	12/1/2024 8:52:21 PM	{"SN":"","StartTime":"24-12-01 20:52:18","StopTime":"24-12-01 20:52:20","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:52:22 PM	停止
+a  3	12/1/2024 8:52:24 PM	涂胶运行
+a  3	12/1/2024 8:52:25 PM	
+a  3	12/1/2024 8:52:26 PM	ProcessingStarted
+a  3	12/1/2024 8:52:28 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:52:28 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:30 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 8:52:30 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:31 PM	停止
+a  3	12/1/2024 8:52:33 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 8:52:33 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:33 PM	产品0重量	0.000g
+
+a  3	12/1/2024 8:52:33 PM	ProcessedEnd
+a  3	12/1/2024 8:52:33 PM	{"SN":"","StartTime":"24-12-01 20:52:26","StopTime":"24-12-01 20:52:32","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 8:52:34 PM	停止
+a  3	12/1/2024 9:00:03 PM	设备初始化......
+a  3	12/1/2024 9:00:04 PM	当前用户： a
+a  3	12/1/2024 9:00:04 PM	打开程序：20241201201903
+a  3	12/1/2024 9:00:06 PM	复位按钮按下
+a  3	12/1/2024 9:00:29 PM	设备复位完成
+a  3	12/1/2024 9:01:05 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:01:11 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:01:56 PM	设备初始化......
+a  3	12/1/2024 9:01:56 PM	当前用户： a
+a  3	12/1/2024 9:01:56 PM	打开程序：20241201201903
+a  3	12/1/2024 9:01:58 PM	复位按钮按下
+a  3	12/1/2024 9:02:17 PM	设备复位完成
+a  3	12/1/2024 9:02:25 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:02:47 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:02:52 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:03:08 PM	鼠标点击：Z+
+a  3	12/1/2024 9:03:09 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:27.585
+a  3	12/1/2024 9:03:09 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:27.585
+a  3	12/1/2024 9:03:11 PM	停止
+a  3	12/1/2024 9:03:12 PM	停止
+a  3	12/1/2024 9:03:16 PM	鼠标点击：Z+
+a  3	12/1/2024 9:03:17 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:28.118
+a  3	12/1/2024 9:03:17 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:28.118
+a  3	12/1/2024 9:03:18 PM	停止
+a  3	12/1/2024 9:03:21 PM	鼠标点击：Z+
+a  3	12/1/2024 9:03:23 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:63.355
+a  3	12/1/2024 9:03:23 PM	鼠标释放或离开：CurrentPosition--> X:186.254 Y:141.046 Z:64.533
+a  3	12/1/2024 9:03:24 PM	停止
+a  3	12/1/2024 9:03:47 PM	停止
+a  3	12/1/2024 9:03:52 PM	停止
+a  3	12/1/2024 9:04:01 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:04:08 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:04:15 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:04:20 PM	激光测宽界面:运行至X:186.254 Y:141.046 Z:48.293 Result:TRUE
+a  3	12/1/2024 9:08:03 PM	设备初始化......
+a  3	12/1/2024 9:08:03 PM	当前用户： a
+a  3	12/1/2024 9:08:03 PM	打开程序：20241201201903
+a  3	12/1/2024 9:08:03 PM	复位按钮按下
+a  3	12/1/2024 9:08:22 PM	设备复位完成
+a  3	12/1/2024 9:08:27 PM	涂胶运行
+a  3	12/1/2024 9:08:28 PM	
+a  3	12/1/2024 9:08:28 PM	ProcessingStarted
+a  3	12/1/2024 9:08:30 PM	停止
+a  3	12/1/2024 9:08:32 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:08:32 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:33 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:08:33 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:33 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:33 PM	ProcessedEnd
+a  3	12/1/2024 9:08:33 PM	{"SN":"","StartTime":"24-12-01 21:08:28","StopTime":"24-12-01 21:08:33","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:08:34 PM	停止
+a  3	12/1/2024 9:08:38 PM	涂胶运行
+a  3	12/1/2024 9:08:39 PM	
+a  3	12/1/2024 9:08:40 PM	ProcessingStarted
+a  3	12/1/2024 9:08:41 PM	停止
+a  3	12/1/2024 9:08:43 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:08:43 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:44 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:08:44 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:44 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:44 PM	ProcessedEnd
+a  3	12/1/2024 9:08:45 PM	{"SN":"","StartTime":"24-12-01 21:08:40","StopTime":"24-12-01 21:08:44","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:08:45 PM	停止
+a  3	12/1/2024 9:08:51 PM	涂胶运行
+a  3	12/1/2024 9:08:52 PM	
+a  3	12/1/2024 9:08:52 PM	ProcessingStarted
+a  3	12/1/2024 9:08:54 PM	停止
+a  3	12/1/2024 9:08:55 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:08:55 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:56 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:08:56 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:08:57 PM	ProcessedEnd
+a  3	12/1/2024 9:08:57 PM	{"SN":"","StartTime":"24-12-01 21:08:52","StopTime":"24-12-01 21:08:56","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:08:57 PM	停止
+a  3	12/1/2024 9:09:00 PM	停止
+a  3	12/1/2024 9:15:58 PM	设备初始化......
+a  3	12/1/2024 9:15:58 PM	当前用户： a
+a  3	12/1/2024 9:15:58 PM	打开程序：20241201201903
+a  3	12/1/2024 9:15:58 PM	复位按钮按下
+a  3	12/1/2024 9:16:21 PM	设备复位完成
+a  3	12/1/2024 9:16:24 PM	涂胶运行
+a  3	12/1/2024 9:16:25 PM	
+a  3	12/1/2024 9:16:26 PM	ProcessingStarted
+a  3	12/1/2024 9:16:28 PM	停止
+a  3	12/1/2024 9:16:30 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:16:30 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:16:30 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:16:30 PM	ProcessedEnd
+a  3	12/1/2024 9:16:30 PM	{"SN":"","StartTime":"24-12-01 21:16:26","StopTime":"24-12-01 21:16:29","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:16:31 PM	停止
+a  3	12/1/2024 9:16:35 PM	English
+a  3	12/1/2024 9:16:44 PM	Coating Running
+a  3	12/1/2024 9:16:45 PM	
+a  3	12/1/2024 9:16:46 PM	ProcessingStarted
+a  3	12/1/2024 9:16:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:16:49 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:16:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:16:51 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:16:51 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:16:51 PM	Stop
+a  3	12/1/2024 9:16:51 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:16:51 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:16:52 PM	ProcessedEnd
+a  3	12/1/2024 9:16:53 PM	{"SN":"","StartTime":"24-12-01 21:16:46","StopTime":"24-12-01 21:16:52","ProgramName":"20241201201903","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:16:54 PM	Stop
+a  3	12/1/2024 9:17:11 PM	Chinese
+a  3	12/1/2024 9:17:24 PM	打开程序：test
+a  3	12/1/2024 9:21:44 PM	设备初始化......
+a  3	12/1/2024 9:21:44 PM	当前用户： a
+a  3	12/1/2024 9:21:44 PM	打开程序：test
+a  3	12/1/2024 9:21:44 PM	复位按钮按下
+a  3	12/1/2024 9:22:07 PM	设备复位完成
+a  3	12/1/2024 9:55:06 PM	设备初始化......
+a  3	12/1/2024 9:55:06 PM	当前用户： a
+a  3	12/1/2024 9:55:06 PM	打开程序：test
+a  3	12/1/2024 9:55:06 PM	复位按钮按下
+a  3	12/1/2024 9:55:15 PM	设备复位完成
+a  3	12/1/2024 9:55:21 PM	涂胶运行
+a  3	12/1/2024 9:55:21 PM	
+a  3	12/1/2024 9:55:22 PM	ProcessingStarted
+a  3	12/1/2024 9:55:26 PM	停止
+a  3	12/1/2024 9:55:28 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:55:28 PM	ProcessedEnd
+a  3	12/1/2024 9:55:28 PM	{"SN":"","StartTime":"24-12-01 21:55:22","StopTime":"24-12-01 21:55:27","ProgramName":"test","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:55:28 PM	停止
+a  3	12/1/2024 9:55:29 PM	键盘按下：
+a  3	12/1/2024 9:55:30 PM	键盘释放：CurrentPosition--> X:103.862 Y:284.872 Z:5.000
+a  3	12/1/2024 9:55:37 PM	打开程序：20241130ok2
+a  3	12/1/2024 9:55:38 PM	打开程序：20241130ok2
+a  3	12/1/2024 9:55:40 PM	停止
+a  3	12/1/2024 9:55:42 PM	涂胶运行
+a  3	12/1/2024 9:55:43 PM	
+a  3	12/1/2024 9:55:43 PM	ProcessingStarted
+a  3	12/1/2024 9:55:45 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:55:45 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:46 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:55:47 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:47 PM	停止
+a  3	12/1/2024 9:55:49 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:55:49 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:49 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:49 PM	ProcessedEnd
+a  3	12/1/2024 9:55:49 PM	{"SN":"","StartTime":"24-12-01 21:55:43","StopTime":"24-12-01 21:55:48","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:55:50 PM	涂胶运行
+a  3	12/1/2024 9:55:51 PM	
+a  3	12/1/2024 9:55:52 PM	ProcessingStarted
+a  3	12/1/2024 9:55:53 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:55:54 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:55 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:55:55 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:55 PM	停止
+a  3	12/1/2024 9:55:57 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:55:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:55:57 PM	ProcessedEnd
+a  3	12/1/2024 9:55:57 PM	{"SN":"","StartTime":"24-12-01 21:55:52","StopTime":"24-12-01 21:55:56","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:55:58 PM	停止
+a  3	12/1/2024 9:56:03 PM	涂胶运行
+a  3	12/1/2024 9:56:04 PM	
+a  3	12/1/2024 9:56:04 PM	ProcessingStarted
+a  3	12/1/2024 9:56:06 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:56:07 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:56:08 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:56:08 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:56:08 PM	停止
+a  3	12/1/2024 9:56:10 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:56:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:56:10 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:56:10 PM	ProcessedEnd
+a  3	12/1/2024 9:56:10 PM	{"SN":"","StartTime":"24-12-01 21:56:04","StopTime":"24-12-01 21:56:09","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:56:11 PM	停止
+a  3	12/1/2024 9:57:53 PM	涂胶运行
+a  3	12/1/2024 9:57:54 PM	
+a  3	12/1/2024 9:57:55 PM	ProcessingStarted
+a  3	12/1/2024 9:57:57 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 9:57:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:57:58 PM	停止
+a  3	12/1/2024 9:57:59 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 9:57:59 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:57:59 PM	产品0重量	0.000g
+
+a  3	12/1/2024 9:57:59 PM	ProcessedEnd
+a  3	12/1/2024 9:57:59 PM	{"SN":"","StartTime":"24-12-01 21:57:55","StopTime":"24-12-01 21:57:58","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:58:00 PM	停止
+a  3	12/1/2024 9:58:02 PM	English
+a  3	12/1/2024 9:58:11 PM	Coating Running
+a  3	12/1/2024 9:58:12 PM	
+a  3	12/1/2024 9:58:13 PM	ProcessingStarted
+a  3	12/1/2024 9:58:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:58:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:16 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:58:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:16 PM	Stop
+a  3	12/1/2024 9:58:16 PM	ProcessedEnd
+a  3	12/1/2024 9:58:17 PM	{"SN":"","StartTime":"24-12-01 21:58:13","StopTime":"24-12-01 21:58:17","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:58:18 PM	Stop
+a  3	12/1/2024 9:58:20 PM	Coating Running
+a  3	12/1/2024 9:58:22 PM	
+a  3	12/1/2024 9:58:23 PM	ProcessingStarted
+a  3	12/1/2024 9:58:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:58:25 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:25 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:58:25 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:25 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:58:26 PM	Stop
+a  3	12/1/2024 9:58:26 PM	ProcessedEnd
+a  3	12/1/2024 9:58:27 PM	{"SN":"","StartTime":"24-12-01 21:58:23","StopTime":"24-12-01 21:58:26","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:58:28 PM	Stop
+a  3	12/1/2024 9:58:57 PM	Coating Running
+a  3	12/1/2024 9:58:58 PM	
+a  3	12/1/2024 9:58:59 PM	ProcessingStarted
+a  3	12/1/2024 9:59:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:01 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:02 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:05 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:59:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:05 PM	Stop
+a  3	12/1/2024 9:59:06 PM	ProcessedEnd
+a  3	12/1/2024 9:59:07 PM	{"SN":"","StartTime":"24-12-01 21:58:59","StopTime":"24-12-01 21:59:06","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:59:08 PM	Stop
+a  3	12/1/2024 9:59:10 PM	Coating Running
+a  3	12/1/2024 9:59:11 PM	
+a  3	12/1/2024 9:59:12 PM	ProcessingStarted
+a  3	12/1/2024 9:59:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:14 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:15 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:59:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:15 PM	Stop
+a  3	12/1/2024 9:59:16 PM	ProcessedEnd
+a  3	12/1/2024 9:59:16 PM	{"SN":"","StartTime":"24-12-01 21:59:12","StopTime":"24-12-01 21:59:16","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:59:18 PM	Coating Running
+a  3	12/1/2024 9:59:20 PM	
+a  3	12/1/2024 9:59:21 PM	ProcessingStarted
+a  3	12/1/2024 9:59:22 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:59:22 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:22 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:23 PM	Stop
+a  3	12/1/2024 9:59:23 PM	ProcessedEnd
+a  3	12/1/2024 9:59:23 PM	{"SN":"","StartTime":"24-12-01 21:59:21","StopTime":"24-12-01 21:59:23","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:59:26 PM	Coating Running
+a  3	12/1/2024 9:59:27 PM	
+a  3	12/1/2024 9:59:28 PM	ProcessingStarted
+a  3	12/1/2024 9:59:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 9:59:30 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:31 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 9:59:31 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:31 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 9:59:31 PM	Stop
+a  3	12/1/2024 9:59:32 PM	ProcessedEnd
+a  3	12/1/2024 9:59:32 PM	{"SN":"","StartTime":"24-12-01 21:59:28","StopTime":"24-12-01 21:59:32","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 9:59:34 PM	Stop
+a  3	12/1/2024 10:00:39 PM	Coating Running
+a  3	12/1/2024 10:00:40 PM	
+a  3	12/1/2024 10:00:42 PM	ProcessingStarted
+a  3	12/1/2024 10:00:44 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:00:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:00:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:00:44 PM	Stop
+a  3	12/1/2024 10:00:44 PM	ProcessedEnd
+a  3	12/1/2024 10:00:45 PM	{"SN":"","StartTime":"24-12-01 22:00:42","StopTime":"24-12-01 22:00:44","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:00:47 PM	Coating Running
+a  3	12/1/2024 10:00:49 PM	
+a  3	12/1/2024 10:00:50 PM	ProcessingStarted
+a  3	12/1/2024 10:00:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:00:52 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:00:53 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:00:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:00:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:00:53 PM	Stop
+a  3	12/1/2024 10:00:53 PM	ProcessedEnd
+a  3	12/1/2024 10:00:54 PM	{"SN":"","StartTime":"24-12-01 22:00:50","StopTime":"24-12-01 22:00:53","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:00:55 PM	Stop
+a  3	12/1/2024 10:01:27 PM	Initializing...
+a  3	12/1/2024 10:01:27 PM	Current User: a
+a  3	12/1/2024 10:01:27 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:01:28 PM	The reset button is pressed
+a  3	12/1/2024 10:01:52 PM	Reset is completed
+a  3	12/1/2024 10:01:55 PM	Coating Running
+a  3	12/1/2024 10:01:56 PM	
+a  3	12/1/2024 10:01:57 PM	ProcessingStarted
+a  3	12/1/2024 10:02:01 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:02:01 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:02:01 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:02:01 PM	Stop
+a  3	12/1/2024 10:02:02 PM	ProcessedEnd
+a  3	12/1/2024 10:02:03 PM	{"SN":"","StartTime":"24-12-01 22:01:57","StopTime":"24-12-01 22:02:02","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:02:04 PM	Stop
+a  3	12/1/2024 10:04:27 PM	Initializing...
+a  3	12/1/2024 10:04:27 PM	Current User: a
+a  3	12/1/2024 10:04:27 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:04:28 PM	The reset button is pressed
+a  3	12/1/2024 10:04:53 PM	Reset is completed
+a  3	12/1/2024 10:04:56 PM	Coating Running
+a  3	12/1/2024 10:04:57 PM	
+a  3	12/1/2024 10:04:59 PM	ProcessingStarted
+a  3	12/1/2024 10:05:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:05:02 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:02 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:05:03 PM	Stop
+a  3	12/1/2024 10:05:03 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:03 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:03 PM	ProcessedEnd
+a  3	12/1/2024 10:05:04 PM	{"SN":"","StartTime":"24-12-01 22:04:59","StopTime":"24-12-01 22:05:04","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:05:05 PM	Stop
+a  3	12/1/2024 10:05:08 PM	Coating Running
+a  3	12/1/2024 10:05:09 PM	
+a  3	12/1/2024 10:05:10 PM	ProcessingStarted
+a  3	12/1/2024 10:05:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:05:13 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:13 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:05:13 PM	Stop
+a  3	12/1/2024 10:05:13 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:14 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:14 PM	ProcessedEnd
+a  3	12/1/2024 10:05:15 PM	{"SN":"","StartTime":"24-12-01 22:05:10","StopTime":"24-12-01 22:05:15","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:05:16 PM	Stop
+a  3	12/1/2024 10:05:28 PM	When stop go to safe height:Disable
+a  3	12/1/2024 10:05:29 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	12/1/2024 10:05:29 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/1/2024 10:05:33 PM	Coating Running
+a  3	12/1/2024 10:05:34 PM	
+a  3	12/1/2024 10:05:35 PM	ProcessingStarted
+a  3	12/1/2024 10:05:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:05:37 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:38 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:05:38 PM	Stop
+a  3	12/1/2024 10:05:38 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:38 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:05:39 PM	ProcessedEnd
+a  3	12/1/2024 10:05:39 PM	{"SN":"","StartTime":"24-12-01 22:05:35","StopTime":"24-12-01 22:05:39","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:05:40 PM	Stop
+a  3	12/1/2024 10:05:58 PM	key release:CurrentPosition--> X:226.988 Y:331.240 Z:84.719
+a  3	12/1/2024 10:05:58 PM	key release:CurrentPosition--> X:226.988 Y:331.240 Z:84.719
+a  3	12/1/2024 10:06:42 PM	key release:CurrentPosition--> X:226.988 Y:331.240 Z:84.719
+a  3	12/1/2024 10:06:42 PM	key release:CurrentPosition--> X:226.988 Y:331.240 Z:84.719
+a  3	12/1/2024 10:07:03 PM	TestRun：Start
+a  3	12/1/2024 10:07:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:09 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:07:10 PM	TestRun：Stop
+a  3	12/1/2024 10:07:12 PM	Coating Running
+a  3	12/1/2024 10:07:13 PM	
+a  3	12/1/2024 10:07:15 PM	ProcessingStarted
+a  3	12/1/2024 10:07:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:17 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:07:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:07:19 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:07:20 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:07:20 PM	Stop
+a  3	12/1/2024 10:07:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:07:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:07:21 PM	ProcessedEnd
+a  3	12/1/2024 10:07:22 PM	{"SN":"","StartTime":"24-12-01 22:07:15","StopTime":"24-12-01 22:07:21","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:07:22 PM	Stop
+a  3	12/1/2024 10:08:13 PM	Coating Running
+a  3	12/1/2024 10:08:14 PM	
+a  3	12/1/2024 10:08:16 PM	ProcessingStarted
+a  3	12/1/2024 10:08:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:08:18 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:08:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:08:19 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:08:20 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:08:20 PM	Stop
+a  3	12/1/2024 10:08:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:08:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:08:21 PM	ProcessedEnd
+a  3	12/1/2024 10:08:21 PM	{"SN":"","StartTime":"24-12-01 22:08:16","StopTime":"24-12-01 22:08:21","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:08:22 PM	Stop
+a  3	12/1/2024 10:09:15 PM	Initializing...
+a  3	12/1/2024 10:09:15 PM	Current User: a
+a  3	12/1/2024 10:09:15 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:09:17 PM	The reset button is pressed
+a  3	12/1/2024 10:09:43 PM	Reset is completed
+a  3	12/1/2024 10:09:51 PM	TestRun：Start
+a  3	12/1/2024 10:09:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:09:54 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:09:54 PM	TestRun：Stop
+a  3	12/1/2024 10:09:55 PM	Stop
+a  3	12/1/2024 10:14:25 PM	Initializing...
+a  3	12/1/2024 10:14:25 PM	Current User: a
+a  3	12/1/2024 10:14:25 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:14:28 PM	The reset button is pressed
+a  3	12/1/2024 10:14:54 PM	Reset is completed
+a  3	12/1/2024 10:14:57 PM	Coating Running
+a  3	12/1/2024 10:14:58 PM	
+a  3	12/1/2024 10:15:00 PM	ProcessingStarted
+a  3	12/1/2024 10:15:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:15:03 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:15:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:15:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:15:07 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:15:08 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:09 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:15:09 PM	Stop
+a  3	12/1/2024 10:15:09 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:09 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:15:09 PM	ProcessedEnd
+a  3	12/1/2024 10:15:10 PM	{"SN":"","StartTime":"24-12-01 22:15:00","StopTime":"24-12-01 22:15:10","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:15:11 PM	Stop
+a  3	12/1/2024 10:20:51 PM	TestRun：Start
+a  3	12/1/2024 10:20:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:20:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:20:56 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:20:56 PM	TestRun：Stop
+a  3	12/1/2024 10:21:59 PM	Coating Running
+a  3	12/1/2024 10:22:00 PM	
+a  3	12/1/2024 10:22:02 PM	ProcessingStarted
+a  3	12/1/2024 10:22:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:22:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:22:04 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:22:05 PM	Stop
+a  3	12/1/2024 10:22:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:22:05 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:22:05 PM	ProcessedEnd
+a  3	12/1/2024 10:22:05 PM	{"SN":"","StartTime":"24-12-01 22:22:02","StopTime":"24-12-01 22:22:05","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:22:06 PM	Stop
+a  3	12/1/2024 10:22:09 PM	TestRun：Start
+a  3	12/1/2024 10:22:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:22:12 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:22:12 PM	TestRun：Stop
+a  3	12/1/2024 10:27:16 PM	Initializing...
+a  3	12/1/2024 10:27:16 PM	Current User: a
+a  3	12/1/2024 10:27:17 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:27:17 PM	The reset button is pressed
+a  3	12/1/2024 10:27:43 PM	Reset is completed
+a  3	12/1/2024 10:27:47 PM	Coating Running
+a  3	12/1/2024 10:27:49 PM	
+a  3	12/1/2024 10:27:50 PM	ProcessingStarted
+a  3	12/1/2024 10:27:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:27:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:27:53 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:27:53 PM	Stop
+a  3	12/1/2024 10:27:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:27:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:27:54 PM	ProcessedEnd
+a  3	12/1/2024 10:27:54 PM	{"SN":"","StartTime":"24-12-01 22:27:50","StopTime":"24-12-01 22:27:54","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:27:55 PM	Stop
+a  3	12/1/2024 10:28:26 PM	TestRun：Start
+a  3	12/1/2024 10:28:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:30 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:28:30 PM	TestRun：Stop
+a  3	12/1/2024 10:28:35 PM	Coating Running
+a  3	12/1/2024 10:28:36 PM	
+a  3	12/1/2024 10:28:38 PM	ProcessingStarted
+a  3	12/1/2024 10:28:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:40 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:41 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:43 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:44 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:45 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:28:45 PM	Stop
+a  3	12/1/2024 10:28:45 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:45 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:28:45 PM	ProcessedEnd
+a  3	12/1/2024 10:28:46 PM	{"SN":"","StartTime":"24-12-01 22:28:38","StopTime":"24-12-01 22:28:45","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:28:46 PM	Stop
+a  3	12/1/2024 10:28:52 PM	TestRun：Start
+a  3	12/1/2024 10:28:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:28:59 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:29:00 PM	TestRun：Stop
+a  3	12/1/2024 10:29:13 PM	Coating Running
+a  3	12/1/2024 10:29:14 PM	
+a  3	12/1/2024 10:29:16 PM	ProcessingStarted
+a  3	12/1/2024 10:29:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:29:18 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:29:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:29:21 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:29:22 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:23 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:29:23 PM	Stop
+a  3	12/1/2024 10:29:23 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:23 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:29:23 PM	ProcessedEnd
+a  3	12/1/2024 10:29:24 PM	{"SN":"","StartTime":"24-12-01 22:29:16","StopTime":"24-12-01 22:29:24","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:29:25 PM	Stop
+a  3	12/1/2024 10:31:52 PM	Initializing...
+a  3	12/1/2024 10:31:53 PM	Current User: a
+a  3	12/1/2024 10:31:53 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:31:53 PM	The reset button is pressed
+a  3	12/1/2024 10:31:53 PM	AlarmCode 1006:Pressure Low
+a  3	12/1/2024 10:31:54 PM	Stop
+a  3	12/1/2024 10:31:57 PM	Z home timeout
+a  3	12/1/2024 10:31:58 PM	Z home timeout
+a  3	12/1/2024 10:32:00 PM	The reset button is pressed
+a  3	12/1/2024 10:32:26 PM	Reset is completed
+a  3	12/1/2024 10:32:29 PM	Coating Running
+a  3	12/1/2024 10:32:30 PM	
+a  3	12/1/2024 10:32:31 PM	ProcessingStarted
+a  3	12/1/2024 10:32:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:34 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:35 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:37 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:38 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:39 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:41 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:41 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:32:42 PM	Stop
+a  3	12/1/2024 10:32:42 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:32:42 PM	ProcessedEnd
+a  3	12/1/2024 10:32:42 PM	{"SN":"","StartTime":"24-12-01 22:32:31","StopTime":"24-12-01 22:32:42","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:32:43 PM	Stop
+a  3	12/1/2024 10:32:47 PM	TestRun：Start
+a  3	12/1/2024 10:32:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:32:51 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:32:51 PM	TestRun：Stop
+a  3	12/1/2024 10:35:07 PM	Coating Running
+a  3	12/1/2024 10:35:08 PM	
+a  3	12/1/2024 10:35:10 PM	ProcessingStarted
+a  3	12/1/2024 10:35:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:35:12 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:35:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:35:14 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:35:15 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:35:15 PM	Stop
+a  3	12/1/2024 10:35:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:35:15 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:35:15 PM	ProcessedEnd
+a  3	12/1/2024 10:35:16 PM	{"SN":"","StartTime":"24-12-01 22:35:10","StopTime":"24-12-01 22:35:15","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:35:17 PM	Stop
+a  3	12/1/2024 10:43:18 PM	Initializing...
+a  3	12/1/2024 10:43:18 PM	Current User: a
+a  3	12/1/2024 10:43:18 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:43:19 PM	The reset button is pressed
+a  3	12/1/2024 10:43:19 PM	AlarmCode 1006:Pressure Low
+a  3	12/1/2024 10:43:19 PM	Stop
+a  3	12/1/2024 10:43:23 PM	Z home timeout
+a  3	12/1/2024 10:43:24 PM	Z home timeout
+a  3	12/1/2024 10:43:25 PM	The reset button is pressed
+a  3	12/1/2024 10:43:51 PM	Reset is completed
+a  3	12/1/2024 10:43:54 PM	Coating Running
+a  3	12/1/2024 10:43:55 PM	
+a  3	12/1/2024 10:43:56 PM	ProcessingStarted
+a  3	12/1/2024 10:43:58 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:43:58 PM	Stop
+a  3	12/1/2024 10:43:58 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:43:58 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:43:58 PM	ProcessedEnd
+a  3	12/1/2024 10:43:59 PM	{"SN":"","StartTime":"24-12-01 22:43:56","StopTime":"24-12-01 22:43:59","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:44:00 PM	Stop
+a  3	12/1/2024 10:44:10 PM	Coating Running
+a  3	12/1/2024 10:44:11 PM	
+a  3	12/1/2024 10:44:13 PM	ProcessingStarted
+a  3	12/1/2024 10:44:14 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:44:14 PM	Stop
+a  3	12/1/2024 10:44:14 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:44:14 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:44:14 PM	ProcessedEnd
+a  3	12/1/2024 10:44:16 PM	{"SN":"","StartTime":"24-12-01 22:44:13","StopTime":"24-12-01 22:44:14","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:44:16 PM	Stop
+a  3	12/1/2024 10:45:52 PM	Initializing...
+a  3	12/1/2024 10:45:52 PM	Current User: a
+a  3	12/1/2024 10:45:52 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:45:52 PM	The reset button is pressed
+a  3	12/1/2024 10:45:53 PM	AlarmCode 1006:Pressure Low
+a  3	12/1/2024 10:45:53 PM	Stop
+a  3	12/1/2024 10:45:56 PM	Z home timeout
+a  3	12/1/2024 10:45:57 PM	Z home timeout
+a  3	12/1/2024 10:45:59 PM	The reset button is pressed
+a  3	12/1/2024 10:46:26 PM	Reset is completed
+a  3	12/1/2024 10:46:58 PM	Initializing...
+a  3	12/1/2024 10:46:58 PM	Current User: a
+a  3	12/1/2024 10:46:58 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:46:58 PM	The reset button is pressed
+a  3	12/1/2024 10:47:07 PM	Reset is completed
+a  3	12/1/2024 10:47:13 PM	Coating Running
+a  3	12/1/2024 10:47:14 PM	
+a  3	12/1/2024 10:47:15 PM	ProcessingStarted
+a  3	12/1/2024 10:47:16 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:47:16 PM	Stop
+a  3	12/1/2024 10:47:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:16 PM	ProcessedEnd
+a  3	12/1/2024 10:47:17 PM	{"SN":"","StartTime":"24-12-01 22:47:15","StopTime":"24-12-01 22:47:16","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:47:18 PM	Stop
+a  3	12/1/2024 10:47:29 PM	Coating Running
+a  3	12/1/2024 10:47:30 PM	
+a  3	12/1/2024 10:47:32 PM	ProcessingStarted
+a  3	12/1/2024 10:47:33 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:47:33 PM	Stop
+a  3	12/1/2024 10:47:33 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:33 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:34 PM	ProcessedEnd
+a  3	12/1/2024 10:47:34 PM	{"SN":"","StartTime":"24-12-01 22:47:32","StopTime":"24-12-01 22:47:34","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:47:35 PM	Stop
+a  3	12/1/2024 10:47:42 PM	Coating Running
+a  3	12/1/2024 10:47:43 PM	
+a  3	12/1/2024 10:47:45 PM	ProcessingStarted
+a  3	12/1/2024 10:47:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:47:47 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:48 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:47:48 PM	Stop
+a  3	12/1/2024 10:47:48 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:48 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:47:48 PM	ProcessedEnd
+a  3	12/1/2024 10:47:49 PM	{"SN":"","StartTime":"24-12-01 22:47:45","StopTime":"24-12-01 22:47:48","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:47:50 PM	Stop
+a  3	12/1/2024 10:48:14 PM	Coating Running
+a  3	12/1/2024 10:48:15 PM	
+a  3	12/1/2024 10:48:17 PM	ProcessingStarted
+a  3	12/1/2024 10:48:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:48:19 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:48:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:48:20 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:48:20 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:48:21 PM	Stop
+a  3	12/1/2024 10:48:21 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:48:21 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:48:21 PM	ProcessedEnd
+a  3	12/1/2024 10:48:21 PM	{"SN":"","StartTime":"24-12-01 22:48:17","StopTime":"24-12-01 22:48:21","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:48:23 PM	Stop
+a  3	12/1/2024 10:48:25 PM	TestRun：Start
+a  3	12/1/2024 10:48:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:48:28 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:48:28 PM	TestRun：Stop
+a  3	12/1/2024 10:49:54 PM	Initializing...
+a  3	12/1/2024 10:49:54 PM	Current User: a
+a  3	12/1/2024 10:49:54 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:49:54 PM	The reset button is pressed
+a  3	12/1/2024 10:49:55 PM	AlarmCode 1006:Pressure Low
+a  3	12/1/2024 10:49:55 PM	Stop
+a  3	12/1/2024 10:49:58 PM	Z home timeout
+a  3	12/1/2024 10:50:00 PM	Z home timeout
+a  3	12/1/2024 10:50:01 PM	The reset button is pressed
+a  3	12/1/2024 10:50:27 PM	Reset is completed
+a  3	12/1/2024 10:50:30 PM	Coating Running
+a  3	12/1/2024 10:50:31 PM	
+a  3	12/1/2024 10:50:33 PM	ProcessingStarted
+a  3	12/1/2024 10:50:35 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:50:35 PM	Stop
+a  3	12/1/2024 10:50:35 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:35 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:35 PM	ProcessedEnd
+a  3	12/1/2024 10:50:37 PM	{"SN":"","StartTime":"24-12-01 22:50:33","StopTime":"24-12-01 22:50:36","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:50:37 PM	Stop
+a  3	12/1/2024 10:50:46 PM	Coating Running
+a  3	12/1/2024 10:50:48 PM	
+a  3	12/1/2024 10:50:49 PM	ProcessingStarted
+a  3	12/1/2024 10:50:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:50:51 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:50:53 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:54 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:50:54 PM	Stop
+a  3	12/1/2024 10:50:54 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:54 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:50:54 PM	ProcessedEnd
+a  3	12/1/2024 10:50:54 PM	{"SN":"","StartTime":"24-12-01 22:50:49","StopTime":"24-12-01 22:50:54","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:50:56 PM	Stop
+a  3	12/1/2024 10:51:32 PM	TestRun：Start
+a  3	12/1/2024 10:51:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:51:35 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:51:35 PM	TestRun：Stop
+a  3	12/1/2024 10:54:55 PM	Initializing...
+a  3	12/1/2024 10:54:55 PM	Current User: a
+a  3	12/1/2024 10:54:55 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:54:56 PM	The reset button is pressed
+a  3	12/1/2024 10:55:22 PM	Reset is completed
+a  3	12/1/2024 10:55:25 PM	Coating Running
+a  3	12/1/2024 10:55:26 PM	
+a  3	12/1/2024 10:55:28 PM	ProcessingStarted
+a  3	12/1/2024 10:55:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:55:31 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:55:35 PM	"AlarmCode 1037:Flow Error!	Stop
+a  3	12/1/2024 10:55:36 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:55:36 PM	Stop
+a  3	12/1/2024 10:55:36 PM	ProcessedEnd
+a  3	12/1/2024 10:55:36 PM	{"SN":"","StartTime":"24-12-01 22:55:28","StopTime":"24-12-01 22:55:36","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:56:50 PM	key release:CurrentPosition--> X:243.458 Y:338.218 Z:84.719
+a  3	12/1/2024 10:56:51 PM	key release:CurrentPosition--> X:243.458 Y:338.218 Z:84.719
+a  3	12/1/2024 10:56:55 PM	DryRun
+a  3	12/1/2024 10:56:55 PM	DryRun
+a  3	12/1/2024 10:56:56 PM	Coating Running
+a  3	12/1/2024 10:56:57 PM	
+a  3	12/1/2024 10:56:59 PM	ProcessingStarted
+a  3	12/1/2024 10:57:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:57:01 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:57:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:57:03 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:57:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:57:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:57:04 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:57:04 PM	Stop
+a  3	12/1/2024 10:57:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:57:04 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:57:04 PM	ProcessedEnd
+a  3	12/1/2024 10:57:05 PM	{"SN":"","StartTime":"24-12-01 22:56:59","StopTime":"24-12-01 22:57:05","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:57:06 PM	Stop
+a  3	12/1/2024 10:58:29 PM	Initializing...
+a  3	12/1/2024 10:58:29 PM	Current User: a
+a  3	12/1/2024 10:58:29 PM	Open Program:20241130ok2
+a  3	12/1/2024 10:58:31 PM	The reset button is pressed
+a  3	12/1/2024 10:58:57 PM	Reset is completed
+a  3	12/1/2024 10:59:08 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:59:08 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 10:59:10 PM	Coating Running
+a  3	12/1/2024 10:59:11 PM	
+a  3	12/1/2024 10:59:12 PM	ProcessingStarted
+a  3	12/1/2024 10:59:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/1/2024 10:59:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:59:16 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/1/2024 10:59:16 PM	Stop
+a  3	12/1/2024 10:59:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:59:16 PM	Product0Weight	0.000g
+
+a  3	12/1/2024 10:59:16 PM	ProcessedEnd
+a  3	12/1/2024 10:59:17 PM	{"SN":"","StartTime":"24-12-01 22:59:12","StopTime":"24-12-01 22:59:17","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 10:59:18 PM	Stop
+a  3	12/1/2024 11:00:42 PM	Chinese
+a  3	12/1/2024 11:00:58 PM	涂胶运行
+a  3	12/1/2024 11:00:59 PM	
+a  3	12/1/2024 11:01:00 PM	ProcessingStarted
+a  3	12/1/2024 11:01:02 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:01:03 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:01:04 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:01:05 PM	停止
+a  3	12/1/2024 11:01:06 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:01:06 PM	ProcessedEnd
+a  3	12/1/2024 11:01:06 PM	{"SN":"","StartTime":"24-12-01 23:01:00","StopTime":"24-12-01 23:01:05","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:01:06 PM	停止
+a  3	12/1/2024 11:03:53 PM	键盘按下：
+a  3	12/1/2024 11:03:55 PM	键盘释放：CurrentPosition--> X:235.418 Y:317.284 Z:84.719
+a  3	12/1/2024 11:03:58 PM	键盘按下：
+a  3	12/1/2024 11:03:59 PM	键盘释放：CurrentPosition--> X:235.418 Y:317.284 Z:84.719
+a  3	12/1/2024 11:03:59 PM	键盘按下：
+a  3	12/1/2024 11:04:00 PM	键盘释放：CurrentPosition--> X:235.418 Y:317.284 Z:84.719
+a  3	12/1/2024 11:04:01 PM	键盘按下：
+a  3	12/1/2024 11:04:01 PM	键盘释放：CurrentPosition--> X:235.418 Y:317.284 Z:84.719
+a  3	12/1/2024 11:04:20 PM	模板dd中第8行程序被修改:,
+
+a  3	12/1/2024 11:04:31 PM	鼠标释放或离开：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:04:44 PM	键盘按下：
+a  3	12/1/2024 11:04:44 PM	键盘按下：
+a  3	12/1/2024 11:04:44 PM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:04:45 PM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:04:45 PM	键盘按下：
+a  3	12/1/2024 11:04:45 PM	键盘释放：CurrentPosition--> X:195.022 Y:220.274 Z:18.890
+a  3	12/1/2024 11:04:45 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	12/1/2024 11:04:45 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Light source adjust,模板映射参数2
+a  3	12/1/2024 11:04:47 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:04:50 PM	涂胶运行
+a  3	12/1/2024 11:04:51 PM	
+a  3	12/1/2024 11:04:51 PM	ProcessingStarted
+a  3	12/1/2024 11:04:54 PM	停止
+a  3	12/1/2024 11:04:56 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:04:56 PM	ProcessedEnd
+a  3	12/1/2024 11:04:56 PM	{"SN":"","StartTime":"24-12-01 23:04:51","StopTime":"24-12-01 23:04:54","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:04:56 PM	停止
+a  3	12/1/2024 11:04:59 PM	键盘按下：
+a  3	12/1/2024 11:05:00 PM	键盘释放：CurrentPosition--> X:219.720 Y:360.400 Z:84.719
+a  3	12/1/2024 11:05:00 PM	键盘按下：
+a  3	12/1/2024 11:05:00 PM	键盘按下：
+a  3	12/1/2024 11:05:01 PM	键盘释放：CurrentPosition--> X:219.720 Y:360.400 Z:84.719
+a  3	12/1/2024 11:05:01 PM	键盘释放：CurrentPosition--> X:219.720 Y:360.400 Z:84.719
+a  3	12/1/2024 11:05:01 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:05:01 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:05:01 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:05:02 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:05:03 PM	涂胶运行
+a  3	12/1/2024 11:05:04 PM	
+a  3	12/1/2024 11:05:05 PM	ProcessingStarted
+a  3	12/1/2024 11:05:08 PM	停止
+a  3	12/1/2024 11:05:09 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:05:09 PM	ProcessedEnd
+a  3	12/1/2024 11:05:09 PM	{"SN":"","StartTime":"24-12-01 23:05:05","StopTime":"24-12-01 23:05:08","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:05:10 PM	停止
+a  3	12/1/2024 11:05:18 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring,Numeric
+a  3	12/1/2024 11:05:18 PM	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	12/1/2024 11:05:18 PM	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
+a  3	12/1/2024 11:05:21 PM	涂胶运行
+a  3	12/1/2024 11:05:22 PM	
+a  3	12/1/2024 11:05:23 PM	ProcessingStarted
+a  3	12/1/2024 11:05:28 PM	停止
+a  3	12/1/2024 11:05:29 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:05:29 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:29 PM	ProcessedEnd
+a  3	12/1/2024 11:05:29 PM	{"SN":"","StartTime":"24-12-01 23:05:23","StopTime":"24-12-01 23:05:28","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:05:29 PM	停止
+a  3	12/1/2024 11:05:35 PM	键盘按下：
+a  3	12/1/2024 11:05:35 PM	键盘按下：
+a  3	12/1/2024 11:05:35 PM	键盘释放：CurrentPosition--> X:211.742 Y:338.108 Z:84.719
+a  3	12/1/2024 11:05:35 PM	键盘释放：CurrentPosition--> X:211.742 Y:338.108 Z:84.719
+a  3	12/1/2024 11:05:35 PM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
+a  3	12/1/2024 11:05:35 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
+a  3	12/1/2024 11:05:35 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
+a  3	12/1/2024 11:05:36 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:05:38 PM	涂胶运行
+a  3	12/1/2024 11:05:39 PM	
+a  3	12/1/2024 11:05:40 PM	ProcessingStarted
+a  3	12/1/2024 11:05:42 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:05:42 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:43 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:05:43 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:44 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:05:45 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:46 PM	停止
+a  3	12/1/2024 11:05:47 PM	设备加工流程标志：FALSE 异常停机：TRUE
+a  3	12/1/2024 11:05:47 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:47 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:05:47 PM	ProcessedEnd
+a  3	12/1/2024 11:05:47 PM	{"SN":"","StartTime":"24-12-01 23:05:40","StopTime":"24-12-01 23:05:46","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:05:47 PM	停止
+a  3	12/1/2024 11:05:59 PM	键盘按下：
+a  3	12/1/2024 11:06:00 PM	键盘释放：CurrentPosition--> X:218.198 Y:317.284 Z:84.719
+a  3	12/1/2024 11:06:01 PM	键盘按下：
+a  3	12/1/2024 11:06:01 PM	键盘释放：CurrentPosition--> X:218.198 Y:317.284 Z:84.719
+a  3	12/1/2024 11:06:02 PM	模板qwewee中第1,2,3,4,5,6,7行程序被复制
+a  3	12/1/2024 11:06:06 PM	模板->main(A)中第15行程序被粘贴
+a  3	12/1/2024 11:06:09 PM	键盘按下：
+a  3	12/1/2024 11:06:09 PM	键盘按下：
+a  3	12/1/2024 11:06:09 PM	键盘释放：CurrentPosition--> X:218.198 Y:317.284 Z:84.719
+a  3	12/1/2024 11:06:09 PM	键盘释放：CurrentPosition--> X:218.198 Y:317.284 Z:84.719
+a  3	12/1/2024 11:06:09 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage,Pattern Name,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	12/1/2024 11:06:09 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage,Pattern Name,TwoValveDistanceData,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	12/1/2024 11:06:10 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:06:10 PM	键盘释放：CurrentPosition--> X:218.198 Y:317.284 Z:84.719
+a  3	12/1/2024 11:06:11 PM	涂胶运行
+a  3	12/1/2024 11:06:12 PM	
+a  3	12/1/2024 11:06:13 PM	ProcessingStarted
+a  3	12/1/2024 11:06:15 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:15 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:16 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:17 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:18 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:18 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:19 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:19 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:20 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:21 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:22 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:22 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:24 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:25 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:25 PM	ProcessedEnd
+a  3	12/1/2024 11:06:25 PM	{"SN":"","StartTime":"24-12-01 23:06:13","StopTime":"24-12-01 23:06:24","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:06:25 PM	停止
+a  3	12/1/2024 11:06:38 PM	鼠标释放或离开：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:06:41 PM	键盘按下：
+a  3	12/1/2024 11:06:42 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:06:44 PM	键盘按下：
+a  3	12/1/2024 11:06:44 PM	键盘按下：
+a  3	12/1/2024 11:06:44 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:06:45 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:06:45 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:06:45 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:06:45 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:06:45 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:06:47 PM	涂胶运行
+a  3	12/1/2024 11:06:48 PM	
+a  3	12/1/2024 11:06:48 PM	ProcessingStarted
+a  3	12/1/2024 11:06:51 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:51 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:52 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:52 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:53 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:53 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:55 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:55 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:56 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:56 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:57 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:06:59 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:06:59 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:07:00 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:02 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:07:02 PM	ProcessedEnd
+a  3	12/1/2024 11:07:02 PM	{"SN":"","StartTime":"24-12-01 23:06:48","StopTime":"24-12-01 23:07:00","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:07:02 PM	停止
+a  3	12/1/2024 11:07:10 PM	鼠标释放或离开：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:10 PM	键盘按下：
+a  3	12/1/2024 11:07:11 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:13 PM	键盘按下：
+a  3	12/1/2024 11:07:13 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:15 PM	键盘按下：
+a  3	12/1/2024 11:07:15 PM	键盘按下：
+a  3	12/1/2024 11:07:15 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:15 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:15 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:07:15 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:07:16 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:07:18 PM	键盘按下：
+a  3	12/1/2024 11:07:19 PM	键盘按下：
+a  3	12/1/2024 11:07:19 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:19 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:19 PM	TrackAndPar.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:07:19 PM	ShareParameters.bin文件中以下参数已经被修改：Track storage
+a  3	12/1/2024 11:07:21 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:07:42 PM	键盘按下：
+a  3	12/1/2024 11:07:42 PM	键盘按下：
+a  3	12/1/2024 11:07:42 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:42 PM	键盘释放：CurrentPosition--> X:243.458 Y:296.352 Z:5.000
+a  3	12/1/2024 11:07:43 PM	保存程序：20241130ok2
+a  3	12/1/2024 11:07:46 PM	涂胶运行
+a  3	12/1/2024 11:07:47 PM	
+a  3	12/1/2024 11:07:47 PM	ProcessingStarted
+a  3	12/1/2024 11:07:57 PM	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	12/1/2024 11:07:57 PM	产品0重量	0.000g
+
+a  3	12/1/2024 11:08:01 PM	ProcessedEnd
+a  3	12/1/2024 11:08:01 PM	{"SN":"","StartTime":"24-12-01 23:07:47","StopTime":"24-12-01 23:07:57","ProgramName":"20241130ok2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/1/2024 11:08:01 PM	停止
+a  3	12/1/2024 11:30:36 PM	设备初始化......
+a  3	12/1/2024 11:30:36 PM	当前用户： a
+a  3	12/1/2024 11:30:36 PM	打开程序：20241130ok2
+a  3	12/1/2024 11:30:38 PM	复位按钮按下
+a  3	12/1/2024 11:30:58 PM	设备复位完成
+a  3	12/1/2024 11:31:53 PM	激光测宽界面:手动点击开始
+a  3	12/1/2024 11:31:55 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:31:55 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:31:56 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:31:57 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:31:58 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:32:16 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:32:26 PM	激光测宽界面:手动点击开始
+a  3	12/1/2024 11:32:27 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:32:27 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:32:28 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:32:29 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:32:30 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:32:51 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:32:57 PM	ParametersOfFilmWidthTesting.bin文件中以下参数已经被修改：Glue Width 2,Width Test Para,Glue_Pressure 2
+a  3	12/1/2024 11:33:13 PM	键盘释放：CurrentPosition--> X:186.254 Y:141.046 Z:5.000
+a  3	12/1/2024 11:33:13 PM	键盘释放：CurrentPosition--> X:186.254 Y:141.046 Z:5.000
+a  3	12/1/2024 11:33:18 PM	激光测宽界面:手动点击开始
+a  3	12/1/2024 11:33:19 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:33:19 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:33:20 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:21 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:22 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:38 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:33:39 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:33:39 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:33:40 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:41 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:43 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:46 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:33:48 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:33:48 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:33:49 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:50 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:51 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:53 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:33:54 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:33:54 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:33:55 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:57 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:58 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:33:59 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:34:01 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:34:01 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:34:02 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:03 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:04 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:05 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:34:07 PM	Manual GlueWidthTest:go to start position Setting--->X:186.254 Y:141.046 Z:48.293 Current--->X:186.254 Y:141.046 Z:48.293 Result:TRUE GTS_Code:0
+a  3	12/1/2024 11:34:07 PM	Manual GlueWidthTest--->Initial pressure value:0.180
+a  3	12/1/2024 11:34:08 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:09 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:11 PM	Read LineLaser:-7.00000 Current--->X:186.254 Y:141.046 Z:48.293  GTS_Code:0
+a  3	12/1/2024 11:34:19 PM	Manual GlueWidthTest--->Currrent pressure value:0.180
+a  3	12/1/2024 11:52:03 PM	设备初始化......
+a  3	12/1/2024 11:52:03 PM	当前用户： a
+a  3	12/1/2024 11:52:03 PM	打开程序：20241130ok2
+a  3	12/1/2024 11:52:04 PM	复位按钮按下
+a  3	12/1/2024 11:52:23 PM	设备复位完成
+a  3	12/1/2024 11:53:49 PM	设备初始化......
+a  3	12/1/2024 11:53:49 PM	当前用户： a
+a  3	12/1/2024 11:53:49 PM	打开程序：20241130ok2
+a  3	12/1/2024 11:53:50 PM	复位按钮按下
+a  3	12/1/2024 11:53:59 PM	设备复位完成
+a  3	12/1/2024 11:54:01 PM	复位按钮按下
+a  3	12/1/2024 11:54:10 PM	设备复位完成
+a  3	12/1/2024 11:54:12 PM	复位按钮按下
+a  3	12/1/2024 11:54:21 PM	设备复位完成
+a  3	12/1/2024 11:54:24 PM	复位按钮按下
+a  3	12/1/2024 11:54:33 PM	设备复位完成
+a  3	12/1/2024 11:54:37 PM	复位按钮按下
+a  3	12/1/2024 11:54:46 PM	设备复位完成
+a  3	12/1/2024 11:55:17 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 11:55:17 PM	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/1/2024 11:55:27 PM	English

@@ -1,0 +1,68 @@
+
+a  3	2024/8/14 17:22:15	Initializing...
+a  3	2024/8/14 17:22:15	Change glue ,batch No is:C63000244983-0005,Part No is 6300000699,expiry date is 15.01.2025
+a  3	2024/8/14 17:22:15	Current User: a
+a  3	2024/8/14 17:22:15	Open Program:flowtest
+a  3	2024/8/14 17:22:18	AlarmCode 1006:Pressure Low
+a  3	2024/8/14 17:22:18	Stop
+a  3	2024/8/14 17:23:00	Initializing...
+a  3	2024/8/14 17:23:00	Current User: a
+a  3	2024/8/14 17:23:00	Open Program:flowtest
+a  3	2024/8/14 17:23:14	AlarmCode 1006:Pressure Low
+a  3	2024/8/14 17:23:14	Stop
+a  3	2024/8/14 17:23:17	Chinese
+a  3	2024/8/14 17:24:10	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,DataSavedBySys,Purge后刮胶参数 2
+a  3	2024/8/14 17:24:10	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/8/14 17:24:29	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/8/14 17:24:53	设备初始化......
+a  3	2024/8/14 17:24:53	当前用户： a
+a  3	2024/8/14 17:24:53	打开程序：flowtest
+a  3	2024/8/14 17:35:13	设备初始化......
+a  3	2024/8/14 17:35:13	当前用户： a
+a  3	2024/8/14 17:35:13	打开程序：flowtest
+a  3	2024/8/14 17:35:15	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 17:35:16	停止
+a  3	2024/8/14 17:42:43	设备初始化......
+a  3	2024/8/14 17:42:43	当前用户： a
+a  3	2024/8/14 17:42:43	打开程序：flowtest
+a  3	2024/8/14 17:42:45	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 17:42:45	停止
+a  3	2024/8/14 20:10:41	设备初始化......
+a  3	2024/8/14 20:10:41	Change glue ,batch No is:C63000244983-0005,Part No is 6300000699,expiry date is 15.01.2025
+a  3	2024/8/14 20:10:41	当前用户： a
+a  3	2024/8/14 20:10:41	打开程序：flowtest
+a  3	2024/8/14 20:10:43	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 20:10:43	停止
+a  3	2024/8/14 20:10:46	English
+a  3	2024/8/14 20:11:09	Initializing...
+a  3	2024/8/14 20:11:09	Current User: a
+a  3	2024/8/14 20:11:09	Open Program:flowtest
+a  3	2024/8/14 20:11:11	AlarmCode 1006:Pressure Low
+a  3	2024/8/14 20:11:11	Stop
+a  3	2024/8/14 20:12:57	Initializing...
+a  3	2024/8/14 20:12:57	Current User: a
+a  3	2024/8/14 20:12:57	Open Program:flowtest
+a  3	2024/8/14 20:15:39	AlarmCode 1006:Pressure Low
+a  3	2024/8/14 20:15:39	Stop
+a  3	2024/8/14 20:15:42	Chinese
+a  3	2024/8/14 20:16:03	English
+a  3	2024/8/14 20:19:49	Chinese
+a  3	2024/8/14 20:32:06	设备初始化......
+a  3	2024/8/14 20:32:06	当前用户： a
+a  3	2024/8/14 20:32:06	打开程序：flowtest
+a  3	2024/8/14 20:32:08	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 20:32:08	停止
+a  3	2024/8/14 20:51:32	设备初始化......
+a  3	2024/8/14 20:51:33	当前用户： a
+a  3	2024/8/14 20:51:33	打开程序：flowtest
+a  3	2024/8/14 20:51:34	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 20:51:35	停止
+a  3	2024/8/14 20:51:55	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/14 20:51:55	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/14 20:51:59	English
+a  3	2024/8/14 20:52:07	Chinese
+a  3	2024/8/14 21:05:09	设备初始化......
+a  3	2024/8/14 21:05:09	当前用户： a
+a  3	2024/8/14 21:05:09	打开程序：flowtest
+a  3	2024/8/14 21:05:12	AlarmCode 1006:气压检测报警
+a  3	2024/8/14 21:05:12	停止

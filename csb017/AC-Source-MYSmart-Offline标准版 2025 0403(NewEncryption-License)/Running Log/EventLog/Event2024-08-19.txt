@@ -1,0 +1,25 @@
+
+a  3	2024/8/19 10:14:37	Initializing...
+a  3	2024/8/19 10:14:37	Current User: a
+a  3	2024/8/19 10:14:37	Open Program:flowtest
+a  3	2024/8/19 10:14:40	AlarmCode 1006:Pressure Low
+a  3	2024/8/19 10:14:40	Stop
+a  3	2024/8/19 10:14:53	Key click:
+a  3	2024/8/19 10:14:53	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:14:53	Key click:
+a  3	2024/8/19 10:14:53	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:14:56	Key click:
+a  3	2024/8/19 10:14:56	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:14:56	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:14:56	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:15:38	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:19:49	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:19:50	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:29:45	Key click:
+a  3	2024/8/19 10:29:45	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:29:45	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:29:46	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:30:40	Key click:
+a  3	2024/8/19 10:30:41	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:30:41	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/19 10:30:41	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000

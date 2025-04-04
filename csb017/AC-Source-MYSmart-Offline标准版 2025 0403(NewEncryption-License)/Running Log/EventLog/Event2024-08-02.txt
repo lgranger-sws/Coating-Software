@@ -1,0 +1,36 @@
+
+a  3	2024/8/2 16:51:52	设备初始化......
+a  3	2024/8/2 16:51:52	当前用户： a
+a  3	2024/8/2 16:51:52	打开程序：f069   灰胶
+a  3	2024/8/2 16:51:56	AlarmCode 1006:气压检测报警
+a  3	2024/8/2 16:51:56	停止
+a  3	2024/8/2 16:52:39	English
+a  3	2024/8/2 16:54:04	Chinese
+a  3	2024/8/2 16:54:57	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 16:54:57	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 16:55:01	English
+a  3	2024/8/2 16:55:15	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 16:55:15	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 17:49:10	Initializing...
+a  3	2024/8/2 17:49:10	Current User: a
+a  3	2024/8/2 17:49:10	Open Program:f069   灰胶
+a  3	2024/8/2 17:49:15	AlarmCode 1006:Pressure Low
+a  3	2024/8/2 17:49:15	Stop
+a  3	2024/8/2 19:07:00	Initializing...
+a  3	2024/8/2 19:07:00	Current User: a
+a  3	2024/8/2 19:07:01	Open Program:f069   灰胶
+a  3	2024/8/2 19:07:05	AlarmCode 1006:Pressure Low
+a  3	2024/8/2 19:07:05	Stop
+a  3	2024/8/2 19:07:08	Chinese
+a  3	2024/8/2 19:52:04	设备初始化......
+a  3	2024/8/2 19:52:04	当前用户： a
+a  3	2024/8/2 19:52:04	打开程序：f069   灰胶
+a  3	2024/8/2 19:52:09	AlarmCode 1006:气压检测报警
+a  3	2024/8/2 19:52:09	停止
+a  3	2024/8/2 19:52:15	气压检测:Disable
+a  3	2024/8/2 19:52:16	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Pressure detecting,Bar Code Match
+a  3	2024/8/2 19:52:17	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/8/2 19:52:58	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 19:52:58	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 19:53:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/8/2 19:53:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000

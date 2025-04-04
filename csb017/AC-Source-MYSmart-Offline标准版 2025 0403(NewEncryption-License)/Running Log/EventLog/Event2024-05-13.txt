@@ -1,0 +1,29 @@
+
+a  3	2024/5/13 21:36:39	Initializing...
+a  3	2024/5/13 21:36:39	Current User: a
+a  3	2024/5/13 21:36:39	Open Program:Conti BWM Gen4.1 bottom v1
+a  3	2024/5/13 21:36:41	AlarmCode 1006:Pressure Low
+a  3	2024/5/13 21:36:41	Stop
+a  3	2024/5/13 21:36:47	Heat Controller
+V-420A(f)HEATERCONTROLLER-1 controll error,Hardware-Channel:<1>
+V-420A(f)HEATERCONTROLLER-2 controll error,Hardware-Channel:<2>
+V-5400 HEATERCONTROLLER-3 controll error,Hardware-Channel:<3>
+V-5400 HEATERCONTROLLER-4 controll error,Hardware-Channel:<4>
+
+a  3	2024/5/13 21:36:49	Open Program:BMW_Gen_4_1_TOP
+a  3	2024/5/13 21:36:58	Open Program:Conti_NBM_top
+a  3	2024/5/13 21:37:05	Heat Controller
+V-420A(f)HEATERCONTROLLER-1 controll error,Hardware-Channel:<1>
+V-420A(f)HEATERCONTROLLER-2 controll error,Hardware-Channel:<2>
+V-5400 HEATERCONTROLLER-3 controll error,Hardware-Channel:<3>
+V-5400 HEATERCONTROLLER-4 controll error,Hardware-Channel:<4>
+
+a  3	2024/5/13 21:37:14	Open Program:conti
+a  3	2024/5/13 21:37:19	Open Program:Conti NBM
+a  3	2024/5/13 21:37:22	Heat Controller
+V-420A(f)HEATERCONTROLLER-1 controll error,Hardware-Channel:<1>
+V-420A(f)HEATERCONTROLLER-2 controll error,Hardware-Channel:<2>
+V-5400 HEATERCONTROLLER-3 controll error,Hardware-Channel:<3>
+V-5400 HEATERCONTROLLER-4 controll error,Hardware-Channel:<4>
+
+a  3	2024/5/13 21:37:40	Open Program:Conti BWM Gen4.1 top separate machine 1 v2

@@ -1,0 +1,139 @@
+
+a  3	4/28/2024 11:00:20 AM	Initializing...
+a  3	4/28/2024 11:00:21 AM	Current User: a
+a  3	4/28/2024 11:00:21 AM	Open Program:Software data
+a  3	4/28/2024 11:00:23 AM	The reset button is pressed
+a  3	4/28/2024 11:00:32 AM	Reset is completed
+a  3	4/28/2024 11:03:10 AM	Initializing...
+a  3	4/28/2024 11:03:10 AM	Current User: a
+a  3	4/28/2024 11:03:10 AM	Open Program:Software data
+a  3	4/28/2024 11:03:13 AM	The reset button is pressed
+a  3	4/28/2024 11:03:21 AM	Reset is completed
+a  3	4/28/2024 11:10:22 AM	Initializing...
+a  3	4/28/2024 11:10:22 AM	Current User: a
+a  3	4/28/2024 11:10:22 AM	Open Program:Software data
+a  3	4/28/2024 11:10:24 AM	The reset button is pressed
+a  3	4/28/2024 11:10:24 AM	Stop
+a  3	4/28/2024 11:10:25 AM	Stop
+a  3	4/28/2024 11:10:25 AM	AlarmCode 1006:Pressure Low
+a  3	4/28/2024 11:10:28 AM	Z home timeout
+a  3	4/28/2024 11:10:29 AM	Z home timeout
+a  3	4/28/2024 11:10:31 AM	The reset button is pressed
+a  3	4/28/2024 11:10:39 AM	Reset is completed
+a  3	4/28/2024 11:13:23 AM	Initializing...
+a  3	4/28/2024 11:13:23 AM	Current User: a
+a  3	4/28/2024 11:13:23 AM	Open Program:Software data
+a  3	4/28/2024 11:13:25 AM	The reset button is pressed
+a  3	4/28/2024 11:13:34 AM	Reset is completed
+a  3	4/28/2024 11:16:03 AM	Initializing...
+a  3	4/28/2024 11:16:03 AM	Current User: a
+a  3	4/28/2024 11:16:03 AM	Open Program:Software data
+a  3	4/28/2024 11:16:06 AM	The reset button is pressed
+a  3	4/28/2024 11:16:14 AM	Reset is completed
+a  3	4/28/2024 11:21:47 AM	Initializing...
+a  3	4/28/2024 11:21:47 AM	Current User: a
+a  3	4/28/2024 11:21:47 AM	Open Program:Software data
+a  3	4/28/2024 11:21:50 AM	The reset button is pressed
+a  3	4/28/2024 11:21:50 AM	AlarmCode 1006:Pressure Low
+a  3	4/28/2024 11:21:50 AM	Stop
+a  3	4/28/2024 11:21:53 AM	Z home timeout
+a  3	4/28/2024 11:21:56 AM	Z home timeout
+a  3	4/28/2024 11:21:58 AM	The reset button is pressed
+a  3	4/28/2024 11:22:06 AM	Reset is completed
+a  3	4/28/2024 11:22:09 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/28/2024 11:22:11 AM	The reset button is pressed
+a  3	4/28/2024 11:22:20 AM	Reset is completed
+a  3	4/28/2024 11:26:31 AM	Initializing...
+a  3	4/28/2024 11:26:31 AM	Current User: a
+a  3	4/28/2024 11:26:31 AM	Open Program:Software data
+a  3	4/28/2024 11:26:33 AM	The reset button is pressed
+a  3	4/28/2024 11:26:42 AM	Reset is completed
+a  3	4/28/2024 11:33:25 AM	Initializing...
+a  3	4/28/2024 11:33:25 AM	Current User: a
+a  3	4/28/2024 11:33:25 AM	Open Program:Software data
+a  3	4/28/2024 11:33:28 AM	The reset button is pressed
+a  3	4/28/2024 11:33:36 AM	Reset is completed
+a  3	4/28/2024 11:36:04 AM	Initializing...
+a  3	4/28/2024 11:36:04 AM	Current User: a
+a  3	4/28/2024 11:36:04 AM	Open Program:Software data
+a  3	4/28/2024 11:36:09 AM	The reset button is pressed
+a  3	4/28/2024 11:36:18 AM	Reset is completed
+a  3	4/28/2024 11:41:04 AM	Initializing...
+a  3	4/28/2024 11:41:04 AM	Current User: a
+a  3	4/28/2024 11:41:04 AM	Open Program:Software data
+a  3	4/28/2024 11:41:04 AM	The reset button is pressed
+a  3	4/28/2024 11:41:13 AM	Reset is completed
+a  3	4/28/2024 11:45:31 AM	Initializing...
+a  3	4/28/2024 11:45:31 AM	Current User: a
+a  3	4/28/2024 11:45:31 AM	Open Program:Software data
+a  3	4/28/2024 11:45:31 AM	The reset button is pressed
+a  3	4/28/2024 11:45:32 AM	Stop
+a  3	4/28/2024 11:45:33 AM	Stop
+a  3	4/28/2024 11:45:33 AM	AlarmCode 1006:Pressure Low
+a  3	4/28/2024 11:45:35 AM	Z home timeout
+a  3	4/28/2024 11:45:36 AM	Z home timeout
+a  3	4/28/2024 11:45:38 AM	The reset button is pressed
+a  3	4/28/2024 11:45:47 AM	Reset is completed
+a  3	4/28/2024 11:51:20 AM	Initializing...
+a  3	4/28/2024 11:51:20 AM	Current User: a
+a  3	4/28/2024 11:51:20 AM	Open Program:Software data
+a  3	4/28/2024 11:51:28 AM	The reset button is pressed
+a  3	4/28/2024 11:51:29 AM	Stop
+a  3	4/28/2024 11:51:29 AM	Stop
+a  3	4/28/2024 11:51:30 AM	AlarmCode 1006:Pressure Low
+a  3	4/28/2024 11:51:32 AM	Z home timeout
+a  3	4/28/2024 11:51:33 AM	Z home timeout
+a  3	4/28/2024 11:51:35 AM	The reset button is pressed
+a  3	4/28/2024 11:51:44 AM	Reset is completed
+a  3	4/28/2024 11:51:45 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	4/28/2024 11:53:10 AM	Initializing...
+a  3	4/28/2024 11:53:10 AM	Current User: a
+a  3	4/28/2024 11:53:10 AM	Open Program:Software data
+a  3	4/28/2024 11:53:11 AM	The reset button is pressed
+a  3	4/28/2024 11:53:19 AM	Reset is completed
+a  3	4/28/2024 12:10:58 PM	Heat Controller
+V-420A(f)HEATERCONTROLLER-1 controll error,Hardware-Channel:<1>
+V-420A(f)HEATERCONTROLLER-2 controll error,Hardware-Channel:<2>
+
+a  3	4/28/2024 12:10:58 PM	Stop
+a  3	4/28/2024 12:24:19 PM	Heat Controller
+V-5400 HEATERCONTROLLER-3 controll error,Hardware-Channel:<3>
+V-5400 HEATERCONTROLLER-4 controll error,Hardware-Channel:<4>
+
+a  3	4/28/2024 2:00:11 PM	Initializing...
+a  3	4/28/2024 2:00:12 PM	Current User: a
+a  3	4/28/2024 2:00:12 PM	Open Program:Software data
+a  3	4/28/2024 2:00:12 PM	The reset button is pressed
+a  3	4/28/2024 2:00:21 PM	Reset is completed
+a  3	4/28/2024 2:03:06 PM	Initializing...
+a  3	4/28/2024 2:03:06 PM	Current User: a
+a  3	4/28/2024 2:03:06 PM	Open Program:Software data
+a  3	4/28/2024 2:03:08 PM	The reset button is pressed
+a  3	4/28/2024 2:03:16 PM	Reset is completed
+a  3	4/28/2024 2:29:10 PM	Initializing...
+a  3	4/28/2024 2:29:10 PM	Current User: a
+a  3	4/28/2024 2:29:10 PM	Open Program:Software data
+a  3	4/28/2024 2:29:21 PM	The reset button is pressed
+a  3	4/28/2024 2:29:21 PM	Stop
+a  3	4/28/2024 2:29:22 PM	AlarmCode 1006:Pressure Low
+a  3	4/28/2024 2:29:22 PM	Stop
+a  3	4/28/2024 2:29:24 PM	Z home timeout
+a  3	4/28/2024 2:29:26 PM	Z home timeout
+a  3	4/28/2024 2:29:27 PM	The reset button is pressed
+a  3	4/28/2024 2:29:36 PM	Reset is completed
+a  3	4/28/2024 2:32:55 PM	Initializing...
+a  3	4/28/2024 2:32:55 PM	Current User: a
+a  3	4/28/2024 2:32:55 PM	Open Program:Software data
+a  3	4/28/2024 2:32:57 PM	The reset button is pressed
+a  3	4/28/2024 2:33:05 PM	Reset is completed
+a  3	4/28/2024 2:35:35 PM	Initializing...
+a  3	4/28/2024 2:35:35 PM	Current User: a
+a  3	4/28/2024 2:35:35 PM	Open Program:Software data
+a  3	4/28/2024 2:35:39 PM	The reset button is pressed
+a  3	4/28/2024 2:35:48 PM	Reset is completed
+a  3	4/28/2024 2:50:26 PM	Initializing...
+a  3	4/28/2024 2:50:26 PM	Current User: a
+a  3	4/28/2024 2:50:26 PM	Open Program:Software data
+a  3	4/28/2024 2:50:27 PM	The reset button is pressed
+a  3	4/28/2024 2:50:36 PM	Reset is completed
+a  3	4/28/2024 2:53:07 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000

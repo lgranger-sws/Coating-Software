@@ -1,0 +1,19 @@
+
+a  3	2025/01/27 15:57:40.409	设备初始化......
+a  3	2025/01/27 15:57:40.585	当前用户： a
+a  3	2025/01/27 15:57:40.605	打开程序：test
+a  3	2025/01/27 15:57:40.616	低气压检测未开启
+a  3	2025/01/27 15:57:41.050	复位按钮按下
+a  3	2025/01/27 15:57:58.613	设备复位完成
+a  3	2025/01/27 15:58:02.171	English
+a  3	2025/01/27 15:58:16.575	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/01/27 15:58:17.368	Key click:
+a  3	2025/01/27 15:58:17.543	Key click:
+a  3	2025/01/27 15:58:17.590	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/01/27 15:58:17.623	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/01/27 15:58:18.000	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 15:58:18.026	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 15:58:18.170	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2025/01/27 15:58:19.428	Save Program:test
+a  3	2025/01/27 15:58:23.128	Exit 
+a  3	2025/01/27 15:58:23.249	ShareParameters.bin the modify parameters are ConfigurationFilePath

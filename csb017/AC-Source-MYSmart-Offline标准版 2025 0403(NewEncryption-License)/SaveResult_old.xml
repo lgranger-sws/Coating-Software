@@ -1,0 +1,27 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <tem:SaveResult>
+         <!--Optional:-->
+         <tem:ffTesterXmlRequest><![CDATA[<?xml version="1.0" ?> 
+<BATCH TIMESTAMP="%s4" SYNTAX_REV="1.1" COMPATIBLE_REV="1.1">
+<FACTORY NAME="" LINE="" TESTER="%s1" FIXTURE="" SHIFT="" USER="admin" /> 
+<PRODUCT NAME="Phone One" REVISION="P1" FAMILY="" CUSTOMER="" /> 
+<REFS SEQ_REF="C:\FTS\Apps\Commodity GSM\Board_Level\Commodity GSM Board Level Test PD3.seq" FTS_REF="PM:v036,INT:V034(CFG:V013,RES:0.A9,MEA:1.14)" LIM_REF="" CFG_REF="C:\FTS\Apps\Commodity GSM\Board_Level\Commodity GSM Board Level Test PA1.cfg" CAL_REF="" INSTR_REF="" /> 
+<PANEL ID="Undef" COMMENT="" RUNMODE="Debug" TIMESTAMP="%s4" TESTTIME="120.107666" WAITTIME="0.000000" STATUS="%s6">
+<DUT ID="%s3" COMMENT="" PANEL="0" SOCKET="1" TIMESTAMP="%s4" TESTTIME="20.107666" ENDTIME="%s5" STATUS="%s6">
+      <GROUP NAME="Mycronic" STEPGROUP="Main" GROUPINDEX="1" LOOPINDEX="1" TYPE="" RESOURCE="" MODULETIME="1" TOTALTIME="1" TIMESTAMP="%s4" STATUS="%s6">
+        <TEST NAME="Mycronic" DESCRIPTION="Mycronic" UNIT="" VALUE="" HILIM="" LOLIM="" STATUS="%s6" RULE="EQ" TARGET="" />
+      </GROUP>
+</DUT>
+</PANEL>
+</BATCH>]]></tem:ffTesterXmlRequest>
+         <!--Optional:-->
+         <tem:stationName>%s1</tem:stationName>
+         <!--Optional:-->
+         <tem:userId>%s2</tem:userId>
+         <!--Optional:-->
+         <tem:extraData></tem:extraData>
+      </tem:SaveResult>
+   </soapenv:Body>
+</soapenv:Envelope>

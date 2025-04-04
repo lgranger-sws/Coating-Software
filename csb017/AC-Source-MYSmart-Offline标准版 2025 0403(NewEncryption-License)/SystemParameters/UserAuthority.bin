@@ -1,0 +1,81 @@
+Menu_System Setting	系统参数	0	0
+Select_Axis Para	轴参数	1	0
+Select_Track Para	轨道参数	1	0
+Select_Speed	速度设置	1	0
+Select_VISA	串口配置	1	0
+Select_Program Para	程序参数	1	0
+Menu_Coating	点胶参数	0	0
+Select_Coating	点胶参数	1	0
+Select_V5200	针阀设置	1	0
+Option_GlueExperienceLibrary	胶水经验库	1	0
+Menu_Advanced	高级功能	0	0
+Select_Barcode	条码	1	0
+Barcode_Setting 	设置	2	0
+Barcode_Program	调程序	2	0
+Program Quick Switch 	程序快捷切换 	2	0
+Select_Accuracy Test	精度测试	1	0
+Select_Laser Width	激光测宽	1	0
+Select_Rotate	旋转	1	0
+Select_Advanced	高级功能	1	0
+Menu_Calibration	校正	0	0
+Select_Vision	视觉校正	1	0
+Select_Valve 1	阀 1	1	0
+V1_Coarse 	粗校正	2	0
+V1_Fine	精校正	2	0
+Select_Valve 2	阀 2	1	0
+V2_Coarse 	粗校正	2	0
+V2_Fine	精校正	2	0
+Select_Valve 3	阀 3	1	0
+V3_Coarse 	粗校正	2	0
+V3_Fine	精校正	2	0
+Select_Valve 4	阀 4	1	0
+V4_Coarse 	粗校正	2	0
+V4_Fine	精校正	2	0
+Select_Laser Camera	激光VS相机	1	0
+Select_Needle	针头校正	1	0
+Select_Barcode Camera	扫码枪VS相机 	1	0
+Menu_IO	IO	0	0
+Select_IO	IO	1	0
+Menu_Option	选配功能	0	0
+Option_GlueChange	胶水更换设置	1	3
+Option_TwoValveDistanceAdjust	双阀自动调宽	1	0
+Option_Weight	称重设置	1	3
+Option_THT AVI	THTAVI	1	3
+Option_AVI	AVI	1	3
+Option_PipeClean	管路清洗切换	1	3
+Option_TwoConponentSpray	供料和计量	1	3
+Option_HeaterSetting	加热模块设置	1	3
+Option_Mixing drum	搅拌桶配置	1	0
+Option_MES	MES	1	0
+Jog+Speed	Jog+Speed	0	0
+ValveDisepense	阀教导模式	0	0
+Program	轨迹编辑	0	0
+In-Out	手动进出板	0	0
+Add Pattern	增加模板	0	0
+Delet Pattern	删除模板	0	0
+PlacePattern	放置模板	0	0
+Disable/Endable	禁用/启用	0	0
+Flat	面教导	0	0
+Matrix	矩阵放置	0	0
+MarkSetting	Mark	0	0
+Bad MarkSetting	Bad Mark	0	0
+SetReferPos	设置参考点	0	0
+TestRun	TestRun	0	0
+Image	Image	0	0
+ListOperate	程序操作	0	0
+Pattern	模板选择	0	0
+TrackList	程序表格	0	0
+Back to wash	清洗	0	0
+Purge	吐胶	0	0
+WorkOrigin	工作原点	0	0
+Front	前位	0	0
+ZOrigin	Z轴原点	0	0
+StopCylinder	挡板气缸	0	0
+DispensingAreaShade	轨道遮蔽	0	0
+DispenseSensorCover	点胶位遮蔽	0	0
+Program path	程序选择	0	0
+Language switch	语言切换	0	0
+RunMode	点胶模式	0	0
+PassMode	过板模式	0	0
+GlueWeight	胶重写入	0	
+ValveAction	开阀	0	

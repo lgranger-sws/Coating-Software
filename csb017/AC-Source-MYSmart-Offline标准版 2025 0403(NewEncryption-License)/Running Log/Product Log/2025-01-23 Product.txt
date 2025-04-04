@@ -1,0 +1,3 @@
+
+17-17-42	{"SN":"","StartTime":"25-01-23 17:17:29","StopTime":"25-01-23 17:17:42","ProgramName":"888888888888888888888","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+17-18-17	{"SN":"","StartTime":"25-01-23 17:18:02","StopTime":"25-01-23 17:18:17","ProgramName":"888888888888888888888","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}

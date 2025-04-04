@@ -1,0 +1,2 @@
+
+21-02-38	{"SN":"","StartTime":"24-11-19 21:02:36","StopTime":"24-11-19 21:02:38","ProgramName":"20241118114112","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}

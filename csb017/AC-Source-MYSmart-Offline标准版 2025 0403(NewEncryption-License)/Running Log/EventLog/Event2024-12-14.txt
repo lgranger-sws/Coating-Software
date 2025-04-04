@@ -1,0 +1,42 @@
+
+admin  3	2024/12/14 13:30:39.871	Initializing...
+admin  3	2024/12/14 13:30:40.021	Current User: admin
+admin  3	2024/12/14 13:30:40.031	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:30:40.058	Low pressure detection not activated
+admin  3	2024/12/14 13:36:21.231	Initializing...
+admin  3	2024/12/14 13:36:21.348	Current User: admin
+admin  3	2024/12/14 13:36:21.357	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:36:21.368	Low pressure detection not activated
+admin  3	2024/12/14 13:36:31.657	Coating Running
+admin  3	2024/12/14 13:36:32.204	
+admin  3	2024/12/14 13:36:36.594	Automatically run to the cleanPosition:Result:FALSE
+admin  3	2024/12/14 13:36:37.419	Stop
+admin  3	2024/12/14 13:41:21.593	Initializing...
+admin  3	2024/12/14 13:41:21.728	Current User: admin
+admin  3	2024/12/14 13:41:21.738	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:41:21.748	Low pressure detection not activated
+admin  3	2024/12/14 13:41:35.977	Coating Running
+admin  3	2024/12/14 13:41:36.303	
+admin  3	2024/12/14 13:41:40.414	Automatically run to the cleanPosition:Result:FALSE
+admin  3	2024/12/14 13:41:41.215	Stop
+admin  3	2024/12/14 13:42:29.869	Initializing...
+admin  3	2024/12/14 13:42:30.005	Current User: admin
+admin  3	2024/12/14 13:42:30.016	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:42:30.026	Low pressure detection not activated
+admin  3	2024/12/14 13:44:36.919	Initializing...
+admin  3	2024/12/14 13:44:37.062	Current User: admin
+admin  3	2024/12/14 13:44:37.087	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:44:37.097	Low pressure detection not activated
+admin  3	2024/12/14 13:46:35.275	Initializing...
+admin  3	2024/12/14 13:46:35.404	Current User: admin
+admin  3	2024/12/14 13:46:35.414	Open Program:SLA-Coater1-004
+admin  3	2024/12/14 13:46:35.424	Low pressure detection not activated
+admin  3	2024/12/14 13:46:42.638	Coating Running
+admin  3	2024/12/14 13:46:43.206	
+admin  3	2024/12/14 13:46:45.780	Valve cylinder lifting timeout
+admin  3	2024/12/14 13:46:48.977	Automatically run to the cleanPosition:Result:FALSE
+admin  3	2024/12/14 13:46:49.750	Stop
+admin  3	2024/12/14 13:47:07.760	Coating Running
+admin  3	2024/12/14 13:47:08.312	
+admin  3	2024/12/14 13:47:11.424	Automatically run to the cleanPosition:Result:FALSE
+admin  3	2024/12/14 13:47:11.930	Stop

@@ -1,0 +1,7 @@
+Current Product	Weight
+Product0Weight	0.476g		Flowmeter3		0.476g
+Product0Weight	0.452g		Flowmeter3		0.452g
+Product0Weight	0.458g		Flowmeter3		0.458g
+Product0Weight	0.439g		Flowmeter3		0.439g
+Product0Weight	0.000g
+Product0Weight	0.000g

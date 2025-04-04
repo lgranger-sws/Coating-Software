@@ -1,0 +1,202 @@
+
+a  3	2024/10/11 11:48:52	设备初始化......
+a  3	2024/10/11 11:48:52	当前用户： a
+a  3	2024/10/11 11:48:52	打开程序：HPCU CB T
+a  3	2024/10/11 11:48:54	门禁打开
+a  3	2024/10/11 11:48:56	门禁打开
+a  3	2024/10/11 11:49:58	设备初始化......
+a  3	2024/10/11 11:49:58	当前用户： a
+a  3	2024/10/11 11:49:58	打开程序：HPCU CB T
+a  3	2024/10/11 11:49:58	低气压检测未开启
+a  3	2024/10/11 11:50:00	复位按钮按下
+a  3	2024/10/11 11:50:07	设备复位完成
+a  3	2024/10/11 11:50:10	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/10/11 11:50:20	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/10/11 11:50:20	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Feeding mode,DataSavedBySys
+a  3	2024/10/11 11:50:23	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/10/11 11:50:23	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Auto adjusting width
+a  3	2024/10/11 11:50:29	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/10/11 11:50:30	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/10/11 11:50:55	ParametersOfAxis.bin文件中以下参数已经被修改：Rest speed_setting
+a  3	2024/10/11 11:50:56	ParametersOfFilmWidthTesting.bin文件中以下参数已经被修改：Width Test Para
+a  3	2024/10/11 11:50:56	TrackAndPar.bin文件中以下参数已经被修改：清洗设置
+a  3	2024/10/11 11:50:56	ShareParameters.bin文件中以下参数已经被修改：清洗设置
+a  3	2024/10/11 11:51:07	鼠标点击：Y+
+a  3	2024/10/11 11:51:07	鼠标释放或离开：CurrentPosition--> X:131.278 Y:88.434 Z:44.124
+a  3	2024/10/11 11:51:07	鼠标释放或离开：CurrentPosition--> X:131.278 Y:90.118 Z:44.124
+a  3	2024/10/11 11:51:09	鼠标点击：X+
+a  3	2024/10/11 11:51:12	鼠标释放或离开：CurrentPosition--> X:280.863 Y:90.118 Z:44.124
+a  3	2024/10/11 11:51:12	鼠标点击：Y+
+a  3	2024/10/11 11:51:15	鼠标释放或离开：CurrentPosition--> X:282.086 Y:210.300 Z:44.124
+a  3	2024/10/11 11:51:15	鼠标释放或离开：CurrentPosition--> X:282.086 Y:210.300 Z:44.124
+a  3	2024/10/11 11:51:15	手动清胶
+a  3	2024/10/11 11:51:20	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 11:51:28	ParametersOfAxis.bin文件中以下参数已经被修改：Speed_setting
+a  3	2024/10/11 11:51:32	手动清胶
+a  3	2024/10/11 11:51:35	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 11:51:36	鼠标点击：Y+
+a  3	2024/10/11 11:51:37	鼠标释放或离开：CurrentPosition--> X:131.278 Y:136.751 Z:44.124
+a  3	2024/10/11 11:51:37	鼠标点击：Y+
+a  3	2024/10/11 11:51:38	鼠标释放或离开：CurrentPosition--> X:131.278 Y:196.231 Z:44.124
+a  3	2024/10/11 11:51:38	鼠标释放或离开：CurrentPosition--> X:131.278 Y:196.231 Z:44.124
+a  3	2024/10/11 11:51:39	鼠标点击：X+
+a  3	2024/10/11 11:51:42	鼠标释放或离开：CurrentPosition--> X:285.413 Y:200.290 Z:44.124
+a  3	2024/10/11 11:51:42	鼠标释放或离开：CurrentPosition--> X:289.970 Y:200.290 Z:44.124
+a  3	2024/10/11 11:51:43	手动清胶
+a  3	2024/10/11 11:51:47	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 11:51:55	TrackAndPar.bin文件中以下参数已经被修改：After Clear to Purge
+a  3	2024/10/11 11:51:55	ShareParameters.bin文件中以下参数已经被修改：After Clear to Purge
+a  3	2024/10/11 11:52:31	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,清胶方式选择,Process Out
+a  3	2024/10/11 11:52:35	电源开关被按下，请复位。
+a  3	2024/10/11 11:52:47	停止
+a  3	2024/10/11 11:52:51	复位按钮按下
+a  3	2024/10/11 11:53:18	X轴复位失败！
+a  3	2024/10/11 11:53:18	停止
+a  3	2024/10/11 11:53:29	Z轴复位失败
+a  3	2024/10/11 11:54:32	复位按钮按下
+a  3	2024/10/11 11:54:56	设备复位完成
+a  3	2024/10/11 11:55:32	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt,清胶方式选择
+a  3	2024/10/11 11:55:32	手动模式
+a  3	2024/10/11 11:55:34	空运行
+a  3	2024/10/11 11:55:34	空运行
+a  3	2024/10/11 11:55:35	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/10/11 11:57:38	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:45:52	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,Process Out
+a  3	2024/10/11 13:45:52	TrackAndPar.bin文件中以下参数已经被修改：运行模式2
+a  3	2024/10/11 13:45:58	手动清洗
+a  3	2024/10/11 13:46:00	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:46:04	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:46:39	手动清洗
+a  3	2024/10/11 13:46:40	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:46:41	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:47:24	手动清洗
+a  3	2024/10/11 13:47:26	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:47:27	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:50:36	设备初始化......
+a  3	2024/10/11 13:50:36	当前用户： a
+a  3	2024/10/11 13:50:36	打开程序：HPCU CB T
+a  3	2024/10/11 13:50:36	低气压检测未开启
+a  3	2024/10/11 13:50:37	复位按钮按下
+a  3	2024/10/11 13:50:54	设备复位完成
+a  3	2024/10/11 13:51:31	手动清洗
+a  3	2024/10/11 13:51:33	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:51:35	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:52:03	手动清洗
+a  3	2024/10/11 13:52:05	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:52:05	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:52:33	手动清洗
+a  3	2024/10/11 13:52:35	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:52:35	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:53:04	手动清洗
+a  3	2024/10/11 13:53:06	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:53:07	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:53:24	手动清洗
+a  3	2024/10/11 13:53:28	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:53:29	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:54:02	手动清洗
+a  3	2024/10/11 13:54:04	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:54:05	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:54:07	手动清洗
+a  3	2024/10/11 13:54:08	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:54:09	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:54:10	手动清洗
+a  3	2024/10/11 13:54:12	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:54:13	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:54:28	手动清洗
+a  3	2024/10/11 13:54:30	阀气缸下降超时(Valve 1)
+a  3	2024/10/11 13:54:31	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:56:54	设备初始化......
+a  3	2024/10/11 13:56:54	当前用户： a
+a  3	2024/10/11 13:56:54	打开程序：HPCU CB T
+a  3	2024/10/11 13:56:54	低气压检测未开启
+a  3	2024/10/11 13:56:54	复位按钮按下
+a  3	2024/10/11 13:57:12	设备复位完成
+a  3	2024/10/11 13:57:33	手动清洗
+a  3	2024/10/11 13:57:39	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:57:42	鼠标点击：Z+
+a  3	2024/10/11 13:57:42	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:55.135
+a  3	2024/10/11 13:57:42	鼠标点击：Z+
+a  3	2024/10/11 13:57:43	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:61.607
+a  3	2024/10/11 13:57:43	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:63.916
+a  3	2024/10/11 13:57:44	手动清洗
+a  3	2024/10/11 13:57:49	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:50.027
+a  3	2024/10/11 13:57:49	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:58:48	手动清胶
+a  3	2024/10/11 13:58:52	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:58:54	手动清洗
+a  3	2024/10/11 13:58:59	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:59:22	手动清胶
+a  3	2024/10/11 13:59:25	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:59:28	手动清洗
+a  3	2024/10/11 13:59:33	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 13:59:58	手动清洗
+a  3	2024/10/11 14:00:03	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:00:05	手动清胶
+a  3	2024/10/11 14:00:08	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:00:10	手动清胶
+a  3	2024/10/11 14:00:13	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:00:16	鼠标点击：Z+
+a  3	2024/10/11 14:00:16	鼠标释放或离开：CurrentPosition--> X:131.278 Y:131.278 Z:49.354
+a  3	2024/10/11 14:00:16	鼠标点击：Z+
+a  3	2024/10/11 14:00:16	鼠标释放或离开：CurrentPosition--> X:131.278 Y:131.278 Z:60.983
+a  3	2024/10/11 14:00:17	鼠标释放或离开：CurrentPosition--> X:131.278 Y:131.278 Z:62.536
+a  3	2024/10/11 14:00:21	鼠标释放或离开：CurrentPosition--> X:131.278 Y:131.278 Z:62.536
+a  3	2024/10/11 14:00:24	鼠标释放或离开：CurrentPosition--> X:131.278 Y:131.278 Z:62.536
+a  3	2024/10/11 14:00:42	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,Process Out
+a  3	2024/10/11 14:00:46	ParametersOfSystemSetting.bin文件中以下参数已经被修改：清胶方式选择
+a  3	2024/10/11 14:00:51	手动清洗
+a  3	2024/10/11 14:00:56	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:00:59	手动清洗
+a  3	2024/10/11 14:01:04	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:01:42	手动清胶
+a  3	2024/10/11 14:01:45	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:01:47	手动清胶
+a  3	2024/10/11 14:01:49	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:01:50	手动清洗
+a  3	2024/10/11 14:01:55	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:02:00	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:50.027
+a  3	2024/10/11 14:05:19	鼠标点击：Z-
+a  3	2024/10/11 14:05:19	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:44.892
+a  3	2024/10/11 14:05:20	鼠标点击：Z-
+a  3	2024/10/11 14:05:20	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:15.753
+a  3	2024/10/11 14:05:20	鼠标点击：Z-
+a  3	2024/10/11 14:05:20	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:10.023
+a  3	2024/10/11 14:05:21	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:8.214
+a  3	2024/10/11 14:05:22	鼠标释放或离开：CurrentPosition--> X:225.620 Y:225.620 Z:8.214
+a  3	2024/10/11 14:05:28	手动清洗
+a  3	2024/10/11 14:05:34	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:05:50	手动清洗
+a  3	2024/10/11 14:05:55	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:06:13	手动清洗
+a  3	2024/10/11 14:06:17	手动清胶
+a  3	2024/10/11 14:06:18	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:06:23	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:10:30	设备初始化......
+a  3	2024/10/11 14:10:30	当前用户： a
+a  3	2024/10/11 14:10:30	打开程序：HPCU CB T
+a  3	2024/10/11 14:10:30	低气压检测未开启
+a  3	2024/10/11 14:10:31	复位按钮按下
+a  3	2024/10/11 14:10:51	设备复位完成
+a  3	2024/10/11 14:11:13	手动清洗
+a  3	2024/10/11 14:11:20	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:13:47	手动清胶
+a  3	2024/10/11 14:13:51	手动清洗
+a  3	2024/10/11 14:13:52	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.278 Y:131.278 Z:44.124 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:13:58	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:17:03	鼠标点击：X+
+a  3	2024/10/11 14:17:04	鼠标释放或离开：CurrentPosition--> X:232.794 Y:225.620 Z:50.027
+a  3	2024/10/11 14:17:04	鼠标点击：X+
+a  3	2024/10/11 14:17:04	鼠标释放或离开：CurrentPosition--> X:234.840 Y:225.620 Z:50.027
+a  3	2024/10/11 14:17:04	鼠标释放或离开：CurrentPosition--> X:234.840 Y:225.620 Z:50.027
+a  3	2024/10/11 14:17:12	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Feeding mode
+a  3	2024/10/11 14:17:21	鼠标释放或离开：CurrentPosition--> X:238.728 Y:225.620 Z:50.027
+a  3	2024/10/11 14:17:29	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Feeding mode
+a  3	2024/10/11 14:17:34	鼠标释放或离开：CurrentPosition--> X:238.728 Y:225.620 Z:50.027
+a  3	2024/10/11 14:17:37	手动清胶
+a  3	2024/10/11 14:17:41	工作原点
+a  3	2024/10/11 14:17:41	手动点击吐胶按钮，目标位置:Setting--->X:131.278 Y:86.240 Z:44.124 Current--->X:131.284 Y:131.289 Z:5.000 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:17:45	手动清洗
+a  3	2024/10/11 14:17:52	手动清洗(QueueError:FALSE,Code:0,Errortext:)
+a  3	2024/10/11 14:19:15	设置1_Mark匹配坐标：X:336.833 Y:348.624 Z:24.811 Result:TRUE
+a  3	2024/10/11 14:19:17	1_Mark运动至坐标：X:336.833 Y:348.624 Z:24.811 Result:TRUE
+a  3	2024/10/11 14:19:19	1_Mark运动至坐标：X:336.833 Y:348.624 Z:24.811 Result:TRUE

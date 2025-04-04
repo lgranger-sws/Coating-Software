@@ -1,0 +1,15 @@
+
+admin  3	2024/12/13 09:58:53.810	Initializing...
+admin  3	2024/12/13 09:58:54.684	Current User: admin
+admin  3	2024/12/13 09:58:54.690	Open Program:SLA-Coater1-004
+admin  3	2024/12/13 09:58:54.805	Low pressure detection not activated
+admin  3	2024/12/13 09:58:55.111	The reset button is pressed
+admin  3	2024/12/13 09:58:59.631	Valve cylinder lifting timeout
+admin  3	2024/12/13 09:59:03.912	Z home timeout
+admin  3	2024/12/13 09:59:04.225	Stop
+admin  3	2024/12/13 09:59:05.391	Z home timeout
+admin  3	2024/12/13 09:59:08.449	The reset button is pressed
+admin  3	2024/12/13 09:59:12.910	Valve cylinder lifting timeout
+admin  3	2024/12/13 09:59:14.815	Z home timeout
+admin  3	2024/12/13 09:59:15.238	Stop
+admin  3	2024/12/13 09:59:15.838	Z home timeout

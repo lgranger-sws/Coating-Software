@@ -1,0 +1,54 @@
+
+a  3	2024/7/24 10:04:14	设备初始化......
+a  3	2024/7/24 10:04:14	当前用户： a
+a  3	2024/7/24 10:04:14	打开程序：2024-07-20
+a  3	2024/7/24 10:04:14	复位按钮按下
+a  3	2024/7/24 10:04:35	设备复位完成
+a  3	2024/7/24 10:04:40	涂胶运行
+a  3	2024/7/24 10:04:40	
+a  3	2024/7/24 10:04:45	停止
+a  3	2024/7/24 10:04:46	停止
+a  3	2024/7/24 10:04:50	涂胶运行
+a  3	2024/7/24 10:04:51	
+a  3	2024/7/24 10:05:09	ProcessingStarted
+a  3	2024/7/24 10:05:12	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/7/24 10:05:12	ProcessedEnd
+a  3	2024/7/24 10:05:12	{"SN":"","StartTime":"24-07-24 10:05:09","StopTime":"24-07-24 10:05:12","ProgramName":"2024-07-20","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/7/24 10:05:31	ProcessingStarted
+a  3	2024/7/24 10:05:33	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/7/24 10:05:33	ProcessedEnd
+a  3	2024/7/24 10:05:33	{"SN":"","StartTime":"24-07-24 10:05:31","StopTime":"24-07-24 10:05:33","ProgramName":"2024-07-20","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/7/24 10:06:12	ProcessingStarted
+a  3	2024/7/24 10:06:14	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/7/24 10:06:14	ProcessedEnd
+a  3	2024/7/24 10:06:14	{"SN":"","StartTime":"24-07-24 10:06:12","StopTime":"24-07-24 10:06:14","ProgramName":"2024-07-20","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/7/24 10:06:15	停止
+a  3	2024/7/24 10:06:16	停止
+a  3	2024/7/24 10:06:33	TrackAndPar.bin文件中以下参数已经被修改：Move speed_setting
+a  3	2024/7/24 10:06:34	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match
+a  3	2024/7/24 10:06:41	涂胶运行
+a  3	2024/7/24 10:06:42	
+a  3	2024/7/24 10:06:44	停止
+a  3	2024/7/24 10:06:45	停止
+a  3	2024/7/24 10:06:57	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/7/24 10:07:01	涂胶运行
+a  3	2024/7/24 10:07:01	
+a  3	2024/7/24 10:07:24	ProcessingStarted
+a  3	2024/7/24 10:07:26	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/7/24 10:07:26	ProcessedEnd
+a  3	2024/7/24 10:07:26	{"SN":"","StartTime":"24-07-24 10:07:24","StopTime":"24-07-24 10:07:26","ProgramName":"2024-07-20","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/7/24 10:07:48	ProcessingStarted
+a  3	2024/7/24 10:07:50	设备加工流程标志：TRUE 异常停机：FALSE
+a  3	2024/7/24 10:07:50	ProcessedEnd
+a  3	2024/7/24 10:07:50	{"SN":"","StartTime":"24-07-24 10:07:48","StopTime":"24-07-24 10:07:50","ProgramName":"2024-07-20","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2024/7/24 10:07:58	停止
+a  3	2024/7/24 10:08:00	停止
+a  3	2024/7/24 14:34:12	设备初始化......
+a  3	2024/7/24 14:34:12	当前用户： a
+a  3	2024/7/24 14:34:12	打开程序：2024-07-20
+a  3	2024/7/24 14:36:33	设备初始化......
+a  3	2024/7/24 14:36:33	当前用户： a
+a  3	2024/7/24 14:36:33	打开程序：2024-07-20
+a  3	2024/7/24 14:36:36	AlarmCode 1006:气压检测报警
+a  3	2024/7/24 14:36:36	停止
+a  3	2024/7/24 14:36:40	English

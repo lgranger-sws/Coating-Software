@@ -1,0 +1,317 @@
+
+a  3	9/25/2024 5:26:32 PM	Initializing...
+a  3	9/25/2024 5:26:32 PM	Current User: a
+a  3	9/25/2024 5:26:32 PM	Open Program:HPCU CB T
+a  3	9/25/2024 5:26:38 PM	The reset button is pressed
+a  3	9/25/2024 5:26:47 PM	Reset is completed
+a  3	9/25/2024 5:27:19 PM	DryRun
+a  3	9/25/2024 5:27:19 PM	DryRun
+a  3	9/25/2024 5:27:53 PM	Coating Running
+a  3	9/25/2024 5:27:53 PM	
+a  3	9/25/2024 5:27:53 PM	The expiry date is ,the Glue is not  within the validity period.
+a  3	9/25/2024 5:28:12 PM	Open Program:HPCU CB T
+a  3	9/25/2024 5:28:13 PM	Stop
+a  3	9/25/2024 5:29:18 PM	Coating Running
+a  3	9/25/2024 5:29:18 PM	
+a  3	9/25/2024 5:29:40 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 5:30:18 PM	Stop
+a  3	9/25/2024 5:30:20 PM	Stop
+a  3	9/25/2024 5:30:22 PM	Stop
+a  3	9/25/2024 5:30:25 PM	Stop
+a  3	9/25/2024 5:31:18 PM	TrackAndPar.bin the modify parameters are Move speed_setting,FlowAlarmLimitSettingData,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	9/25/2024 5:31:18 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,FlowAlarmLimitSettingData
+a  3	9/25/2024 5:31:18 PM	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match,LaserSelect,ValveColor,DataSavedBySys,GluechangeVitesco,Purge后刮胶参数 2,ChangChun Vitesco Glue Para2,ScanPosition array2,Track Dir out,Only adjust width BySMEMA,Valve 1 out,Valve 2 out,Valve 3 out,Valve 4 out,German Cicor Glue Para out,Mix drum  para 2,Slovakia - CemmThome SK Glue Para2
+a  3	9/25/2024 5:31:18 PM	MoveParameters.bin the modify parameters are Waiting feeding delay
+a  3	9/25/2024 5:31:43 PM	Coating Running
+a  3	9/25/2024 5:31:44 PM	
+a  3	9/25/2024 5:32:05 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 5:42:13 PM	Initializing...
+a  3	9/25/2024 5:42:14 PM	Current User: a
+a  3	9/25/2024 5:42:14 PM	Open Program:HPCU CB T
+a  3	9/25/2024 5:42:23 PM	The reset button is pressed
+a  3	9/25/2024 5:42:52 PM	Reset is completed
+a  3	9/25/2024 5:43:44 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	9/25/2024 5:44:17 PM	DryRun
+a  3	9/25/2024 5:44:17 PM	DryRun
+a  3	9/25/2024 5:44:27 PM	Coating Running
+a  3	9/25/2024 5:44:28 PM	
+a  3	9/25/2024 5:44:49 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 5:46:37 PM	Stop
+a  3	9/25/2024 5:46:39 PM	Stop
+a  3	9/25/2024 5:46:58 PM	Coating Running
+a  3	9/25/2024 5:46:59 PM	
+a  3	9/25/2024 5:47:19 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 5:47:29 PM	Stop
+a  3	9/25/2024 5:47:31 PM	Stop
+a  3	9/25/2024 5:47:57 PM	Coating Running
+a  3	9/25/2024 5:47:58 PM	
+a  3	9/25/2024 5:48:14 PM	Automatically run to the Purge positionSetting--->X:79.532 Y:9.692 Z:40.044 Current--->X:79.532 Y:9.692 Z:40.044 Result:TRUE GTS_Code:0
+a  3	9/25/2024 5:48:15 PM	ProcessingStarted
+a  3	9/25/2024 5:48:17 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:374.516 Y:67.303 Z:19.900  Match-->X:374.724 Y:67.714 Result:TRUE ;Score:96.344
+a  3	9/25/2024 5:48:20 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:102.202 Y:224.794 Z:19.900  Match-->X:102.397 Y:225.280 Result:TRUE ;Score:97.661
+a  3	9/25/2024 5:48:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 5:49:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 5:49:00 PM	ProcessedEnd
+a  3	9/25/2024 5:49:01 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 5:49:01 PM	{"SN":"","StartTime":"24-09-25 17:48:15","StopTime":"24-09-25 17:49:00","ProgramName":"HPCU CB T","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":""}}
+a  3	9/25/2024 5:50:10 PM	Stop
+a  3	9/25/2024 5:50:12 PM	Stop
+a  3	9/25/2024 5:50:51 PM	TrackAndPar.bin the modify parameters are Move speed_setting,TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	9/25/2024 5:50:51 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	9/25/2024 5:50:51 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	9/25/2024 5:50:56 PM	LoadBoard
+a  3	9/25/2024 5:51:26 PM	LoadBoard
+a  3	9/25/2024 5:51:35 PM	LoadBoard
+a  3	9/25/2024 5:54:02 PM	LoadBoard
+a  3	9/25/2024 5:54:05 PM	LoadBoard
+a  3	9/25/2024 5:54:08 PM	LoadBoard
+a  3	9/25/2024 5:54:12 PM	Stop
+a  3	9/25/2024 5:54:14 PM	LoadBoard
+a  3	9/25/2024 5:54:37 PM	Stop
+a  3	9/25/2024 5:54:47 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 5:54:52 PM	LoadBoard
+a  3	9/25/2024 5:55:44 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 5:55:49 PM	Coating Running
+a  3	9/25/2024 5:55:50 PM	
+a  3	9/25/2024 5:55:50 PM	Stop
+a  3	9/25/2024 5:55:51 PM	Stop
+a  3	9/25/2024 5:55:53 PM	LoadBoard
+a  3	9/25/2024 5:56:17 PM	Stop
+a  3	9/25/2024 5:56:30 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 5:56:35 PM	LoadBoard
+a  3	9/25/2024 5:57:00 PM	Stop
+a  3	9/25/2024 5:57:06 PM	LoadBoard
+a  3	9/25/2024 5:57:26 PM	Stop
+a  3	9/25/2024 5:57:29 PM	LoadBoard
+a  3	9/25/2024 5:57:40 PM	Stop
+a  3	9/25/2024 5:58:45 PM	LoadBoard
+a  3	9/25/2024 5:59:48 PM	Coating Running
+a  3	9/25/2024 5:59:49 PM	
+a  3	9/25/2024 6:00:09 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:00:11 PM	Stop
+a  3	9/25/2024 6:00:12 PM	Stop
+a  3	9/25/2024 6:00:48 PM	Coating Running
+a  3	9/25/2024 6:00:49 PM	
+a  3	9/25/2024 6:01:09 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:01:23 PM	Stop
+a  3	9/25/2024 6:01:25 PM	Stop
+a  3	9/25/2024 6:02:54 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:02:54 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	9/25/2024 6:03:00 PM	Coating Running
+a  3	9/25/2024 6:03:02 PM	
+a  3	9/25/2024 6:03:21 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:03:29 PM	Alarm: Un-Loading timeout	Stop
+a  3	9/25/2024 6:03:30 PM	Stop
+a  3	9/25/2024 6:06:02 PM	Initializing...
+a  3	9/25/2024 6:06:02 PM	Current User: a
+a  3	9/25/2024 6:06:02 PM	Open Program:HPCU CB T
+a  3	9/25/2024 6:06:59 PM	The reset button is pressed
+a  3	9/25/2024 6:07:28 PM	Reset is completed
+a  3	9/25/2024 6:07:36 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:07:37 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	9/25/2024 6:07:40 PM	Coating Running
+a  3	9/25/2024 6:07:41 PM	
+a  3	9/25/2024 6:08:02 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:08:47 PM	Alarm: Un-Loading timeout	Stop
+a  3	9/25/2024 6:08:49 PM	Stop
+a  3	9/25/2024 6:09:14 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:10:20 PM	Coating Running
+a  3	9/25/2024 6:10:22 PM	
+a  3	9/25/2024 6:10:42 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:11:15 PM	Stop
+a  3	9/25/2024 6:11:17 PM	Stop
+a  3	9/25/2024 6:11:30 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:11:47 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:13:33 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:14:59 PM	DryRun
+a  3	9/25/2024 6:15:00 PM	DryRun
+a  3	9/25/2024 6:15:04 PM	Coating Running
+a  3	9/25/2024 6:15:06 PM	
+a  3	9/25/2024 6:15:25 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:15:32 PM	Stop
+a  3	9/25/2024 6:15:35 PM	Stop
+a  3	9/25/2024 6:18:28 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:18:29 PM	MoveParameters.bin the modify parameters are Waiting feeding delay
+a  3	9/25/2024 6:19:50 PM	Coating Running
+a  3	9/25/2024 6:19:52 PM	
+a  3	9/25/2024 6:20:12 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:20:18 PM	Alarm: Un-Loading timeout(Third Track)
+a  3	9/25/2024 6:21:04 PM	Stop
+a  3	9/25/2024 6:21:06 PM	Stop
+a  3	9/25/2024 6:21:36 PM	Coating Running
+a  3	9/25/2024 6:21:38 PM	
+a  3	9/25/2024 6:21:58 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:22:18 PM	Stop
+a  3	9/25/2024 6:22:21 PM	Stop
+a  3	9/25/2024 6:22:28 PM	Coating Running
+a  3	9/25/2024 6:22:30 PM	
+a  3	9/25/2024 6:22:44 PM	Alarm: Un-Loading timeout(First Track)
+a  3	9/25/2024 6:22:49 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:22:50 PM	Stop
+a  3	9/25/2024 6:22:52 PM	Stop
+a  3	9/25/2024 6:22:58 PM	Coating Running
+a  3	9/25/2024 6:23:00 PM	
+a  3	9/25/2024 6:23:14 PM	Alarm: Un-Loading timeout(Second Track)
+a  3	9/25/2024 6:23:19 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:23:21 PM	Stop
+a  3	9/25/2024 6:23:23 PM	Stop
+a  3	9/25/2024 6:23:27 PM	Stop
+a  3	9/25/2024 6:23:54 PM	Coating Running
+a  3	9/25/2024 6:23:55 PM	
+a  3	9/25/2024 6:24:09 PM	Automatically run to the Purge positionSetting--->X:79.532 Y:9.692 Z:40.044 Current--->X:79.532 Y:9.692 Z:40.044 Result:TRUE GTS_Code:0
+a  3	9/25/2024 6:24:10 PM	ProcessingStarted
+a  3	9/25/2024 6:24:12 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:374.516 Y:67.303 Z:19.900  Match-->X:374.839 Y:68.005 Result:TRUE ;Score:97.201
+a  3	9/25/2024 6:24:15 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:102.202 Y:224.794 Z:19.900  Match-->X:102.417 Y:225.396 Result:TRUE ;Score:97.676
+a  3	9/25/2024 6:24:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 6:24:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 6:24:55 PM	ProcessedEnd
+a  3	9/25/2024 6:24:56 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:24:56 PM	{"SN":"","StartTime":"24-09-25 18:24:10","StopTime":"24-09-25 18:24:55","ProgramName":"HPCU CB T","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":""}}
+a  3	9/25/2024 6:25:06 PM	Alarm: Un-Loading timeout(Second Track)
+a  3	9/25/2024 6:25:15 PM	Alarm: Un-Loading timeout(Third Track)
+a  3	9/25/2024 6:25:19 PM	Stop
+a  3	9/25/2024 6:25:21 PM	Stop
+a  3	9/25/2024 6:30:48 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys,Numeric,The minimum Value of Adjusting Width
+a  3	9/25/2024 6:31:13 PM	ParametersOfSystemSetting.bin the modify parameters are The minimum Value of Adjusting Width
+a  3	9/25/2024 6:32:31 PM	ParametersOfSystemSetting.bin the modify parameters are The minimum Value of Adjusting Width
+a  3	9/25/2024 6:40:19 PM	LoadBoard
+a  3	9/25/2024 6:40:26 PM	UnLoadBoard
+a  3	9/25/2024 6:40:33 PM	Stop
+a  3	9/25/2024 6:40:33 PM	Stop
+a  3	9/25/2024 6:40:39 PM	LoadBoard
+a  3	9/25/2024 6:40:47 PM	UnLoadBoard
+a  3	9/25/2024 6:41:05 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:5.000
+a  3	9/25/2024 6:41:09 PM	LoadBoard
+a  3	9/25/2024 6:41:15 PM	Stop
+a  3	9/25/2024 6:41:15 PM	Stop
+a  3	9/25/2024 6:41:19 PM	LoadBoard
+a  3	9/25/2024 6:41:25 PM	Stop
+a  3	9/25/2024 6:41:25 PM	Stop
+a  3	9/25/2024 6:41:26 PM	Stop
+a  3	9/25/2024 6:41:30 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:5.000
+a  3	9/25/2024 6:41:31 PM	LoadBoard
+a  3	9/25/2024 6:41:39 PM	Stop
+a  3	9/25/2024 6:41:39 PM	Stop
+a  3	9/25/2024 6:41:43 PM	LoadBoard
+a  3	9/25/2024 6:41:51 PM	UnLoadBoard
+a  3	9/25/2024 6:41:57 PM	Stop
+a  3	9/25/2024 6:41:58 PM	Stop
+a  3	9/25/2024 6:42:00 PM	LoadBoard
+a  3	9/25/2024 6:42:12 PM	UnLoadBoard
+a  3	9/25/2024 6:42:18 PM	Stop
+a  3	9/25/2024 6:42:19 PM	Stop
+a  3	9/25/2024 6:42:41 PM	Coating Running
+a  3	9/25/2024 6:42:42 PM	
+a  3	9/25/2024 6:42:54 PM	Stop
+a  3	9/25/2024 6:42:54 PM	Automatically run to the Purge positionSetting--->X:79.532 Y:9.692 Z:40.044 Current--->X:469.546 Y:61.340 Z:5.000 Result:FALSE GTS_Code:0
+a  3	9/25/2024 6:42:54 PM	AlarmCode 1028:Auto-running purge Move Failed!
+a  3	9/25/2024 6:42:55 PM	Stop
+a  3	9/25/2024 6:43:11 PM	TrackAndPar.bin the modify parameters are Move speed_setting
+a  3	9/25/2024 6:43:25 PM	Coating Running
+a  3	9/25/2024 6:43:26 PM	
+a  3	9/25/2024 6:43:38 PM	ProcessingStarted
+a  3	9/25/2024 6:43:41 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:374.516 Y:67.303 Z:19.900  Match-->X:374.767 Y:67.966 Result:TRUE ;Score:96.383
+a  3	9/25/2024 6:43:43 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:102.202 Y:224.794 Z:19.900  Match-->X:102.430 Y:225.507 Result:TRUE ;Score:97.715
+a  3	9/25/2024 6:44:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 6:44:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	9/25/2024 6:44:23 PM	ProcessedEnd
+a  3	9/25/2024 6:44:24 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:44:24 PM	{"SN":"","StartTime":"24-09-25 18:43:38","StopTime":"24-09-25 18:44:23","ProgramName":"HPCU CB T","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":""}}
+a  3	9/25/2024 6:44:39 PM	Stop
+a  3	9/25/2024 6:44:40 PM	Stop
+a  3	9/25/2024 6:44:41 PM	Stop
+a  3	9/25/2024 6:44:50 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:42.866
+a  3	9/25/2024 6:44:52 PM	Mouse click:Z-
+a  3	9/25/2024 6:44:52 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:37.896
+a  3	9/25/2024 6:44:53 PM	Mouse click:Z-
+a  3	9/25/2024 6:44:54 PM	Z Home
+a  3	9/25/2024 6:44:55 PM	AlarmCode 1014:Z- limit
+a  3	9/25/2024 6:44:59 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:-0.575
+a  3	9/25/2024 6:44:59 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:-0.575
+a  3	9/25/2024 6:45:25 PM	Mouse click:Y+
+a  3	9/25/2024 6:45:26 PM	key release or away:CurrentPosition--> X:469.546 Y:81.409 Z:4.768
+a  3	9/25/2024 6:45:26 PM	key release or away:CurrentPosition--> X:469.546 Y:82.028 Z:4.768
+a  3	9/25/2024 6:45:29 PM	Mouse click:X-
+a  3	9/25/2024 6:45:29 PM	key release or away:CurrentPosition--> X:429.151 Y:82.028 Z:4.768
+a  3	9/25/2024 6:45:30 PM	Mouse click:Y+
+a  3	9/25/2024 6:45:36 PM	key release or away:CurrentPosition--> X:425.916 Y:400.543 Z:4.768
+a  3	9/25/2024 6:45:38 PM	Mouse click:Y+
+a  3	9/25/2024 6:45:40 PM	key release or away:CurrentPosition--> X:425.916 Y:512.294 Z:4.768
+a  3	9/25/2024 6:45:55 PM	key release or away:CurrentPosition--> X:425.916 Y:516.004 Z:4.768
+a  3	9/25/2024 6:45:56 PM	key release or away:CurrentPosition--> X:425.916 Y:516.004 Z:4.768
+a  3	9/25/2024 6:45:57 PM	Key click:
+a  3	9/25/2024 6:45:58 PM	key release:CurrentPosition--> X:425.916 Y:516.004 Z:4.768
+a  3	9/25/2024 6:46:02 PM	Coating Running
+a  3	9/25/2024 6:46:04 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	9/25/2024 6:46:04 PM	ValveAndCalibretingData.bin the modify parameters are LaserSelect,5400 Calibration data array 2,5400补偿启用 2
+a  3	9/25/2024 6:46:04 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Valve Select 2,Glue_Pressure 2
+a  3	9/25/2024 6:46:05 PM	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	9/25/2024 6:46:05 PM	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	9/25/2024 6:46:08 PM	Save Program:HPCU CB T
+a  3	9/25/2024 6:46:08 PM	
+a  3	9/25/2024 6:46:18 PM	Stop
+a  3	9/25/2024 6:46:19 PM	Stop
+a  3	9/25/2024 6:46:20 PM	Stop
+a  3	9/25/2024 6:46:45 PM	MoveParameters.bin the modify parameters are Discharge waiting time
+a  3	9/25/2024 6:46:51 PM	Coating Running
+a  3	9/25/2024 6:46:52 PM	
+a  3	9/25/2024 6:47:06 PM	Automatically run to the Purge positionSetting--->X:79.532 Y:9.692 Z:40.044 Current--->X:79.532 Y:9.692 Z:40.044 Result:TRUE GTS_Code:0
+a  3	9/25/2024 6:47:06 PM	ProcessingStarted
+a  3	9/25/2024 6:47:08 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:374.516 Y:67.303 Z:19.900  Match-->X:374.785 Y:67.897 Result:TRUE ;Score:96.558
+a  3	9/25/2024 6:47:11 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:102.202 Y:224.794 Z:19.900  Match-->X:102.393 Y:225.353 Result:TRUE ;Score:97.476
+a  3	9/25/2024 6:47:11 PM	ProcessedEnd
+a  3	9/25/2024 6:47:13 PM	Automatically run to the cleanPosition:Result:TRUE
+a  3	9/25/2024 6:47:13 PM	{"SN":"","StartTime":"24-09-25 18:47:06","StopTime":"24-09-25 18:47:11","ProgramName":"HPCU CB T","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":"","Material batch number":{"Valve1 BatchNumber":"","Valve2 BatchNumber":"","Valve3 BatchNumber":""}}
+a  3	9/25/2024 6:47:21 PM	Stop
+a  3	9/25/2024 6:47:23 PM	Stop
+a  3	9/25/2024 6:47:24 PM	Stop
+a  3	9/25/2024 6:47:24 PM	Stop
+a  3	9/25/2024 6:47:56 PM	Coating Running
+a  3	9/25/2024 6:47:57 PM	
+a  3	9/25/2024 6:48:09 PM	Stop
+a  3	9/25/2024 6:48:11 PM	Stop
+a  3	9/25/2024 6:48:11 PM	Stop
+a  3	9/25/2024 6:48:22 PM	MoveParameters.bin the modify parameters are Board waiting time
+a  3	9/25/2024 6:48:40 PM	Coating Running
+a  3	9/25/2024 6:48:41 PM	
+a  3	9/25/2024 6:48:49 PM	Stop
+a  3	9/25/2024 6:48:50 PM	Stop
+a  3	9/25/2024 6:48:51 PM	Stop
+a  3	9/25/2024 6:48:52 PM	Stop
+a  3	9/25/2024 6:49:01 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:42.866
+a  3	9/25/2024 6:49:01 PM	Mouse click:Z-
+a  3	9/25/2024 6:49:02 PM	Z Home
+a  3	9/25/2024 6:49:03 PM	AlarmCode 1014:Z- limit
+a  3	9/25/2024 6:49:05 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:-1.297
+a  3	9/25/2024 6:49:05 PM	key release or away:CurrentPosition--> X:469.546 Y:61.340 Z:-1.297
+a  3	9/25/2024 6:49:13 PM	Mouse click:X-
+a  3	9/25/2024 6:49:13 PM	key release or away:CurrentPosition--> X:463.287 Y:61.340 Z:4.421
+a  3	9/25/2024 6:49:13 PM	Mouse click:X-
+a  3	9/25/2024 6:49:13 PM	key release or away:CurrentPosition--> X:452.025 Y:61.340 Z:4.421
+a  3	9/25/2024 6:49:13 PM	Mouse click:X-
+a  3	9/25/2024 6:49:19 PM	key release or away:CurrentPosition--> X:127.584 Y:61.340 Z:4.421
+a  3	9/25/2024 6:49:20 PM	Mouse click:Y+
+a  3	9/25/2024 6:49:25 PM	key release or away:CurrentPosition--> X:123.030 Y:368.499 Z:4.421
+a  3	9/25/2024 6:51:37 PM	key release or away:CurrentPosition--> X:123.030 Y:375.608 Z:4.421
+a  3	9/25/2024 6:51:37 PM	key release or away:CurrentPosition--> X:123.030 Y:375.608 Z:4.421
+a  3	9/25/2024 6:51:55 PM	key release or away:CurrentPosition--> X:123.030 Y:375.608 Z:4.421
+a  3	9/25/2024 6:51:55 PM	key release or away:CurrentPosition--> X:123.030 Y:375.608 Z:4.421
+a  3	9/25/2024 6:52:00 PM	Coating Running
+a  3	9/25/2024 6:52:01 PM	
+a  3	9/25/2024 6:52:13 PM	Stop
+a  3	9/25/2024 6:52:15 PM	Stop
+a  3	9/25/2024 6:52:16 PM	Stop
+a  3	9/25/2024 6:52:58 PM	MoveParameters.bin the modify parameters are Board waiting time,Discharge waiting time,Waiting feeding delay
+a  3	9/25/2024 6:53:03 PM	Coating Running
+a  3	9/25/2024 6:53:04 PM	
+a  3	9/25/2024 6:53:15 PM	Stop
+a  3	9/25/2024 6:53:17 PM	Stop
+a  3	9/25/2024 6:53:18 PM	key release or away:CurrentPosition--> X:123.030 Y:375.608 Z:4.421
+a  3	9/25/2024 6:53:18 PM	Stop
+a  3	9/25/2024 6:53:24 PM	MoveParameters.bin the modify parameters are Waiting feeding delay
+a  3	9/25/2024 6:53:37 PM	Coating Running
+a  3	9/25/2024 6:53:38 PM	
+a  3	9/25/2024 6:53:51 PM	Stop
+a  3	9/25/2024 6:53:52 PM	Stop
+a  3	9/25/2024 6:53:53 PM	Stop
+a  3	9/25/2024 6:54:17 PM	Chinese

@@ -1,0 +1,10 @@
+license用法：
+两个导出函数
+bool verifyLicense();
+bool verifyLicenseByPath(const char* publicKeyPath, const char* licenseFilePath);
+例子：
+if(verifyLicenseByPath("license/public.key", "license/asf.dat"))
+{
+	//ok
+}
+verifyLicense()默认用以上的路径

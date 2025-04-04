@@ -1,0 +1,56 @@
+
+a  3	2024/9/14 16:37:59	Éè±¸³õÊ¼»¯......
+a  3	2024/9/14 16:37:59	µ±Ç°ÓÃ»§£º a
+a  3	2024/9/14 16:37:59	´ò¿ª³ÌÐò£ºflowtest
+a  3	2024/9/14 16:38:11	±¨¾¯´úÂë 1006:ÆøÑ¹¼ì²â±¨¾¯
+a  3	2024/9/14 16:38:11	Í£Ö¹
+a  3	2024/9/14 16:38:30	English
+a  3	2024/9/14 16:38:43	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match,DataSavedBySys,Slovakia - CemmThome SK Glue Para2
+a  3	2024/9/14 16:38:43	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2024/9/14 16:40:35	Initializing...
+a  3	2024/9/14 16:40:35	Current User: a
+a  3	2024/9/14 16:40:35	Open Program:flowtest
+a  3	2024/9/14 16:40:38	AlarmCode 1006:Pressure Low
+a  3	2024/9/14 16:40:38	Stop
+a  3	2024/9/14 16:40:43	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2024/9/14 16:53:10	Initializing...
+a  3	2024/9/14 16:53:10	Current User: a
+a  3	2024/9/14 16:53:10	Open Program:flowtest
+a  3	2024/9/14 16:53:15	AlarmCode 1006:Pressure Low
+a  3	2024/9/14 16:53:15	Stop
+a  3	2024/9/14 16:54:11	Initializing...
+a  3	2024/9/14 16:54:11	Current User: a
+a  3	2024/9/14 16:54:11	Open Program:flowtest
+a  3	2024/9/14 16:54:14	AlarmCode 1006:æ¶‚è¦†ç‰›Bï¼
+a  3	2024/9/14 16:54:14	Stop
+a  3	2024/9/14 16:55:26	Initializing...
+a  3	2024/9/14 16:55:26	Current User: a
+a  3	2024/9/14 16:55:26	Open Program:flowtest
+a  3	2024/9/14 16:55:29	æ¶‚è¦†ç‰›Bï¼
+a  3	2024/9/14 16:55:29	Stop
+a  3	2024/9/14 17:05:02	Initializing...
+a  3	2024/9/14 17:05:02	Current User: a
+a  3	2024/9/14 17:05:02	Open Program:flowtest
+a  3	2024/9/14 17:05:05	 AlarmCode 1006:Pressure Low 
+a  3	2024/9/14 17:05:05	Stop
+a  3	2024/9/14 17:06:06	Initializing...
+a  3	2024/9/14 17:06:06	Current User: a
+a  3	2024/9/14 17:06:06	Open Program:flowtest
+a  3	2024/9/14 17:06:12	 AlarmCode 1006:Pressure Low 
+a  3	2024/9/14 17:06:12	Stop
+a  3	2024/9/14 17:06:23	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/14 17:07:52	Initializing...
+a  3	2024/9/14 17:07:52	Current User: a
+a  3	2024/9/14 17:07:52	Open Program:flowtest
+a  3	2024/9/14 17:07:55	 AlarmCode 1006:Pressure Low 
+a  3	2024/9/14 17:07:55	Stop
+a  3	2024/9/14 17:09:29	Initializing...
+a  3	2024/9/14 17:09:29	Current User: a
+a  3	2024/9/14 17:09:29	Open Program:flowtest
+a  3	2024/9/14 17:09:32	AlarmCode 1006:Pressure Low
+a  3	2024/9/14 17:09:32	Stop
+a  3	2024/9/14 17:11:19	Initializing...
+a  3	2024/9/14 17:11:19	Current User: a
+a  3	2024/9/14 17:11:19	Open Program:flowtest
+a  3	2024/9/14 17:11:24	AlarmCode 1006:Pressure Low
+a  3	2024/9/14 17:11:24	Stop

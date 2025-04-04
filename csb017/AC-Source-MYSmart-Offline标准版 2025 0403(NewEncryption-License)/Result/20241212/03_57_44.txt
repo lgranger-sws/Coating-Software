@@ -1,0 +1,2 @@
+Aktuelles Produkt	Gewicht
+Produkt0Gewicht	0.000g

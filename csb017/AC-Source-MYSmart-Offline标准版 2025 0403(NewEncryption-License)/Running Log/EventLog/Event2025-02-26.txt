@@ -1,0 +1,23 @@
+
+a  3	2025/02/26 13:34:48.038	设备初始化......
+a  3	2025/02/26 13:34:48.212	当前用户： a
+a  3	2025/02/26 13:34:48.227	打开程序：BAOMA
+a  3	2025/02/26 13:34:48.240	低气压检测未开启
+a  3	2025/02/26 13:34:49.331	Reset(From X:0.000,Y:0.000,Z:0.000 To X:0.000,Y:0.000,Z:0.000 )
+a  3	2025/02/26 13:34:55.691	新建程序：1
+a  3	2025/02/26 13:35:04.346	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match
+a  3	2025/02/26 13:35:04.384	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out,Pattern disable array 2,Width Test Para,Flowrate Record
+a  3	2025/02/26 13:35:04.405	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/02/26 13:35:05.787	保存程序：1
+a  3	2025/02/26 13:35:05.790	打开程序：20250115145751
+a  3	2025/02/26 13:35:06.423	打开程序：20250115145751
+a  3	2025/02/26 13:35:10.820	打开程序：1
+a  3	2025/02/26 13:35:11.497	打开程序：1
+a  3	2025/02/26 13:35:16.233	打开程序：New Valve Lines
+a  3	2025/02/26 13:35:16.912	打开程序：New Valve Lines
+a  3	2025/02/26 13:35:26.141	模板->main(A)中第10行程序被删除
+a  3	2025/02/26 13:35:31.171	TrackAndPar.bin文件中以下参数已经被修改：Track storage,German Cicor Glue ParaNew out,Pattern disable array 2,Width Test Para,Flowrate Record
+a  3	2025/02/26 13:35:31.208	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Track storage
+a  3	2025/02/26 13:35:32.564	保存程序：New Valve Lines
+a  3	2025/02/26 13:35:32.567	打开程序：1
+a  3	2025/02/26 13:35:33.232	打开程序：1

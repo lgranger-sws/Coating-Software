@@ -1,0 +1,228 @@
+
+a  3	5/28/2024 7:03:23 PM	Initializing...
+a  3	5/28/2024 7:03:23 PM	Current User: a
+a  3	5/28/2024 7:03:23 PM	Open Program:Conti BWM Gen4.1 top separate machine 1 v2
+a  3	5/28/2024 7:03:24 PM	The reset button is pressed
+a  3	5/28/2024 7:03:32 PM	Reset is completed
+a  3	5/28/2024 7:03:48 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:04:43 PM	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match,LaserSelect,SystemParamentData,Process Out
+a  3	5/28/2024 7:04:43 PM	TrackAndPar.bin the modify parameters are 清洗阀选择
+a  3	5/28/2024 7:04:44 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Pattern Name,清洗阀选择
+a  3	5/28/2024 7:04:57 PM	ValveAndCalibretingData.bin the modify parameters are LaserSelect
+a  3	5/28/2024 7:05:01 PM	Low Pressure Alarm:Disable
+a  3	5/28/2024 7:05:03 PM	ParametersOfSystemSetting.bin the modify parameters are Safety door operating,Pressure detecting
+a  3	5/28/2024 7:05:13 PM	The reset button is pressed
+a  3	5/28/2024 7:05:32 PM	Reset is completed
+a  3	5/28/2024 7:06:41 PM	The reset button is pressed
+a  3	5/28/2024 7:06:49 PM	Reset is completed
+a  3	5/28/2024 7:07:12 PM	The reset button is pressed
+a  3	5/28/2024 7:07:22 PM	Reset is completed
+a  3	5/28/2024 7:07:54 PM	The reset button is pressed
+a  3	5/28/2024 7:08:03 PM	Reset is completed
+a  3	5/28/2024 7:08:16 PM	The reset button is pressed
+a  3	5/28/2024 7:08:25 PM	Reset is completed
+a  3	5/28/2024 7:08:53 PM	The reset button is pressed
+a  3	5/28/2024 7:09:02 PM	Reset is completed
+a  3	5/28/2024 7:09:32 PM	The reset button is pressed
+a  3	5/28/2024 7:09:41 PM	Reset is completed
+a  3	5/28/2024 7:09:44 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:09:45 PM	Mouse click:X+
+a  3	5/28/2024 7:09:47 PM	key release or away:CurrentPosition--> X:99.781 Y:0.000 Z:0.000
+a  3	5/28/2024 7:09:47 PM	Mouse click:Y+
+a  3	5/28/2024 7:09:49 PM	key release or away:CurrentPosition--> X:101.966 Y:96.231 Z:0.000
+a  3	5/28/2024 7:09:50 PM	Mouse click:Z+
+a  3	5/28/2024 7:09:50 PM	key release or away:CurrentPosition--> X:101.966 Y:97.852 Z:12.150
+a  3	5/28/2024 7:09:50 PM	Mouse click:Z+
+a  3	5/28/2024 7:09:51 PM	key release or away:CurrentPosition--> X:101.966 Y:97.852 Z:46.617
+a  3	5/28/2024 7:09:51 PM	Mouse click:X+
+a  3	5/28/2024 7:09:52 PM	key release or away:CurrentPosition--> X:146.976 Y:97.852 Z:52.743
+a  3	5/28/2024 7:09:53 PM	key release or away:CurrentPosition--> X:149.240 Y:97.852 Z:52.743
+a  3	5/28/2024 7:10:27 PM	key release or away:CurrentPosition--> X:149.240 Y:97.852 Z:52.743
+a  3	5/28/2024 7:10:34 PM	The reset button is pressed
+a  3	5/28/2024 7:10:53 PM	Reset is completed
+a  3	5/28/2024 7:11:07 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:20 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:20 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:21 PM	Key click:
+a  3	5/28/2024 7:12:22 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:23 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:25 PM	Mouse click:X+
+a  3	5/28/2024 7:12:26 PM	key release or away:CurrentPosition--> X:86.944 Y:0.000 Z:0.000
+a  3	5/28/2024 7:12:27 PM	Mouse click:Y+
+a  3	5/28/2024 7:12:29 PM	key release or away:CurrentPosition--> X:92.508 Y:93.323 Z:0.000
+a  3	5/28/2024 7:12:29 PM	Mouse click:Z+
+a  3	5/28/2024 7:12:30 PM	key release or away:CurrentPosition--> X:92.508 Y:99.150 Z:41.454
+a  3	5/28/2024 7:12:31 PM	key release or away:CurrentPosition--> X:92.508 Y:99.150 Z:44.607
+a  3	5/28/2024 7:12:48 PM	The reset button is pressed
+a  3	5/28/2024 7:13:06 PM	Reset is completed
+a  3	5/28/2024 7:14:51 PM	Initializing...
+a  3	5/28/2024 7:14:51 PM	Current User: a
+a  3	5/28/2024 7:14:52 PM	Open Program:Conti BWM Gen4.1 top separate machine 1 v2
+a  3	5/28/2024 7:14:52 PM	The reset button is pressed
+a  3	5/28/2024 7:15:01 PM	Reset is completed
+a  3	5/28/2024 7:15:04 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:16:11 PM	The reset button is pressed
+a  3	5/28/2024 7:16:19 PM	Reset is completed
+a  3	5/28/2024 7:17:05 PM	The reset button is pressed
+a  3	5/28/2024 7:17:13 PM	Reset is completed
+a  3	5/28/2024 7:17:18 PM	Mouse click:X+
+a  3	5/28/2024 7:17:19 PM	key release or away:CurrentPosition--> X:57.036 Y:0.000 Z:0.000
+a  3	5/28/2024 7:17:20 PM	Mouse click:Z+
+a  3	5/28/2024 7:17:20 PM	key release or away:CurrentPosition--> X:57.884 Y:0.000 Z:21.477
+a  3	5/28/2024 7:17:21 PM	Mouse click:Z+
+a  3	5/28/2024 7:17:21 PM	key release or away:CurrentPosition--> X:57.884 Y:0.000 Z:32.155
+a  3	5/28/2024 7:17:21 PM	key release or away:CurrentPosition--> X:57.884 Y:0.000 Z:34.443
+a  3	5/28/2024 7:17:23 PM	key release or away:CurrentPosition--> X:57.884 Y:0.000 Z:34.443
+a  3	5/28/2024 7:17:25 PM	key release or away:CurrentPosition--> X:57.884 Y:0.000 Z:34.443
+a  3	5/28/2024 7:17:26 PM	Mouse click:Y+
+a  3	5/28/2024 7:17:26 PM	key release or away:CurrentPosition--> X:57.884 Y:6.038 Z:34.443
+a  3	5/28/2024 7:17:26 PM	key release or away:CurrentPosition--> X:57.884 Y:8.040 Z:34.443
+a  3	5/28/2024 7:17:28 PM	The reset button is pressed
+a  3	5/28/2024 7:17:44 PM	Reset is completed
+a  3	5/28/2024 7:19:10 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:23:35 PM	Initializing...
+a  3	5/28/2024 7:23:35 PM	Current User: a
+a  3	5/28/2024 7:23:35 PM	The reset button is pressed
+a  3	5/28/2024 7:23:35 PM	Open Program:Conti BWM Gen4.1 top separate machine 1 v2
+a  3	5/28/2024 7:23:44 PM	Reset is completed
+a  3	5/28/2024 7:25:33 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 7:25:49 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 7:26:08 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 7:26:22 PM	Change glue ,batch No is:C63000249841-0001,Part No is 6300000847,expiry date is 17.01.2025
+a  3	5/28/2024 7:26:22 PM	TrackAndPar.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 7:26:22 PM	ParametersOfSystemSetting.bin the modify parameters are Pressure detecting
+a  3	5/28/2024 7:26:33 PM	The expiry date is in warning period,the glue can be used for 233.6 days.
+a  3	5/28/2024 7:26:48 PM	Coating Running
+a  3	5/28/2024 7:26:50 PM	
+a  3	5/28/2024 7:26:51 PM	Stop
+a  3	5/28/2024 7:26:53 PM	Stop
+a  3	5/28/2024 7:26:54 PM	The expiry date is in warning period,the glue can be used for 233.6 days.
+a  3	5/28/2024 7:27:01 PM	Coating Running
+a  3	5/28/2024 7:27:02 PM	
+a  3	5/28/2024 7:27:05 PM	Stop
+a  3	5/28/2024 7:27:19 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 7:27:32 PM	Stop
+a  3	5/28/2024 7:27:34 PM	Stop
+a  3	5/28/2024 7:27:40 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 7:27:42 PM	The expiry date is in warning period,the glue can be used for 233.6 days.
+a  3	5/28/2024 7:27:48 PM	Coating Running
+a  3	5/28/2024 7:27:49 PM	
+a  3	5/28/2024 7:27:51 PM	Stop
+a  3	5/28/2024 7:56:08 PM	Initializing...
+a  3	5/28/2024 7:56:08 PM	Current User: a
+a  3	5/28/2024 7:56:08 PM	Open Program:Conti BWM Gen4.1 top separate machine 1 v2
+a  3	5/28/2024 7:56:15 PM	The reset button is pressed
+a  3	5/28/2024 7:56:24 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:56:37 PM	X home timeout
+a  3	5/28/2024 7:56:37 PM	Stop
+a  3	5/28/2024 7:56:38 PM	Z home timeout
+a  3	5/28/2024 7:56:45 PM	The reset button is pressed
+a  3	5/28/2024 7:56:54 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:56:57 PM	X home timeout
+a  3	5/28/2024 7:56:57 PM	Stop
+a  3	5/28/2024 7:56:58 PM	Z home timeout
+a  3	5/28/2024 7:57:01 PM	The reset button is pressed
+a  3	5/28/2024 7:57:10 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:57:14 PM	X home timeout
+a  3	5/28/2024 7:57:14 PM	Stop
+a  3	5/28/2024 7:57:16 PM	Z home timeout
+a  3	5/28/2024 7:57:18 PM	The reset button is pressed
+a  3	5/28/2024 7:57:27 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:57:30 PM	X home timeout
+a  3	5/28/2024 7:57:30 PM	Stop
+a  3	5/28/2024 7:57:31 PM	Z home timeout
+a  3	5/28/2024 7:58:11 PM	The reset button is pressed
+a  3	5/28/2024 7:58:20 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:58:29 PM	X home timeout
+a  3	5/28/2024 7:58:29 PM	Stop
+a  3	5/28/2024 7:58:31 PM	Z home timeout
+a  3	5/28/2024 7:58:32 PM	The reset button is pressed
+a  3	5/28/2024 7:58:41 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:58:47 PM	X home timeout
+a  3	5/28/2024 7:58:47 PM	Stop
+a  3	5/28/2024 7:58:48 PM	Z home timeout
+a  3	5/28/2024 7:58:49 PM	The reset button is pressed
+a  3	5/28/2024 7:58:57 PM	Valve cylinder lifting timeout
+a  3	5/28/2024 7:59:04 PM	X home timeout
+a  3	5/28/2024 7:59:04 PM	Stop
+a  3	5/28/2024 7:59:05 PM	Z home timeout
+a  3	5/28/2024 7:59:08 PM	The reset button is pressed
+a  3	5/28/2024 7:59:16 PM	Reset is completed
+a  3	5/28/2024 7:59:29 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 7:59:36 PM	Chinese
+a  3	5/28/2024 7:59:45 PM	English
+a  3	5/28/2024 7:59:58 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	5/28/2024 8:00:13 PM	The expiry date is in warning period,the glue can be used for 233.5 days.
+a  3	5/28/2024 8:00:17 PM	Coating Running
+a  3	5/28/2024 8:00:18 PM	
+a  3	5/28/2024 8:00:20 PM	Stop
+a  3	5/28/2024 8:00:22 PM	Stop
+a  3	5/28/2024 8:00:29 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 8:00:31 PM	The expiry date is in warning period,the glue can be used for 233.5 days.
+a  3	5/28/2024 8:00:39 PM	Coating Running
+a  3	5/28/2024 8:00:41 PM	
+a  3	5/28/2024 8:00:42 PM	Stop
+a  3	5/28/2024 8:00:42 PM	Stop
+a  3	5/28/2024 8:00:43 PM	Stop
+a  3	5/28/2024 8:00:44 PM	Stop
+a  3	5/28/2024 8:00:47 PM	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	5/28/2024 8:01:10 PM	Stop
+a  3	5/28/2024 8:18:03 PM	Initializing...
+a  3	5/28/2024 8:18:03 PM	Change glue ,batch No is:,Part No is ,expiry date is 
+a  3	5/28/2024 8:18:04 PM	Current User: a
+a  3	5/28/2024 8:18:04 PM	Open Program:Conti BWM Gen4.1 top separate machine 1 v2
+a  3	5/28/2024 8:18:05 PM	The reset button is pressed
+a  3	5/28/2024 8:18:14 PM	Reset is completed
+a  3	5/28/2024 8:18:20 PM	The expiry date is ,the Glue is not  within the validity period.
+a  3	5/28/2024 8:18:50 PM	Change glue ,batch No is:,Part No is 6300000847,expiry date is 
+a  3	5/28/2024 8:18:51 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:19:04 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:19:10 PM	The expiry date is in warning period,the glue can be used for 234 days.
+a  3	5/28/2024 8:19:12 PM	Coating Running
+a  3	5/28/2024 8:19:13 PM	
+a  3	5/28/2024 8:19:16 PM	Stop
+a  3	5/28/2024 8:19:18 PM	The expiry date is in warning period,the glue can be used for 234 days.
+a  3	5/28/2024 8:19:27 PM	Coating Running
+a  3	5/28/2024 8:19:28 PM	
+a  3	5/28/2024 8:19:31 PM	Stop
+a  3	5/28/2024 8:19:36 PM	The expiry date is in warning period,the glue can be used for 234 days.
+a  3	5/28/2024 8:19:44 PM	Coating Running
+a  3	5/28/2024 8:19:45 PM	
+a  3	5/28/2024 8:19:48 PM	Stop
+a  3	5/28/2024 8:19:55 PM	The expiry date is in warning period,the glue can be used for 234 days.
+a  3	5/28/2024 8:19:57 PM	Coating Running
+a  3	5/28/2024 8:19:58 PM	
+a  3	5/28/2024 8:20:01 PM	Stop
+a  3	5/28/2024 8:20:03 PM	Stop
+a  3	5/28/2024 8:20:03 PM	The expiry date is in warning period,the glue can be used for 234 days.
+a  3	5/28/2024 8:20:07 PM	Coating Running
+a  3	5/28/2024 8:20:08 PM	
+a  3	5/28/2024 8:20:10 PM	Stop
+a  3	5/28/2024 8:20:19 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:20:21 PM	Coating Running
+a  3	5/28/2024 8:20:23 PM	
+a  3	5/28/2024 8:20:25 PM	Stop
+a  3	5/28/2024 8:21:44 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:23:03 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:23:13 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:23:57 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:24:05 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:25:24 PM	Open Program:Conti NBM
+a  3	5/28/2024 8:25:26 PM	Open Program:Conti NBM
+a  3	5/28/2024 8:25:48 PM	Open Program:Conti Webasto Truck-bot - tuned
+a  3	5/28/2024 8:25:50 PM	Open Program:Conti Webasto Truck-bot - tuned
+a  3	5/28/2024 8:29:30 PM	Initializing...
+a  3	5/28/2024 8:29:30 PM	Current User: a
+a  3	5/28/2024 8:29:31 PM	The reset button is pressed
+a  3	5/28/2024 8:29:31 PM	Open Program:Conti Webasto Truck-bot - tuned
+a  3	5/28/2024 8:29:41 PM	Reset is completed
+a  3	5/28/2024 8:31:10 PM	TrackAndPar.bin the modify parameters are Width2 Limit out
+a  3	5/28/2024 8:31:10 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	5/28/2024 8:31:11 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:32:11 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:32:22 PM	ParametersOfSystemSetting.bin the modify parameters are German Cicor Glue Para out
+a  3	5/28/2024 8:32:29 PM	The expiry date is in warning period,the glue can be used for 246 days.	Continue
+a  3	5/28/2024 8:32:30 PM	Coating Running
+a  3	5/28/2024 8:32:32 PM	
+a  3	5/28/2024 8:32:34 PM	Stop
+a  3	5/28/2024 8:32:38 PM	The expiry date is in warning period,the glue can be used for 246 days.	Cancel

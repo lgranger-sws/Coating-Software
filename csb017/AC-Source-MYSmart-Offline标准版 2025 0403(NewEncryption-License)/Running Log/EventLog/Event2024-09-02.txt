@@ -1,0 +1,48 @@
+
+a  3	2024/9/2 11:52:50	Initializing...
+a  3	2024/9/2 11:52:50	Current User: a
+a  3	2024/9/2 11:52:50	Open Program:flowtest
+a  3	2024/9/2 11:52:52	AlarmCode 1006:Pressure Low
+a  3	2024/9/2 11:52:52	Stop
+a  3	2024/9/2 11:53:02	Low Pressure Alarm:Disable
+a  3	2024/9/2 11:53:03	ParametersOfSystemSetting.bin the modify parameters are Pressure detecting,Bar Code Match,ValveColor,DataSavedBySys,Purge后刮胶参数 2,German Cicor Glue Para out
+a  3	2024/9/2 11:53:03	TrackAndPar.bin the modify parameters are German Cicor Glue ParaNew out
+a  3	2024/9/2 11:53:03	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2024/9/2 11:53:10	Chinese
+a  3	2024/9/2 11:53:32	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/2 14:12:19	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/2 14:24:39	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/9/2 14:24:39	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/2 14:25:04	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/9/2 14:33:24	设备初始化......
+a  3	2024/9/2 14:33:24	当前用户： a
+a  3	2024/9/2 14:33:24	打开程序：flowtest
+a  3	2024/9/2 14:33:26	AlarmCode 1006:气压检测报警
+a  3	2024/9/2 14:33:26	停止
+a  3	2024/9/2 14:33:28	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	2024/9/2 14:33:33	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/9/2 14:33:33	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/2 14:33:33	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Pressure detecting
+a  3	2024/9/2 14:33:41	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/9/2 14:33:41	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/2 14:38:40	设备初始化......
+a  3	2024/9/2 14:38:40	当前用户： a
+a  3	2024/9/2 14:38:40	打开程序：flowtest
+a  3	2024/9/2 14:38:42	AlarmCode 1006:气压检测报警
+a  3	2024/9/2 14:38:42	停止
+a  3	2024/9/2 14:43:30	设备初始化......
+a  3	2024/9/2 14:43:30	当前用户： a
+a  3	2024/9/2 14:43:30	打开程序：flowtest
+a  3	2024/9/2 14:43:32	AlarmCode 1006:气压检测报警
+a  3	2024/9/2 14:43:32	停止
+a  3	2024/9/2 14:44:29	TrackAndPar.bin文件中以下参数已经被修改：German Cicor Glue ParaNew out
+a  3	2024/9/2 14:44:29	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2024/9/2 14:46:03	Cicor Material Batch Number Update--->Valve1 batch number:;Valve2 batch number:;Valve3 batch number:;
+a  3	2024/9/2 14:46:03	ParametersOfSystemSetting.bin文件中以下参数已经被修改：German Cicor Glue Para out
+a  3	2024/9/2 14:46:38	Cicor Material Batch Number Update--->Valve1 batch number:;Valve2 batch number:;Valve3 batch number:;
+a  3	2024/9/2 14:46:38	ParametersOfSystemSetting.bin文件中以下参数已经被修改：German Cicor Glue Para out
+a  3	2024/9/2 14:47:02	Cicor Material Batch Number Update--->Valve1 batch number:;Valve2 batch number:;Valve3 batch number:;
+a  3	2024/9/2 14:47:02	ParametersOfSystemSetting.bin文件中以下参数已经被修改：German Cicor Glue Para out
+a  3	2024/9/2 14:47:37	Cicor Material Batch Number Update--->Valve1 batch number:;Valve2 batch number:;Valve3 batch number:;
+a  3	2024/9/2 14:47:45	Cicor Material Batch Number Update--->Valve1 batch number:;Valve2 batch number:;Valve3 batch number:;
+a  3	2024/9/2 14:48:57	键盘按下：

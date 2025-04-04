@@ -1,0 +1,5 @@
+Time	ProgramName	ValveSelect	Weight(g)	FlowRate(g/s)
+
+19:03:34	Axxon test 01	Valve 1	Inf	Inf
+19:03:49	Axxon test 01	Valve 1	Inf	Inf
+19:04:08	Axxon test 01	Valve 1	-Inf	-Inf
