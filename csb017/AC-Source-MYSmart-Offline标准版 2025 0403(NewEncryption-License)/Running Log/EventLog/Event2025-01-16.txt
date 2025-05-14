@@ -1,61 +1,2527 @@
 
-a  3	2025/01/16 09:18:18.927	设备初始化......
-a  3	2025/01/16 09:18:19.083	当前用户： a
-a  3	2025/01/16 09:18:19.098	打开程序：20241214144888
-a  3	2025/01/16 09:18:20.884	报警代码 1006:气压检测报警
-a  3	2025/01/16 09:18:20.943	停止
-a  3	2025/01/16 09:18:29.257	涂胶时气压检测:Disable
-a  3	2025/01/16 09:18:29.628	气压检测:Disable
-a  3	2025/01/16 09:18:31.395	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Pressure detecting,Dispensing sensor cover,Bar Code Match,WithElectricalRotatingAndTilting,UseLaser,EnabelNeedleCalibrating,涂胶时气压检测,DoOut,WithElectricalTilting
-a  3	2025/01/16 09:18:31.441	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-a  3	2025/01/16 09:18:49.047	ParametersOfSystemSetting.bin文件中以下参数已经被修改：待机参数 2
-a  3	2025/01/16 09:18:49.067	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-a  3	2025/01/16 09:18:52.782	键盘按下：
-a  3	2025/01/16 09:18:52.943	键盘按下：
-a  3	2025/01/16 09:18:52.962	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 09:18:53.063	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 09:19:26.303	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 09:19:26.406	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 10:32:06.054	设备初始化......
-a  3	2025/01/16 10:32:06.250	当前用户： a
-a  3	2025/01/16 10:32:06.272	打开程序：20241214144888
-a  3	2025/01/16 10:32:06.280	低气压检测未开启
-a  3	2025/01/16 10:32:07.017	复位按钮按下
-a  3	2025/01/16 10:32:08.651	复位失败
-a  3	2025/01/16 10:32:08.788	停止
-a  3	2025/01/16 10:32:09.785	Z轴复位失败
-a  3	2025/01/16 10:33:49.019	设备初始化......
-a  3	2025/01/16 10:33:49.062	当前用户： a
-a  3	2025/01/16 10:33:49.086	打开程序：20241214144888
-a  3	2025/01/16 10:33:49.092	低气压检测未开启
-a  3	2025/01/16 10:34:07.487	ParametersOfSystemSetting.bin文件中以下参数已经被修改：待机参数 2
-a  3	2025/01/16 10:34:07.506	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-a  3	2025/01/16 10:37:12.709	当前用户： a
-a  3	2025/01/16 10:38:04.854	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Track closed,Opening the conveyor belt
-a  3	2025/01/16 10:38:04.858	手动模式
-a  3	2025/01/16 10:38:06.079	空运行
-a  3	2025/01/16 10:38:06.091	空运行
-a  3	2025/01/16 10:41:50.219	工作原点
-a  3	2025/01/16 10:41:50.989	工作原点
-a  3	2025/01/16 10:51:04.722	设备初始化......
-a  3	2025/01/16 10:51:04.788	当前用户： a
-a  3	2025/01/16 10:51:04.832	打开程序：20241214144888
-a  3	2025/01/16 10:51:04.841	低气压检测未开启
-a  3	2025/01/16 10:55:00.052	设备初始化......
-a  3	2025/01/16 10:55:00.111	当前用户： a
-a  3	2025/01/16 10:55:00.122	打开程序：20241214144888
-a  3	2025/01/16 10:55:00.132	低气压检测未开启
-a  3	2025/01/16 10:55:04.820	空运行
-a  3	2025/01/16 10:55:04.833	空运行
-a  3	2025/01/16 10:57:45.894	当前用户： a
-a  3	2025/01/16 10:57:46.222	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 10:57:51.989	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Opening the conveyor belt
-a  3	2025/01/16 10:57:51.994	离线模式
-a  3	2025/01/16 10:57:59.175	空运行
-a  3	2025/01/16 10:57:59.184	空运行
-a  3	2025/01/16 10:59:43.681	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/16 11:47:08.867	设备初始化......
-a  3	2025/01/16 11:47:09.035	当前用户： a
-a  3	2025/01/16 11:47:09.053	打开程序：20241214144888
-a  3	2025/01/16 11:47:09.065	低气压检测未开启
-a  3	2025/01/16 11:47:31.398	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 8:54:01 AM	Initializing...
+a  3	1/16/2025 8:54:01 AM	Current User: a
+a  3	1/16/2025 8:54:01 AM	Open Program:20250115093446-traning-Henri
+a  3	1/16/2025 8:54:17 AM	The reset button is pressed
+a  3	1/16/2025 8:54:29 AM	Reset is completed
+a  3	1/16/2025 8:56:00 AM	Open Program:20250115093446-traning
+a  3	1/16/2025 8:56:00 AM	Open Program:20250115093446-traning
+a  3	1/16/2025 8:56:10 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 8:56:11 AM	Mouse click:X+
+a  3	1/16/2025 8:56:17 AM	key release or away:CurrentPosition--> X:125.844 Y:0.000 Z:0.000
+a  3	1/16/2025 8:56:18 AM	Mouse click:Y+
+a  3	1/16/2025 8:56:25 AM	key release or away:CurrentPosition--> X:126.458 Y:139.584 Z:0.000
+a  3	1/16/2025 8:56:25 AM	Mouse click:X+
+a  3	1/16/2025 8:56:32 AM	key release or away:CurrentPosition--> X:255.727 Y:140.878 Z:0.000
+a  3	1/16/2025 8:56:32 AM	Mouse click:X+
+a  3	1/16/2025 8:56:34 AM	key release or away:CurrentPosition--> X:281.770 Y:140.878 Z:0.000
+a  3	1/16/2025 8:56:34 AM	Mouse click:X+
+a  3	1/16/2025 8:56:34 AM	key release or away:CurrentPosition--> X:296.533 Y:140.878 Z:0.000
+a  3	1/16/2025 8:56:36 AM	Mouse click:Y+
+a  3	1/16/2025 8:56:36 AM	key release or away:CurrentPosition--> X:296.916 Y:147.992 Z:0.000
+a  3	1/16/2025 8:56:36 AM	Mouse click:Y+
+a  3	1/16/2025 8:56:36 AM	key release or away:CurrentPosition--> X:296.916 Y:151.300 Z:0.000
+a  3	1/16/2025 8:56:37 AM	key release or away:CurrentPosition--> X:296.916 Y:152.004 Z:0.000
+a  3	1/16/2025 8:57:20 AM	Mouse click:X+
+a  3	1/16/2025 8:57:20 AM	key release or away:CurrentPosition--> X:362.082 Y:96.338 Z:0.000
+a  3	1/16/2025 8:57:22 AM	key release or away:CurrentPosition--> X:362.840 Y:96.338 Z:0.000
+a  3	1/16/2025 8:57:22 AM	Mouse click:X-
+a  3	1/16/2025 8:57:25 AM	key release or away:CurrentPosition--> X:313.861 Y:96.338 Z:0.000
+a  3	1/16/2025 8:57:25 AM	Mouse click:Y+
+a  3	1/16/2025 8:57:27 AM	key release or away:CurrentPosition--> X:312.752 Y:129.037 Z:0.000
+a  3	1/16/2025 8:57:27 AM	Mouse click:Y+
+a  3	1/16/2025 8:57:27 AM	key release or away:CurrentPosition--> X:312.752 Y:132.525 Z:0.000
+a  3	1/16/2025 8:57:28 AM	Mouse click:Y+
+a  3	1/16/2025 8:57:28 AM	key release or away:CurrentPosition--> X:312.752 Y:137.263 Z:0.000
+a  3	1/16/2025 8:57:29 AM	key release or away:CurrentPosition--> X:312.752 Y:138.096 Z:0.000
+a  3	1/16/2025 8:57:32 AM	Mouse click:Y-
+a  3	1/16/2025 8:57:33 AM	key release or away:CurrentPosition--> X:312.752 Y:119.372 Z:0.000
+a  3	1/16/2025 8:57:34 AM	Mouse click:X-
+a  3	1/16/2025 8:57:34 AM	key release or away:CurrentPosition--> X:307.803 Y:118.108 Z:0.000
+a  3	1/16/2025 8:57:35 AM	Mouse click:X-
+a  3	1/16/2025 8:57:35 AM	key release or away:CurrentPosition--> X:303.105 Y:118.108 Z:0.000
+a  3	1/16/2025 8:57:35 AM	Mouse click:X-
+a  3	1/16/2025 8:57:35 AM	key release or away:CurrentPosition--> X:299.112 Y:118.108 Z:0.000
+a  3	1/16/2025 8:57:35 AM	key release or away:CurrentPosition--> X:298.768 Y:118.108 Z:0.000
+a  3	1/16/2025 8:57:47 AM	The <2> line of program in the pattern <panel> has been modified. EnabledMask:Enable
+
+a  3	1/16/2025 8:58:00 AM	The <3> line of program in the pattern <panel> has been modified. ValveStatus:Off,RunningPath:Mask,Template:DOpanel,Valve:Valve 1,Tilt:0,Rotate:0,DispeseMode:Line,TeachMode:By Camera,TrackDiscription:Enable,Joint:N,PrematurelyAtomized:0.000,PrematurelOpeningValve:0.000,DelayOpeningValve:0.000,Speed:70.000,DispensingHeight:5.000,PullBackHeight:0.000,StayTime:0.000,OffValveDistance:0.000,OpenValveTime:0.000,StartingDistance:0.000,EndDistance:0.000,Glue width:3.000,OffAtomizatingDlay:0.000,Pre-On Distance:0.000,Back MoveDistance:0.000,Back MoveSpeed:0.000,Back MoveHeight:0.000,Pre-GlueTime:0.000,EnabledMask:Enable,MaskName:No,Glue Weight:0.000,Mirror:0001
+
+a  3	1/16/2025 8:58:07 AM	key release or away:CurrentPosition--> X:298.768 Y:118.108 Z:0.000
+a  3	1/16/2025 8:58:08 AM	Mouse click:Y+
+a  3	1/16/2025 8:58:08 AM	key release or away:CurrentPosition--> X:298.768 Y:120.847 Z:0.000
+a  3	1/16/2025 8:58:08 AM	Mouse click:Y+
+a  3	1/16/2025 8:58:08 AM	key release or away:CurrentPosition--> X:298.768 Y:123.690 Z:0.000
+a  3	1/16/2025 8:58:09 AM	Mouse click:Y+
+a  3	1/16/2025 8:58:09 AM	key release or away:CurrentPosition--> X:298.768 Y:126.642 Z:0.000
+a  3	1/16/2025 8:58:09 AM	Mouse click:Y+
+a  3	1/16/2025 8:58:09 AM	key release or away:CurrentPosition--> X:298.768 Y:128.914 Z:0.000
+a  3	1/16/2025 8:58:11 AM	Mouse click:X+
+a  3	1/16/2025 8:58:11 AM	key release or away:CurrentPosition--> X:298.768 Y:131.932 Z:0.000
+a  3	1/16/2025 8:58:11 AM	key release or away:CurrentPosition--> X:301.330 Y:131.932 Z:0.000
+a  3	1/16/2025 8:58:14 AM	Mouse click:X-
+a  3	1/16/2025 8:58:14 AM	key release or away:CurrentPosition--> X:301.330 Y:131.932 Z:0.000
+a  3	1/16/2025 8:58:15 AM	Mouse click:Y-
+a  3	1/16/2025 8:58:15 AM	key release or away:CurrentPosition--> X:298.952 Y:131.932 Z:0.000
+a  3	1/16/2025 8:58:16 AM	Mouse click:Y-
+a  3	1/16/2025 8:58:16 AM	key release or away:CurrentPosition--> X:298.952 Y:129.600 Z:0.000
+a  3	1/16/2025 8:58:17 AM	Mouse click:X-
+a  3	1/16/2025 8:58:17 AM	key release or away:CurrentPosition--> X:298.952 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:17 AM	key release or away:CurrentPosition--> X:297.210 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:20 AM	Mouse click:X+
+a  3	1/16/2025 8:58:20 AM	key release or away:CurrentPosition--> X:300.304 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:20 AM	Mouse click:X+
+a  3	1/16/2025 8:58:20 AM	key release or away:CurrentPosition--> X:303.326 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:21 AM	Mouse click:X+
+a  3	1/16/2025 8:58:21 AM	key release or away:CurrentPosition--> X:303.520 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:22 AM	key release or away:CurrentPosition--> X:306.662 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:35 AM	The <4> line of program in the pattern <panel> has been modified. Valve:Valve 3,Mirror:0100
+
+a  3	1/16/2025 8:58:45 AM	The <2> line of program in the pattern <panel> has been modified. DispeseMode:Spray
+
+a  3	1/16/2025 8:58:50 AM	Mouse click:X+
+a  3	1/16/2025 8:58:51 AM	key release or away:CurrentPosition--> X:323.886 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:51 AM	Mouse click:X+
+a  3	1/16/2025 8:58:51 AM	key release or away:CurrentPosition--> X:329.144 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:52 AM	Mouse click:X+
+a  3	1/16/2025 8:58:52 AM	key release or away:CurrentPosition--> X:333.161 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:52 AM	Mouse click:X+
+a  3	1/16/2025 8:58:52 AM	key release or away:CurrentPosition--> X:336.494 Y:127.872 Z:0.000
+a  3	1/16/2025 8:58:55 AM	key release or away:CurrentPosition--> X:337.862 Y:127.872 Z:0.000
+a  3	1/16/2025 8:59:15 AM	The <2> line of program in the pattern <panel> has been modified. Valve:Valve 3,Valve Pre-On Time:0.010,Pre-Spray Time:0.015,Speed:90.000,Dispense Gap:10.000,Pull Back :5.000,Line Width:10.000,Delaying spray off:0.015,Mirror:0100
+
+a  3	1/16/2025 8:59:31 AM	The <4> line of program in the pattern <panel> has been modified. Valve:Valve 1,Mirror:0001
+
+a  3	1/16/2025 8:59:37 AM	Mouse click:Y-
+a  3	1/16/2025 8:59:38 AM	key release or away:CurrentPosition--> X:337.862 Y:125.058 Z:0.000
+a  3	1/16/2025 8:59:38 AM	Mouse click:Y-
+a  3	1/16/2025 8:59:38 AM	key release or away:CurrentPosition--> X:337.862 Y:117.331 Z:0.000
+a  3	1/16/2025 8:59:38 AM	Mouse click:Y-
+a  3	1/16/2025 8:59:39 AM	key release or away:CurrentPosition--> X:337.862 Y:113.693 Z:0.000
+a  3	1/16/2025 8:59:39 AM	Mouse click:Y-
+a  3	1/16/2025 8:59:39 AM	key release or away:CurrentPosition--> X:337.862 Y:109.110 Z:0.000
+a  3	1/16/2025 8:59:39 AM	Mouse click:Y-
+a  3	1/16/2025 8:59:39 AM	key release or away:CurrentPosition--> X:337.862 Y:107.982 Z:0.000
+a  3	1/16/2025 8:59:40 AM	Mouse click:X+
+a  3	1/16/2025 8:59:40 AM	key release or away:CurrentPosition--> X:337.862 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:40 AM	Mouse click:X+
+a  3	1/16/2025 8:59:40 AM	key release or away:CurrentPosition--> X:343.763 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:41 AM	Mouse click:X+
+a  3	1/16/2025 8:59:41 AM	key release or away:CurrentPosition--> X:347.070 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:41 AM	Mouse click:X+
+a  3	1/16/2025 8:59:41 AM	key release or away:CurrentPosition--> X:347.070 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:41 AM	Mouse click:X+
+a  3	1/16/2025 8:59:41 AM	key release or away:CurrentPosition--> X:350.296 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:42 AM	key release or away:CurrentPosition--> X:353.154 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:51 AM	The <5> line of program in the pattern <panel> has been modified. ValveStatus:Off,RunningPath:Mask,Template:DOpanel,Valve:Valve 1,Tilt:0,Rotate:0,DispeseMode:Line,TeachMode:By Camera,TrackDiscription:Enable,Joint:N,PrematurelyAtomized:0.000,PrematurelOpeningValve:0.000,DelayOpeningValve:0.000,Speed:70.000,DispensingHeight:5.000,PullBackHeight:0.000,StayTime:0.000,OffValveDistance:0.000,OpenValveTime:0.000,StartingDistance:0.000,EndDistance:0.000,Glue width:3.000,OffAtomizatingDlay:0.000,Pre-On Distance:0.000,Back MoveDistance:0.000,Back MoveSpeed:0.000,Back MoveHeight:0.000,Pre-GlueTime:0.000,EnabledMask:Enable,MaskName:No,Glue Weight:0.000,Mirror:0001
+
+a  3	1/16/2025 8:59:57 AM	Mouse click:X+
+a  3	1/16/2025 8:59:57 AM	key release or away:CurrentPosition--> X:353.154 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:58 AM	Mouse click:Y+
+a  3	1/16/2025 8:59:58 AM	key release or away:CurrentPosition--> X:355.932 Y:106.394 Z:0.000
+a  3	1/16/2025 8:59:59 AM	key release or away:CurrentPosition--> X:355.932 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:05 AM	key release or away:CurrentPosition--> X:355.932 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:06 AM	Mouse click:X-
+a  3	1/16/2025 9:00:06 AM	key release or away:CurrentPosition--> X:353.123 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:07 AM	Mouse click:X-
+a  3	1/16/2025 9:00:07 AM	key release or away:CurrentPosition--> X:352.044 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:07 AM	Mouse click:X-
+a  3	1/16/2025 9:00:07 AM	key release or away:CurrentPosition--> X:349.632 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:08 AM	Mouse click:Y+
+a  3	1/16/2025 9:00:08 AM	key release or away:CurrentPosition--> X:348.204 Y:109.002 Z:0.000
+a  3	1/16/2025 9:00:09 AM	Mouse click:Y+
+a  3	1/16/2025 9:00:09 AM	key release or away:CurrentPosition--> X:348.204 Y:112.004 Z:0.000
+a  3	1/16/2025 9:00:10 AM	Mouse click:X-
+a  3	1/16/2025 9:00:10 AM	key release or away:CurrentPosition--> X:348.204 Y:113.856 Z:0.000
+a  3	1/16/2025 9:00:10 AM	key release or away:CurrentPosition--> X:345.632 Y:113.856 Z:0.000
+a  3	1/16/2025 9:00:13 AM	Mouse click:Y+
+a  3	1/16/2025 9:00:13 AM	key release or away:CurrentPosition--> X:345.632 Y:116.985 Z:0.000
+a  3	1/16/2025 9:00:13 AM	Mouse click:Y+
+a  3	1/16/2025 9:00:13 AM	key release or away:CurrentPosition--> X:345.632 Y:117.654 Z:0.000
+a  3	1/16/2025 9:00:15 AM	Mouse click:X+
+a  3	1/16/2025 9:00:15 AM	key release or away:CurrentPosition--> X:348.461 Y:121.282 Z:0.000
+a  3	1/16/2025 9:00:15 AM	Mouse click:X+
+a  3	1/16/2025 9:00:15 AM	key release or away:CurrentPosition--> X:348.461 Y:121.282 Z:0.000
+a  3	1/16/2025 9:00:15 AM	Mouse click:X+
+a  3	1/16/2025 9:00:16 AM	key release or away:CurrentPosition--> X:352.088 Y:121.282 Z:0.000
+a  3	1/16/2025 9:00:17 AM	Mouse click:Y+
+a  3	1/16/2025 9:00:17 AM	key release or away:CurrentPosition--> X:355.506 Y:121.282 Z:0.000
+a  3	1/16/2025 9:00:17 AM	key release or away:CurrentPosition--> X:355.506 Y:123.974 Z:0.000
+a  3	1/16/2025 9:01:11 AM	The <2> line of program in the pattern <panel> has been modified. ,
+
+a  3	1/16/2025 9:01:19 AM	DryRun
+a  3	1/16/2025 9:01:19 AM	DryRun
+a  3	1/16/2025 9:01:22 AM	Key click:
+a  3	1/16/2025 9:01:24 AM	key release:CurrentPosition--> X:355.506 Y:123.974 Z:0.000
+a  3	1/16/2025 9:01:28 AM	TestRun：Start
+a  3	1/16/2025 9:01:31 AM	AlarmCode 1040:Can't found template!
+a  3	1/16/2025 9:01:34 AM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.059 Y:94.363 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 9:01:34 AM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:395.153 Y:214.788 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 9:01:40 AM	Key click:
+a  3	1/16/2025 9:01:41 AM	key release:CurrentPosition--> X:224.060 Y:94.362 Z:20.500
+a  3	1/16/2025 9:01:46 AM	TestRun：Start
+a  3	1/16/2025 9:01:59 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:11 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:17 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:19 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 9:02:19 AM	TestRun：Stop
+a  3	1/16/2025 9:02:19 AM	Stop
+a  3	1/16/2025 9:02:22 AM	TestRun：Start
+a  3	1/16/2025 9:02:25 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:27 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:29 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:31 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:32 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:34 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:02:35 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 9:02:35 AM	TestRun：Stop
+a  3	1/16/2025 9:02:53 AM	The <2> line of program in the pattern <panel> has been modified. Lines:11,Line Width:5.000
+
+a  3	1/16/2025 9:02:55 AM	Key click:
+a  3	1/16/2025 9:02:56 AM	key release:CurrentPosition--> X:497.596 Y:264.584 Z:60.668
+a  3	1/16/2025 9:02:59 AM	TestRun：Start
+a  3	1/16/2025 9:03:02 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:04 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:06 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:07 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:07 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:08 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:09 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:11 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:12 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:14 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:16 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:16 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:17 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:17 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:03:39 AM	The <2> line of program in the pattern <panel> has been modified. ,
+
+a  3	1/16/2025 9:03:44 AM	DispenseMode
+a  3	1/16/2025 9:03:49 AM	Key click:
+a  3	1/16/2025 9:03:50 AM	key release:CurrentPosition--> X:331.192 Y:251.096 Z:5.000
+a  3	1/16/2025 9:03:55 AM	Key click:
+a  3	1/16/2025 9:03:57 AM	key release:CurrentPosition--> X:331.192 Y:251.096 Z:5.000
+a  3	1/16/2025 9:04:01 AM	TestRun：Start
+a  3	1/16/2025 9:04:02 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:03 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:04 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:04 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:06 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:06 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:07 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:07 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:08 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:09 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:04:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 9:07:27 AM	Front
+a  3	1/16/2025 9:22:47 AM	ValveAndCalibretingData.bin the modify parameters are Valve3CaliSave
+a  3	1/16/2025 9:23:35 AM	TrackAndPar.bin the modify parameters are Mark Setting,Track storage
+a  3	1/16/2025 9:23:35 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Mark Setting,Track storage
+a  3	1/16/2025 9:24:58 AM	Open Program:20250116092326 tgyty
+a  3	1/16/2025 9:24:59 AM	Open Program:20250116092326 tgyty
+a  3	1/16/2025 9:29:02 AM	TrackAndPar.bin the modify parameters are AutoCalibSet
+a  3	1/16/2025 9:29:02 AM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	1/16/2025 9:29:02 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,AutoCalibSet
+a  3	1/16/2025 9:30:48 AM	key release or away:CurrentPosition--> X:428.688 Y:136.952 Z:5.000
+a  3	1/16/2025 9:30:53 AM	Key click:Up
+a  3	1/16/2025 9:30:54 AM	key release:CurrentPosition--> X:428.688 Y:139.801 Z:5.000
+a  3	1/16/2025 9:30:54 AM	Key click:Down
+a  3	1/16/2025 9:30:54 AM	key release:CurrentPosition--> X:428.688 Y:138.401 Z:5.000
+a  3	1/16/2025 9:30:57 AM	Key click:
+a  3	1/16/2025 9:30:57 AM	Key click:PageDown
+a  3	1/16/2025 9:30:57 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:8.215
+a  3	1/16/2025 9:30:58 AM	Key click:PageUp
+a  3	1/16/2025 9:30:58 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:8.913
+a  3	1/16/2025 9:30:58 AM	Key click:PageUp
+a  3	1/16/2025 9:30:58 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:6.900
+a  3	1/16/2025 9:30:59 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:5.002
+a  3	1/16/2025 9:30:59 AM	Key click:
+a  3	1/16/2025 9:31:00 AM	Key click:PageDown
+a  3	1/16/2025 9:31:00 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:5.002
+a  3	1/16/2025 9:31:01 AM	Key click:PageUp
+a  3	1/16/2025 9:31:01 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:7.580
+a  3	1/16/2025 9:31:01 AM	Key click:PageUp
+a  3	1/16/2025 9:31:01 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:7.580
+a  3	1/16/2025 9:31:01 AM	Key click:PageDown
+a  3	1/16/2025 9:31:01 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:3.864
+a  3	1/16/2025 9:31:01 AM	Key click:PageDown
+a  3	1/16/2025 9:31:01 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:3.864
+a  3	1/16/2025 9:31:01 AM	Key click:PageDown
+a  3	1/16/2025 9:31:01 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:3.864
+a  3	1/16/2025 9:31:02 AM	Key click:PageUp
+a  3	1/16/2025 9:31:02 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:8.863
+a  3	1/16/2025 9:31:02 AM	Key click:PageDown
+a  3	1/16/2025 9:31:03 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:7.125
+a  3	1/16/2025 9:31:03 AM	key release:CurrentPosition--> X:428.688 Y:137.972 Z:7.125
+a  3	1/16/2025 9:31:25 AM	key release or away:CurrentPosition--> X:428.688 Y:137.972 Z:8.923
+a  3	1/16/2025 9:31:25 AM	key release or away:CurrentPosition--> X:428.688 Y:137.972 Z:8.923
+a  3	1/16/2025 9:31:27 AM	key release or away:CurrentPosition--> X:428.688 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:38 AM	Mouse click:X+
+a  3	1/16/2025 9:32:39 AM	key release or away:CurrentPosition--> X:445.782 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:40 AM	Mouse click:X+
+a  3	1/16/2025 9:32:42 AM	key release or away:CurrentPosition--> X:501.249 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:43 AM	Mouse click:X+
+a  3	1/16/2025 9:32:43 AM	key release or away:CurrentPosition--> X:505.441 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:43 AM	Mouse click:X+
+a  3	1/16/2025 9:32:43 AM	key release or away:CurrentPosition--> X:505.441 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:43 AM	Mouse click:X+
+a  3	1/16/2025 9:32:43 AM	key release or away:CurrentPosition--> X:511.316 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:43 AM	Mouse click:X+
+a  3	1/16/2025 9:32:44 AM	key release or away:CurrentPosition--> X:524.473 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:44 AM	Mouse click:X+
+a  3	1/16/2025 9:32:44 AM	key release or away:CurrentPosition--> X:530.201 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:45 AM	Mouse click:X+
+a  3	1/16/2025 9:32:45 AM	key release or away:CurrentPosition--> X:539.324 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:45 AM	Mouse click:X+
+a  3	1/16/2025 9:32:45 AM	key release or away:CurrentPosition--> X:545.907 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:46 AM	Mouse click:X+
+a  3	1/16/2025 9:32:46 AM	key release or away:CurrentPosition--> X:549.255 Y:137.972 Z:8.923
+a  3	1/16/2025 9:32:46 AM	Mouse click:X+
+a  3	1/16/2025 9:32:46 AM	key release or away:CurrentPosition--> X:549.774 Y:137.972 Z:8.923
+a  3	1/16/2025 9:33:46 AM	key release or away:CurrentPosition--> X:552.332 Y:137.972 Z:8.923
+a  3	1/16/2025 9:36:39 AM	New Program:Undersidan
+a  3	1/16/2025 9:38:18 AM	AlarmCode 1020:Z Value Error
+a  3	1/16/2025 9:39:30 AM	Set1_Mark matching coordinates:X:81.408 Y:219.750 Z:20.512 Result:TRUE
+a  3	1/16/2025 9:40:47 AM	Set2_Mark matching coordinates:X:207.953 Y:89.272 Z:20.512 Result:TRUE
+a  3	1/16/2025 9:42:27 AM	1_Mark goto coordinates:X:0.000 Y:0.000 Z:0.000 Result:TRUE
+a  3	1/16/2025 9:42:36 AM	1_Mark goto coordinates:X:81.408 Y:219.750 Z:20.512 Result:TRUE
+a  3	1/16/2025 9:45:35 AM	Set1_Mark matching coordinates:X:64.033 Y:98.582 Z:20.512 Result:TRUE
+a  3	1/16/2025 9:57:48 AM	Mouse click:X-
+a  3	1/16/2025 9:57:50 AM	key release or away:CurrentPosition--> X:70.861 Y:89.324 Z:20.504
+a  3	1/16/2025 9:57:51 AM	Mouse click:X-
+a  3	1/16/2025 9:57:51 AM	key release or away:CurrentPosition--> X:69.476 Y:89.324 Z:20.504
+a  3	1/16/2025 9:57:52 AM	Mouse click:Y+
+a  3	1/16/2025 9:57:52 AM	key release or away:CurrentPosition--> X:63.668 Y:89.324 Z:20.504
+a  3	1/16/2025 9:57:52 AM	Mouse click:Y+
+a  3	1/16/2025 9:57:52 AM	key release or away:CurrentPosition--> X:63.668 Y:89.324 Z:20.504
+a  3	1/16/2025 9:57:52 AM	key release or away:CurrentPosition--> X:63.668 Y:89.324 Z:20.504
+a  3	1/16/2025 9:58:38 AM	Mouse click:X+
+a  3	1/16/2025 9:58:39 AM	key release or away:CurrentPosition--> X:176.167 Y:98.564 Z:20.504
+a  3	1/16/2025 9:58:40 AM	Mouse click:X+
+a  3	1/16/2025 9:58:40 AM	key release or away:CurrentPosition--> X:177.960 Y:98.564 Z:20.504
+a  3	1/16/2025 9:58:41 AM	Mouse click:X-
+a  3	1/16/2025 9:58:41 AM	key release or away:CurrentPosition--> X:184.802 Y:98.564 Z:20.504
+a  3	1/16/2025 9:58:42 AM	key release or away:CurrentPosition--> X:180.124 Y:98.564 Z:20.504
+a  3	1/16/2025 9:59:38 AM	Mouse click:Y-
+a  3	1/16/2025 9:59:39 AM	key release or away:CurrentPosition--> X:122.510 Y:153.391 Z:20.504
+a  3	1/16/2025 9:59:40 AM	Mouse click:Y+
+a  3	1/16/2025 9:59:40 AM	key release or away:CurrentPosition--> X:122.510 Y:152.306 Z:20.504
+a  3	1/16/2025 9:59:40 AM	Mouse click:Y+
+a  3	1/16/2025 9:59:40 AM	key release or away:CurrentPosition--> X:122.510 Y:157.474 Z:20.504
+a  3	1/16/2025 9:59:41 AM	key release or away:CurrentPosition--> X:122.510 Y:165.812 Z:20.504
+a  3	1/16/2025 9:59:41 AM	Mouse click:Y-
+a  3	1/16/2025 9:59:41 AM	key release or away:CurrentPosition--> X:122.510 Y:165.812 Z:20.504
+a  3	1/16/2025 9:59:42 AM	Mouse click:X-
+a  3	1/16/2025 9:59:43 AM	key release or away:CurrentPosition--> X:49.910 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:44 AM	Mouse click:X+
+a  3	1/16/2025 9:59:44 AM	key release or away:CurrentPosition--> X:48.702 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:44 AM	Mouse click:X+
+a  3	1/16/2025 9:59:44 AM	key release or away:CurrentPosition--> X:53.326 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:44 AM	Mouse click:X+
+a  3	1/16/2025 9:59:44 AM	key release or away:CurrentPosition--> X:68.154 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:45 AM	Mouse click:X-
+a  3	1/16/2025 9:59:45 AM	key release or away:CurrentPosition--> X:60.151 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:46 AM	Mouse click:X+
+a  3	1/16/2025 9:59:46 AM	key release or away:CurrentPosition--> X:59.556 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:50 AM	Mouse click:Y-
+a  3	1/16/2025 9:59:50 AM	key release or away:CurrentPosition--> X:65.038 Y:162.996 Z:20.504
+a  3	1/16/2025 9:59:50 AM	key release or away:CurrentPosition--> X:65.038 Y:156.358 Z:20.504
+a  3	1/16/2025 10:00:55 AM	Mouse click:X-
+a  3	1/16/2025 10:00:56 AM	key release or away:CurrentPosition--> X:64.090 Y:161.112 Z:20.504
+a  3	1/16/2025 10:00:56 AM	Mouse click:X+
+a  3	1/16/2025 10:00:57 AM	key release or away:CurrentPosition--> X:55.032 Y:161.112 Z:20.504
+a  3	1/16/2025 10:00:57 AM	Mouse click:X-
+a  3	1/16/2025 10:00:57 AM	key release or away:CurrentPosition--> X:59.290 Y:161.112 Z:20.504
+a  3	1/16/2025 10:00:58 AM	Mouse click:Y-
+a  3	1/16/2025 10:00:58 AM	key release or away:CurrentPosition--> X:50.286 Y:152.826 Z:20.504
+a  3	1/16/2025 10:00:58 AM	Mouse click:Y-
+a  3	1/16/2025 10:00:58 AM	key release or away:CurrentPosition--> X:50.286 Y:152.068 Z:20.504
+a  3	1/16/2025 10:00:59 AM	Mouse click:Y-
+a  3	1/16/2025 10:00:59 AM	key release or away:CurrentPosition--> X:50.286 Y:148.014 Z:20.504
+a  3	1/16/2025 10:00:59 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:00 AM	key release or away:CurrentPosition--> X:50.286 Y:144.314 Z:20.504
+a  3	1/16/2025 10:01:00 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:00 AM	key release or away:CurrentPosition--> X:50.286 Y:144.314 Z:20.504
+a  3	1/16/2025 10:01:00 AM	Mouse click:X+
+a  3	1/16/2025 10:01:00 AM	key release or away:CurrentPosition--> X:50.286 Y:154.666 Z:20.504
+a  3	1/16/2025 10:01:00 AM	Mouse click:X+
+a  3	1/16/2025 10:01:00 AM	key release or away:CurrentPosition--> X:54.774 Y:154.666 Z:20.504
+a  3	1/16/2025 10:01:01 AM	key release or away:CurrentPosition--> X:59.126 Y:154.666 Z:20.504
+a  3	1/16/2025 10:01:04 AM	key release or away:CurrentPosition--> X:59.126 Y:154.666 Z:20.504
+a  3	1/16/2025 10:01:04 AM	Mouse click:Y-
+a  3	1/16/2025 10:01:04 AM	key release or away:CurrentPosition--> X:59.126 Y:154.666 Z:20.504
+a  3	1/16/2025 10:01:04 AM	Mouse click:Y-
+a  3	1/16/2025 10:01:04 AM	key release or away:CurrentPosition--> X:59.126 Y:151.732 Z:20.504
+a  3	1/16/2025 10:01:05 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:05 AM	key release or away:CurrentPosition--> X:59.126 Y:147.802 Z:20.504
+a  3	1/16/2025 10:01:06 AM	Mouse click:X-
+a  3	1/16/2025 10:01:06 AM	key release or away:CurrentPosition--> X:59.126 Y:150.024 Z:20.504
+a  3	1/16/2025 10:01:06 AM	key release or away:CurrentPosition--> X:57.396 Y:150.024 Z:20.504
+a  3	1/16/2025 10:01:12 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:13 AM	key release or away:CurrentPosition--> X:57.396 Y:164.607 Z:20.504
+a  3	1/16/2025 10:01:13 AM	Mouse click:X+
+a  3	1/16/2025 10:01:17 AM	key release or away:CurrentPosition--> X:152.679 Y:167.664 Z:20.504
+a  3	1/16/2025 10:01:18 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:18 AM	key release or away:CurrentPosition--> X:154.400 Y:176.632 Z:20.504
+a  3	1/16/2025 10:01:18 AM	Mouse click:X+
+a  3	1/16/2025 10:01:18 AM	key release or away:CurrentPosition--> X:160.453 Y:178.772 Z:20.504
+a  3	1/16/2025 10:01:19 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:19 AM	key release or away:CurrentPosition--> X:162.672 Y:183.712 Z:20.504
+a  3	1/16/2025 10:01:19 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:19 AM	key release or away:CurrentPosition--> X:162.672 Y:183.712 Z:20.504
+a  3	1/16/2025 10:01:19 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:19 AM	key release or away:CurrentPosition--> X:162.672 Y:183.712 Z:20.504
+a  3	1/16/2025 10:01:20 AM	key release or away:CurrentPosition--> X:162.672 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:20 AM	key release or away:CurrentPosition--> X:162.672 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:21 AM	key release or away:CurrentPosition--> X:162.672 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:21 AM	key release or away:CurrentPosition--> X:162.672 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:21 AM	Mouse click:X+
+a  3	1/16/2025 10:01:22 AM	key release or away:CurrentPosition--> X:162.672 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:22 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:22 AM	key release or away:CurrentPosition--> X:164.640 Y:190.466 Z:20.504
+a  3	1/16/2025 10:01:22 AM	key release or away:CurrentPosition--> X:164.640 Y:194.464 Z:20.504
+a  3	1/16/2025 10:01:27 AM	Mouse click:X+
+a  3	1/16/2025 10:01:28 AM	key release or away:CurrentPosition--> X:176.775 Y:194.464 Z:20.504
+a  3	1/16/2025 10:01:28 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:29 AM	key release or away:CurrentPosition--> X:179.038 Y:203.622 Z:20.504
+a  3	1/16/2025 10:01:29 AM	Mouse click:X+
+a  3	1/16/2025 10:01:29 AM	key release or away:CurrentPosition--> X:185.146 Y:206.088 Z:20.504
+a  3	1/16/2025 10:01:29 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:30 AM	key release or away:CurrentPosition--> X:185.742 Y:209.515 Z:20.504
+a  3	1/16/2025 10:01:30 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:30 AM	key release or away:CurrentPosition--> X:185.742 Y:216.515 Z:20.504
+a  3	1/16/2025 10:01:30 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:30 AM	key release or away:CurrentPosition--> X:185.742 Y:216.515 Z:20.504
+a  3	1/16/2025 10:01:31 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:31 AM	key release or away:CurrentPosition--> X:185.742 Y:223.688 Z:20.504
+a  3	1/16/2025 10:01:31 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:31 AM	key release or away:CurrentPosition--> X:185.742 Y:223.688 Z:20.504
+a  3	1/16/2025 10:01:31 AM	Mouse click:Y+
+a  3	1/16/2025 10:01:31 AM	key release or away:CurrentPosition--> X:185.742 Y:233.260 Z:20.504
+a  3	1/16/2025 10:01:32 AM	Mouse click:X+
+a  3	1/16/2025 10:01:32 AM	key release or away:CurrentPosition--> X:185.742 Y:236.066 Z:20.504
+a  3	1/16/2025 10:01:32 AM	key release or away:CurrentPosition--> X:189.924 Y:236.066 Z:20.504
+a  3	1/16/2025 10:02:02 AM	Mouse click:X+
+a  3	1/16/2025 10:02:05 AM	key release or away:CurrentPosition--> X:244.685 Y:236.066 Z:20.504
+a  3	1/16/2025 10:02:09 AM	key release or away:CurrentPosition--> X:246.204 Y:236.066 Z:20.504
+a  3	1/16/2025 10:02:09 AM	key release or away:CurrentPosition--> X:246.204 Y:236.066 Z:20.504
+a  3	1/16/2025 10:02:10 AM	key release or away:CurrentPosition--> X:246.204 Y:236.066 Z:20.504
+a  3	1/16/2025 10:02:10 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:10 AM	key release or away:CurrentPosition--> X:246.204 Y:242.703 Z:20.504
+a  3	1/16/2025 10:02:10 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:11 AM	key release or away:CurrentPosition--> X:246.204 Y:261.338 Z:20.504
+a  3	1/16/2025 10:02:11 AM	Mouse click:X+
+a  3	1/16/2025 10:02:13 AM	key release or away:CurrentPosition--> X:293.425 Y:261.786 Z:20.504
+a  3	1/16/2025 10:02:14 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:14 AM	key release or away:CurrentPosition--> X:294.440 Y:271.209 Z:20.504
+a  3	1/16/2025 10:02:14 AM	Mouse click:X+
+a  3	1/16/2025 10:02:15 AM	key release or away:CurrentPosition--> X:310.197 Y:272.856 Z:20.504
+a  3	1/16/2025 10:02:16 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:16 AM	key release or away:CurrentPosition--> X:313.056 Y:276.578 Z:20.504
+a  3	1/16/2025 10:02:16 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:17 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:26.881
+a  3	1/16/2025 10:02:17 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:17 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:38.713
+a  3	1/16/2025 10:02:18 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:18 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:44.830
+a  3	1/16/2025 10:02:18 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:18 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:46.871
+a  3	1/16/2025 10:02:18 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:18 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:49.071
+a  3	1/16/2025 10:02:19 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:19 AM	key release or away:CurrentPosition--> X:313.056 Y:279.450 Z:49.071
+a  3	1/16/2025 10:02:19 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:20 AM	key release or away:CurrentPosition--> X:313.056 Y:287.126 Z:53.828
+a  3	1/16/2025 10:02:20 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:20 AM	key release or away:CurrentPosition--> X:313.056 Y:292.054 Z:53.828
+a  3	1/16/2025 10:02:22 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:22 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:53.828
+a  3	1/16/2025 10:02:22 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:23 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:55.561
+a  3	1/16/2025 10:02:23 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:23 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:57.552
+a  3	1/16/2025 10:02:23 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:23 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:59.297
+a  3	1/16/2025 10:02:23 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:23 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:60.808
+a  3	1/16/2025 10:02:24 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:24 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:61.772
+a  3	1/16/2025 10:02:24 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:24 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:61.772
+a  3	1/16/2025 10:02:24 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:24 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:61.772
+a  3	1/16/2025 10:02:30 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:30 AM	key release or away:CurrentPosition--> X:313.056 Y:292.822 Z:71.232
+a  3	1/16/2025 10:02:31 AM	Mouse click:Y+
+a  3	1/16/2025 10:02:31 AM	key release or away:CurrentPosition--> X:313.056 Y:295.554 Z:71.232
+a  3	1/16/2025 10:02:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:32 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:71.232
+a  3	1/16/2025 10:02:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:32 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:73.180
+a  3	1/16/2025 10:02:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:33 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:74.322
+a  3	1/16/2025 10:02:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:33 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:76.110
+a  3	1/16/2025 10:02:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:02:33 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:76.110
+a  3	1/16/2025 10:02:34 AM	key release or away:CurrentPosition--> X:313.056 Y:297.768 Z:81.106
+a  3	1/16/2025 10:02:44 AM	Key click:Left
+a  3	1/16/2025 10:02:44 AM	key release:CurrentPosition--> X:313.056 Y:297.768 Z:81.106
+a  3	1/16/2025 10:02:44 AM	Key click:Left
+a  3	1/16/2025 10:02:45 AM	key release:CurrentPosition--> X:313.056 Y:297.768 Z:81.106
+a  3	1/16/2025 10:02:45 AM	Key click:Left
+a  3	1/16/2025 10:02:45 AM	key release:CurrentPosition--> X:313.056 Y:297.768 Z:81.106
+a  3	1/16/2025 10:02:45 AM	Key click:Up
+a  3	1/16/2025 10:02:45 AM	key release:CurrentPosition--> X:313.056 Y:297.768 Z:81.106
+a  3	1/16/2025 10:02:45 AM	Key click:Left
+a  3	1/16/2025 10:02:45 AM	key release:CurrentPosition--> X:306.640 Y:298.778 Z:81.106
+a  3	1/16/2025 10:02:46 AM	Key click:Left
+a  3	1/16/2025 10:02:46 AM	key release:CurrentPosition--> X:304.886 Y:298.778 Z:81.106
+a  3	1/16/2025 10:02:46 AM	Key click:Right
+a  3	1/16/2025 10:02:46 AM	key release:CurrentPosition--> X:303.354 Y:298.778 Z:81.106
+a  3	1/16/2025 10:02:49 AM	Key click:
+a  3	1/16/2025 10:02:50 AM	Key click:PageDown
+a  3	1/16/2025 10:02:50 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:81.106
+a  3	1/16/2025 10:02:51 AM	Key click:PageDown
+a  3	1/16/2025 10:02:51 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:82.543
+a  3	1/16/2025 10:02:52 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:85.198
+a  3	1/16/2025 10:03:12 AM	Key click:
+a  3	1/16/2025 10:03:14 AM	Key click:PageDown
+a  3	1/16/2025 10:03:14 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:85.198
+a  3	1/16/2025 10:03:15 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:86.666
+a  3	1/16/2025 10:03:17 AM	Key click:
+a  3	1/16/2025 10:03:18 AM	Key click:PageDown
+a  3	1/16/2025 10:03:18 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:86.666
+a  3	1/16/2025 10:03:19 AM	Key click:PageDown
+a  3	1/16/2025 10:03:19 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:87.994
+a  3	1/16/2025 10:03:19 AM	Key click:PageDown
+a  3	1/16/2025 10:03:19 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:89.122
+a  3	1/16/2025 10:03:19 AM	Key click:PageDown
+a  3	1/16/2025 10:03:19 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:91.095
+a  3	1/16/2025 10:03:23 AM	Key click:PageDown
+a  3	1/16/2025 10:03:23 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:92.853
+a  3	1/16/2025 10:03:24 AM	Key click:PageDown
+a  3	1/16/2025 10:03:24 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:94.481
+a  3	1/16/2025 10:03:24 AM	Key click:PageDown
+a  3	1/16/2025 10:03:24 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:95.279
+a  3	1/16/2025 10:03:24 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:96.717
+a  3	1/16/2025 10:03:38 AM	Key click:Right
+a  3	1/16/2025 10:03:38 AM	key release:CurrentPosition--> X:306.282 Y:298.778 Z:96.717
+a  3	1/16/2025 10:03:38 AM	Key click:Right
+a  3	1/16/2025 10:03:38 AM	key release:CurrentPosition--> X:307.254 Y:298.778 Z:96.717
+a  3	1/16/2025 10:03:38 AM	Key click:Down
+a  3	1/16/2025 10:03:38 AM	key release:CurrentPosition--> X:308.536 Y:298.778 Z:96.717
+a  3	1/16/2025 10:03:39 AM	Key click:Down
+a  3	1/16/2025 10:03:39 AM	key release:CurrentPosition--> X:308.536 Y:297.726 Z:96.717
+a  3	1/16/2025 10:03:40 AM	Key click:Down
+a  3	1/16/2025 10:03:40 AM	key release:CurrentPosition--> X:308.536 Y:295.624 Z:96.717
+a  3	1/16/2025 10:05:53 AM	Key click:
+a  3	1/16/2025 10:05:54 AM	Key click:PageDown
+a  3	1/16/2025 10:05:54 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:96.717
+a  3	1/16/2025 10:05:56 AM	Key click:PageDown
+a  3	1/16/2025 10:05:56 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:97.243
+a  3	1/16/2025 10:05:57 AM	Key click:PageDown
+a  3	1/16/2025 10:05:57 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:97.675
+a  3	1/16/2025 10:05:57 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:98.057
+a  3	1/16/2025 10:06:13 AM	Key click:
+a  3	1/16/2025 10:06:13 AM	Key click:PageUp
+a  3	1/16/2025 10:06:13 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:98.057
+a  3	1/16/2025 10:06:13 AM	key release:CurrentPosition--> X:308.536 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:24 AM	key release or away:CurrentPosition--> X:308.536 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:37 AM	Mouse click:X-
+a  3	1/16/2025 10:06:37 AM	key release or away:CurrentPosition--> X:308.536 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:38 AM	Mouse click:X-
+a  3	1/16/2025 10:06:38 AM	key release or away:CurrentPosition--> X:306.586 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:40 AM	key release or away:CurrentPosition--> X:302.710 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:42 AM	Mouse click:X-
+a  3	1/16/2025 10:06:42 AM	key release or away:CurrentPosition--> X:302.710 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:42 AM	Mouse click:X-
+a  3	1/16/2025 10:06:42 AM	key release or away:CurrentPosition--> X:302.220 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:43 AM	Mouse click:X-
+a  3	1/16/2025 10:06:43 AM	key release or away:CurrentPosition--> X:301.996 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:43 AM	Mouse click:X-
+a  3	1/16/2025 10:06:43 AM	key release or away:CurrentPosition--> X:301.680 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:44 AM	Mouse click:X-
+a  3	1/16/2025 10:06:44 AM	key release or away:CurrentPosition--> X:301.454 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:44 AM	Mouse click:X-
+a  3	1/16/2025 10:06:44 AM	key release or away:CurrentPosition--> X:301.198 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:46 AM	Mouse click:X+
+a  3	1/16/2025 10:06:46 AM	key release or away:CurrentPosition--> X:300.584 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:50 AM	key release or away:CurrentPosition--> X:301.120 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:51 AM	Mouse click:X-
+a  3	1/16/2025 10:06:51 AM	key release or away:CurrentPosition--> X:301.120 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:52 AM	Mouse click:X-
+a  3	1/16/2025 10:06:52 AM	key release or away:CurrentPosition--> X:300.942 Y:294.472 Z:97.720
+a  3	1/16/2025 10:06:52 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:97.720
+a  3	1/16/2025 10:07:19 AM	Mouse click:Z-
+a  3	1/16/2025 10:07:19 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:97.720
+a  3	1/16/2025 10:07:19 AM	Mouse click:Z-
+a  3	1/16/2025 10:07:20 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:96.746
+a  3	1/16/2025 10:07:20 AM	Mouse click:Z-
+a  3	1/16/2025 10:07:24 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:82.328
+a  3	1/16/2025 10:07:24 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:82.328
+a  3	1/16/2025 10:07:26 AM	Mouse click:Z-
+a  3	1/16/2025 10:07:27 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:50.799
+a  3	1/16/2025 10:07:27 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:36 AM	Mouse click:X-
+a  3	1/16/2025 10:07:36 AM	key release or away:CurrentPosition--> X:300.582 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:36 AM	Mouse click:X-
+a  3	1/16/2025 10:07:36 AM	key release or away:CurrentPosition--> X:296.028 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:36 AM	Mouse click:X-
+a  3	1/16/2025 10:07:36 AM	key release or away:CurrentPosition--> X:293.980 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:37 AM	Mouse click:X-
+a  3	1/16/2025 10:07:37 AM	key release or away:CurrentPosition--> X:291.952 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:37 AM	Mouse click:X-
+a  3	1/16/2025 10:07:37 AM	key release or away:CurrentPosition--> X:291.952 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:37 AM	Mouse click:X-
+a  3	1/16/2025 10:07:38 AM	key release or away:CurrentPosition--> X:256.188 Y:294.472 Z:50.163
+a  3	1/16/2025 10:07:38 AM	key release or away:CurrentPosition--> X:256.188 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:22 AM	Mouse click:X-
+a  3	1/16/2025 10:08:22 AM	key release or away:CurrentPosition--> X:250.183 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:22 AM	Mouse click:X-
+a  3	1/16/2025 10:08:26 AM	key release or away:CurrentPosition--> X:153.748 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:26 AM	Mouse click:X-
+a  3	1/16/2025 10:08:27 AM	key release or away:CurrentPosition--> X:152.916 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:27 AM	Mouse click:X-
+a  3	1/16/2025 10:08:28 AM	key release or away:CurrentPosition--> X:149.888 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:29 AM	Mouse click:X-
+a  3	1/16/2025 10:08:30 AM	key release or away:CurrentPosition--> X:146.868 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:30 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:50.163
+a  3	1/16/2025 10:08:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:31 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:57.557
+a  3	1/16/2025 10:08:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:32 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:68.827
+a  3	1/16/2025 10:08:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:32 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:70.881
+a  3	1/16/2025 10:08:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:32 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:73.674
+a  3	1/16/2025 10:08:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:33 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:73.674
+a  3	1/16/2025 10:08:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:33 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:73.674
+a  3	1/16/2025 10:08:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:33 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:73.674
+a  3	1/16/2025 10:08:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:33 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:73.674
+a  3	1/16/2025 10:08:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:08:34 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:86.739
+a  3	1/16/2025 10:08:35 AM	Mouse click:X+
+a  3	1/16/2025 10:08:35 AM	key release or away:CurrentPosition--> X:142.470 Y:294.472 Z:90.639
+a  3	1/16/2025 10:08:35 AM	Mouse click:X+
+a  3	1/16/2025 10:08:35 AM	key release or away:CurrentPosition--> X:146.098 Y:294.472 Z:90.639
+a  3	1/16/2025 10:08:35 AM	Mouse click:X+
+a  3	1/16/2025 10:08:35 AM	key release or away:CurrentPosition--> X:148.168 Y:294.472 Z:90.639
+a  3	1/16/2025 10:08:36 AM	Mouse click:X+
+a  3	1/16/2025 10:08:36 AM	key release or away:CurrentPosition--> X:151.014 Y:294.472 Z:90.639
+a  3	1/16/2025 10:08:36 AM	Mouse click:Y-
+a  3	1/16/2025 10:08:37 AM	key release or away:CurrentPosition--> X:153.158 Y:294.472 Z:90.639
+a  3	1/16/2025 10:08:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:08:37 AM	key release or away:CurrentPosition--> X:153.158 Y:292.640 Z:90.639
+a  3	1/16/2025 10:08:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:08:37 AM	key release or away:CurrentPosition--> X:153.158 Y:288.282 Z:90.639
+a  3	1/16/2025 10:08:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:08:38 AM	key release or away:CurrentPosition--> X:153.158 Y:286.840 Z:90.639
+a  3	1/16/2025 10:08:38 AM	key release or away:CurrentPosition--> X:153.158 Y:285.446 Z:90.639
+a  3	1/16/2025 10:08:41 AM	Key click:Down
+a  3	1/16/2025 10:08:41 AM	key release:CurrentPosition--> X:153.158 Y:285.446 Z:90.639
+a  3	1/16/2025 10:08:41 AM	Key click:Down
+a  3	1/16/2025 10:08:41 AM	key release:CurrentPosition--> X:153.158 Y:285.446 Z:90.639
+a  3	1/16/2025 10:08:41 AM	Key click:Down
+a  3	1/16/2025 10:08:41 AM	key release:CurrentPosition--> X:153.158 Y:280.862 Z:90.639
+a  3	1/16/2025 10:08:42 AM	Key click:Down
+a  3	1/16/2025 10:08:42 AM	key release:CurrentPosition--> X:153.158 Y:279.758 Z:90.639
+a  3	1/16/2025 10:08:42 AM	Key click:Down
+a  3	1/16/2025 10:08:42 AM	key release:CurrentPosition--> X:153.158 Y:278.458 Z:90.639
+a  3	1/16/2025 10:08:42 AM	Key click:Down
+a  3	1/16/2025 10:08:42 AM	key release:CurrentPosition--> X:153.158 Y:276.774 Z:90.639
+a  3	1/16/2025 10:08:42 AM	Key click:Down
+a  3	1/16/2025 10:08:43 AM	key release:CurrentPosition--> X:153.158 Y:274.286 Z:90.639
+a  3	1/16/2025 10:08:43 AM	Key click:Down
+a  3	1/16/2025 10:08:43 AM	key release:CurrentPosition--> X:153.158 Y:274.286 Z:90.639
+a  3	1/16/2025 10:08:43 AM	Key click:Down
+a  3	1/16/2025 10:08:43 AM	key release:CurrentPosition--> X:153.158 Y:270.640 Z:90.639
+a  3	1/16/2025 10:08:43 AM	Key click:Right
+a  3	1/16/2025 10:08:44 AM	key release:CurrentPosition--> X:153.158 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:44 AM	Key click:Right
+a  3	1/16/2025 10:08:44 AM	key release:CurrentPosition--> X:155.234 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:44 AM	Key click:Right
+a  3	1/16/2025 10:08:44 AM	key release:CurrentPosition--> X:158.012 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:45 AM	Key click:Right
+a  3	1/16/2025 10:08:45 AM	key release:CurrentPosition--> X:159.218 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:45 AM	Key click:Right
+a  3	1/16/2025 10:08:45 AM	key release:CurrentPosition--> X:160.748 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:48 AM	Key click:
+a  3	1/16/2025 10:08:49 AM	Key click:PageDown
+a  3	1/16/2025 10:08:49 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:90.639
+a  3	1/16/2025 10:08:50 AM	Key click:PageDown
+a  3	1/16/2025 10:08:50 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:92.777
+a  3	1/16/2025 10:08:50 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:94.631
+a  3	1/16/2025 10:08:52 AM	Key click:
+a  3	1/16/2025 10:08:54 AM	Key click:PageDown
+a  3	1/16/2025 10:08:54 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:94.631
+a  3	1/16/2025 10:08:54 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:96.782
+a  3	1/16/2025 10:09:02 AM	Key click:Up
+a  3	1/16/2025 10:09:02 AM	key release:CurrentPosition--> X:161.846 Y:269.144 Z:96.782
+a  3	1/16/2025 10:09:15 AM	Key click:Up
+a  3	1/16/2025 10:09:15 AM	key release:CurrentPosition--> X:161.846 Y:270.694 Z:96.782
+a  3	1/16/2025 10:09:24 AM	key release or away:CurrentPosition--> X:161.846 Y:271.954 Z:96.782
+a  3	1/16/2025 10:09:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:09:37 AM	key release or away:CurrentPosition--> X:161.846 Y:267.814 Z:96.782
+a  3	1/16/2025 10:09:38 AM	Mouse click:Y-
+a  3	1/16/2025 10:09:38 AM	key release or away:CurrentPosition--> X:161.846 Y:267.172 Z:96.782
+a  3	1/16/2025 10:09:38 AM	key release or away:CurrentPosition--> X:161.846 Y:265.656 Z:96.782
+a  3	1/16/2025 10:09:41 AM	Mouse click:Y-
+a  3	1/16/2025 10:09:41 AM	key release or away:CurrentPosition--> X:161.846 Y:265.656 Z:96.782
+a  3	1/16/2025 10:09:45 AM	Key click:Up
+a  3	1/16/2025 10:09:45 AM	key release:CurrentPosition--> X:161.846 Y:261.744 Z:96.782
+a  3	1/16/2025 10:09:45 AM	Key click:Up
+a  3	1/16/2025 10:09:45 AM	key release:CurrentPosition--> X:161.846 Y:263.024 Z:96.782
+a  3	1/16/2025 10:09:47 AM	Key click:Up
+a  3	1/16/2025 10:09:47 AM	key release:CurrentPosition--> X:161.846 Y:264.350 Z:96.782
+a  3	1/16/2025 10:10:07 AM	key release or away:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:08 AM	key release or away:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:10 AM	Key click:Down
+a  3	1/16/2025 10:10:10 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:10 AM	Key click:Down
+a  3	1/16/2025 10:10:10 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:10 AM	Key click:Down
+a  3	1/16/2025 10:10:10 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:10 AM	Key click:Down
+a  3	1/16/2025 10:10:11 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:11 AM	Key click:Down
+a  3	1/16/2025 10:10:11 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:11 AM	Key click:Down
+a  3	1/16/2025 10:10:11 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:11 AM	Key click:Down
+a  3	1/16/2025 10:10:11 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:14 AM	Key click:Down
+a  3	1/16/2025 10:10:15 AM	key release:CurrentPosition--> X:161.846 Y:265.508 Z:96.782
+a  3	1/16/2025 10:10:15 AM	Key click:Down
+a  3	1/16/2025 10:10:15 AM	key release:CurrentPosition--> X:161.846 Y:265.316 Z:96.782
+a  3	1/16/2025 10:10:16 AM	Key click:Down
+a  3	1/16/2025 10:10:16 AM	key release:CurrentPosition--> X:161.846 Y:265.186 Z:96.782
+a  3	1/16/2025 10:10:20 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.782
+a  3	1/16/2025 10:10:20 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.782
+a  3	1/16/2025 10:10:30 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:30 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.782
+a  3	1/16/2025 10:10:31 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:31 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.513
+a  3	1/16/2025 10:10:31 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.283
+a  3	1/16/2025 10:10:33 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:33 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:96.283
+a  3	1/16/2025 10:10:33 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:34 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:54.711
+a  3	1/16/2025 10:10:35 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:35 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:51.879
+a  3	1/16/2025 10:10:35 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:35 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:48.389
+a  3	1/16/2025 10:10:35 AM	Mouse click:Z-
+a  3	1/16/2025 10:10:35 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:45.886
+a  3	1/16/2025 10:10:36 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:42.847
+a  3	1/16/2025 10:10:51 AM	Mouse click:Y-
+a  3	1/16/2025 10:10:51 AM	key release or away:CurrentPosition--> X:161.846 Y:265.046 Z:42.847
+a  3	1/16/2025 10:10:51 AM	Mouse click:Y-
+a  3	1/16/2025 10:10:54 AM	key release or away:CurrentPosition--> X:161.846 Y:182.079 Z:42.847
+a  3	1/16/2025 10:10:54 AM	Mouse click:X+
+a  3	1/16/2025 10:10:57 AM	key release or away:CurrentPosition--> X:245.944 Y:180.074 Z:42.847
+a  3	1/16/2025 10:10:58 AM	Mouse click:Y-
+a  3	1/16/2025 10:10:58 AM	key release or away:CurrentPosition--> X:246.472 Y:165.354 Z:42.847
+a  3	1/16/2025 10:10:59 AM	Mouse click:Y-
+a  3	1/16/2025 10:10:59 AM	key release or away:CurrentPosition--> X:246.472 Y:159.233 Z:42.847
+a  3	1/16/2025 10:10:59 AM	Mouse click:Y-
+a  3	1/16/2025 10:10:59 AM	key release or away:CurrentPosition--> X:246.472 Y:156.150 Z:42.847
+a  3	1/16/2025 10:11:00 AM	Mouse click:Y-
+a  3	1/16/2025 10:11:00 AM	key release or away:CurrentPosition--> X:246.472 Y:151.858 Z:42.847
+a  3	1/16/2025 10:11:01 AM	Mouse click:Y-
+a  3	1/16/2025 10:11:01 AM	key release or away:CurrentPosition--> X:246.472 Y:148.820 Z:42.847
+a  3	1/16/2025 10:11:02 AM	Mouse click:Y-
+a  3	1/16/2025 10:11:02 AM	key release or away:CurrentPosition--> X:246.472 Y:145.920 Z:42.847
+a  3	1/16/2025 10:11:03 AM	key release or away:CurrentPosition--> X:246.472 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:03 AM	key release or away:CurrentPosition--> X:246.472 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:03 AM	Mouse click:X+
+a  3	1/16/2025 10:11:03 AM	key release or away:CurrentPosition--> X:246.472 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:03 AM	Mouse click:X+
+a  3	1/16/2025 10:11:04 AM	key release or away:CurrentPosition--> X:249.188 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:04 AM	Mouse click:X+
+a  3	1/16/2025 10:11:04 AM	key release or away:CurrentPosition--> X:256.511 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:04 AM	Mouse click:X+
+a  3	1/16/2025 10:11:04 AM	key release or away:CurrentPosition--> X:256.511 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:04 AM	Mouse click:X+
+a  3	1/16/2025 10:11:04 AM	key release or away:CurrentPosition--> X:263.856 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:05 AM	Mouse click:X+
+a  3	1/16/2025 10:11:05 AM	key release or away:CurrentPosition--> X:266.044 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:05 AM	Mouse click:X+
+a  3	1/16/2025 10:11:05 AM	key release or away:CurrentPosition--> X:275.671 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:05 AM	Mouse click:X+
+a  3	1/16/2025 10:11:05 AM	key release or away:CurrentPosition--> X:275.671 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:06 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:06 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:42.847
+a  3	1/16/2025 10:11:06 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:06 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:45.648
+a  3	1/16/2025 10:11:06 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:06 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:49.260
+a  3	1/16/2025 10:11:07 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:07 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:51.136
+a  3	1/16/2025 10:11:07 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:07 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:51.136
+a  3	1/16/2025 10:11:07 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:07 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:56.089
+a  3	1/16/2025 10:11:07 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:07 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:56.089
+a  3	1/16/2025 10:11:07 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:07 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:56.089
+a  3	1/16/2025 10:11:08 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:08 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:56.089
+a  3	1/16/2025 10:11:08 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:08 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:56.089
+a  3	1/16/2025 10:11:08 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:09 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:72.864
+a  3	1/16/2025 10:11:09 AM	Mouse click:X+
+a  3	1/16/2025 10:11:09 AM	key release or away:CurrentPosition--> X:277.454 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:09 AM	Mouse click:X+
+a  3	1/16/2025 10:11:09 AM	key release or away:CurrentPosition--> X:280.132 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:10 AM	Mouse click:X+
+a  3	1/16/2025 10:11:10 AM	key release or away:CurrentPosition--> X:282.810 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:10 AM	Mouse click:X+
+a  3	1/16/2025 10:11:10 AM	key release or away:CurrentPosition--> X:282.810 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:10 AM	Mouse click:X+
+a  3	1/16/2025 10:11:10 AM	key release or away:CurrentPosition--> X:290.722 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:11 AM	Mouse click:X+
+a  3	1/16/2025 10:11:11 AM	key release or away:CurrentPosition--> X:292.604 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:11 AM	Mouse click:X+
+a  3	1/16/2025 10:11:11 AM	key release or away:CurrentPosition--> X:294.556 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:13 AM	key release or away:CurrentPosition--> X:298.412 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:15 AM	Mouse click:X+
+a  3	1/16/2025 10:11:15 AM	key release or away:CurrentPosition--> X:298.412 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:18 AM	Mouse click:X+
+a  3	1/16/2025 10:11:18 AM	key release or away:CurrentPosition--> X:300.142 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:22 AM	key release or away:CurrentPosition--> X:301.932 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:26 AM	Mouse click:X+
+a  3	1/16/2025 10:11:26 AM	key release or away:CurrentPosition--> X:301.932 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:28 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:28 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:28 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:74.518
+a  3	1/16/2025 10:11:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:29 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:75.088
+a  3	1/16/2025 10:11:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:29 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:75.622
+a  3	1/16/2025 10:11:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:29 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:76.003
+a  3	1/16/2025 10:11:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:30 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:76.367
+a  3	1/16/2025 10:11:30 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:30 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:76.983
+a  3	1/16/2025 10:11:30 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:30 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:77.731
+a  3	1/16/2025 10:11:30 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:30 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:77.731
+a  3	1/16/2025 10:11:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:31 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:77.731
+a  3	1/16/2025 10:11:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:31 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:77.731
+a  3	1/16/2025 10:11:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:31 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:77.731
+a  3	1/16/2025 10:11:31 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:32 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:83.538
+a  3	1/16/2025 10:11:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:32 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:84.835
+a  3	1/16/2025 10:11:32 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:32 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:86.488
+a  3	1/16/2025 10:11:33 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:33 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:86.710
+a  3	1/16/2025 10:11:34 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:34 AM	key release or away:CurrentPosition--> X:303.054 Y:141.100 Z:87.427
+a  3	1/16/2025 10:11:35 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:35 AM	key release or away:CurrentPosition--> X:303.054 Y:143.087 Z:87.427
+a  3	1/16/2025 10:11:35 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:35 AM	key release or away:CurrentPosition--> X:303.054 Y:143.087 Z:87.427
+a  3	1/16/2025 10:11:35 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:35 AM	key release or away:CurrentPosition--> X:303.054 Y:144.466 Z:87.427
+a  3	1/16/2025 10:11:36 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:37 AM	key release or away:CurrentPosition--> X:303.054 Y:154.731 Z:87.427
+a  3	1/16/2025 10:11:38 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:38 AM	key release or away:CurrentPosition--> X:303.054 Y:156.311 Z:87.427
+a  3	1/16/2025 10:11:38 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:38 AM	key release or away:CurrentPosition--> X:303.054 Y:156.311 Z:87.427
+a  3	1/16/2025 10:11:38 AM	Mouse click:Y+
+a  3	1/16/2025 10:11:38 AM	key release or away:CurrentPosition--> X:303.054 Y:156.311 Z:87.427
+a  3	1/16/2025 10:11:39 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:39 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:87.427
+a  3	1/16/2025 10:11:40 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:40 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:87.844
+a  3	1/16/2025 10:11:40 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:40 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:88.238
+a  3	1/16/2025 10:11:40 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:40 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:88.674
+a  3	1/16/2025 10:11:41 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:41 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:41 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:41 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:41 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:41 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:41 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:42 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:42 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:42 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:42 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:42 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:42 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:42 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:42 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:42 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:89.350
+a  3	1/16/2025 10:11:43 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:43 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:94.517
+a  3	1/16/2025 10:11:43 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:43 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:94.950
+a  3	1/16/2025 10:11:43 AM	Mouse click:Z+
+a  3	1/16/2025 10:11:43 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:94.950
+a  3	1/16/2025 10:11:49 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:96.226
+a  3	1/16/2025 10:11:50 AM	key release or away:CurrentPosition--> X:303.054 Y:157.884 Z:96.226
+a  3	1/16/2025 10:11:53 AM	Key click:Up
+a  3	1/16/2025 10:11:53 AM	key release:CurrentPosition--> X:303.054 Y:157.884 Z:96.226
+a  3	1/16/2025 10:11:56 AM	Key click:Up
+a  3	1/16/2025 10:11:56 AM	key release:CurrentPosition--> X:303.054 Y:159.806 Z:96.226
+a  3	1/16/2025 10:11:58 AM	Key click:Up
+a  3	1/16/2025 10:11:58 AM	key release:CurrentPosition--> X:303.054 Y:161.204 Z:96.226
+a  3	1/16/2025 10:12:05 AM	Key click:Left
+a  3	1/16/2025 10:12:05 AM	key release:CurrentPosition--> X:303.054 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:31 AM	Mouse click:X+
+a  3	1/16/2025 10:12:32 AM	key release or away:CurrentPosition--> X:301.892 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:32 AM	Mouse click:X+
+a  3	1/16/2025 10:12:32 AM	key release or away:CurrentPosition--> X:302.738 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:32 AM	Mouse click:X+
+a  3	1/16/2025 10:12:32 AM	key release or away:CurrentPosition--> X:303.204 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:32 AM	Mouse click:X+
+a  3	1/16/2025 10:12:33 AM	key release or away:CurrentPosition--> X:303.638 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:33 AM	Mouse click:X+
+a  3	1/16/2025 10:12:33 AM	key release or away:CurrentPosition--> X:304.222 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:33 AM	Mouse click:X+
+a  3	1/16/2025 10:12:33 AM	key release or away:CurrentPosition--> X:304.648 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:33 AM	Mouse click:X+
+a  3	1/16/2025 10:12:33 AM	key release or away:CurrentPosition--> X:305.340 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:34 AM	Mouse click:X+
+a  3	1/16/2025 10:12:34 AM	key release or away:CurrentPosition--> X:305.916 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:34 AM	Mouse click:X+
+a  3	1/16/2025 10:12:34 AM	key release or away:CurrentPosition--> X:306.496 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:35 AM	Mouse click:X+
+a  3	1/16/2025 10:12:35 AM	key release or away:CurrentPosition--> X:307.136 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:35 AM	Mouse click:X+
+a  3	1/16/2025 10:12:35 AM	key release or away:CurrentPosition--> X:307.566 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:35 AM	Mouse click:X+
+a  3	1/16/2025 10:12:35 AM	key release or away:CurrentPosition--> X:307.566 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:36 AM	Mouse click:X+
+a  3	1/16/2025 10:12:36 AM	key release or away:CurrentPosition--> X:308.426 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:44 AM	key release or away:CurrentPosition--> X:309.242 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:50 AM	Mouse click:Z-
+a  3	1/16/2025 10:12:50 AM	key release or away:CurrentPosition--> X:309.242 Y:162.266 Z:96.226
+a  3	1/16/2025 10:12:50 AM	Mouse click:Z-
+a  3	1/16/2025 10:12:58 AM	key release or away:CurrentPosition--> X:309.242 Y:162.266 Z:51.212
+a  3	1/16/2025 10:12:58 AM	key release or away:CurrentPosition--> X:309.242 Y:162.266 Z:51.212
+a  3	1/16/2025 10:13:02 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:03 AM	key release or away:CurrentPosition--> X:309.242 Y:165.568 Z:50.690
+a  3	1/16/2025 10:13:03 AM	key release or away:CurrentPosition--> X:309.242 Y:166.106 Z:50.690
+a  3	1/16/2025 10:13:06 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:09 AM	key release or away:CurrentPosition--> X:309.242 Y:213.689 Z:50.690
+a  3	1/16/2025 10:13:10 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:10 AM	key release or away:CurrentPosition--> X:309.242 Y:218.833 Z:50.690
+a  3	1/16/2025 10:13:11 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:11 AM	key release or away:CurrentPosition--> X:309.242 Y:224.555 Z:50.690
+a  3	1/16/2025 10:13:12 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:12 AM	key release or away:CurrentPosition--> X:309.242 Y:228.758 Z:50.690
+a  3	1/16/2025 10:13:13 AM	Mouse click:X-
+a  3	1/16/2025 10:13:14 AM	key release or away:CurrentPosition--> X:306.368 Y:230.284 Z:50.690
+a  3	1/16/2025 10:13:14 AM	key release or away:CurrentPosition--> X:305.498 Y:230.284 Z:50.690
+a  3	1/16/2025 10:13:15 AM	key release or away:CurrentPosition--> X:305.498 Y:230.284 Z:50.690
+a  3	1/16/2025 10:13:15 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:16 AM	key release or away:CurrentPosition--> X:305.498 Y:218.037 Z:50.690
+a  3	1/16/2025 10:13:17 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:17 AM	key release or away:CurrentPosition--> X:305.498 Y:213.547 Z:50.690
+a  3	1/16/2025 10:13:17 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:17 AM	key release or away:CurrentPosition--> X:305.498 Y:212.732 Z:50.690
+a  3	1/16/2025 10:13:18 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:18 AM	key release or away:CurrentPosition--> X:305.498 Y:204.407 Z:50.690
+a  3	1/16/2025 10:13:19 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:19 AM	key release or away:CurrentPosition--> X:305.498 Y:201.687 Z:50.690
+a  3	1/16/2025 10:13:19 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:20 AM	key release or away:CurrentPosition--> X:305.498 Y:195.588 Z:50.690
+a  3	1/16/2025 10:13:22 AM	Mouse click:X+
+a  3	1/16/2025 10:13:23 AM	key release or away:CurrentPosition--> X:315.413 Y:194.914 Z:50.690
+a  3	1/16/2025 10:13:24 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:26 AM	key release or away:CurrentPosition--> X:316.064 Y:235.369 Z:50.690
+a  3	1/16/2025 10:13:27 AM	Mouse click:X-
+a  3	1/16/2025 10:13:27 AM	key release or away:CurrentPosition--> X:313.779 Y:236.262 Z:50.690
+a  3	1/16/2025 10:13:27 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:28 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:55.419
+a  3	1/16/2025 10:13:28 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:28 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:58.055
+a  3	1/16/2025 10:13:28 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:28 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:58.055
+a  3	1/16/2025 10:13:28 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:28 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:58.055
+a  3	1/16/2025 10:13:28 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:28 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:58.055
+a  3	1/16/2025 10:13:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:29 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:71.063
+a  3	1/16/2025 10:13:29 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:29 AM	key release or away:CurrentPosition--> X:311.802 Y:236.262 Z:73.349
+a  3	1/16/2025 10:13:30 AM	Mouse click:X-
+a  3	1/16/2025 10:13:30 AM	key release or away:CurrentPosition--> X:309.611 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:31 AM	Mouse click:X-
+a  3	1/16/2025 10:13:31 AM	key release or away:CurrentPosition--> X:308.984 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:31 AM	Mouse click:X-
+a  3	1/16/2025 10:13:31 AM	key release or away:CurrentPosition--> X:306.716 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:33 AM	Mouse click:X-
+a  3	1/16/2025 10:13:33 AM	key release or away:CurrentPosition--> X:305.586 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:33 AM	Mouse click:X-
+a  3	1/16/2025 10:13:34 AM	key release or away:CurrentPosition--> X:304.504 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:34 AM	Mouse click:X-
+a  3	1/16/2025 10:13:34 AM	key release or away:CurrentPosition--> X:302.146 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:35 AM	Mouse click:X-
+a  3	1/16/2025 10:13:35 AM	key release or away:CurrentPosition--> X:299.744 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:37 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:37 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:75.188
+a  3	1/16/2025 10:13:37 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:37 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:38 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:38 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:38 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:38 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:38 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:38 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:38 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:38 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:38 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:38 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:76.085
+a  3	1/16/2025 10:13:39 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:40 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:40 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:40 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:40 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:40 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:40 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:41 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:41 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:41 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:41 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:41 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:41 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:41 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:41 AM	key release or away:CurrentPosition--> X:297.544 Y:236.262 Z:88.091
+a  3	1/16/2025 10:13:42 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:42 AM	key release or away:CurrentPosition--> X:297.544 Y:254.280 Z:88.091
+a  3	1/16/2025 10:13:43 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:43 AM	key release or away:CurrentPosition--> X:297.544 Y:255.642 Z:88.091
+a  3	1/16/2025 10:13:43 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:43 AM	key release or away:CurrentPosition--> X:297.544 Y:254.686 Z:88.091
+a  3	1/16/2025 10:13:44 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:44 AM	key release or away:CurrentPosition--> X:297.544 Y:253.764 Z:88.091
+a  3	1/16/2025 10:13:44 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:44 AM	key release or away:CurrentPosition--> X:297.544 Y:253.764 Z:88.091
+a  3	1/16/2025 10:13:44 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:44 AM	key release or away:CurrentPosition--> X:297.544 Y:250.962 Z:88.091
+a  3	1/16/2025 10:13:45 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:45 AM	key release or away:CurrentPosition--> X:297.544 Y:249.926 Z:88.091
+a  3	1/16/2025 10:13:45 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:45 AM	key release or away:CurrentPosition--> X:297.544 Y:248.970 Z:88.091
+a  3	1/16/2025 10:13:45 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:45 AM	key release or away:CurrentPosition--> X:297.544 Y:248.970 Z:88.091
+a  3	1/16/2025 10:13:45 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:46 AM	key release or away:CurrentPosition--> X:297.544 Y:244.922 Z:88.091
+a  3	1/16/2025 10:13:46 AM	Mouse click:Y-
+a  3	1/16/2025 10:13:47 AM	key release or away:CurrentPosition--> X:297.544 Y:244.130 Z:88.091
+a  3	1/16/2025 10:13:47 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:47 AM	key release or away:CurrentPosition--> X:297.544 Y:243.322 Z:88.091
+a  3	1/16/2025 10:13:47 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:47 AM	key release or away:CurrentPosition--> X:297.544 Y:243.322 Z:88.091
+a  3	1/16/2025 10:13:48 AM	Mouse click:Y+
+a  3	1/16/2025 10:13:48 AM	key release or away:CurrentPosition--> X:297.544 Y:243.322 Z:88.091
+a  3	1/16/2025 10:13:49 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:49 AM	key release or away:CurrentPosition--> X:297.544 Y:247.668 Z:88.091
+a  3	1/16/2025 10:13:49 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:49 AM	key release or away:CurrentPosition--> X:297.544 Y:247.668 Z:90.707
+a  3	1/16/2025 10:13:50 AM	Mouse click:Z+
+a  3	1/16/2025 10:13:50 AM	key release or away:CurrentPosition--> X:297.544 Y:247.668 Z:91.718
+a  3	1/16/2025 10:13:54 AM	Key click:Up
+a  3	1/16/2025 10:13:54 AM	key release:CurrentPosition--> X:297.544 Y:247.668 Z:94.189
+a  3	1/16/2025 10:13:54 AM	Key click:Up
+a  3	1/16/2025 10:13:54 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:54 AM	Key click:Up
+a  3	1/16/2025 10:13:54 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:54 AM	Key click:Up
+a  3	1/16/2025 10:13:54 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:54 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:55 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:55 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:249.052 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:56 AM	key release:CurrentPosition--> X:297.544 Y:263.362 Z:94.189
+a  3	1/16/2025 10:13:56 AM	Key click:Up
+a  3	1/16/2025 10:13:57 AM	key release:CurrentPosition--> X:297.544 Y:263.362 Z:94.189
+a  3	1/16/2025 10:13:57 AM	Key click:Up
+a  3	1/16/2025 10:13:57 AM	key release:CurrentPosition--> X:297.544 Y:265.380 Z:94.189
+a  3	1/16/2025 10:13:57 AM	Key click:Up
+a  3	1/16/2025 10:13:57 AM	key release:CurrentPosition--> X:297.544 Y:266.536 Z:94.189
+a  3	1/16/2025 10:14:02 AM	Key click:Right
+a  3	1/16/2025 10:14:02 AM	key release:CurrentPosition--> X:297.544 Y:267.614 Z:94.189
+a  3	1/16/2025 10:14:03 AM	Key click:Right
+a  3	1/16/2025 10:14:03 AM	key release:CurrentPosition--> X:298.462 Y:267.614 Z:94.189
+a  3	1/16/2025 10:14:04 AM	Key click:
+a  3	1/16/2025 10:14:06 AM	Key click:PageDown
+a  3	1/16/2025 10:14:06 AM	key release:CurrentPosition--> X:299.356 Y:267.614 Z:94.189
+a  3	1/16/2025 10:14:06 AM	Key click:PageDown
+a  3	1/16/2025 10:14:06 AM	key release:CurrentPosition--> X:299.356 Y:267.614 Z:95.470
+a  3	1/16/2025 10:14:06 AM	key release:CurrentPosition--> X:299.356 Y:267.614 Z:96.795
+a  3	1/16/2025 10:14:10 AM	Key click:Down
+a  3	1/16/2025 10:14:10 AM	key release:CurrentPosition--> X:299.356 Y:267.614 Z:96.795
+a  3	1/16/2025 10:14:12 AM	Key click:Left
+a  3	1/16/2025 10:14:12 AM	key release:CurrentPosition--> X:299.356 Y:266.434 Z:96.795
+a  3	1/16/2025 10:14:13 AM	Key click:Down
+a  3	1/16/2025 10:14:13 AM	key release:CurrentPosition--> X:298.528 Y:266.434 Z:96.795
+a  3	1/16/2025 10:14:27 AM	Key click:Left
+a  3	1/16/2025 10:14:27 AM	key release:CurrentPosition--> X:298.528 Y:265.304 Z:96.795
+a  3	1/16/2025 10:14:33 AM	Key click:Up
+a  3	1/16/2025 10:14:33 AM	key release:CurrentPosition--> X:297.850 Y:265.304 Z:96.795
+a  3	1/16/2025 10:14:39 AM	key release or away:CurrentPosition--> X:297.850 Y:266.056 Z:96.795
+a  3	1/16/2025 10:14:39 AM	key release or away:CurrentPosition--> X:297.850 Y:266.056 Z:96.795
+a  3	1/16/2025 10:14:43 AM	Key click:Up
+a  3	1/16/2025 10:14:43 AM	key release:CurrentPosition--> X:297.850 Y:266.056 Z:96.795
+a  3	1/16/2025 10:14:43 AM	Key click:Up
+a  3	1/16/2025 10:14:43 AM	key release:CurrentPosition--> X:297.850 Y:266.966 Z:96.795
+a  3	1/16/2025 10:14:43 AM	Key click:Up
+a  3	1/16/2025 10:14:43 AM	key release:CurrentPosition--> X:297.850 Y:266.966 Z:96.795
+a  3	1/16/2025 10:14:44 AM	Key click:Up
+a  3	1/16/2025 10:14:44 AM	key release:CurrentPosition--> X:297.850 Y:269.304 Z:96.795
+a  3	1/16/2025 10:14:44 AM	Key click:Up
+a  3	1/16/2025 10:14:44 AM	key release:CurrentPosition--> X:297.850 Y:270.014 Z:96.795
+a  3	1/16/2025 10:14:55 AM	key release or away:CurrentPosition--> X:297.850 Y:271.242 Z:96.795
+a  3	1/16/2025 10:14:56 AM	Mouse click:Z-
+a  3	1/16/2025 10:14:59 AM	key release or away:CurrentPosition--> X:297.850 Y:271.242 Z:43.541
+a  3	1/16/2025 10:14:59 AM	key release or away:CurrentPosition--> X:297.850 Y:271.242 Z:43.541
+a  3	1/16/2025 10:15:06 AM	key release or away:CurrentPosition--> X:297.850 Y:271.242 Z:43.060
+a  3	1/16/2025 10:15:07 AM	Key click:Up
+a  3	1/16/2025 10:15:07 AM	key release:CurrentPosition--> X:297.850 Y:273.515 Z:43.060
+a  3	1/16/2025 10:15:07 AM	Key click:Up
+a  3	1/16/2025 10:15:09 AM	key release:CurrentPosition--> X:297.850 Y:298.717 Z:43.060
+a  3	1/16/2025 10:15:11 AM	Key click:
+a  3	1/16/2025 10:15:11 AM	Key click:PageDown
+a  3	1/16/2025 10:15:11 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:43.060
+a  3	1/16/2025 10:15:11 AM	Key click:PageDown
+a  3	1/16/2025 10:15:12 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:48.804
+a  3	1/16/2025 10:15:12 AM	Key click:PageDown
+a  3	1/16/2025 10:15:12 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:48.916
+a  3	1/16/2025 10:15:12 AM	Key click:PageDown
+a  3	1/16/2025 10:15:12 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:54.244
+a  3	1/16/2025 10:15:13 AM	Key click:PageDown
+a  3	1/16/2025 10:15:13 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:55.255
+a  3	1/16/2025 10:15:13 AM	key release:CurrentPosition--> X:297.850 Y:299.590 Z:57.522
+a  3	1/16/2025 10:15:14 AM	Key click:Right
+a  3	1/16/2025 10:15:14 AM	key release:CurrentPosition--> X:300.547 Y:299.590 Z:57.522
+a  3	1/16/2025 10:15:14 AM	Key click:
+a  3	1/16/2025 10:15:16 AM	Key click:PageDown
+a  3	1/16/2025 10:15:16 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:57.522
+a  3	1/16/2025 10:15:16 AM	Key click:PageDown
+a  3	1/16/2025 10:15:17 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:66.606
+a  3	1/16/2025 10:15:17 AM	Key click:PageDown
+a  3	1/16/2025 10:15:17 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:68.048
+a  3	1/16/2025 10:15:17 AM	Key click:PageDown
+a  3	1/16/2025 10:15:17 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:68.048
+a  3	1/16/2025 10:15:17 AM	Key click:PageDown
+a  3	1/16/2025 10:15:18 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:83.221
+a  3	1/16/2025 10:15:19 AM	Key click:PageDown
+a  3	1/16/2025 10:15:19 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:86.897
+a  3	1/16/2025 10:15:19 AM	Key click:PageDown
+a  3	1/16/2025 10:15:19 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:88.912
+a  3	1/16/2025 10:15:20 AM	Key click:PageDown
+a  3	1/16/2025 10:15:20 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:90.692
+a  3	1/16/2025 10:15:21 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:92.884
+a  3	1/16/2025 10:15:21 AM	Key click:
+a  3	1/16/2025 10:15:21 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:92.884
+a  3	1/16/2025 10:15:21 AM	Key click:
+a  3	1/16/2025 10:15:22 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:92.884
+a  3	1/16/2025 10:15:23 AM	Key click:
+a  3	1/16/2025 10:15:23 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:92.884
+a  3	1/16/2025 10:15:23 AM	Key click:
+a  3	1/16/2025 10:15:24 AM	Key click:PageDown
+a  3	1/16/2025 10:15:24 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:92.884
+a  3	1/16/2025 10:15:25 AM	Key click:PageDown
+a  3	1/16/2025 10:15:25 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:95.139
+a  3	1/16/2025 10:15:26 AM	key release:CurrentPosition--> X:300.668 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:27 AM	Key click:Left
+a  3	1/16/2025 10:15:27 AM	key release:CurrentPosition--> X:298.356 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:30 AM	Key click:Left
+a  3	1/16/2025 10:15:30 AM	key release:CurrentPosition--> X:298.256 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:32 AM	Key click:
+a  3	1/16/2025 10:15:32 AM	key release:CurrentPosition--> X:297.350 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:32 AM	Key click:
+a  3	1/16/2025 10:15:33 AM	key release:CurrentPosition--> X:297.350 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:33 AM	Key click:
+a  3	1/16/2025 10:15:33 AM	key release:CurrentPosition--> X:297.350 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:34 AM	Key click:Right
+a  3	1/16/2025 10:15:34 AM	key release:CurrentPosition--> X:297.350 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:34 AM	Key click:
+a  3	1/16/2025 10:15:37 AM	Key click:PageDown
+a  3	1/16/2025 10:15:37 AM	key release:CurrentPosition--> X:298.334 Y:299.590 Z:96.625
+a  3	1/16/2025 10:15:37 AM	key release:CurrentPosition--> X:298.334 Y:299.590 Z:97.628
+a  3	1/16/2025 10:15:38 AM	Key click:
+a  3	1/16/2025 10:15:38 AM	Key click:PageDown
+a  3	1/16/2025 10:15:38 AM	key release:CurrentPosition--> X:298.334 Y:299.590 Z:97.628
+a  3	1/16/2025 10:15:39 AM	key release:CurrentPosition--> X:298.334 Y:299.590 Z:98.839
+a  3	1/16/2025 10:15:43 AM	Key click:Up
+a  3	1/16/2025 10:15:43 AM	key release:CurrentPosition--> X:298.334 Y:301.832 Z:98.839
+a  3	1/16/2025 10:15:43 AM	Key click:Up
+a  3	1/16/2025 10:15:43 AM	key release:CurrentPosition--> X:298.334 Y:302.320 Z:98.839
+a  3	1/16/2025 10:15:43 AM	Key click:Up
+a  3	1/16/2025 10:15:44 AM	key release:CurrentPosition--> X:298.334 Y:304.148 Z:98.839
+a  3	1/16/2025 10:15:48 AM	Key click:Left
+a  3	1/16/2025 10:15:48 AM	key release:CurrentPosition--> X:298.334 Y:305.732 Z:98.839
+a  3	1/16/2025 10:15:49 AM	Key click:Down
+a  3	1/16/2025 10:15:49 AM	key release:CurrentPosition--> X:296.812 Y:305.732 Z:98.839
+a  3	1/16/2025 10:15:50 AM	Key click:Down
+a  3	1/16/2025 10:15:50 AM	key release:CurrentPosition--> X:296.812 Y:304.096 Z:98.839
+a  3	1/16/2025 10:15:50 AM	Key click:Down
+a  3	1/16/2025 10:15:50 AM	key release:CurrentPosition--> X:296.812 Y:302.872 Z:98.839
+a  3	1/16/2025 10:15:50 AM	Key click:Down
+a  3	1/16/2025 10:15:51 AM	key release:CurrentPosition--> X:296.812 Y:301.726 Z:98.839
+a  3	1/16/2025 10:15:52 AM	Key click:Down
+a  3	1/16/2025 10:15:52 AM	key release:CurrentPosition--> X:296.812 Y:300.448 Z:98.839
+a  3	1/16/2025 10:16:01 AM	Key click:Up
+a  3	1/16/2025 10:16:01 AM	key release:CurrentPosition--> X:296.812 Y:298.876 Z:98.839
+a  3	1/16/2025 10:16:07 AM	key release or away:CurrentPosition--> X:296.812 Y:300.244 Z:98.839
+a  3	1/16/2025 10:16:28 AM	key release or away:CurrentPosition--> X:296.812 Y:300.244 Z:98.839
+a  3	1/16/2025 10:16:28 AM	key release or away:CurrentPosition--> X:296.812 Y:300.244 Z:98.839
+a  3	1/16/2025 10:16:29 AM	Mouse click:Y+
+a  3	1/16/2025 10:16:29 AM	key release or away:CurrentPosition--> X:296.812 Y:300.244 Z:98.839
+a  3	1/16/2025 10:16:30 AM	Key click:Up
+a  3	1/16/2025 10:16:31 AM	key release:CurrentPosition--> X:296.812 Y:301.954 Z:98.839
+a  3	1/16/2025 10:16:33 AM	Key click:Up
+a  3	1/16/2025 10:16:33 AM	key release:CurrentPosition--> X:296.812 Y:303.732 Z:98.839
+a  3	1/16/2025 10:16:33 AM	Key click:Up
+a  3	1/16/2025 10:16:33 AM	key release:CurrentPosition--> X:296.812 Y:305.344 Z:98.839
+a  3	1/16/2025 10:16:34 AM	Key click:Up
+a  3	1/16/2025 10:16:34 AM	key release:CurrentPosition--> X:296.812 Y:306.116 Z:98.839
+a  3	1/16/2025 10:16:42 AM	key release or away:CurrentPosition--> X:296.812 Y:307.560 Z:98.839
+a  3	1/16/2025 10:16:45 AM	Mouse click:Y-
+a  3	1/16/2025 10:16:45 AM	key release or away:CurrentPosition--> X:296.812 Y:307.560 Z:98.839
+a  3	1/16/2025 10:16:52 AM	key release or away:CurrentPosition--> X:296.812 Y:306.604 Z:98.839
+a  3	1/16/2025 10:17:27 AM	Mouse click:Y+
+a  3	1/16/2025 10:17:27 AM	key release or away:CurrentPosition--> X:296.812 Y:306.604 Z:98.839
+a  3	1/16/2025 10:17:27 AM	Mouse click:Y+
+a  3	1/16/2025 10:17:27 AM	key release or away:CurrentPosition--> X:296.812 Y:311.358 Z:98.839
+a  3	1/16/2025 10:17:28 AM	Mouse click:Y+
+a  3	1/16/2025 10:17:30 AM	key release or away:CurrentPosition--> X:296.812 Y:345.795 Z:98.839
+a  3	1/16/2025 10:17:30 AM	Mouse click:Y+
+a  3	1/16/2025 10:17:30 AM	key release or away:CurrentPosition--> X:296.812 Y:348.382 Z:98.839
+a  3	1/16/2025 10:17:32 AM	key release or away:CurrentPosition--> X:296.812 Y:349.192 Z:98.839
+a  3	1/16/2025 10:17:33 AM	Mouse click:X+
+a  3	1/16/2025 10:17:34 AM	key release or away:CurrentPosition--> X:311.625 Y:349.192 Z:98.839
+a  3	1/16/2025 10:17:34 AM	Mouse click:X+
+a  3	1/16/2025 10:17:34 AM	key release or away:CurrentPosition--> X:317.858 Y:349.192 Z:98.839
+a  3	1/16/2025 10:17:35 AM	Mouse click:Y-
+a  3	1/16/2025 10:17:35 AM	key release or away:CurrentPosition--> X:318.850 Y:349.192 Z:98.839
+a  3	1/16/2025 10:17:36 AM	Mouse click:Z+
+a  3	1/16/2025 10:17:36 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:101.084
+a  3	1/16/2025 10:17:36 AM	Mouse click:Z+
+a  3	1/16/2025 10:17:36 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:103.998
+a  3	1/16/2025 10:17:37 AM	Mouse click:Z+
+a  3	1/16/2025 10:17:37 AM	Z Limit
+a  3	1/16/2025 10:17:37 AM	AlarmCode 1011:Z+ limit
+a  3	1/16/2025 10:17:42 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:110.454
+a  3	1/16/2025 10:17:42 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:110.454
+a  3	1/16/2025 10:17:46 AM	Mouse click:Z-
+a  3	1/16/2025 10:17:49 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:72.321
+a  3	1/16/2025 10:17:49 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:70.953
+a  3	1/16/2025 10:17:50 AM	key release or away:CurrentPosition--> X:318.850 Y:346.752 Z:70.953
+a  3	1/16/2025 10:17:51 AM	Mouse click:X-
+a  3	1/16/2025 10:17:54 AM	key release or away:CurrentPosition--> X:270.756 Y:346.752 Z:70.953
+a  3	1/16/2025 10:17:54 AM	key release or away:CurrentPosition--> X:268.576 Y:346.752 Z:70.953
+a  3	1/16/2025 10:17:59 AM	Mouse click:X+
+a  3	1/16/2025 10:18:00 AM	key release or away:CurrentPosition--> X:278.574 Y:346.752 Z:70.953
+a  3	1/16/2025 10:18:00 AM	Mouse click:X+
+a  3	1/16/2025 10:18:02 AM	key release or away:CurrentPosition--> X:310.676 Y:346.752 Z:70.953
+a  3	1/16/2025 10:18:03 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:03 AM	key release or away:CurrentPosition--> X:311.632 Y:344.459 Z:70.953
+a  3	1/16/2025 10:18:03 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:03 AM	key release or away:CurrentPosition--> X:311.632 Y:341.622 Z:70.953
+a  3	1/16/2025 10:18:03 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:04 AM	key release or away:CurrentPosition--> X:311.632 Y:335.473 Z:70.953
+a  3	1/16/2025 10:18:04 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:04 AM	key release or away:CurrentPosition--> X:311.632 Y:332.593 Z:70.953
+a  3	1/16/2025 10:18:05 AM	Mouse click:X+
+a  3	1/16/2025 10:18:05 AM	key release or away:CurrentPosition--> X:311.632 Y:331.578 Z:70.953
+a  3	1/16/2025 10:18:05 AM	Mouse click:X+
+a  3	1/16/2025 10:18:05 AM	key release or away:CurrentPosition--> X:311.632 Y:331.578 Z:70.953
+a  3	1/16/2025 10:18:06 AM	Mouse click:X+
+a  3	1/16/2025 10:18:06 AM	key release or away:CurrentPosition--> X:315.830 Y:331.578 Z:70.953
+a  3	1/16/2025 10:18:06 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:70.953
+a  3	1/16/2025 10:18:09 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:09 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:70.953
+a  3	1/16/2025 10:18:09 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:09 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:73.000
+a  3	1/16/2025 10:18:09 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:09 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:74.595
+a  3	1/16/2025 10:18:09 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:10 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:77.231
+a  3	1/16/2025 10:18:10 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:10 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:79.301
+a  3	1/16/2025 10:18:10 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:10 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:85.607
+a  3	1/16/2025 10:18:11 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:11 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:92.756
+a  3	1/16/2025 10:18:11 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:11 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:95.380
+a  3	1/16/2025 10:18:12 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:12 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:95.892
+a  3	1/16/2025 10:18:16 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:97.892
+a  3	1/16/2025 10:18:18 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:18 AM	key release or away:CurrentPosition--> X:317.780 Y:331.578 Z:97.892
+a  3	1/16/2025 10:18:18 AM	Mouse click:Y-
+a  3	1/16/2025 10:18:18 AM	key release or away:CurrentPosition--> X:317.780 Y:329.962 Z:97.892
+a  3	1/16/2025 10:18:19 AM	key release or away:CurrentPosition--> X:317.780 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:20 AM	Mouse click:X-
+a  3	1/16/2025 10:18:20 AM	key release or away:CurrentPosition--> X:317.780 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:20 AM	Mouse click:X-
+a  3	1/16/2025 10:18:20 AM	key release or away:CurrentPosition--> X:317.780 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:20 AM	Mouse click:X-
+a  3	1/16/2025 10:18:20 AM	key release or away:CurrentPosition--> X:313.310 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:21 AM	Mouse click:X-
+a  3	1/16/2025 10:18:21 AM	key release or away:CurrentPosition--> X:311.740 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:21 AM	Mouse click:X-
+a  3	1/16/2025 10:18:21 AM	key release or away:CurrentPosition--> X:309.748 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:21 AM	Mouse click:X-
+a  3	1/16/2025 10:18:22 AM	key release or away:CurrentPosition--> X:299.653 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:22 AM	Mouse click:X-
+a  3	1/16/2025 10:18:22 AM	key release or away:CurrentPosition--> X:293.673 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:23 AM	Mouse click:X+
+a  3	1/16/2025 10:18:23 AM	key release or away:CurrentPosition--> X:295.669 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:23 AM	Mouse click:X+
+a  3	1/16/2025 10:18:24 AM	key release or away:CurrentPosition--> X:298.243 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:24 AM	Mouse click:X+
+a  3	1/16/2025 10:18:24 AM	key release or away:CurrentPosition--> X:305.734 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:24 AM	Mouse click:X+
+a  3	1/16/2025 10:18:25 AM	key release or away:CurrentPosition--> X:308.698 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:28 AM	Mouse click:X-
+a  3	1/16/2025 10:18:28 AM	key release or away:CurrentPosition--> X:309.702 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:31 AM	Mouse click:X+
+a  3	1/16/2025 10:18:31 AM	key release or away:CurrentPosition--> X:307.262 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:32 AM	key release or away:CurrentPosition--> X:309.428 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:34 AM	Mouse click:X-
+a  3	1/16/2025 10:18:34 AM	key release or away:CurrentPosition--> X:309.428 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:34 AM	Mouse click:X-
+a  3	1/16/2025 10:18:34 AM	key release or away:CurrentPosition--> X:308.546 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:36 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:36 AM	key release or away:CurrentPosition--> X:307.762 Y:327.946 Z:97.892
+a  3	1/16/2025 10:18:37 AM	Mouse click:Z+
+a  3	1/16/2025 10:18:37 AM	key release or away:CurrentPosition--> X:307.762 Y:327.946 Z:98.599
+a  3	1/16/2025 10:18:49 AM	key release or away:CurrentPosition--> X:307.762 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:52 AM	Mouse click:X-
+a  3	1/16/2025 10:18:53 AM	key release or away:CurrentPosition--> X:307.762 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:53 AM	Mouse click:X-
+a  3	1/16/2025 10:18:53 AM	key release or away:CurrentPosition--> X:306.055 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:53 AM	Mouse click:X-
+a  3	1/16/2025 10:18:53 AM	key release or away:CurrentPosition--> X:304.769 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:53 AM	Mouse click:X-
+a  3	1/16/2025 10:18:53 AM	key release or away:CurrentPosition--> X:304.769 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:54 AM	Mouse click:X-
+a  3	1/16/2025 10:18:54 AM	key release or away:CurrentPosition--> X:303.764 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:54 AM	Mouse click:X-
+a  3	1/16/2025 10:18:54 AM	key release or away:CurrentPosition--> X:302.780 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:56 AM	Mouse click:X-
+a  3	1/16/2025 10:18:56 AM	key release or away:CurrentPosition--> X:301.782 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:57 AM	key release or away:CurrentPosition--> X:300.956 Y:327.946 Z:99.167
+a  3	1/16/2025 10:18:58 AM	Mouse click:X-
+a  3	1/16/2025 10:18:59 AM	key release or away:CurrentPosition--> X:300.956 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:00 AM	key release or away:CurrentPosition--> X:300.316 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:03 AM	key release or away:CurrentPosition--> X:300.316 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:04 AM	Mouse click:X-
+a  3	1/16/2025 10:19:08 AM	key release or away:CurrentPosition--> X:270.970 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:09 AM	key release or away:CurrentPosition--> X:270.404 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:11 AM	Mouse click:X-
+a  3	1/16/2025 10:19:13 AM	key release or away:CurrentPosition--> X:225.326 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:13 AM	key release or away:CurrentPosition--> X:223.990 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:23 AM	Mouse click:X-
+a  3	1/16/2025 10:19:27 AM	key release or away:CurrentPosition--> X:137.926 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:27 AM	key release or away:CurrentPosition--> X:137.926 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:30 AM	key release or away:CurrentPosition--> X:136.902 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:31 AM	Mouse click:X+
+a  3	1/16/2025 10:19:31 AM	key release or away:CurrentPosition--> X:140.327 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:32 AM	Mouse click:X+
+a  3	1/16/2025 10:19:32 AM	key release or away:CurrentPosition--> X:142.772 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:32 AM	Mouse click:X+
+a  3	1/16/2025 10:19:32 AM	key release or away:CurrentPosition--> X:149.974 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:32 AM	Mouse click:X+
+a  3	1/16/2025 10:19:32 AM	key release or away:CurrentPosition--> X:149.974 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:33 AM	Mouse click:X+
+a  3	1/16/2025 10:19:33 AM	key release or away:CurrentPosition--> X:153.494 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:33 AM	Mouse click:X+
+a  3	1/16/2025 10:19:33 AM	key release or away:CurrentPosition--> X:156.858 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:34 AM	Mouse click:X+
+a  3	1/16/2025 10:19:34 AM	key release or away:CurrentPosition--> X:159.664 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:34 AM	Mouse click:X+
+a  3	1/16/2025 10:19:34 AM	key release or away:CurrentPosition--> X:162.072 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:36 AM	key release or away:CurrentPosition--> X:163.790 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:37 AM	key release or away:CurrentPosition--> X:163.790 Y:327.946 Z:99.167
+a  3	1/16/2025 10:19:37 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:37 AM	key release or away:CurrentPosition--> X:163.790 Y:322.445 Z:99.167
+a  3	1/16/2025 10:19:38 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:38 AM	key release or away:CurrentPosition--> X:163.790 Y:318.542 Z:99.167
+a  3	1/16/2025 10:19:38 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:38 AM	key release or away:CurrentPosition--> X:163.790 Y:317.472 Z:99.167
+a  3	1/16/2025 10:19:38 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:38 AM	key release or away:CurrentPosition--> X:163.790 Y:313.460 Z:99.167
+a  3	1/16/2025 10:19:39 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:39 AM	key release or away:CurrentPosition--> X:163.790 Y:310.102 Z:99.167
+a  3	1/16/2025 10:19:39 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:39 AM	key release or away:CurrentPosition--> X:163.790 Y:307.308 Z:99.167
+a  3	1/16/2025 10:19:40 AM	Mouse click:Y-
+a  3	1/16/2025 10:19:40 AM	key release or away:CurrentPosition--> X:163.790 Y:304.394 Z:99.167
+a  3	1/16/2025 10:19:40 AM	key release or away:CurrentPosition--> X:163.790 Y:299.852 Z:99.167
+a  3	1/16/2025 10:19:42 AM	key release or away:CurrentPosition--> X:163.790 Y:299.852 Z:99.167
+a  3	1/16/2025 10:19:44 AM	Mouse click:X+
+a  3	1/16/2025 10:19:44 AM	key release or away:CurrentPosition--> X:163.790 Y:299.852 Z:99.167
+a  3	1/16/2025 10:19:45 AM	Mouse click:X+
+a  3	1/16/2025 10:19:45 AM	key release or away:CurrentPosition--> X:164.200 Y:299.852 Z:99.167
+a  3	1/16/2025 10:19:47 AM	Mouse click:Y+
+a  3	1/16/2025 10:19:47 AM	key release or away:CurrentPosition--> X:164.480 Y:299.852 Z:99.167
+a  3	1/16/2025 10:19:48 AM	Mouse click:Y+
+a  3	1/16/2025 10:19:50 AM	key release or away:CurrentPosition--> X:164.480 Y:306.309 Z:99.167
+a  3	1/16/2025 10:19:56 AM	Mouse click:Y+
+a  3	1/16/2025 10:19:56 AM	key release or away:CurrentPosition--> X:164.480 Y:307.225 Z:99.167
+a  3	1/16/2025 10:19:57 AM	key release or away:CurrentPosition--> X:164.480 Y:307.316 Z:99.167
+a  3	1/16/2025 10:20:00 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:02 AM	key release or away:CurrentPosition--> X:164.480 Y:300.376 Z:99.167
+a  3	1/16/2025 10:20:07 AM	Mouse click:Y+
+a  3	1/16/2025 10:20:07 AM	key release or away:CurrentPosition--> X:164.480 Y:300.680 Z:99.167
+a  3	1/16/2025 10:20:07 AM	Mouse click:Y+
+a  3	1/16/2025 10:20:07 AM	key release or away:CurrentPosition--> X:164.480 Y:300.680 Z:99.167
+a  3	1/16/2025 10:20:08 AM	key release or away:CurrentPosition--> X:164.480 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:11 AM	key release or away:CurrentPosition--> X:164.480 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:11 AM	key release or away:CurrentPosition--> X:164.480 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:13 AM	Mouse click:X-
+a  3	1/16/2025 10:20:14 AM	key release or away:CurrentPosition--> X:132.606 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:14 AM	key release or away:CurrentPosition--> X:132.606 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:27 AM	key release or away:CurrentPosition--> X:129.146 Y:301.004 Z:99.167
+a  3	1/16/2025 10:20:28 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:29 AM	key release or away:CurrentPosition--> X:129.146 Y:266.814 Z:99.167
+a  3	1/16/2025 10:20:30 AM	key release or away:CurrentPosition--> X:129.146 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:33 AM	key release or away:CurrentPosition--> X:129.146 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:34 AM	Mouse click:X+
+a  3	1/16/2025 10:20:36 AM	key release or away:CurrentPosition--> X:172.324 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:36 AM	Mouse click:X+
+a  3	1/16/2025 10:20:37 AM	key release or away:CurrentPosition--> X:184.392 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:37 AM	Mouse click:X+
+a  3	1/16/2025 10:20:38 AM	key release or away:CurrentPosition--> X:227.148 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:39 AM	Mouse click:X+
+a  3	1/16/2025 10:20:39 AM	key release or away:CurrentPosition--> X:242.440 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:39 AM	Mouse click:X+
+a  3	1/16/2025 10:20:40 AM	key release or away:CurrentPosition--> X:254.272 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:40 AM	Mouse click:X+
+a  3	1/16/2025 10:20:40 AM	key release or away:CurrentPosition--> X:264.959 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:40 AM	Mouse click:X+
+a  3	1/16/2025 10:20:41 AM	key release or away:CurrentPosition--> X:271.528 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:41 AM	Mouse click:X+
+a  3	1/16/2025 10:20:41 AM	key release or away:CurrentPosition--> X:279.384 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:41 AM	Mouse click:X+
+a  3	1/16/2025 10:20:41 AM	key release or away:CurrentPosition--> X:279.612 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:42 AM	key release or away:CurrentPosition--> X:284.452 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:42 AM	key release or away:CurrentPosition--> X:284.452 Y:265.884 Z:99.167
+a  3	1/16/2025 10:20:43 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:44 AM	key release or away:CurrentPosition--> X:284.452 Y:248.432 Z:99.167
+a  3	1/16/2025 10:20:44 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:45 AM	key release or away:CurrentPosition--> X:284.452 Y:204.961 Z:99.167
+a  3	1/16/2025 10:20:46 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:46 AM	key release or away:CurrentPosition--> X:284.452 Y:198.571 Z:99.167
+a  3	1/16/2025 10:20:47 AM	key release or away:CurrentPosition--> X:284.452 Y:198.336 Z:99.167
+a  3	1/16/2025 10:20:49 AM	Mouse click:Y-
+a  3	1/16/2025 10:20:49 AM	key release or away:CurrentPosition--> X:284.452 Y:198.336 Z:99.167
+a  3	1/16/2025 10:20:54 AM	Mouse click:X+
+a  3	1/16/2025 10:20:54 AM	key release or away:CurrentPosition--> X:284.452 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:54 AM	Mouse click:X+
+a  3	1/16/2025 10:20:55 AM	key release or away:CurrentPosition--> X:287.710 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:55 AM	Mouse click:X+
+a  3	1/16/2025 10:20:55 AM	key release or away:CurrentPosition--> X:291.792 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:55 AM	Mouse click:X+
+a  3	1/16/2025 10:20:55 AM	key release or away:CurrentPosition--> X:298.382 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:56 AM	Mouse click:X+
+a  3	1/16/2025 10:20:56 AM	key release or away:CurrentPosition--> X:301.040 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:56 AM	Mouse click:X+
+a  3	1/16/2025 10:20:57 AM	key release or away:CurrentPosition--> X:304.098 Y:194.756 Z:99.167
+a  3	1/16/2025 10:20:58 AM	key release or away:CurrentPosition--> X:307.800 Y:194.756 Z:99.167
+a  3	1/16/2025 10:21:00 AM	key release or away:CurrentPosition--> X:307.800 Y:194.756 Z:99.167
+a  3	1/16/2025 10:21:01 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:01 AM	key release or away:CurrentPosition--> X:307.800 Y:194.756 Z:99.167
+a  3	1/16/2025 10:21:01 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:01 AM	key release or away:CurrentPosition--> X:307.800 Y:195.276 Z:99.167
+a  3	1/16/2025 10:21:02 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:02 AM	key release or away:CurrentPosition--> X:307.800 Y:195.810 Z:99.167
+a  3	1/16/2025 10:21:02 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:02 AM	key release or away:CurrentPosition--> X:307.800 Y:196.616 Z:99.167
+a  3	1/16/2025 10:21:02 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:03 AM	key release or away:CurrentPosition--> X:307.800 Y:197.162 Z:99.167
+a  3	1/16/2025 10:21:03 AM	Mouse click:Y+
+a  3	1/16/2025 10:21:03 AM	key release or away:CurrentPosition--> X:307.800 Y:197.898 Z:99.167
+a  3	1/16/2025 10:21:07 AM	Mouse click:X-
+a  3	1/16/2025 10:21:07 AM	key release or away:CurrentPosition--> X:307.800 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:07 AM	Mouse click:X-
+a  3	1/16/2025 10:21:07 AM	key release or away:CurrentPosition--> X:306.284 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:08 AM	Mouse click:X-
+a  3	1/16/2025 10:21:08 AM	key release or away:CurrentPosition--> X:305.345 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:08 AM	Mouse click:X-
+a  3	1/16/2025 10:21:09 AM	key release or away:CurrentPosition--> X:302.373 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:09 AM	Mouse click:X-
+a  3	1/16/2025 10:21:09 AM	key release or away:CurrentPosition--> X:301.290 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:11 AM	key release or away:CurrentPosition--> X:301.126 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:12 AM	Mouse click:X-
+a  3	1/16/2025 10:21:12 AM	key release or away:CurrentPosition--> X:301.126 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:13 AM	Mouse click:X-
+a  3	1/16/2025 10:21:13 AM	key release or away:CurrentPosition--> X:300.546 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:15 AM	key release or away:CurrentPosition--> X:299.950 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:18 AM	Mouse click:X+
+a  3	1/16/2025 10:21:19 AM	key release or away:CurrentPosition--> X:307.072 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:22 AM	key release or away:CurrentPosition--> X:307.586 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:23 AM	Mouse click:X+
+a  3	1/16/2025 10:21:24 AM	key release or away:CurrentPosition--> X:308.429 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:25 AM	Mouse click:X+
+a  3	1/16/2025 10:21:25 AM	key release or away:CurrentPosition--> X:308.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:26 AM	key release or away:CurrentPosition--> X:308.918 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:33 AM	key release or away:CurrentPosition--> X:308.918 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:34 AM	Mouse click:X-
+a  3	1/16/2025 10:21:38 AM	key release or away:CurrentPosition--> X:288.595 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:38 AM	key release or away:CurrentPosition--> X:288.595 Y:198.492 Z:99.167
+a  3	1/16/2025 10:21:53 AM	Key click:
+a  3	1/16/2025 10:21:55 AM	key release:CurrentPosition--> X:288.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:22:16 AM	Key click:
+a  3	1/16/2025 10:22:17 AM	key release:CurrentPosition--> X:288.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:22:34 AM	The modify of line <2,3,4,5,6,7,8,9> in pattern <panel> is :<Dispense Gap :0.000,Start Distance :0.000,Pre-On Distance :0.000
+>
+a  3	1/16/2025 10:22:39 AM	Key click:
+a  3	1/16/2025 10:22:41 AM	key release:CurrentPosition--> X:288.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:22:45 AM	DryRun
+a  3	1/16/2025 10:22:45 AM	DryRun
+a  3	1/16/2025 10:22:54 AM	Key click:
+a  3	1/16/2025 10:22:55 AM	key release:CurrentPosition--> X:288.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:22:56 AM	Key click:
+a  3	1/16/2025 10:22:57 AM	key release:CurrentPosition--> X:288.500 Y:198.492 Z:99.167
+a  3	1/16/2025 10:23:10 AM	TestRun：Start
+a  3	1/16/2025 10:23:17 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:23:17 AM	TestRun：Stop
+a  3	1/16/2025 10:23:23 AM	Key click:
+a  3	1/16/2025 10:23:26 AM	key release:CurrentPosition--> X:291.106 Y:173.326 Z:78.410
+a  3	1/16/2025 10:23:40 AM	Key click:
+a  3	1/16/2025 10:23:41 AM	key release:CurrentPosition--> X:291.106 Y:173.326 Z:5.000
+a  3	1/16/2025 10:23:42 AM	Key click:
+a  3	1/16/2025 10:23:43 AM	key release:CurrentPosition--> X:291.106 Y:173.326 Z:5.000
+a  3	1/16/2025 10:23:49 AM	TestRun：Start
+a  3	1/16/2025 10:24:01 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:24:02 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:24:02 AM	TestRun：Stop
+a  3	1/16/2025 10:24:27 AM	The modify of line <6,7,8,9> in pattern <panel> is :<Pull Back Distance :50.000
+>
+a  3	1/16/2025 10:25:12 AM	TestRun：Start
+a  3	1/16/2025 10:25:24 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:25:26 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:25:26 AM	TestRun：Stop
+a  3	1/16/2025 10:25:33 AM	TestRun：Start
+a  3	1/16/2025 10:25:45 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:25:59 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:26:05 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:26:05 AM	TestRun：Stop
+a  3	1/16/2025 10:26:09 AM	TestRun：Start
+a  3	1/16/2025 10:26:24 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:26:34 AM	Key click:
+a  3	1/16/2025 10:26:35 AM	key release:CurrentPosition--> X:308.918 Y:198.492 Z:5.000
+a  3	1/16/2025 10:26:47 AM	The modify of line <2,3,4,5> in pattern <panel> is :<Pull Back Distance :50.000
+>
+a  3	1/16/2025 10:27:02 AM	TestRun：Start
+a  3	1/16/2025 10:27:17 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:27:30 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:27:45 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:00 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:25 AM	TestRun：Start
+a  3	1/16/2025 10:28:27 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:30 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:32 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:35 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:44 AM	TestRun：Start
+a  3	1/16/2025 10:28:47 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:49 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:52 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:54 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:56 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:28:57 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:28:57 AM	TestRun：Stop
+a  3	1/16/2025 10:29:41 AM	TestRun：Start
+a  3	1/16/2025 10:29:55 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:30:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:30:06 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:30:06 AM	TestRun：Stop
+a  3	1/16/2025 10:30:23 AM	TestRun：Start
+a  3	1/16/2025 10:30:36 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:30:48 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:30:55 AM	Key click:
+a  3	1/16/2025 10:30:57 AM	key release:CurrentPosition--> X:300.316 Y:327.946 Z:5.000
+a  3	1/16/2025 10:31:10 AM	The modify of line <6,7,8,9> in pattern <panel> is :<Pull Back Distance :45.000
+>
+a  3	1/16/2025 10:31:13 AM	Key click:
+a  3	1/16/2025 10:31:14 AM	key release:CurrentPosition--> X:300.316 Y:327.946 Z:5.000
+a  3	1/16/2025 10:32:03 AM	ParametersOfSystemSetting.bin the modify parameters are TiltSteadyTime,Camera Parameters,Numeric
+a  3	1/16/2025 10:32:03 AM	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	1/16/2025 10:32:03 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	1/16/2025 10:32:20 AM	Key click:
+a  3	1/16/2025 10:32:22 AM	key release:CurrentPosition--> X:300.316 Y:327.946 Z:5.000
+a  3	1/16/2025 10:32:33 AM	TestRun：Start
+a  3	1/16/2025 10:32:48 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:04 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:22 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:28 AM	TestRun：Start
+a  3	1/16/2025 10:33:32 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:35 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:38 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:42 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:33:58 AM	Key click:
+a  3	1/16/2025 10:33:58 AM	key release:CurrentPosition--> X:308.918 Y:198.492 Z:5.000
+a  3	1/16/2025 10:34:07 AM	The modify of line <2,3,4,5> in pattern <panel> is :<Pull Back Distance :45.000
+>
+a  3	1/16/2025 10:34:29 AM	TestRun：Start
+a  3	1/16/2025 10:34:30 AM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	1/16/2025 10:34:30 AM	TestRun：Stop
+a  3	1/16/2025 10:37:53 AM	ParametersOfSystemSetting.bin the modify parameters are UpOrDownSteadyTime,TiltSteadyTime
+a  3	1/16/2025 10:38:01 AM	TestRun：Start
+a  3	1/16/2025 10:38:16 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:38:35 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:38:55 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:12 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:16 AM	TestRun：Start
+a  3	1/16/2025 10:39:19 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:22 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:26 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:29 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:32 AM	TestRun：Start
+a  3	1/16/2025 10:39:34 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:36 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:38 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:40 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:43 AM	TestRun：Start
+a  3	1/16/2025 10:39:45 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:46 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:47 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:39:49 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:40:05 AM	TestRun：Start
+a  3	1/16/2025 10:40:07 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:40:08 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:40:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:40:11 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:07 AM	TestRun：Start
+a  3	1/16/2025 10:43:08 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:10 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:11 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:12 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:29 AM	ParametersOfSystemSetting.bin the modify parameters are RotatingDelay
+a  3	1/16/2025 10:43:35 AM	TestRun：Start
+a  3	1/16/2025 10:43:37 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:38 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:39 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:43:41 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:19 AM	ParametersOfSystemSetting.bin the modify parameters are RotatingDelay
+a  3	1/16/2025 10:50:37 AM	TestRun：Start
+a  3	1/16/2025 10:50:38 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:39 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:41 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:42 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:48 AM	TestRun：Start
+a  3	1/16/2025 10:50:50 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:51 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:52 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:50:54 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:51:00 AM	TestRun：Start
+a  3	1/16/2025 10:51:01 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:51:02 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:51:04 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 10:51:05 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 11:57:02 AM	Key click:
+a  3	1/16/2025 11:57:02 AM	Key click:
+a  3	1/16/2025 11:57:02 AM	key release:CurrentPosition--> X:297.850 Y:271.242 Z:5.000
+a  3	1/16/2025 11:57:03 AM	key release:CurrentPosition--> X:297.850 Y:271.242 Z:5.000
+a  3	1/16/2025 11:57:03 AM	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	1/16/2025 11:57:03 AM	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	1/16/2025 11:57:04 AM	Save Program:Undersidan
+a  3	1/16/2025 11:57:04 AM	key release:CurrentPosition--> X:297.850 Y:271.242 Z:5.000
+a  3	1/16/2025 11:57:07 AM	Exit 
+a  3	1/16/2025 12:05:50 PM	Initializing...
+a  3	1/16/2025 12:05:50 PM	Current User: a
+a  3	1/16/2025 12:05:50 PM	Open Program:Undersidan
+a  3	1/16/2025 12:06:00 PM	The reset button is pressed
+a  3	1/16/2025 12:06:23 PM	Reset is completed
+a  3	1/16/2025 12:06:32 PM	Key click:
+a  3	1/16/2025 12:06:33 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 12:06:36 PM	DryRun
+a  3	1/16/2025 12:06:36 PM	DryRun
+a  3	1/16/2025 12:06:41 PM	Key click:
+a  3	1/16/2025 12:06:43 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 12:06:43 PM	Key click:
+a  3	1/16/2025 12:06:43 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 12:06:50 PM	TestRun：Start
+a  3	1/16/2025 12:07:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 12:07:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 12:07:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 12:07:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	1/16/2025 12:08:39 PM	Front
+a  3	1/16/2025 12:08:44 PM	Mouse click:X-
+a  3	1/16/2025 12:08:47 PM	key release or away:CurrentPosition--> X:158.981 Y:34.958 Z:0.000
+a  3	1/16/2025 12:08:47 PM	key release or away:CurrentPosition--> X:158.398 Y:34.958 Z:0.000
+a  3	1/16/2025 12:08:50 PM	Mouse click:X-
+a  3	1/16/2025 12:08:52 PM	key release or away:CurrentPosition--> X:69.564 Y:34.958 Z:0.000
+a  3	1/16/2025 12:08:53 PM	key release or away:CurrentPosition--> X:65.306 Y:34.958 Z:0.000
+a  3	1/16/2025 12:08:55 PM	key release or away:CurrentPosition--> X:65.306 Y:34.958 Z:0.000
+a  3	1/16/2025 12:08:58 PM	Exit 
+a  3	1/16/2025 12:09:57 PM	Initializing...
+a  3	1/16/2025 12:09:57 PM	Current User: a
+a  3	1/16/2025 12:09:57 PM	Open Program:Undersidan
+a  3	1/16/2025 12:10:00 PM	The reset button is pressed
+a  3	1/16/2025 12:10:12 PM	Reset is completed
+a  3	1/16/2025 12:10:19 PM	DryRun
+a  3	1/16/2025 12:10:19 PM	DryRun
+a  3	1/16/2025 12:10:23 PM	Key click:
+a  3	1/16/2025 12:10:24 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	1/16/2025 12:10:29 PM	TestRun：Start
+a  3	1/16/2025 12:10:44 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:10:53 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:02 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:10 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:16 PM	TestRun：Start
+a  3	1/16/2025 12:11:25 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:30 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:35 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:11:41 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:12:13 PM	TestRun：Start
+a  3	1/16/2025 12:12:24 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:12:31 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:12:38 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:12:46 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:12:50 PM	TestRun：Start
+a  3	1/16/2025 12:12:59 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:13:04 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:13:09 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:13:15 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 12:17:45 PM	key release or away:CurrentPosition--> X:308.918 Y:198.492 Z:5.000
+a  3	1/16/2025 12:17:47 PM	key release or away:CurrentPosition--> X:308.918 Y:198.492 Z:5.000
+a  3	1/16/2025 12:17:47 PM	Mouse click:Y-
+a  3	1/16/2025 12:17:48 PM	key release or away:CurrentPosition--> X:308.918 Y:172.943 Z:5.000
+a  3	1/16/2025 12:17:48 PM	key release or away:CurrentPosition--> X:308.918 Y:172.943 Z:5.000
+a  3	1/16/2025 12:17:52 PM	Front
+a  3	1/16/2025 1:47:09 PM	AlarmCode 1020:Z Value Error
+a  3	1/16/2025 1:47:11 PM	AlarmCode 1020:Z Value Error
+a  3	1/16/2025 1:51:31 PM	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust,LaserSelect,Valve3CaliSave,InitParamemter,RightValveParamemter,Valve3Paramemter,Valve4Paramemter
+a  3	1/16/2025 1:56:13 PM	TrackAndPar.bin the modify parameters are German Cicor Glue Para out,German Cicor Glue ParaNew out
+a  3	1/16/2025 1:56:13 PM	ParametersOfSystemSetting.bin the modify parameters are LaserSelect,ValveColor,DoOut,Ar_Needle Calib ,DataSavedBySys,Purge后刮胶参数 2
+a  3	1/16/2025 2:12:30 PM	Front
+a  3	1/16/2025 2:14:27 PM	Open Program:01-FilmLinesA4
+a  3	1/16/2025 2:14:28 PM	Open Program:01-FilmLinesA4
+a  3	1/16/2025 2:16:10 PM	key release or away:CurrentPosition--> X:208.610 Y:34.958 Z:0.000
+a  3	1/16/2025 2:16:11 PM	key release or away:CurrentPosition--> X:208.610 Y:34.958 Z:0.000
+a  3	1/16/2025 2:16:23 PM	TestRun：Start
+a  3	1/16/2025 2:16:39 PM	TestRun：Stop
+a  3	1/16/2025 2:16:39 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 2:16:42 PM	DispenseMode
+a  3	1/16/2025 2:16:48 PM	TestRun：Start
+a  3	1/16/2025 2:16:57 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:22:09 PM	TestRun：Start
+a  3	1/16/2025 2:22:19 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:23:33 PM	TestRun：Start
+a  3	1/16/2025 2:23:43 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:24:01 PM	ParametersOfSystemSetting.bin the modify parameters are UpOrDownSteadyTime,TiltSteadyTime,Numeric
+a  3	1/16/2025 2:24:01 PM	TrackAndPar.bin the modify parameters are German Cicor Glue Para out,German Cicor Glue ParaNew out
+a  3	1/16/2025 2:24:16 PM	Mouse click:X+
+a  3	1/16/2025 2:24:19 PM	key release or away:CurrentPosition--> X:163.726 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:19 PM	key release or away:CurrentPosition--> X:165.674 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:20 PM	Mouse click:X+
+a  3	1/16/2025 2:24:22 PM	key release or away:CurrentPosition--> X:263.795 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:23 PM	Mouse click:X-
+a  3	1/16/2025 2:24:23 PM	key release or away:CurrentPosition--> X:263.308 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:25 PM	key release or away:CurrentPosition--> X:261.904 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:26 PM	key release or away:CurrentPosition--> X:261.904 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:26 PM	key release or away:CurrentPosition--> X:261.904 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:27 PM	Mouse click:X-
+a  3	1/16/2025 2:24:28 PM	key release or away:CurrentPosition--> X:210.624 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:28 PM	Mouse click:X-
+a  3	1/16/2025 2:24:28 PM	key release or away:CurrentPosition--> X:203.450 Y:125.874 Z:20.601
+a  3	1/16/2025 2:24:56 PM	key release or away:CurrentPosition--> X:201.870 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:13 PM	key release or away:CurrentPosition--> X:201.870 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:13 PM	key release or away:CurrentPosition--> X:201.870 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:24 PM	The 1 line of program in the pattern Line has been modified. Speed:600.000
+
+a  3	1/16/2025 2:25:28 PM	Key click:
+a  3	1/16/2025 2:25:28 PM	key release:CurrentPosition--> X:201.870 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:31 PM	Mouse click:X+
+a  3	1/16/2025 2:25:32 PM	key release or away:CurrentPosition--> X:222.238 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:32 PM	Mouse click:X+
+a  3	1/16/2025 2:25:32 PM	key release or away:CurrentPosition--> X:225.324 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:33 PM	Mouse click:X+
+a  3	1/16/2025 2:25:33 PM	key release or away:CurrentPosition--> X:227.738 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:34 PM	key release or away:CurrentPosition--> X:233.036 Y:125.874 Z:20.601
+a  3	1/16/2025 2:25:41 PM	TestRun：Start
+a  3	1/16/2025 2:25:43 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:26:07 PM	TestRun：Start
+a  3	1/16/2025 2:26:09 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:27:40 PM	ParametersOfSystemSetting.bin the modify parameters are ValveColor,Numeric
+a  3	1/16/2025 2:29:59 PM	TestRun：Start
+a  3	1/16/2025 2:30:01 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:30:24 PM	TestRun：Start
+a  3	1/16/2025 2:30:26 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:30:37 PM	key release or away:CurrentPosition--> X:459.772 Y:221.988 Z:5.000
+a  3	1/16/2025 2:30:38 PM	key release or away:CurrentPosition--> X:459.772 Y:221.988 Z:5.000
+a  3	1/16/2025 2:30:38 PM	key release or away:CurrentPosition--> X:459.772 Y:221.988 Z:5.000
+a  3	1/16/2025 2:30:44 PM	key release or away:CurrentPosition--> X:116.032 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:44 PM	Mouse click:X+
+a  3	1/16/2025 2:30:45 PM	key release or away:CurrentPosition--> X:151.143 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:46 PM	key release or away:CurrentPosition--> X:153.620 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:46 PM	key release or away:CurrentPosition--> X:153.620 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:50 PM	Mouse click:X+
+a  3	1/16/2025 2:30:50 PM	key release or away:CurrentPosition--> X:169.453 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:50 PM	Mouse click:X+
+a  3	1/16/2025 2:30:52 PM	key release or away:CurrentPosition--> X:263.723 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:53 PM	Mouse click:X-
+a  3	1/16/2025 2:30:53 PM	key release or away:CurrentPosition--> X:263.124 Y:95.874 Z:20.601
+a  3	1/16/2025 2:30:59 PM	key release or away:CurrentPosition--> X:260.166 Y:95.874 Z:20.601
+a  3	1/16/2025 2:31:59 PM	TestRun：Start
+a  3	1/16/2025 2:32:01 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:32:17 PM	Mouse click:X+
+a  3	1/16/2025 2:32:18 PM	key release or away:CurrentPosition--> X:143.627 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:18 PM	Mouse click:X+
+a  3	1/16/2025 2:32:19 PM	key release or away:CurrentPosition--> X:177.258 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:19 PM	Mouse click:X+
+a  3	1/16/2025 2:32:19 PM	key release or away:CurrentPosition--> X:184.094 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:19 PM	Mouse click:X+
+a  3	1/16/2025 2:32:19 PM	key release or away:CurrentPosition--> X:190.354 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:19 PM	Mouse click:X+
+a  3	1/16/2025 2:32:19 PM	key release or away:CurrentPosition--> X:190.354 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:19 PM	Mouse click:X+
+a  3	1/16/2025 2:32:19 PM	key release or away:CurrentPosition--> X:210.198 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:20 PM	Mouse click:X+
+a  3	1/16/2025 2:32:20 PM	key release or away:CurrentPosition--> X:210.198 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:20 PM	Mouse click:X+
+a  3	1/16/2025 2:32:20 PM	key release or away:CurrentPosition--> X:210.198 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:20 PM	Mouse click:X+
+a  3	1/16/2025 2:32:20 PM	key release or away:CurrentPosition--> X:210.198 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:22 PM	key release or away:CurrentPosition--> X:229.002 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:27 PM	key release or away:CurrentPosition--> X:229.002 Y:110.874 Z:20.601
+a  3	1/16/2025 2:32:31 PM	TestRun：Start
+a  3	1/16/2025 2:32:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:32:45 PM	Mouse click:X+
+a  3	1/16/2025 2:32:48 PM	key release or away:CurrentPosition--> X:264.408 Y:125.874 Z:20.601
+a  3	1/16/2025 2:32:49 PM	key release or away:CurrentPosition--> X:265.138 Y:125.874 Z:20.601
+a  3	1/16/2025 2:33:07 PM	TestRun：Start
+a  3	1/16/2025 2:33:09 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:33:45 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:15.000
+
+a  3	1/16/2025 2:33:53 PM	TestRun：Start
+a  3	1/16/2025 2:33:55 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:33:55 PM	TestRun：Start
+a  3	1/16/2025 2:33:57 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:34:02 PM	TestRun：Start
+a  3	1/16/2025 2:34:04 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:34:34 PM	TestRun：Start
+a  3	1/16/2025 2:34:36 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:35:04 PM	The 1 line of program in the pattern Line has been modified. Speed:700.000
+
+a  3	1/16/2025 2:35:11 PM	TestRun：Start
+a  3	1/16/2025 2:35:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:35:33 PM	Mouse click:X+
+a  3	1/16/2025 2:35:35 PM	key release or away:CurrentPosition--> X:238.047 Y:110.874 Z:20.601
+a  3	1/16/2025 2:35:35 PM	Mouse click:X+
+a  3	1/16/2025 2:35:35 PM	key release or away:CurrentPosition--> X:259.339 Y:110.874 Z:20.601
+a  3	1/16/2025 2:35:37 PM	Mouse click:X-
+a  3	1/16/2025 2:35:39 PM	key release or away:CurrentPosition--> X:138.007 Y:110.874 Z:20.601
+a  3	1/16/2025 2:35:40 PM	key release or away:CurrentPosition--> X:130.946 Y:110.874 Z:20.601
+a  3	1/16/2025 2:35:49 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:25.000
+
+a  3	1/16/2025 2:35:51 PM	key release or away:CurrentPosition--> X:130.946 Y:110.874 Z:20.601
+a  3	1/16/2025 2:35:56 PM	TestRun：Start
+a  3	1/16/2025 2:35:58 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:36:35 PM	TestRun：Start
+a  3	1/16/2025 2:36:37 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:37:28 PM	The 1 line of program in the pattern Line has been modified. EndDistance:10.000
+
+a  3	1/16/2025 2:37:37 PM	TestRun：Start
+a  3	1/16/2025 2:37:39 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:38:36 PM	The 1 line of program in the pattern Line has been modified. EndDistance:0.000
+
+a  3	1/16/2025 2:38:43 PM	TestRun：Start
+a  3	1/16/2025 2:38:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:39:17 PM	TestRun：Start
+a  3	1/16/2025 2:39:18 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:40:01 PM	The 1 line of program in the pattern Line has been modified. Speed:800.000
+
+a  3	1/16/2025 2:40:08 PM	TestRun：Start
+a  3	1/16/2025 2:40:10 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:40:33 PM	TestRun：Start
+a  3	1/16/2025 2:40:35 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:40:57 PM	TestRun：Start
+a  3	1/16/2025 2:40:59 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:41:11 PM	TestRun：Start
+a  3	1/16/2025 2:41:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:41:33 PM	TestRun：Start
+a  3	1/16/2025 2:41:35 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:42:29 PM	TestRun：Start
+a  3	1/16/2025 2:42:31 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:42:51 PM	The 1 line of program in the pattern Line has been modified. Speed:600.000
+
+a  3	1/16/2025 2:43:15 PM	TestRun：Start
+a  3	1/16/2025 2:43:17 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:43:54 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:10.000
+
+a  3	1/16/2025 2:44:05 PM	TestRun：Start
+a  3	1/16/2025 2:44:06 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:44:35 PM	key release or away:CurrentPosition--> X:116.032 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:36 PM	Mouse click:X+
+a  3	1/16/2025 2:44:37 PM	key release or away:CurrentPosition--> X:151.063 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:37 PM	Mouse click:X+
+a  3	1/16/2025 2:44:38 PM	key release or away:CurrentPosition--> X:173.701 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:38 PM	Mouse click:X+
+a  3	1/16/2025 2:44:38 PM	key release or away:CurrentPosition--> X:187.156 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:38 PM	Mouse click:X+
+a  3	1/16/2025 2:44:38 PM	key release or away:CurrentPosition--> X:187.156 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:38 PM	Mouse click:X+
+a  3	1/16/2025 2:44:38 PM	key release or away:CurrentPosition--> X:205.061 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:38 PM	Mouse click:X+
+a  3	1/16/2025 2:44:38 PM	key release or away:CurrentPosition--> X:212.074 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:39 PM	Mouse click:X+
+a  3	1/16/2025 2:44:39 PM	key release or away:CurrentPosition--> X:237.420 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:39 PM	Mouse click:X+
+a  3	1/16/2025 2:44:39 PM	key release or away:CurrentPosition--> X:260.008 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:40 PM	Mouse click:X+
+a  3	1/16/2025 2:44:40 PM	key release or away:CurrentPosition--> X:268.591 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:41 PM	Mouse click:X-
+a  3	1/16/2025 2:44:41 PM	key release or away:CurrentPosition--> X:271.678 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:41 PM	Mouse click:X-
+a  3	1/16/2025 2:44:41 PM	key release or away:CurrentPosition--> X:257.597 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:41 PM	Mouse click:X-
+a  3	1/16/2025 2:44:42 PM	key release or away:CurrentPosition--> X:228.117 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:42 PM	Mouse click:X-
+a  3	1/16/2025 2:44:42 PM	key release or away:CurrentPosition--> X:215.960 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:43 PM	Mouse click:X-
+a  3	1/16/2025 2:44:43 PM	key release or away:CurrentPosition--> X:211.928 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:43 PM	Mouse click:X-
+a  3	1/16/2025 2:44:43 PM	key release or away:CurrentPosition--> X:206.132 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:44 PM	key release or away:CurrentPosition--> X:204.440 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:48 PM	Key click:
+a  3	1/16/2025 2:44:48 PM	key release:CurrentPosition--> X:204.440 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:53 PM	Key click:
+a  3	1/16/2025 2:44:53 PM	key release:CurrentPosition--> X:204.440 Y:125.874 Z:20.601
+a  3	1/16/2025 2:44:58 PM	key release or away:CurrentPosition--> X:204.440 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:25 PM	key release or away:CurrentPosition--> X:204.440 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:26 PM	Mouse click:X-
+a  3	1/16/2025 2:45:27 PM	key release or away:CurrentPosition--> X:125.917 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:29 PM	Mouse click:X+
+a  3	1/16/2025 2:45:30 PM	key release or away:CurrentPosition--> X:124.064 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:30 PM	Mouse click:X+
+a  3	1/16/2025 2:45:30 PM	key release or away:CurrentPosition--> X:134.154 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:30 PM	Mouse click:X+
+a  3	1/16/2025 2:45:30 PM	key release or away:CurrentPosition--> X:144.180 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:30 PM	Mouse click:X+
+a  3	1/16/2025 2:45:31 PM	key release or away:CurrentPosition--> X:179.365 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:31 PM	Mouse click:X+
+a  3	1/16/2025 2:45:31 PM	key release or away:CurrentPosition--> X:201.713 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:32 PM	Mouse click:X+
+a  3	1/16/2025 2:45:32 PM	key release or away:CurrentPosition--> X:238.293 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:32 PM	Mouse click:X+
+a  3	1/16/2025 2:45:33 PM	key release or away:CurrentPosition--> X:261.523 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:35 PM	Mouse click:X+
+a  3	1/16/2025 2:45:35 PM	key release or away:CurrentPosition--> X:262.990 Y:125.874 Z:20.601
+a  3	1/16/2025 2:45:52 PM	Mouse click:Y+
+a  3	1/16/2025 2:45:53 PM	key release or away:CurrentPosition--> X:116.032 Y:131.578 Z:20.601
+a  3	1/16/2025 2:45:55 PM	Mouse click:Y-
+a  3	1/16/2025 2:45:55 PM	key release or away:CurrentPosition--> X:116.032 Y:136.508 Z:20.601
+a  3	1/16/2025 2:45:55 PM	Mouse click:Y-
+a  3	1/16/2025 2:45:55 PM	key release or away:CurrentPosition--> X:116.032 Y:130.680 Z:20.601
+a  3	1/16/2025 2:45:56 PM	key release or away:CurrentPosition--> X:116.032 Y:125.126 Z:20.601
+a  3	1/16/2025 2:46:16 PM	key release or away:CurrentPosition--> X:265.732 Y:95.874 Z:20.601
+a  3	1/16/2025 2:46:16 PM	key release or away:CurrentPosition--> X:265.732 Y:95.874 Z:20.601
+a  3	1/16/2025 2:46:18 PM	Mouse click:Y+
+a  3	1/16/2025 2:46:19 PM	key release or away:CurrentPosition--> X:265.732 Y:116.627 Z:20.601
+a  3	1/16/2025 2:46:19 PM	Mouse click:Y+
+a  3	1/16/2025 2:46:19 PM	key release or away:CurrentPosition--> X:265.732 Y:125.162 Z:20.601
+a  3	1/16/2025 2:46:23 PM	key release or away:CurrentPosition--> X:265.732 Y:127.062 Z:20.601
+a  3	1/16/2025 2:47:41 PM	The 1 line of program in the pattern Line has been modified. PrematurelOpeningValve:0.010,OffValveDistance:13.000
+
+a  3	1/16/2025 2:47:50 PM	TestRun：Start
+a  3	1/16/2025 2:47:52 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:48:07 PM	TestRun：Start
+a  3	1/16/2025 2:48:08 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:48:18 PM	TestRun：Start
+a  3	1/16/2025 2:48:20 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:48:24 PM	key release or away:CurrentPosition--> X:459.772 Y:296.988 Z:5.000
+a  3	1/16/2025 2:48:24 PM	key release or away:CurrentPosition--> X:459.772 Y:296.988 Z:5.000
+a  3	1/16/2025 2:48:25 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:27 PM	key release or away:CurrentPosition--> X:459.772 Y:443.729 Z:5.000
+a  3	1/16/2025 2:48:27 PM	key release or away:CurrentPosition--> X:459.772 Y:451.062 Z:5.000
+a  3	1/16/2025 2:48:42 PM	Mouse click:X+
+a  3	1/16/2025 2:48:44 PM	key release or away:CurrentPosition--> X:271.266 Y:170.874 Z:20.601
+a  3	1/16/2025 2:48:46 PM	key release or away:CurrentPosition--> X:273.440 Y:170.874 Z:20.601
+a  3	1/16/2025 2:48:47 PM	Mouse click:X-
+a  3	1/16/2025 2:48:47 PM	key release or away:CurrentPosition--> X:273.440 Y:170.874 Z:20.601
+a  3	1/16/2025 2:48:48 PM	Mouse click:X-
+a  3	1/16/2025 2:48:48 PM	key release or away:CurrentPosition--> X:266.908 Y:170.874 Z:20.601
+a  3	1/16/2025 2:48:49 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:49 PM	key release or away:CurrentPosition--> X:260.024 Y:170.874 Z:20.601
+a  3	1/16/2025 2:48:49 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:49 PM	key release or away:CurrentPosition--> X:260.024 Y:164.486 Z:20.601
+a  3	1/16/2025 2:48:49 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:49 PM	key release or away:CurrentPosition--> X:260.024 Y:151.784 Z:20.601
+a  3	1/16/2025 2:48:50 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:50 PM	key release or away:CurrentPosition--> X:260.024 Y:143.746 Z:20.601
+a  3	1/16/2025 2:48:50 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:50 PM	key release or away:CurrentPosition--> X:260.024 Y:143.746 Z:20.601
+a  3	1/16/2025 2:48:51 PM	Mouse click:Y-
+a  3	1/16/2025 2:48:51 PM	key release or away:CurrentPosition--> X:260.024 Y:130.456 Z:20.601
+a  3	1/16/2025 2:48:52 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:52 PM	key release or away:CurrentPosition--> X:260.024 Y:127.594 Z:20.601
+a  3	1/16/2025 2:48:52 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:52 PM	key release or away:CurrentPosition--> X:260.024 Y:127.594 Z:20.601
+a  3	1/16/2025 2:48:52 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:53 PM	key release or away:CurrentPosition--> X:260.024 Y:154.937 Z:20.601
+a  3	1/16/2025 2:48:53 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:53 PM	key release or away:CurrentPosition--> X:260.024 Y:154.937 Z:20.601
+a  3	1/16/2025 2:48:53 PM	Mouse click:Y+
+a  3	1/16/2025 2:48:53 PM	key release or away:CurrentPosition--> X:260.024 Y:154.937 Z:20.601
+a  3	1/16/2025 2:48:55 PM	Mouse click:X+
+a  3	1/16/2025 2:48:56 PM	key release or away:CurrentPosition--> X:266.402 Y:172.192 Z:20.601
+a  3	1/16/2025 2:48:56 PM	Mouse click:X+
+a  3	1/16/2025 2:48:56 PM	key release or away:CurrentPosition--> X:280.162 Y:172.192 Z:20.601
+a  3	1/16/2025 2:48:57 PM	key release or away:CurrentPosition--> X:281.550 Y:172.192 Z:20.601
+a  3	1/16/2025 2:48:58 PM	Mouse click:X-
+a  3	1/16/2025 2:48:59 PM	Mouse click:X-
+a  3	1/16/2025 2:48:59 PM	key release or away:CurrentPosition--> X:180.144 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:00 PM	key release or away:CurrentPosition--> X:173.436 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:00 PM	Mouse click:X-
+a  3	1/16/2025 2:49:01 PM	key release or away:CurrentPosition--> X:109.047 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:03 PM	Mouse click:X+
+a  3	1/16/2025 2:49:03 PM	key release or away:CurrentPosition--> X:123.508 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:03 PM	Mouse click:X+
+a  3	1/16/2025 2:49:03 PM	key release or away:CurrentPosition--> X:126.850 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:24 PM	key release or away:CurrentPosition--> X:132.084 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:25 PM	key release or away:CurrentPosition--> X:132.084 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:26 PM	key release or away:CurrentPosition--> X:132.084 Y:172.192 Z:20.601
+a  3	1/16/2025 2:49:38 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:18.000
+
+a  3	1/16/2025 2:49:54 PM	TestRun：Start
+a  3	1/16/2025 2:49:56 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:50:09 PM	TestRun：Start
+a  3	1/16/2025 2:50:11 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:50:36 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:100.000
+
+a  3	1/16/2025 2:50:43 PM	TestRun：Start
+a  3	1/16/2025 2:50:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:51:08 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:30.000
+
+a  3	1/16/2025 2:51:15 PM	TestRun：Start
+a  3	1/16/2025 2:51:17 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:52:24 PM	TestRun：Start
+a  3	1/16/2025 2:52:26 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:52:37 PM	TestRun：Start
+a  3	1/16/2025 2:52:39 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:53:29 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:6.000
+
+a  3	1/16/2025 2:53:35 PM	TestRun：Start
+a  3	1/16/2025 2:53:37 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:53:46 PM	TestRun：Start
+a  3	1/16/2025 2:53:48 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:53:53 PM	TestRun：Start
+a  3	1/16/2025 2:53:55 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:54:02 PM	TestRun：Start
+a  3	1/16/2025 2:54:03 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:54:10 PM	TestRun：Start
+a  3	1/16/2025 2:54:12 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:54:29 PM	The 1 line of program in the pattern Line has been modified. OffValveDistance:9.000
+
+a  3	1/16/2025 2:54:38 PM	TestRun：Start
+a  3	1/16/2025 2:54:40 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 2:57:08 PM	Test Width Laser：GotoX:2.416 Y:130.842 Z:42.637 Result:TRUE
+a  3	1/16/2025 2:57:23 PM	Test Width Laser：Click Start
+a  3	1/16/2025 2:57:24 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 2:57:24 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 2:57:25 PM	Read LineLaser:5.96400 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:57:25 PM	Read LineLaser:6.11450 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:57:26 PM	Read LineLaser:6.18800 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:57:26 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 2:58:50 PM	Test Width Laser：Click Start
+a  3	1/16/2025 2:58:50 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 2:58:50 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 2:58:51 PM	Read LineLaser:5.84500 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:58:51 PM	Read LineLaser:6.02525 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:58:52 PM	Read LineLaser:6.04275 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	1/16/2025 2:58:52 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 2:59:39 PM	Test Width Laser：Click Start
+a  3	1/16/2025 2:59:40 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 2:59:40 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 2:59:41 PM	Read LineLaser:5.22375 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 2:59:41 PM	Read LineLaser:5.46525 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 2:59:42 PM	Read LineLaser:5.46000 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 2:59:42 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:03:04 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:03:05 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:03:05 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:03:05 PM	Read LineLaser:4.90525 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:06 PM	Read LineLaser:4.94025 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:06 PM	Read LineLaser:5.02600 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:07 PM	Read LineLaser:4.91050 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:07 PM	Read LineLaser:4.90700 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:08 PM	Read LineLaser:4.92975 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:08 PM	Read LineLaser:4.91750 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:09 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:03:32 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:03:33 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:03:33 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:03:34 PM	Read LineLaser:4.95775 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:34 PM	Read LineLaser:5.11525 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:35 PM	Read LineLaser:5.15550 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:35 PM	Read LineLaser:5.13100 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:36 PM	Read LineLaser:5.13450 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:36 PM	Read LineLaser:5.17825 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:37 PM	Read LineLaser:5.20275 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:37 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:03:40 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:03:41 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:03:41 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:03:41 PM	Read LineLaser:5.21850 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:42 PM	Read LineLaser:5.26400 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:42 PM	Read LineLaser:5.33925 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:43 PM	Read LineLaser:5.37600 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:43 PM	Read LineLaser:5.49150 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:44 PM	Read LineLaser:5.62975 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:44 PM	Read LineLaser:5.67875 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:03:45 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:03:58 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:03:58 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:03:58 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:03:59 PM	Read LineLaser:5.42500 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:00 PM	Read LineLaser:5.58250 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:00 PM	Read LineLaser:5.61400 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:01 PM	Read LineLaser:5.63675 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:01 PM	Read LineLaser:5.62800 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:02 PM	Read LineLaser:5.63675 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:02 PM	Read LineLaser:5.70850 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:02 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:04:04 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:04:04 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:04:04 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:04:05 PM	Read LineLaser:5.62625 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:06 PM	Read LineLaser:5.69625 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:06 PM	Read LineLaser:5.72425 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:07 PM	Read LineLaser:5.79075 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:07 PM	Read LineLaser:5.84500 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:08 PM	Read LineLaser:5.86250 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:08 PM	Read LineLaser:5.91500 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:09 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:04:10 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:04:11 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:04:11 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:04:12 PM	Read LineLaser:5.85025 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:12 PM	Read LineLaser:5.86775 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:13 PM	Read LineLaser:5.86950 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:13 PM	Read LineLaser:5.89050 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:14 PM	Read LineLaser:5.88000 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:14 PM	Read LineLaser:5.86075 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:15 PM	Read LineLaser:5.85550 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:15 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:04:17 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:04:18 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:04:18 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:04:18 PM	Read LineLaser:5.94650 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:19 PM	Read LineLaser:6.78650 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:19 PM	Read LineLaser:7.02625 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:20 PM	Read LineLaser:7.52150 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:20 PM	Read LineLaser:8.58025 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:21 PM	Read LineLaser:9.94525 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:21 PM	Read LineLaser:11.39425 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:22 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:04:40 PM	Test Width Laser：Click Start
+a  3	1/16/2025 3:04:41 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:45.637 Result:TRUE GTS_Code:0
+a  3	1/16/2025 3:04:41 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	1/16/2025 3:04:42 PM	Read LineLaser:11.17725 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:42 PM	Read LineLaser:10.02750 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:43 PM	Read LineLaser:11.34000 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:43 PM	Read LineLaser:9.75800 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:44 PM	Read LineLaser:11.09500 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:44 PM	Read LineLaser:11.65150 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:45 PM	Read LineLaser:12.39350 Current--->X:2.416 Y:130.842 Z:45.637  GTS_Code:0
+a  3	1/16/2025 3:04:45 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	1/16/2025 3:05:14 PM	TestRun：Start
+a  3	1/16/2025 3:05:16 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:17:43 PM	TestRun：Start
+a  3	1/16/2025 3:17:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:17:52 PM	TestRun：Start
+a  3	1/16/2025 3:17:54 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:18:00 PM	TestRun：Start
+a  3	1/16/2025 3:18:02 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:18:35 PM	TestRun：Start
+a  3	1/16/2025 3:18:36 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:18:43 PM	TestRun：Start
+a  3	1/16/2025 3:18:45 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:19:34 PM	The 1 line of program in the pattern Line has been modified. Speed:700.000
+
+a  3	1/16/2025 3:19:40 PM	TestRun：Start
+a  3	1/16/2025 3:19:42 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:19:53 PM	TestRun：Start
+a  3	1/16/2025 3:19:55 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:20:07 PM	TestRun：Start
+a  3	1/16/2025 3:20:09 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:20:19 PM	TestRun：Start
+a  3	1/16/2025 3:20:21 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:20:29 PM	TestRun：Start
+a  3	1/16/2025 3:20:31 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:20:43 PM	Mouse click:X+
+a  3	1/16/2025 3:20:45 PM	key release or away:CurrentPosition--> X:281.506 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:46 PM	Mouse click:X-
+a  3	1/16/2025 3:20:46 PM	key release or away:CurrentPosition--> X:266.485 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:47 PM	Mouse click:X-
+a  3	1/16/2025 3:20:47 PM	key release or away:CurrentPosition--> X:257.404 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:47 PM	Mouse click:X-
+a  3	1/16/2025 3:20:49 PM	key release or away:CurrentPosition--> X:134.113 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:49 PM	Mouse click:X-
+a  3	1/16/2025 3:20:49 PM	key release or away:CurrentPosition--> X:124.584 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:50 PM	Mouse click:X-
+a  3	1/16/2025 3:20:50 PM	key release or away:CurrentPosition--> X:114.414 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:51 PM	Mouse click:X+
+a  3	1/16/2025 3:20:51 PM	key release or away:CurrentPosition--> X:113.634 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:51 PM	key release or away:CurrentPosition--> X:113.634 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:53 PM	Key click:
+a  3	1/16/2025 3:20:53 PM	key release:CurrentPosition--> X:119.590 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:56 PM	Mouse click:Y+
+a  3	1/16/2025 3:20:56 PM	key release or away:CurrentPosition--> X:119.590 Y:155.874 Z:20.601
+a  3	1/16/2025 3:20:57 PM	key release or away:CurrentPosition--> X:119.590 Y:157.342 Z:20.601
+a  3	1/16/2025 3:20:57 PM	Mouse click:X+
+a  3	1/16/2025 3:20:58 PM	key release or away:CurrentPosition--> X:160.967 Y:157.342 Z:20.601
+a  3	1/16/2025 3:20:58 PM	Mouse click:X+
+a  3	1/16/2025 3:20:58 PM	key release or away:CurrentPosition--> X:165.800 Y:157.342 Z:20.601
+a  3	1/16/2025 3:20:58 PM	Mouse click:X+
+a  3	1/16/2025 3:20:58 PM	key release or away:CurrentPosition--> X:169.704 Y:157.342 Z:20.601
+a  3	1/16/2025 3:20:58 PM	Mouse click:X+
+a  3	1/16/2025 3:20:58 PM	key release or away:CurrentPosition--> X:169.704 Y:157.342 Z:20.601
+a  3	1/16/2025 3:20:58 PM	key release or away:CurrentPosition--> X:179.036 Y:157.342 Z:20.601
+a  3	1/16/2025 3:21:00 PM	Key click:
+a  3	1/16/2025 3:21:00 PM	key release:CurrentPosition--> X:179.036 Y:157.342 Z:20.601
+a  3	1/16/2025 3:21:04 PM	Key click:
+a  3	1/16/2025 3:21:04 PM	key release:CurrentPosition--> X:179.036 Y:157.342 Z:20.601
+a  3	1/16/2025 3:21:09 PM	key release or away:CurrentPosition--> X:179.036 Y:157.342 Z:20.601
+a  3	1/16/2025 3:21:10 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:10 PM	key release or away:CurrentPosition--> X:179.036 Y:157.342 Z:20.601
+a  3	1/16/2025 3:21:10 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:10 PM	key release or away:CurrentPosition--> X:179.036 Y:150.970 Z:20.601
+a  3	1/16/2025 3:21:10 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:10 PM	key release or away:CurrentPosition--> X:179.036 Y:146.456 Z:20.601
+a  3	1/16/2025 3:21:11 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:11 PM	key release or away:CurrentPosition--> X:179.036 Y:117.152 Z:20.601
+a  3	1/16/2025 3:21:11 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:12 PM	key release or away:CurrentPosition--> X:179.036 Y:113.682 Z:20.601
+a  3	1/16/2025 3:21:12 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:12 PM	key release or away:CurrentPosition--> X:179.036 Y:110.306 Z:20.601
+a  3	1/16/2025 3:21:12 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:12 PM	key release or away:CurrentPosition--> X:179.036 Y:105.472 Z:20.601
+a  3	1/16/2025 3:21:13 PM	Mouse click:Y-
+a  3	1/16/2025 3:21:13 PM	key release or away:CurrentPosition--> X:179.036 Y:99.934 Z:20.601
+a  3	1/16/2025 3:21:14 PM	key release or away:CurrentPosition--> X:179.036 Y:96.928 Z:20.601
+a  3	1/16/2025 3:21:18 PM	TestRun：Start
+a  3	1/16/2025 3:21:20 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:21:44 PM	Mouse click:X+
+a  3	1/16/2025 3:21:44 PM	key release or away:CurrentPosition--> X:128.964 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:45 PM	Mouse click:X+
+a  3	1/16/2025 3:21:46 PM	key release or away:CurrentPosition--> X:229.003 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:47 PM	Mouse click:X+
+a  3	1/16/2025 3:21:47 PM	key release or away:CurrentPosition--> X:234.398 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:47 PM	Mouse click:X+
+a  3	1/16/2025 3:21:47 PM	key release or away:CurrentPosition--> X:241.492 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:47 PM	Mouse click:X+
+a  3	1/16/2025 3:21:48 PM	key release or away:CurrentPosition--> X:248.088 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:48 PM	key release or away:CurrentPosition--> X:253.386 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:50 PM	Key click:
+a  3	1/16/2025 3:21:50 PM	key release:CurrentPosition--> X:253.386 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:52 PM	key release or away:CurrentPosition--> X:253.386 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:53 PM	Mouse click:X-
+a  3	1/16/2025 3:21:55 PM	key release or away:CurrentPosition--> X:109.353 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:56 PM	Mouse click:X+
+a  3	1/16/2025 3:21:56 PM	key release or away:CurrentPosition--> X:123.557 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:56 PM	Mouse click:X+
+a  3	1/16/2025 3:21:57 PM	key release or away:CurrentPosition--> X:133.247 Y:170.874 Z:20.601
+a  3	1/16/2025 3:21:57 PM	Mouse click:X+
+a  3	1/16/2025 3:21:59 PM	key release or away:CurrentPosition--> X:263.668 Y:170.874 Z:20.601
+a  3	1/16/2025 3:22:00 PM	key release or away:CurrentPosition--> X:270.728 Y:170.874 Z:20.601
+a  3	1/16/2025 3:22:10 PM	The 1 line of program in the pattern Line has been modified. PrematurelOpeningValve:0.000
+
+a  3	1/16/2025 3:22:40 PM	TestRun：Start
+a  3	1/16/2025 3:22:42 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:23:03 PM	TestRun：Start
+a  3	1/16/2025 3:23:05 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 3:23:21 PM	Mouse click:X+
+a  3	1/16/2025 3:23:23 PM	key release or away:CurrentPosition--> X:272.949 Y:95.874 Z:20.601
+a  3	1/16/2025 3:23:24 PM	Mouse click:X-
+a  3	1/16/2025 3:23:25 PM	key release or away:CurrentPosition--> X:261.260 Y:95.874 Z:20.601
+a  3	1/16/2025 3:23:25 PM	Mouse click:Y+
+a  3	1/16/2025 3:23:25 PM	key release or away:CurrentPosition--> X:258.110 Y:110.681 Z:20.601
+a  3	1/16/2025 3:23:26 PM	Mouse click:X-
+a  3	1/16/2025 3:23:29 PM	key release or away:CurrentPosition--> X:108.773 Y:111.428 Z:20.601
+a  3	1/16/2025 3:23:30 PM	Mouse click:X+
+a  3	1/16/2025 3:23:32 PM	key release or away:CurrentPosition--> X:227.525 Y:111.428 Z:20.601
+a  3	1/16/2025 3:23:32 PM	key release or away:CurrentPosition--> X:232.822 Y:111.428 Z:20.601
+a  3	1/16/2025 3:29:47 PM	key release or away:CurrentPosition--> X:232.822 Y:111.428 Z:20.601
+a  3	1/16/2025 3:56:33 PM	Open Program:Coater
+a  3	1/16/2025 3:56:34 PM	Open Program:Coater
+a  3	1/16/2025 3:56:57 PM	LoadBoard
+a  3	1/16/2025 3:57:32 PM	TestRun：Start
+a  3	1/16/2025 3:57:34 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.521 Y:94.532 Result:TRUE ;Score:99.408
+a  3	1/16/2025 3:57:35 PM	AlarmCode 1041:Can't found template!
+a  3	1/16/2025 3:57:43 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.526 Y:215.086 Result:FALSE ;Score:99.347
+a  3	1/16/2025 3:57:47 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 3:57:47 PM	TestRun：Stop
+a  3	1/16/2025 3:58:11 PM	DryRun
+a  3	1/16/2025 3:58:11 PM	DryRun
+a  3	1/16/2025 3:58:18 PM	TestRun：Start
+a  3	1/16/2025 3:58:21 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.514 Y:94.503 Result:TRUE ;Score:99.514
+a  3	1/16/2025 3:58:22 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.439 Y:215.047 Result:TRUE ;Score:72.213
+a  3	1/16/2025 3:58:53 PM	TestRun：Stop
+a  3	1/16/2025 3:58:53 PM	Processed flag:TRUE  Stopstatus:TRUE
+a  3	1/16/2025 3:58:56 PM	TestRun：Start
+a  3	1/16/2025 3:58:59 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.508 Y:94.470 Result:TRUE ;Score:99.747
+a  3	1/16/2025 3:59:00 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.439 Y:215.061 Result:TRUE ;Score:84.646
+a  3	1/16/2025 4:00:07 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:00:40 PM	Front
+a  3	1/16/2025 4:03:28 PM	DispenseMode
+a  3	1/16/2025 4:03:52 PM	TestRun：Start
+a  3	1/16/2025 4:03:53 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.499 Y:94.450 Result:TRUE ;Score:99.539
+a  3	1/16/2025 4:03:55 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.438 Y:215.034 Result:TRUE ;Score:87.704
+a  3	1/16/2025 4:04:36 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:04:47 PM	Front
+a  3	1/16/2025 4:04:50 PM	Mouse click:X-
+a  3	1/16/2025 4:04:52 PM	key release or away:CurrentPosition--> X:64.593 Y:34.958 Z:0.000
+a  3	1/16/2025 4:04:52 PM	Mouse click:X-
+a  3	1/16/2025 4:04:52 PM	key release or away:CurrentPosition--> X:50.577 Y:34.958 Z:0.000
+a  3	1/16/2025 4:07:40 PM	key release or away:CurrentPosition--> X:47.074 Y:34.958 Z:0.000
+a  3	1/16/2025 4:07:48 PM	Open Program:20250115093446-traning-Henri
+a  3	1/16/2025 4:07:48 PM	Open Program:20250115093446-traning-Henri
+a  3	1/16/2025 4:07:58 PM	Key click:
+a  3	1/16/2025 4:07:58 PM	key release:CurrentPosition--> X:47.074 Y:34.958 Z:0.000
+a  3	1/16/2025 4:08:04 PM	Key click:
+a  3	1/16/2025 4:08:04 PM	key release:CurrentPosition--> X:47.074 Y:34.958 Z:0.000
+a  3	1/16/2025 4:08:16 PM	TestRun：Start
+a  3	1/16/2025 4:08:17 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.467 Y:94.318 Result:TRUE ;Score:99.564
+a  3	1/16/2025 4:08:19 PM	AlarmCode 1041:Can't found template!
+a  3	1/16/2025 4:08:28 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.582 Y:214.727 Result:FALSE ;Score:99.396
+a  3	1/16/2025 4:08:30 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:11:29 PM	Open Program:Training SAVE!!!
+a  3	1/16/2025 4:11:29 PM	Open Program:Training SAVE!!!
+a  3	1/16/2025 4:11:37 PM	Key click:
+a  3	1/16/2025 4:11:43 PM	key release:CurrentPosition--> X:289.616 Y:338.692 Z:5.000
+a  3	1/16/2025 4:12:01 PM	DryRun
+a  3	1/16/2025 4:12:01 PM	DryRun
+a  3	1/16/2025 4:12:09 PM	Key click:
+a  3	1/16/2025 4:12:10 PM	key release:CurrentPosition--> X:289.616 Y:338.692 Z:5.000
+a  3	1/16/2025 4:12:13 PM	Key click:
+a  3	1/16/2025 4:12:21 PM	key release:CurrentPosition--> X:289.616 Y:338.692 Z:5.000
+a  3	1/16/2025 4:12:27 PM	TestRun：Start
+a  3	1/16/2025 4:12:37 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:12:37 PM	TestRun：Stop
+a  3	1/16/2025 4:12:48 PM	Key click:
+a  3	1/16/2025 4:12:49 PM	key release:CurrentPosition--> X:421.756 Y:265.590 Z:36.782
+a  3	1/16/2025 4:13:01 PM	Key click:
+a  3	1/16/2025 4:13:03 PM	key release:CurrentPosition--> X:421.756 Y:265.590 Z:36.782
+a  3	1/16/2025 4:13:31 PM	The modify of line 2,3,4,5,6,7,8 in pattern panel is :Dispense Gap :12.000
+
+a  3	1/16/2025 4:13:37 PM	TestRun：Start
+a  3	1/16/2025 4:13:42 PM	TestRun：Stop
+a  3	1/16/2025 4:13:42 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:14:04 PM	The modify of line 2,3,4,5,6,7,8 in pattern panel is :Dispense Gap :12.000
+
+a  3	1/16/2025 4:14:15 PM	TestRun：Start
+a  3	1/16/2025 4:14:22 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:14:24 PM	TestRun：Stop
+a  3	1/16/2025 4:14:24 PM	Processed flag:TRUE  Stopstatus:TRUE
+a  3	1/16/2025 4:14:37 PM	The modify of line 2,3,4,5,6,7,8 in pattern panel is :Dispense Gap :5.000
+
+a  3	1/16/2025 4:14:41 PM	TestRun：Start
+a  3	1/16/2025 4:14:47 PM	TestRun：Stop
+a  3	1/16/2025 4:14:47 PM	Processed flag:TRUE  Stopstatus:TRUE
+a  3	1/16/2025 4:15:53 PM	Key click:
+a  3	1/16/2025 4:15:55 PM	key release:CurrentPosition--> X:421.756 Y:259.416 Z:41.782
+a  3	1/16/2025 4:16:14 PM	The positon offset of line 2,3,4,5,6,7,8,9,10,11,12,13,14 in pattern panel is X:0.000,Y:0.000,Z:20.500,R:0.000,T:0.000
+a  3	1/16/2025 4:16:26 PM	Key click:
+a  3	1/16/2025 4:16:28 PM	key release:CurrentPosition--> X:421.756 Y:259.416 Z:41.782
+a  3	1/16/2025 4:16:38 PM	The modify of line 2,3,4,5,6,7,8,9,10,11,12,13,14 in pattern panel is :Dispense Gap :12.000
+
+a  3	1/16/2025 4:16:41 PM	Key click:
+a  3	1/16/2025 4:16:43 PM	key release:CurrentPosition--> X:421.756 Y:259.416 Z:41.782
+a  3	1/16/2025 4:16:48 PM	TestRun：Start
+a  3	1/16/2025 4:16:55 PM	TestRun：Stop
+a  3	1/16/2025 4:16:55 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:17:10 PM	The modify of line 2,3,4,5,6,7,8 in pattern panel is :Dispense Gap :10.000
+
+a  3	1/16/2025 4:17:19 PM	TestRun：Start
+a  3	1/16/2025 4:17:26 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:30 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:34 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:38 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:42 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:46 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:17:53 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:18:28 PM	The 5 line of program in the pattern panel has been modified. RT:(0.000,0.000),,PullBackHeight:17.000
+
+a  3	1/16/2025 4:18:32 PM	Key click:
+a  3	1/16/2025 4:18:34 PM	key release:CurrentPosition--> X:450.124 Y:223.308 Z:5.000
+a  3	1/16/2025 4:18:37 PM	Key click:
+a  3	1/16/2025 4:18:38 PM	key release:CurrentPosition--> X:450.124 Y:223.308 Z:5.000
+a  3	1/16/2025 4:18:40 PM	key release:CurrentPosition--> X:450.124 Y:223.308 Z:5.000
+a  3	1/16/2025 4:18:40 PM	Key click:
+a  3	1/16/2025 4:18:42 PM	key release:CurrentPosition--> X:450.124 Y:223.308 Z:5.000
+a  3	1/16/2025 4:18:48 PM	TestRun：Start
+a  3	1/16/2025 4:18:54 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:18:57 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:00 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:03 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:07 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:10 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:23 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:19:35 PM	TestRun：Stop
+a  3	1/16/2025 4:19:39 PM	Key click:
+a  3	1/16/2025 4:19:40 PM	key release:CurrentPosition--> X:293.092 Y:260.332 Z:5.000
+a  3	1/16/2025 4:19:59 PM	The modify of line 9,10,11 in pattern panel is :Dispense Gap :7.000
+
+a  3	1/16/2025 4:20:06 PM	TestRun：Start
+a  3	1/16/2025 4:20:11 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:20:11 PM	TestRun：Stop
+a  3	1/16/2025 4:20:26 PM	The modify of line 9,10,11 in pattern panel is :Dispense Gap :2.000
+
+a  3	1/16/2025 4:20:30 PM	TestRun：Start
+a  3	1/16/2025 4:20:36 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:20:42 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:20:48 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:20:54 PM	Key click:
+a  3	1/16/2025 4:20:55 PM	key release:CurrentPosition--> X:293.092 Y:260.332 Z:5.000
+a  3	1/16/2025 4:20:59 PM	Key click:
+a  3	1/16/2025 4:21:01 PM	key release:CurrentPosition--> X:293.092 Y:260.332 Z:5.000
+a  3	1/16/2025 4:21:07 PM	TestRun：Start
+a  3	1/16/2025 4:21:09 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:10 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:11 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:12 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:13 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:14 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:17 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:18 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:19 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:23 PM	TestRun：Start
+a  3	1/16/2025 4:21:24 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:25 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:26 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:26 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:27 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:28 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:30 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:31 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:21:32 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:22:00 PM	DispenseMode
+a  3	1/16/2025 4:22:11 PM	TestRun：Start
+a  3	1/16/2025 4:22:12 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.045 Y:94.361 Z:20.500  Match-->X:224.364 Y:94.411 Result:TRUE ;Score:99.614
+a  3	1/16/2025 4:22:14 PM	AlarmCode 1041:Can't found template!
+a  3	1/16/2025 4:22:24 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:394.949 Y:215.044 Z:20.500  Match-->X:395.570 Y:214.678 Result:FALSE ;Score:99.479
+a  3	1/16/2025 4:22:33 PM	Processed flag:TRUE  Stopstatus:FALSE
+a  3	1/16/2025 4:25:48 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	1/16/2025 4:25:48 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2,Glue_Pressure 2
+a  3	1/16/2025 4:25:48 PM	TrackAndPar.bin the modify parameters are Track storage,PathOfProgaramParameterSavedas,German Cicor Glue Para out,German Cicor Glue ParaNew out
+a  3	1/16/2025 4:25:49 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Track storage
+a  3	1/16/2025 4:25:50 PM	Save Program:Training SAVE!!!
+a  3	1/16/2025 4:26:13 PM	Open Program:20250115093446-toby5
+a  3	1/16/2025 4:26:52 PM	DryRun
+a  3	1/16/2025 4:26:52 PM	DryRun
+a  3	1/16/2025 4:26:57 PM	TestRun：Start
+a  3	1/16/2025 4:26:59 PM	AlarmCode 1040:Can't found template!
+a  3	1/16/2025 4:27:11 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.059 Y:94.363 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 4:27:12 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:395.153 Y:214.788 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 4:28:04 PM	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust
+a  3	1/16/2025 4:28:09 PM	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust
+a  3	1/16/2025 4:28:48 PM	Set1_Mark matching coordinates:X:224.547 Y:94.590 Z:20.500 Result:TRUE
+a  3	1/16/2025 4:29:00 PM	Set2_Mark matching coordinates:X:224.561 Y:94.574 Z:20.500 Result:TRUE
+a  3	1/16/2025 4:29:10 PM	TestRun：Start
+a  3	1/16/2025 4:29:12 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.522 Y:94.593 Result:TRUE ;Score:77.433
+a  3	1/16/2025 4:29:13 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:224.546 Y:94.574 Result:TRUE ;Score:78.934
+a  3	1/16/2025 4:29:31 PM	Processed flag:TRUE  Stopstatus:TRUE
+a  3	1/16/2025 4:29:31 PM	TestRun：Stop
+a  3	1/16/2025 4:31:04 PM	TestRun：Start
+a  3	1/16/2025 4:31:06 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.456 Y:94.482 Result:TRUE ;Score:99.905
+a  3	1/16/2025 4:31:07 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:224.472 Y:94.465 Result:TRUE ;Score:99.602
+a  3	1/16/2025 4:32:12 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:32:12 PM	TestRun：Stop
+a  3	1/16/2025 4:32:16 PM	TestRun：Start
+a  3	1/16/2025 4:32:18 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.405 Y:94.226 Result:TRUE ;Score:99.610
+a  3	1/16/2025 4:32:19 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:224.424 Y:94.208 Result:TRUE ;Score:99.726
+a  3	1/16/2025 4:32:27 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:32:27 PM	TestRun：Stop
+a  3	1/16/2025 4:33:40 PM	TestRun：Start
+a  3	1/16/2025 4:33:42 PM	AlarmCode 1040:Can't found template!
+a  3	1/16/2025 4:34:05 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 4:34:05 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	1/16/2025 4:34:09 PM	TestRun：Start
+a  3	1/16/2025 4:34:10 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.550 Y:94.567 Result:TRUE ;Score:99.608
+a  3	1/16/2025 4:34:11 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:224.567 Y:94.551 Result:TRUE ;Score:99.608
+a  3	1/16/2025 4:34:16 PM	TestRun：Stop
+a  3	1/16/2025 4:34:16 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:35:30 PM	TestRun：Start
+a  3	1/16/2025 4:35:32 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.494 Y:94.406 Result:TRUE ;Score:99.490
+a  3	1/16/2025 4:35:33 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:224.561 Y:94.574 Z:20.500  Match-->X:224.514 Y:94.390 Result:TRUE ;Score:99.666
+a  3	1/16/2025 4:35:35 PM	TestRun：Stop
+a  3	1/16/2025 4:35:35 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:36:26 PM	2_Mark goto coordinates:X:224.561 Y:94.574 Z:20.500 Result:TRUE
+a  3	1/16/2025 4:37:34 PM	Set2_Mark matching coordinates:X:395.384 Y:215.076 Z:20.500 Result:TRUE
+a  3	1/16/2025 4:37:36 PM	2_Mark goto coordinates:X:395.384 Y:215.076 Z:20.500 Result:TRUE
+a  3	1/16/2025 4:37:45 PM	TestRun：Start
+a  3	1/16/2025 4:37:47 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:224.547 Y:94.590 Z:20.500  Match-->X:224.480 Y:94.414 Result:TRUE ;Score:99.478
+a  3	1/16/2025 4:37:48 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:395.384 Y:215.076 Z:20.500  Match-->X:395.381 Y:215.075 Result:TRUE ;Score:99.783
+a  3	1/16/2025 4:38:08 PM	Processed flag:FALSE  Stopstatus:TRUE
+a  3	1/16/2025 4:39:02 PM	Key click:
+a  3	1/16/2025 4:39:06 PM	key release:CurrentPosition--> X:489.766 Y:331.806 Z:66.682
+a  3	1/16/2025 4:39:42 PM	The modify of line 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 in pattern panel is :Dispense Gap :1.000
+
+a  3	1/16/2025 4:40:54 PM	The program of line 11 in pattern panel  have been Delete
+a  3	1/16/2025 4:41:27 PM	key release or away:CurrentPosition--> X:489.766 Y:331.806 Z:66.682
+a  3	1/16/2025 4:41:27 PM	key release or away:CurrentPosition--> X:489.766 Y:331.806 Z:66.682
+a  3	1/16/2025 4:42:45 PM	key release or away:CurrentPosition--> X:489.766 Y:331.806 Z:66.682
+a  3	1/16/2025 4:57:15 PM	key release or away:CurrentPosition--> X:489.766 Y:331.806 Z:66.682
+a  3	1/16/2025 4:57:16 PM	Front
+a  3	1/16/2025 4:57:33 PM	Exit 
+a  3	1/16/2025 4:57:33 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric

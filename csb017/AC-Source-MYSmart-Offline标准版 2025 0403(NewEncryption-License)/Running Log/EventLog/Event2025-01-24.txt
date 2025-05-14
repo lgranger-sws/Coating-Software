@@ -1,12 +1,162 @@
 
-a  3	2025/01/24 16:51:01.823	设备初始化......
-a  3	2025/01/24 16:51:01.991	当前用户： a
-a  3	2025/01/24 16:51:02.018	打开程序：test
-a  3	2025/01/24 16:51:02.048	低气压检测未开启
-a  3	2025/01/24 16:51:12.192	ProcessingStarted
-a  3	2025/01/24 16:51:12.282	复位按钮按下
-a  3	2025/01/24 16:51:24.617	设备复位完成
-a  3	2025/01/24 16:51:29.864	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/24 16:51:29.955	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/24 16:51:32.329	退出
-a  3	2025/01/24 16:51:32.522	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
+a  3	2025/01/24 10:24:18.554	Initializing...
+a  3	2025/01/24 10:24:18.637	Current User: a
+a  3	2025/01/24 10:24:18.647	Open Program:PAN103
+a  3	2025/01/24 10:24:19.635	The reset button is pressed
+a  3	2025/01/24 10:24:31.605	Reset is completed
+a  3	2025/01/24 12:07:29.031	Front
+a  3	2025/01/24 13:42:42.888	key release or away:CurrentPosition--> X:208.610 Y:34.958 Z:0.000
+a  3	2025/01/24 13:42:43.145	key release or away:CurrentPosition--> X:208.610 Y:34.958 Z:0.000
+a  3	2025/01/24 13:42:43.789	Mouse click:Y+
+a  3	2025/01/24 13:42:44.869	key release or away:CurrentPosition--> X:208.610 Y:54.687 Z:0.000
+a  3	2025/01/24 13:42:45.028	key release or away:CurrentPosition--> X:208.610 Y:56.630 Z:0.000
+a  3	2025/01/24 13:42:46.443	Mouse click:Y+
+a  3	2025/01/24 13:42:50.451	key release or away:CurrentPosition--> X:208.610 Y:340.772 Z:0.000
+a  3	2025/01/24 14:52:50.723	key release or away:CurrentPosition--> X:208.610 Y:348.700 Z:0.000
+a  3	2025/01/24 15:19:01.311	Open Program:01-FilmLinesA4
+a  3	2025/01/24 15:19:01.977	Open Program:01-FilmLinesA4
+a  3	2025/01/24 15:20:32.977	Open Program:01-SprayLinesA4 - full
+a  3	2025/01/24 15:20:33.713	Open Program:01-SprayLinesA4 - full
+a  3	2025/01/24 15:20:51.246	New Program:Conti ford workshop top v1
+a  3	2025/01/24 15:21:34.423	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	2025/01/24 15:21:34.454	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/01/24 15:21:34.547	ParametersOfSystemSetting.bin the modify parameters are MarkLightSource
+a  3	2025/01/24 15:21:48.655	key release or away:CurrentPosition--> X:208.610 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:49.505	Mouse click:X+
+a  3	2025/01/24 15:21:53.920	key release or away:CurrentPosition--> X:521.646 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:54.234	Mouse click:X+
+a  3	2025/01/24 15:21:54.377	key release or away:CurrentPosition--> X:536.584 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:54.634	Mouse click:X+
+a  3	2025/01/24 15:21:54.751	key release or away:CurrentPosition--> X:539.830 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:54.946	Mouse click:X+
+a  3	2025/01/24 15:21:55.072	key release or away:CurrentPosition--> X:556.261 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:55.273	Mouse click:X+
+a  3	2025/01/24 15:21:55.388	key release or away:CurrentPosition--> X:565.210 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:55.667	Mouse click:X+
+a  3	2025/01/24 15:21:55.753	key release or away:CurrentPosition--> X:566.442 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:56.648	key release or away:CurrentPosition--> X:573.430 Y:348.700 Z:0.000
+a  3	2025/01/24 15:21:58.622	Mouse click:Y-
+a  3	2025/01/24 15:22:00.358	key release or away:CurrentPosition--> X:573.430 Y:223.425 Z:0.000
+a  3	2025/01/24 15:23:05.859	key release or away:CurrentPosition--> X:573.430 Y:221.794 Z:0.000
+a  3	2025/01/24 15:23:07.631	Mouse click:X-
+a  3	2025/01/24 15:23:08.717	key release or away:CurrentPosition--> X:500.010 Y:221.794 Z:0.000
+a  3	2025/01/24 15:23:09.562	Mouse click:Z+
+a  3	2025/01/24 15:23:09.729	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:6.770
+a  3	2025/01/24 15:23:10.018	Mouse click:Z+
+a  3	2025/01/24 15:23:10.117	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:11.719
+a  3	2025/01/24 15:23:10.307	Mouse click:Z+
+a  3	2025/01/24 15:23:10.394	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:18.556
+a  3	2025/01/24 15:23:11.618	Mouse click:Z-
+a  3	2025/01/24 15:23:11.691	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:24.558
+a  3	2025/01/24 15:23:12.830	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.609
+a  3	2025/01/24 15:23:16.019	Mouse click:Z+
+a  3	2025/01/24 15:23:16.092	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.609
+a  3	2025/01/24 15:23:16.979	Mouse click:Z-
+a  3	2025/01/24 15:23:17.058	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.929
+a  3	2025/01/24 15:23:17.850	Mouse click:Z+
+a  3	2025/01/24 15:23:17.945	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.638
+a  3	2025/01/24 15:23:19.231	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.986
+a  3	2025/01/24 15:23:22.677	Mouse click:Z+
+a  3	2025/01/24 15:23:22.762	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:19.986
+a  3	2025/01/24 15:23:23.848	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.021
+a  3	2025/01/24 15:23:25.429	Mouse click:Z+
+a  3	2025/01/24 15:23:25.466	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.021
+a  3	2025/01/24 15:23:25.792	Mouse click:Z+
+a  3	2025/01/24 15:23:25.873	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.037
+a  3	2025/01/24 15:23:25.998	Mouse click:Z+
+a  3	2025/01/24 15:23:26.083	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.072
+a  3	2025/01/24 15:23:26.189	Mouse click:Z+
+a  3	2025/01/24 15:23:26.312	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.150
+a  3	2025/01/24 15:23:26.411	Mouse click:Z+
+a  3	2025/01/24 15:23:26.492	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.150
+a  3	2025/01/24 15:23:26.596	Mouse click:Z+
+a  3	2025/01/24 15:23:26.689	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.150
+a  3	2025/01/24 15:23:26.860	Mouse click:Z+
+a  3	2025/01/24 15:23:26.944	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.231
+a  3	2025/01/24 15:23:27.073	Mouse click:Z+
+a  3	2025/01/24 15:23:27.184	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.310
+a  3	2025/01/24 15:23:27.314	Mouse click:Z+
+a  3	2025/01/24 15:23:27.392	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.313
+a  3	2025/01/24 15:23:27.490	Mouse click:Z+
+a  3	2025/01/24 15:23:27.602	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.393
+a  3	2025/01/24 15:23:28.069	Mouse click:Z+
+a  3	2025/01/24 15:23:28.170	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.397
+a  3	2025/01/24 15:23:28.586	Mouse click:Z+
+a  3	2025/01/24 15:23:28.695	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.482
+a  3	2025/01/24 15:23:29.231	Mouse click:Z+
+a  3	2025/01/24 15:23:29.321	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.485
+a  3	2025/01/24 15:23:29.770	Mouse click:Z+
+a  3	2025/01/24 15:23:29.846	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.523
+a  3	2025/01/24 15:23:30.745	Mouse click:Z-
+a  3	2025/01/24 15:23:30.837	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.555
+a  3	2025/01/24 15:23:31.849	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.517
+a  3	2025/01/24 15:23:33.108	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.517
+a  3	2025/01/24 15:23:34.610	key release or away:CurrentPosition--> X:494.132 Y:221.794 Z:20.517
+a  3	2025/01/24 15:23:36.905	Mouse click:Y-
+a  3	2025/01/24 15:23:38.001	key release or away:CurrentPosition--> X:494.132 Y:162.529 Z:20.517
+a  3	2025/01/24 15:23:38.477	Mouse click:X-
+a  3	2025/01/24 15:23:42.610	key release or away:CurrentPosition--> X:257.402 Y:157.080 Z:20.517
+a  3	2025/01/24 15:23:42.842	Mouse click:X-
+a  3	2025/01/24 15:23:43.191	key release or away:CurrentPosition--> X:231.063 Y:157.080 Z:20.517
+a  3	2025/01/24 15:23:44.459	Mouse click:Y-
+a  3	2025/01/24 15:23:45.831	key release or away:CurrentPosition--> X:229.634 Y:76.744 Z:20.517
+a  3	2025/01/24 15:23:47.891	key release or away:CurrentPosition--> X:229.634 Y:76.036 Z:20.517
+a  3	2025/01/24 15:23:49.694	Mouse click:X-
+a  3	2025/01/24 15:23:49.772	key release or away:CurrentPosition--> X:229.634 Y:76.036 Z:20.517
+a  3	2025/01/24 15:23:50.328	Mouse click:X-
+a  3	2025/01/24 15:23:50.397	key release or away:CurrentPosition--> X:228.504 Y:76.036 Z:20.517
+a  3	2025/01/24 15:23:50.866	Mouse click:X-
+a  3	2025/01/24 15:23:50.964	key release or away:CurrentPosition--> X:227.494 Y:76.036 Z:20.517
+a  3	2025/01/24 15:23:52.946	Mouse click:Y+
+a  3	2025/01/24 15:23:52.990	key release or away:CurrentPosition--> X:226.074 Y:76.036 Z:20.517
+a  3	2025/01/24 15:23:53.610	Mouse click:Y+
+a  3	2025/01/24 15:23:53.695	key release or away:CurrentPosition--> X:226.074 Y:76.542 Z:20.517
+a  3	2025/01/24 15:23:54.496	Mouse click:Y+
+a  3	2025/01/24 15:23:54.580	key release or away:CurrentPosition--> X:226.074 Y:77.708 Z:20.517
+a  3	2025/01/24 15:23:55.649	key release or away:CurrentPosition--> X:226.074 Y:78.718 Z:20.517
+a  3	2025/01/24 15:23:56.371	key release or away:CurrentPosition--> X:226.074 Y:78.718 Z:20.517
+a  3	2025/01/24 15:31:46.222	Key click:
+a  3	2025/01/24 15:31:46.396	Key click:
+a  3	2025/01/24 15:31:46.607	key release:CurrentPosition--> X:381.728 Y:189.900 Z:20.517
+a  3	2025/01/24 15:31:46.704	ParametersOfSystemSetting.bin the modify parameters are Camera Parameters
+a  3	2025/01/24 15:31:46.736	key release:CurrentPosition--> X:381.728 Y:189.900 Z:20.517
+a  3	2025/01/24 15:31:46.841	TrackAndPar.bin the modify parameters are Pattern Name,Light source adjust,TwoValveDistanceData,程序参考点
+a  3	2025/01/24 15:31:46.944	ShareParameters.bin the modify parameters are ConfigurationFilePath,Pattern Name,Light source adjust,TwoValveDistanceData
+a  3	2025/01/24 15:31:47.588	Save Program:Conti ford workshop top v1
+a  3	2025/01/24 15:31:47.655	key release:CurrentPosition--> X:381.728 Y:189.900 Z:20.517
+a  3	2025/01/24 15:32:40.466	Set1_Mark matching coordinates:X:236.305 Y:177.001 Z:20.517 Result:TRUE
+a  3	2025/01/24 15:33:45.300	Set2_Mark matching coordinates:X:372.271 Y:98.304 Z:20.517 Result:TRUE
+a  3	2025/01/24 15:34:01.373	1_Mark goto coordinates:X:236.305 Y:177.001 Z:20.517 Result:TRUE
+a  3	2025/01/24 15:34:36.798	Set1_Mark matching coordinates:X:236.304 Y:177.030 Z:20.517 Result:TRUE
+a  3	2025/01/24 15:34:52.151	Key click:
+a  3	2025/01/24 15:34:52.971	Key click:
+a  3	2025/01/24 15:34:53.178	key release:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:34:53.268	key release:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:34:53.360	TrackAndPar.bin the modify parameters are Track storage,PatternOffset,Pattern Name,OffLineMark1Position,OffLineMark2Position,Light source adjust,MainA Mark Setting,MatchPosition,TwoValveDistanceData,MarkLights,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	2025/01/24 15:34:53.465	ShareParameters.bin the modify parameters are Track storage,PatternOffset,Pattern Name,Light source adjust,MainA Mark Setting,MatchPosition,TwoValveDistanceData,MarkLights,FlowAlarmLimitSettingData,Mark所有参数输出
+a  3	2025/01/24 15:34:54.873	Save Program:Conti ford workshop top v1
+a  3	2025/01/24 15:35:12.369	Key click:
+a  3	2025/01/24 15:35:12.635	Key click:
+a  3	2025/01/24 15:35:12.719	key release:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:35:12.887	key release:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:35:13.004	TrackAndPar.bin the modify parameters are Track storage,模板映射参数2
+a  3	2025/01/24 15:35:13.136	ShareParameters.bin the modify parameters are Track storage,模板映射参数2
+a  3	2025/01/24 15:35:13.791	Save Program:Conti ford workshop top v1
+a  3	2025/01/24 15:35:13.819	key release:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:54:22.901	key release or away:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:54:25.028	key release or away:CurrentPosition--> X:236.304 Y:177.000 Z:20.517
+a  3	2025/01/24 15:54:25.686	Mouse click:Y+
+a  3	2025/01/24 15:54:30.380	key release or away:CurrentPosition--> X:236.304 Y:546.884 Z:20.517
+a  3	2025/01/24 15:57:39.215	key release or away:CurrentPosition--> X:236.304 Y:556.008 Z:20.517
+a  3	2025/01/24 16:07:38.708	key release or away:CurrentPosition--> X:236.304 Y:556.008 Z:20.517
+a  3	2025/01/24 16:07:39.320	Mouse click:Y-
+a  3	2025/01/24 16:07:44.599	key release or away:CurrentPosition--> X:236.304 Y:137.845 Z:20.517
+a  3	2025/01/24 16:08:12.333	key release or away:CurrentPosition--> X:236.304 Y:129.848 Z:20.517
+a  3	2025/01/24 16:08:20.157	Key click:
+a  3	2025/01/24 16:08:20.385	Key click:
+a  3	2025/01/24 16:08:20.474	key release:CurrentPosition--> X:236.304 Y:129.848 Z:20.517
+a  3	2025/01/24 16:08:20.619	key release:CurrentPosition--> X:236.304 Y:129.848 Z:20.517
+a  3	2025/01/24 16:08:21.454	Save Program:Conti ford workshop top v1
+a  3	2025/01/24 16:08:21.578	key release:CurrentPosition--> X:236.304 Y:129.848 Z:20.517
+a  3	2025/01/24 16:08:24.630	Exit 
+a  3	2025/01/24 16:08:24.855	AlarmCode 1006:Pressure Low

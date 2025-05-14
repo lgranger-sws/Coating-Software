@@ -1,45 +1,115 @@
 
-a  3	11/27/2024 5:55:00 PM	Initializing...
-a  3	11/27/2024 5:55:00 PM	Current User: a
-a  3	11/27/2024 5:55:00 PM	Open Program:20241104151850
-a  3	11/27/2024 5:55:01 PM	The reset button is pressed
-a  3	11/27/2024 5:55:22 PM	Reset is completed
-a  3	11/27/2024 5:55:37 PM	Chinese
-a  3	11/27/2024 5:56:00 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:01 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:07 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:07 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:08 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:09 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:10 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:12 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:16 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:29 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:30 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:31 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:34 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:41 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:56:43 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:57:18 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:57:44 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:57:44 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:57:51 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 5:59:53 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	11/27/2024 6:00:37 PM	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
-a  3	11/27/2024 6:10:11 PM	设备初始化......
-a  3	11/27/2024 6:10:11 PM	当前用户： a
-a  3	11/27/2024 6:10:11 PM	打开程序：20241104151850
-a  3	11/27/2024 6:10:12 PM	复位按钮按下
-a  3	11/27/2024 6:10:23 PM	设备复位完成
-a  3	11/27/2024 6:11:05 PM	设备初始化......
-a  3	11/27/2024 6:11:05 PM	当前用户： a
-a  3	11/27/2024 6:11:05 PM	打开程序：20241104151850
-a  3	11/27/2024 6:11:06 PM	复位按钮按下
-a  3	11/27/2024 6:11:18 PM	设备复位完成
-a  3	11/27/2024 6:11:48 PM	报警代码 1013:Y轴负极限触发
-a  3	11/27/2024 6:12:19 PM	鼠标释放或离开：CurrentPosition--> X:8.506 Y:0.448 Z:3.305
-a  3	11/27/2024 6:13:04 PM	设备初始化......
-a  3	11/27/2024 6:13:04 PM	当前用户： a
-a  3	11/27/2024 6:13:04 PM	打开程序：20241104151850
-a  3	11/27/2024 6:13:04 PM	复位按钮按下
-a  3	11/27/2024 6:13:17 PM	设备复位完成
+a  3	11/27/2024 9:29:17 AM	Initializing...
+a  3	11/27/2024 9:29:17 AM	Current User: a
+a  3	11/27/2024 9:29:18 AM	Open Program:Bucher Top1 film coater
+a  3	11/27/2024 9:29:18 AM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	11/27/2024 9:29:23 AM	The reset button is pressed
+a  3	11/27/2024 9:29:52 AM	Reset is completed
+a  3	11/27/2024 9:29:56 AM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/27/2024 9:29:58 AM	Mouse click:X+
+a  3	11/27/2024 9:30:00 AM	key release or away:CurrentPosition--> X:178.109 Y:0.000 Z:0.000
+a  3	11/27/2024 9:30:01 AM	Mouse click:Y+
+a  3	11/27/2024 9:30:01 AM	key release or away:CurrentPosition--> X:184.820 Y:25.800 Z:0.000
+a  3	11/27/2024 9:30:02 AM	key release or away:CurrentPosition--> X:184.820 Y:25.800 Z:0.000
+a  3	11/27/2024 9:30:12 AM	Key click:Up
+a  3	11/27/2024 9:30:13 AM	key release:CurrentPosition--> X:184.820 Y:40.145 Z:0.000
+a  3	11/27/2024 9:30:14 AM	Key click:Up
+a  3	11/27/2024 9:30:15 AM	key release:CurrentPosition--> X:184.820 Y:41.819 Z:0.000
+a  3	11/27/2024 9:30:16 AM	Key click:Up
+a  3	11/27/2024 9:30:17 AM	key release:CurrentPosition--> X:184.820 Y:63.744 Z:0.000
+a  3	11/27/2024 9:30:18 AM	Key click:Right
+a  3	11/27/2024 9:30:18 AM	key release:CurrentPosition--> X:189.409 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:19 AM	Key click:PageDown
+a  3	11/27/2024 9:30:20 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:20 AM	Key click:PageUp
+a  3	11/27/2024 9:30:20 AM	Key click:PageDown
+a  3	11/27/2024 9:30:20 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:20 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:20 AM	Key click:PageUp
+a  3	11/27/2024 9:30:21 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:21 AM	Key click:PageDown
+a  3	11/27/2024 9:30:21 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:22 AM	Key click:PageUp
+a  3	11/27/2024 9:30:22 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:24 AM	Key click:
+a  3	11/27/2024 9:30:24 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:24 AM	Key click:
+a  3	11/27/2024 9:30:25 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:25 AM	Key click:
+a  3	11/27/2024 9:30:26 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:26 AM	Key click:
+a  3	11/27/2024 9:30:26 AM	key release:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:27 AM	key release or away:CurrentPosition--> X:191.448 Y:64.642 Z:0.000
+a  3	11/27/2024 9:30:30 AM	Key click:Down
+a  3	11/27/2024 9:30:30 AM	key release:CurrentPosition--> X:191.448 Y:59.308 Z:0.000
+a  3	11/27/2024 9:30:30 AM	Key click:Up
+a  3	11/27/2024 9:30:30 AM	key release:CurrentPosition--> X:191.448 Y:58.520 Z:0.000
+a  3	11/27/2024 9:30:31 AM	Key click:Down
+a  3	11/27/2024 9:30:34 AM	Y Home
+a  3	11/27/2024 9:30:34 AM	AlarmCode 1013:Y- limit
+a  3	11/27/2024 9:30:48 AM	key release:CurrentPosition--> X:191.448 Y:-0.684 Z:0.000
+a  3	11/27/2024 9:30:54 AM	Key click:Up
+a  3	11/27/2024 9:30:56 AM	key release:CurrentPosition--> X:191.448 Y:28.092 Z:0.000
+a  3	11/27/2024 9:30:56 AM	Key click:Left
+a  3	11/27/2024 9:30:56 AM	key release:CurrentPosition--> X:188.914 Y:29.730 Z:0.000
+a  3	11/27/2024 9:30:57 AM	key release or away:CurrentPosition--> X:188.426 Y:29.730 Z:0.000
+a  3	11/27/2024 9:30:59 AM	key release or away:CurrentPosition--> X:188.426 Y:29.730 Z:0.000
+a  3	11/27/2024 9:31:19 AM	key release or away:CurrentPosition--> X:188.426 Y:68.098 Z:5.000
+a  3	11/27/2024 9:31:35 AM	key release or away:CurrentPosition--> X:188.426 Y:68.098 Z:5.000
+a  3	11/27/2024 9:31:38 AM	key release or away:CurrentPosition--> X:188.426 Y:68.098 Z:5.000
+a  3	11/27/2024 9:31:46 AM	Key click:Down
+a  3	11/27/2024 9:31:47 AM	key release:CurrentPosition--> X:188.426 Y:58.794 Z:5.000
+a  3	11/27/2024 9:31:47 AM	Key click:Down
+a  3	11/27/2024 9:31:49 AM	key release:CurrentPosition--> X:188.426 Y:27.792 Z:5.000
+a  3	11/27/2024 9:31:49 AM	Key click:Down
+a  3	11/27/2024 9:31:50 AM	Y Home
+a  3	11/27/2024 9:31:51 AM	AlarmCode 1013:Y- limit
+a  3	11/27/2024 9:32:04 AM	key release or away:CurrentPosition--> X:188.426 Y:-0.684 Z:5.000
+a  3	11/27/2024 9:32:38 AM	AlarmCode 1013:Y- limit
+a  3	11/27/2024 9:32:46 AM	AlarmCode 1019:Y Value Error
+a  3	11/27/2024 9:32:58 AM	key release or away:CurrentPosition--> X:188.426 Y:59.962 Z:5.000
+a  3	11/27/2024 9:33:03 AM	key release or away:CurrentPosition--> X:188.426 Y:59.962 Z:5.000
+a  3	11/27/2024 9:33:28 AM	Mouse click:Y+
+a  3	11/27/2024 9:33:32 AM	key release or away:CurrentPosition--> X:188.426 Y:127.806 Z:5.000
+a  3	11/27/2024 9:33:33 AM	key release or away:CurrentPosition--> X:188.426 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:45 AM	Mouse click:X+
+a  3	11/27/2024 11:27:45 AM	key release or away:CurrentPosition--> X:193.595 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:45 AM	key release or away:CurrentPosition--> X:194.938 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:47 AM	Mouse click:X+
+a  3	11/27/2024 11:27:49 AM	key release or away:CurrentPosition--> X:378.781 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:49 AM	Mouse click:X+
+a  3	11/27/2024 11:27:50 AM	key release or away:CurrentPosition--> X:401.616 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:50 AM	Mouse click:X+
+a  3	11/27/2024 11:27:50 AM	key release or away:CurrentPosition--> X:405.456 Y:129.174 Z:5.000
+a  3	11/27/2024 11:27:52 AM	Mouse click:X+
+a  3	11/27/2024 11:27:52 AM	key release or away:CurrentPosition--> X:410.536 Y:129.174 Z:5.000
+a  3	11/27/2024 3:26:15 PM	key release or away:CurrentPosition--> X:418.450 Y:129.174 Z:5.000
+a  3	11/27/2024 3:26:16 PM	Front
+a  3	11/27/2024 3:32:12 PM	DryRun
+a  3	11/27/2024 3:32:12 PM	DryRun
+a  3	11/27/2024 3:32:20 PM	ParametersOfSystemSetting.bin the modify parameters are Opening the conveyor belt
+a  3	11/27/2024 3:32:20 PM	Off-Line Mode
+a  3	11/27/2024 3:32:26 PM	Coating Running
+a  3	11/27/2024 3:32:27 PM	
+a  3	11/27/2024 3:32:39 PM	ProcessingStarted
+a  3	11/27/2024 3:32:41 PM	AlarmCode 1042:Can't found template!
+a  3	11/27/2024 3:32:46 PM	Automatic Match1_Mark:TwoMark_1:Set-->X:71.889 Y:96.737 Z:18.600  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	11/27/2024 3:32:46 PM	Automatic Match2_Mark:TwoMark_2:Set-->X:358.124 Y:321.099 Z:18.600  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	11/27/2024 3:32:46 PM	ProcessedEnd
+a  3	11/27/2024 3:32:46 PM	{"SN":"","StartTime":"24-11-27 15:32:39","StopTime":"24-11-27 15:32:46","ProgramName":"Bucher Top1 film coater","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	11/27/2024 3:32:47 PM	Stop
+a  3	11/27/2024 4:58:15 PM	ValveAndCalibretingData.bin the modify parameters are Deviation of spay valve,Spray Valve Position,Spary Valve Teaching Point
+a  3	11/27/2024 4:59:19 PM	ValveAndCalibretingData.bin the modify parameters are Deviation of needle valve,Needle Valve Position,Needle Valve Teaching Point
+a  3	11/27/2024 5:00:12 PM	ValveAndCalibretingData.bin the modify parameters are Valve3CaliSave
+a  3	11/27/2024 5:02:03 PM	TrackAndPar.bin the modify parameters are Light source adjust,TwoValveDistanceData,AutoCalibSet,运行模式2
+a  3	11/27/2024 5:02:03 PM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	11/27/2024 5:02:03 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust,TwoValveDistanceData,AutoCalibSet
+a  3	11/27/2024 5:05:39 PM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	11/27/2024 5:05:39 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	11/27/2024 5:07:54 PM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	11/27/2024 5:09:09 PM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	11/27/2024 5:10:54 PM	Front
+a  3	11/27/2024 5:10:56 PM	Mouse click:X-
+a  3	11/27/2024 5:10:59 PM	key release or away:CurrentPosition--> X:46.103 Y:34.958 Z:0.000
+a  3	11/27/2024 5:11:01 PM	key release or away:CurrentPosition--> X:43.084 Y:34.958 Z:0.000
+a  3	11/27/2024 5:11:04 PM	Exit 

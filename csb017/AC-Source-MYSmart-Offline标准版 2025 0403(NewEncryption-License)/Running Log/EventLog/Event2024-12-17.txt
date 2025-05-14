@@ -1,20 +1,1634 @@
 
-admin  3	2024/12/17 18:10:39.203	Initializing...
-admin  3	2024/12/17 18:10:39.343	Current User: admin
-admin  3	2024/12/17 18:10:39.381	Open Program:SLA-Coater1-004
-admin  3	2024/12/17 18:10:39.393	Low pressure detection not activated
-admin  3	2024/12/17 18:10:51.518	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:51.690	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:55.942	Mouse click:X-
-admin  3	2024/12/17 18:10:56.214	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:56.749	Mouse click:X+
-admin  3	2024/12/17 18:10:56.856	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:57.148	Mouse click:Y+
-admin  3	2024/12/17 18:10:57.252	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:57.570	Mouse click:Y-
-admin  3	2024/12/17 18:10:57.657	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:10:57.761	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/17 18:15:12.385	Initializing...
-admin  3	2024/12/17 18:15:12.509	Current User: admin
-admin  3	2024/12/17 18:15:12.519	Open Program:SLA-Coater1-004
-admin  3	2024/12/17 18:15:12.529	Low pressure detection not activated
+a  3	12/17/2024 9:53:16 AM	Initializing...
+a  3	12/17/2024 9:53:16 AM	Current User: a
+a  3	12/17/2024 9:53:16 AM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 9:53:17 AM	The reset button is pressed
+a  3	12/17/2024 9:53:34 AM	Reset is completed
+a  3	12/17/2024 9:54:19 AM	Mouse click:X+
+a  3	12/17/2024 9:54:20 AM	key release or away:CurrentPosition--> X:21.787 Y:0.000 Z:0.000
+a  3	12/17/2024 9:54:20 AM	Mouse click:X+
+a  3	12/17/2024 9:54:20 AM	key release or away:CurrentPosition--> X:44.547 Y:0.000 Z:0.000
+a  3	12/17/2024 9:54:21 AM	Mouse click:Y+
+a  3	12/17/2024 9:54:21 AM	key release or away:CurrentPosition--> X:54.734 Y:12.717 Z:0.000
+a  3	12/17/2024 9:54:21 AM	key release or away:CurrentPosition--> X:54.734 Y:13.914 Z:0.000
+a  3	12/17/2024 9:54:30 AM	Key click:Left
+a  3	12/17/2024 9:54:30 AM	key release:CurrentPosition--> X:49.035 Y:13.914 Z:0.000
+a  3	12/17/2024 9:54:30 AM	Key click:Up
+a  3	12/17/2024 9:54:31 AM	key release:CurrentPosition--> X:47.072 Y:20.848 Z:0.000
+a  3	12/17/2024 9:54:31 AM	Key click:Right
+a  3	12/17/2024 9:54:31 AM	key release:CurrentPosition--> X:61.321 Y:21.352 Z:0.000
+a  3	12/17/2024 9:54:32 AM	Key click:Up
+a  3	12/17/2024 9:54:32 AM	key release:CurrentPosition--> X:62.764 Y:28.196 Z:0.000
+a  3	12/17/2024 9:54:33 AM	Key click:Down
+a  3	12/17/2024 9:54:33 AM	key release:CurrentPosition--> X:62.764 Y:22.721 Z:0.000
+a  3	12/17/2024 9:54:34 AM	Key click:Up
+a  3	12/17/2024 9:54:34 AM	key release:CurrentPosition--> X:62.764 Y:32.436 Z:0.000
+a  3	12/17/2024 9:54:47 AM	Key click:Left
+a  3	12/17/2024 9:54:47 AM	Key click:Up
+a  3	12/17/2024 9:54:47 AM	key release:CurrentPosition--> X:55.925 Y:34.214 Z:0.000
+a  3	12/17/2024 9:54:48 AM	Key click:Left
+a  3	12/17/2024 9:54:48 AM	key release:CurrentPosition--> X:49.343 Y:36.572 Z:0.000
+a  3	12/17/2024 9:54:48 AM	Key click:Left
+a  3	12/17/2024 9:54:48 AM	key release:CurrentPosition--> X:48.600 Y:36.572 Z:0.000
+a  3	12/17/2024 9:54:48 AM	Key click:Up
+a  3	12/17/2024 9:54:48 AM	key release:CurrentPosition--> X:48.600 Y:36.572 Z:0.000
+a  3	12/17/2024 9:54:48 AM	key release:CurrentPosition--> X:46.712 Y:37.444 Z:0.000
+a  3	12/17/2024 9:54:49 AM	Key click:Right
+a  3	12/17/2024 9:54:49 AM	Key click:Up
+a  3	12/17/2024 9:54:49 AM	key release:CurrentPosition--> X:56.076 Y:37.444 Z:0.000
+a  3	12/17/2024 9:54:50 AM	Key click:Right
+a  3	12/17/2024 9:54:50 AM	key release:CurrentPosition--> X:56.850 Y:38.092 Z:0.000
+a  3	12/17/2024 9:54:50 AM	key release:CurrentPosition--> X:56.850 Y:38.092 Z:0.000
+a  3	12/17/2024 9:54:50 AM	Key click:Up
+a  3	12/17/2024 9:54:50 AM	key release:CurrentPosition--> X:58.002 Y:49.501 Z:0.000
+a  3	12/17/2024 9:54:51 AM	Key click:
+a  3	12/17/2024 9:54:52 AM	key release:CurrentPosition--> X:58.002 Y:50.870 Z:0.000
+a  3	12/17/2024 9:54:55 AM	Key click:
+a  3	12/17/2024 9:54:56 AM	Key click:PageDown
+a  3	12/17/2024 9:54:56 AM	key release:CurrentPosition--> X:58.002 Y:50.870 Z:10.375
+a  3	12/17/2024 9:54:57 AM	Key click:PageUp
+a  3	12/17/2024 9:54:57 AM	Z Home
+a  3	12/17/2024 9:54:58 AM	AlarmCode 1014:Z- limit
+a  3	12/17/2024 9:55:08 AM	key release:CurrentPosition--> X:58.002 Y:50.870 Z:-0.580
+a  3	12/17/2024 9:55:24 AM	key release or away:CurrentPosition--> X:58.002 Y:50.870 Z:1.861
+a  3	12/17/2024 9:55:25 AM	key release or away:CurrentPosition--> X:58.002 Y:50.870 Z:1.861
+a  3	12/17/2024 10:04:33 AM	key release or away:CurrentPosition--> X:58.002 Y:50.870 Z:1.861
+a  3	12/17/2024 10:07:31 AM	Deutsche
+a  3	12/17/2024 10:09:29 AM	English
+a  3	12/17/2024 10:12:59 AM	Open Program:Bucher Top1 film coater
+a  3	12/17/2024 10:13:00 AM	Open Program:Bucher Top1 film coater
+a  3	12/17/2024 10:13:28 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:13:29 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:13:36 AM	key release or away:CurrentPosition--> X:58.002 Y:50.870 Z:1.861
+a  3	12/17/2024 10:14:49 AM	Open Program:IFM top v2
+a  3	12/17/2024 10:14:50 AM	Open Program:IFM top v2
+a  3	12/17/2024 10:14:55 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:14:56 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:15:32 AM	key release or away:CurrentPosition--> X:263.852 Y:216.304 Z:20.600
+a  3	12/17/2024 10:15:53 AM	key release or away:CurrentPosition--> X:263.852 Y:216.304 Z:20.600
+a  3	12/17/2024 10:15:57 AM	Key click:
+a  3	12/17/2024 10:15:57 AM	key release:CurrentPosition--> X:263.852 Y:216.304 Z:20.600
+a  3	12/17/2024 10:16:01 AM	Mouse click:Y-
+a  3	12/17/2024 10:16:02 AM	key release or away:CurrentPosition--> X:263.852 Y:187.146 Z:20.600
+a  3	12/17/2024 10:16:03 AM	Mouse click:X+
+a  3	12/17/2024 10:16:03 AM	key release or away:CurrentPosition--> X:263.852 Y:180.830 Z:20.600
+a  3	12/17/2024 10:16:04 AM	Mouse click:Y+
+a  3	12/17/2024 10:16:05 AM	key release or away:CurrentPosition--> X:271.256 Y:180.830 Z:20.600
+a  3	12/17/2024 10:16:06 AM	key release or away:CurrentPosition--> X:271.256 Y:189.666 Z:20.600
+a  3	12/17/2024 10:16:08 AM	Mouse click:Y+
+a  3	12/17/2024 10:16:08 AM	key release or away:CurrentPosition--> X:271.256 Y:189.666 Z:20.600
+a  3	12/17/2024 10:16:08 AM	Mouse click:Y+
+a  3	12/17/2024 10:16:08 AM	key release or away:CurrentPosition--> X:271.256 Y:191.648 Z:20.600
+a  3	12/17/2024 10:16:09 AM	Mouse click:Y+
+a  3	12/17/2024 10:16:09 AM	key release or away:CurrentPosition--> X:271.256 Y:194.046 Z:20.600
+a  3	12/17/2024 10:16:11 AM	Mouse click:X-
+a  3	12/17/2024 10:16:11 AM	key release or away:CurrentPosition--> X:271.256 Y:196.432 Z:20.600
+a  3	12/17/2024 10:16:12 AM	Mouse click:X-
+a  3	12/17/2024 10:16:12 AM	key release or away:CurrentPosition--> X:268.864 Y:196.432 Z:20.600
+a  3	12/17/2024 10:16:12 AM	key release or away:CurrentPosition--> X:267.202 Y:196.432 Z:20.600
+a  3	12/17/2024 10:16:19 AM	ParametersOfSystemSetting.bin the modify parameters are ValveColor
+a  3	12/17/2024 10:16:19 AM	ParametersOfFilmWidthTesting.bin the modify parameters are Width Test Para
+a  3	12/17/2024 10:16:19 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/17/2024 10:16:28 AM	key release or away:CurrentPosition--> X:267.202 Y:196.432 Z:20.600
+a  3	12/17/2024 10:16:29 AM	Mouse click:Y-
+a  3	12/17/2024 10:16:33 AM	key release or away:CurrentPosition--> X:267.202 Y:108.461 Z:20.600
+a  3	12/17/2024 10:16:34 AM	key release or away:CurrentPosition--> X:267.202 Y:106.318 Z:20.600
+a  3	12/17/2024 10:16:52 AM	The <1> line of program in the pattern <->main(A)> has been modified. Glue width:10.000
+
+a  3	12/17/2024 10:17:06 AM	ValveAndCalibretingData.bin the modify parameters are InitParamemter
+a  3	12/17/2024 10:17:06 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/17/2024 10:17:43 AM	Key click:
+a  3	12/17/2024 10:17:43 AM	key release:CurrentPosition--> X:267.202 Y:106.318 Z:20.600
+a  3	12/17/2024 10:17:45 AM	key release or away:CurrentPosition--> X:267.202 Y:106.318 Z:20.600
+a  3	12/17/2024 10:17:47 AM	key release or away:CurrentPosition--> X:267.202 Y:106.318 Z:20.600
+a  3	12/17/2024 10:17:50 AM	key release or away:CurrentPosition--> X:276.202 Y:106.318 Z:20.600
+a  3	12/17/2024 10:17:55 AM	Mouse click:Y+
+a  3	12/17/2024 10:17:58 AM	key release or away:CurrentPosition--> X:276.202 Y:163.078 Z:20.600
+a  3	12/17/2024 10:17:58 AM	key release or away:CurrentPosition--> X:276.202 Y:164.958 Z:20.600
+a  3	12/17/2024 10:18:18 AM	The <1> line of program in the pattern <->main(A)> has been modified. Rotate:90
+
+a  3	12/17/2024 10:18:38 AM	Key click:
+a  3	12/17/2024 10:18:39 AM	key release:CurrentPosition--> X:276.202 Y:164.958 Z:20.600
+a  3	12/17/2024 10:18:54 AM	The <1> line of program in the pattern <->main(A)> has been modified. Rotate:0
+
+a  3	12/17/2024 10:24:36 AM	Initializing...
+a  3	12/17/2024 10:24:36 AM	Current User: a
+a  3	12/17/2024 10:24:36 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:24:37 AM	The reset button is pressed
+a  3	12/17/2024 10:24:59 AM	Reset is completed
+a  3	12/17/2024 10:28:39 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:41 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:46 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:46 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:48 AM	Key click:
+a  3	12/17/2024 10:28:48 AM	key release:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:49 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:49 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:51 AM	Mouse click:Y-
+a  3	12/17/2024 10:28:51 AM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/17/2024 10:28:51 AM	Mouse click:Y-
+a  3	12/17/2024 10:28:52 AM	key release or away:CurrentPosition--> X:263.850 Y:199.432 Z:20.600
+a  3	12/17/2024 10:28:53 AM	Mouse click:X+
+a  3	12/17/2024 10:28:53 AM	key release or away:CurrentPosition--> X:263.850 Y:197.348 Z:20.600
+a  3	12/17/2024 10:28:54 AM	key release or away:CurrentPosition--> X:266.438 Y:197.348 Z:20.600
+a  3	12/17/2024 10:28:57 AM	Mouse click:Y-
+a  3	12/17/2024 10:29:00 AM	key release or away:CurrentPosition--> X:266.438 Y:137.279 Z:20.600
+a  3	12/17/2024 10:29:00 AM	key release or away:CurrentPosition--> X:266.438 Y:137.279 Z:20.600
+a  3	12/17/2024 10:29:29 AM	The <1> line of program in the pattern <panel> has been modified. Glue width:10.000
+
+a  3	12/17/2024 10:30:57 AM	The <1> line of program in the pattern <panel> has been modified. Rotate:90
+
+a  3	12/17/2024 10:31:09 AM	Key click:
+a  3	12/17/2024 10:31:09 AM	key release:CurrentPosition--> X:266.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:31:11 AM	key release or away:CurrentPosition--> X:266.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:31:11 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:31:14 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:31:15 AM	Mouse click:Y+
+a  3	12/17/2024 10:31:18 AM	key release or away:CurrentPosition--> X:275.438 Y:185.619 Z:20.600
+a  3	12/17/2024 10:31:18 AM	key release or away:CurrentPosition--> X:275.438 Y:185.619 Z:20.600
+a  3	12/17/2024 10:32:06 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:32:06 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:32:07 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:32:10 AM	key release or away:CurrentPosition--> X:275.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:32:10 AM	key release or away:CurrentPosition--> X:284.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:32:15 AM	key release or away:CurrentPosition--> X:284.438 Y:143.900 Z:20.600
+a  3	12/17/2024 10:32:15 AM	key release or away:CurrentPosition--> X:284.438 Y:143.900 Z:20.600
+a  3	12/17/2024 10:32:17 AM	Mouse click:Y+
+a  3	12/17/2024 10:32:19 AM	key release or away:CurrentPosition--> X:284.438 Y:176.444 Z:20.600
+a  3	12/17/2024 10:32:19 AM	key release or away:CurrentPosition--> X:284.438 Y:176.444 Z:20.600
+a  3	12/17/2024 10:32:38 AM	Key click:
+a  3	12/17/2024 10:32:38 AM	Key click:
+a  3	12/17/2024 10:32:39 AM	key release:CurrentPosition--> X:284.438 Y:177.942 Z:20.600
+a  3	12/17/2024 10:32:39 AM	key release:CurrentPosition--> X:284.438 Y:177.942 Z:20.600
+a  3	12/17/2024 10:32:39 AM	TrackAndPar.bin the modify parameters are Track storage,OffLineMark1Position,OffLineMark2Position,Light source adjust,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor
+a  3	12/17/2024 10:32:39 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Track storage,Light source adjust,ImageButtomPos,OnlinePixelR
+a  3	12/17/2024 10:32:40 AM	Save Program:IFM top v1
+a  3	12/17/2024 10:32:40 AM	key release:CurrentPosition--> X:284.438 Y:177.942 Z:20.600
+a  3	12/17/2024 10:32:43 AM	Open Program:IFM top v2
+a  3	12/17/2024 10:32:43 AM	Open Program:IFM top v2
+a  3	12/17/2024 10:32:45 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:32:46 AM	Open Program:IFM top v1
+a  3	12/17/2024 10:33:07 AM	key release or away:CurrentPosition--> X:284.438 Y:177.942 Z:20.600
+a  3	12/17/2024 10:33:25 AM	key release or away:CurrentPosition--> X:284.438 Y:177.942 Z:20.600
+a  3	12/17/2024 10:33:27 AM	Mouse click:Y+
+a  3	12/17/2024 10:33:28 AM	key release or away:CurrentPosition--> X:284.438 Y:190.386 Z:20.600
+a  3	12/17/2024 10:33:29 AM	Mouse click:Y+
+a  3	12/17/2024 10:33:29 AM	key release or away:CurrentPosition--> X:284.438 Y:192.014 Z:20.600
+a  3	12/17/2024 10:33:30 AM	Mouse click:X-
+a  3	12/17/2024 10:33:30 AM	key release or away:CurrentPosition--> X:276.529 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:30 AM	Mouse click:X-
+a  3	12/17/2024 10:33:30 AM	key release or away:CurrentPosition--> X:276.529 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:30 AM	Mouse click:X-
+a  3	12/17/2024 10:33:30 AM	key release or away:CurrentPosition--> X:273.948 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:32 AM	key release or away:CurrentPosition--> X:271.720 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:35 AM	key release or away:CurrentPosition--> X:271.720 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:37 AM	key release or away:CurrentPosition--> X:271.720 Y:194.586 Z:20.600
+a  3	12/17/2024 10:33:39 AM	Mouse click:X-
+a  3	12/17/2024 10:33:39 AM	key release or away:CurrentPosition--> X:271.720 Y:194.586 Z:20.600
+a  3	12/17/2024 10:34:02 AM	key release or away:CurrentPosition--> X:270.852 Y:194.586 Z:20.600
+a  3	12/17/2024 10:34:07 AM	Key click:
+a  3	12/17/2024 10:34:08 AM	key release:CurrentPosition--> X:284.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:38:14 AM	Key click:
+a  3	12/17/2024 10:38:15 AM	key release:CurrentPosition--> X:284.438 Y:134.900 Z:20.600
+a  3	12/17/2024 10:38:20 AM	The program of line <2,3,4> in pattern <panel>  have been <Delete>
+a  3	12/17/2024 10:38:24 AM	Mouse click:Y+
+a  3	12/17/2024 10:38:24 AM	key release or away:CurrentPosition--> X:284.438 Y:139.921 Z:20.600
+a  3	12/17/2024 10:38:25 AM	key release or away:CurrentPosition--> X:284.438 Y:139.921 Z:20.600
+a  3	12/17/2024 10:38:36 AM	The program of line <2> in pattern <panel>  have been <Delete>
+a  3	12/17/2024 10:38:54 AM	ValveAndCalibretingData.bin the modify parameters are RightValveParamemter
+a  3	12/17/2024 10:38:55 AM	TrackAndPar.bin the modify parameters are Light source adjust
+a  3	12/17/2024 10:38:55 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust
+a  3	12/17/2024 10:39:03 AM	Mouse click:X+
+a  3	12/17/2024 10:39:04 AM	key release or away:CurrentPosition--> X:292.121 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:04 AM	key release or away:CurrentPosition--> X:292.121 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:10 AM	Mouse click:X+
+a  3	12/17/2024 10:39:11 AM	key release or away:CurrentPosition--> X:304.796 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:11 AM	key release or away:CurrentPosition--> X:304.796 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:18 AM	Mouse click:X+
+a  3	12/17/2024 10:39:19 AM	key release or away:CurrentPosition--> X:314.983 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:20 AM	key release or away:CurrentPosition--> X:315.802 Y:140.166 Z:20.600
+a  3	12/17/2024 10:39:31 AM	ParametersOfSystemSetting.bin the modify parameters are ValveColor
+a  3	12/17/2024 10:40:09 AM	The <4> line of program in the pattern <panel> has been modified. Glue width:10.000
+
+a  3	12/17/2024 10:40:24 AM	ValveAndCalibretingData.bin the modify parameters are Valve3Paramemter
+a  3	12/17/2024 10:40:24 AM	ParametersOfSystemSetting.bin the modify parameters are ValveColor
+a  3	12/17/2024 10:40:38 AM	Mouse click:Y+
+a  3	12/17/2024 10:40:40 AM	key release or away:CurrentPosition--> X:315.802 Y:157.525 Z:20.600
+a  3	12/17/2024 10:40:40 AM	key release or away:CurrentPosition--> X:315.802 Y:157.525 Z:20.600
+a  3	12/17/2024 10:40:43 AM	Mouse click:X+
+a  3	12/17/2024 10:40:44 AM	key release or away:CurrentPosition--> X:318.534 Y:158.014 Z:20.600
+a  3	12/17/2024 10:40:44 AM	Mouse click:X+
+a  3	12/17/2024 10:40:45 AM	key release or away:CurrentPosition--> X:323.692 Y:158.014 Z:20.600
+a  3	12/17/2024 10:40:45 AM	key release or away:CurrentPosition--> X:324.102 Y:158.014 Z:20.600
+a  3	12/17/2024 10:40:46 AM	key release or away:CurrentPosition--> X:324.102 Y:158.014 Z:20.600
+a  3	12/17/2024 10:40:47 AM	Mouse click:Y-
+a  3	12/17/2024 10:40:49 AM	key release or away:CurrentPosition--> X:324.102 Y:140.222 Z:20.600
+a  3	12/17/2024 10:40:49 AM	key release or away:CurrentPosition--> X:324.102 Y:140.156 Z:20.600
+a  3	12/17/2024 10:40:52 AM	Mouse click:X+
+a  3	12/17/2024 10:40:53 AM	key release or away:CurrentPosition--> X:332.465 Y:140.156 Z:20.600
+a  3	12/17/2024 10:40:53 AM	key release or away:CurrentPosition--> X:332.576 Y:140.156 Z:20.600
+a  3	12/17/2024 10:40:56 AM	Mouse click:Y+
+a  3	12/17/2024 10:40:58 AM	key release or away:CurrentPosition--> X:332.576 Y:156.961 Z:20.600
+a  3	12/17/2024 10:40:58 AM	key release or away:CurrentPosition--> X:332.576 Y:157.830 Z:20.600
+a  3	12/17/2024 10:41:02 AM	Key click:
+a  3	12/17/2024 10:41:03 AM	key release:CurrentPosition--> X:332.576 Y:157.830 Z:20.600
+a  3	12/17/2024 10:41:08 AM	The program of line <2,3,4,5,6,7> in pattern <panel>  have been <Delete>
+a  3	12/17/2024 10:41:18 AM	Mouse click:X-
+a  3	12/17/2024 10:41:19 AM	key release or away:CurrentPosition--> X:316.417 Y:157.830 Z:20.600
+a  3	12/17/2024 10:41:20 AM	key release or away:CurrentPosition--> X:316.417 Y:157.830 Z:20.600
+a  3	12/17/2024 10:41:21 AM	key release or away:CurrentPosition--> X:315.392 Y:157.830 Z:20.600
+a  3	12/17/2024 10:41:30 AM	Mouse click:Y+
+a  3	12/17/2024 10:41:30 AM	key release or away:CurrentPosition--> X:315.392 Y:160.934 Z:20.600
+a  3	12/17/2024 10:41:31 AM	Mouse click:Y+
+a  3	12/17/2024 10:41:31 AM	key release or away:CurrentPosition--> X:315.392 Y:170.247 Z:20.600
+a  3	12/17/2024 10:41:32 AM	Mouse click:X+
+a  3	12/17/2024 10:41:33 AM	key release or away:CurrentPosition--> X:329.691 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:33 AM	Mouse click:X+
+a  3	12/17/2024 10:41:33 AM	key release or away:CurrentPosition--> X:333.499 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:34 AM	key release or away:CurrentPosition--> X:334.912 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:42 AM	key release or away:CurrentPosition--> X:334.912 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:42 AM	Mouse click:X+
+a  3	12/17/2024 10:41:42 AM	key release or away:CurrentPosition--> X:342.038 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:43 AM	Mouse click:X+
+a  3	12/17/2024 10:41:43 AM	key release or away:CurrentPosition--> X:345.078 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:44 AM	Mouse click:X-
+a  3	12/17/2024 10:41:45 AM	key release or away:CurrentPosition--> X:290.291 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:45 AM	Mouse click:X-
+a  3	12/17/2024 10:41:46 AM	key release or away:CurrentPosition--> X:272.056 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:46 AM	Mouse click:X-
+a  3	12/17/2024 10:41:46 AM	key release or away:CurrentPosition--> X:266.672 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:47 AM	Mouse click:X+
+a  3	12/17/2024 10:41:47 AM	key release or away:CurrentPosition--> X:260.876 Y:171.896 Z:20.600
+a  3	12/17/2024 10:41:47 AM	Mouse click:Y+
+a  3	12/17/2024 10:41:48 AM	key release or away:CurrentPosition--> X:265.316 Y:211.052 Z:20.600
+a  3	12/17/2024 10:41:49 AM	key release or away:CurrentPosition--> X:265.316 Y:217.038 Z:20.600
+a  3	12/17/2024 10:41:50 AM	Mouse click:X+
+a  3	12/17/2024 10:41:50 AM	key release or away:CurrentPosition--> X:265.316 Y:217.038 Z:20.600
+a  3	12/17/2024 10:41:50 AM	key release or away:CurrentPosition--> X:269.988 Y:217.038 Z:20.600
+a  3	12/17/2024 10:41:53 AM	Mouse click:Y-
+a  3	12/17/2024 10:41:53 AM	key release or away:CurrentPosition--> X:269.988 Y:217.038 Z:20.600
+a  3	12/17/2024 10:41:55 AM	Mouse click:Y-
+a  3	12/17/2024 10:41:55 AM	key release or away:CurrentPosition--> X:269.988 Y:211.338 Z:20.600
+a  3	12/17/2024 10:41:56 AM	key release or away:CurrentPosition--> X:269.988 Y:207.844 Z:20.600
+a  3	12/17/2024 10:41:57 AM	Mouse click:Y-
+a  3	12/17/2024 10:41:57 AM	key release or away:CurrentPosition--> X:269.988 Y:207.844 Z:20.600
+a  3	12/17/2024 10:41:58 AM	Mouse click:Y-
+a  3	12/17/2024 10:41:58 AM	key release or away:CurrentPosition--> X:269.988 Y:202.116 Z:20.600
+a  3	12/17/2024 10:41:59 AM	key release or away:CurrentPosition--> X:269.988 Y:195.922 Z:20.600
+a  3	12/17/2024 10:42:02 AM	Mouse click:Y-
+a  3	12/17/2024 10:42:03 AM	key release or away:CurrentPosition--> X:269.988 Y:118.762 Z:20.600
+a  3	12/17/2024 10:42:04 AM	key release or away:CurrentPosition--> X:269.988 Y:117.338 Z:20.600
+a  3	12/17/2024 10:42:06 AM	Mouse click:X+
+a  3	12/17/2024 10:42:07 AM	key release or away:CurrentPosition--> X:269.988 Y:117.338 Z:20.600
+a  3	12/17/2024 10:42:07 AM	Mouse click:X+
+a  3	12/17/2024 10:42:08 AM	key release or away:CurrentPosition--> X:274.538 Y:117.338 Z:20.600
+a  3	12/17/2024 10:42:08 AM	key release or away:CurrentPosition--> X:278.088 Y:117.338 Z:20.600
+a  3	12/17/2024 10:42:10 AM	Mouse click:Y+
+a  3	12/17/2024 10:42:12 AM	key release or away:CurrentPosition--> X:278.088 Y:193.416 Z:20.600
+a  3	12/17/2024 10:42:12 AM	key release or away:CurrentPosition--> X:278.088 Y:200.786 Z:20.600
+a  3	12/17/2024 10:42:14 AM	key release or away:CurrentPosition--> X:278.088 Y:200.786 Z:20.600
+a  3	12/17/2024 10:42:15 AM	Mouse click:X+
+a  3	12/17/2024 10:42:15 AM	key release or away:CurrentPosition--> X:278.088 Y:200.786 Z:20.600
+a  3	12/17/2024 10:42:16 AM	Mouse click:X+
+a  3	12/17/2024 10:42:16 AM	key release or away:CurrentPosition--> X:283.322 Y:200.786 Z:20.600
+a  3	12/17/2024 10:42:16 AM	key release or away:CurrentPosition--> X:288.090 Y:200.786 Z:20.600
+a  3	12/17/2024 10:42:18 AM	Mouse click:Y-
+a  3	12/17/2024 10:42:20 AM	key release or away:CurrentPosition--> X:288.090 Y:123.530 Z:20.600
+a  3	12/17/2024 10:42:20 AM	key release or away:CurrentPosition--> X:288.090 Y:118.886 Z:20.600
+a  3	12/17/2024 11:37:31 AM	TrackAndPar.bin the modify parameters are Light source adjust,Width Limit
+a  3	12/17/2024 11:37:31 AM	ShareParameters.bin the modify parameters are Light source adjust
+a  3	12/17/2024 11:37:36 AM	Key click:
+a  3	12/17/2024 11:37:36 AM	Key click:
+a  3	12/17/2024 11:37:37 AM	key release:CurrentPosition--> X:288.090 Y:118.886 Z:20.600
+a  3	12/17/2024 11:37:37 AM	key release:CurrentPosition--> X:288.090 Y:118.886 Z:20.600
+a  3	12/17/2024 11:37:37 AM	TrackAndPar.bin the modify parameters are Track storage
+a  3	12/17/2024 11:37:37 AM	ShareParameters.bin the modify parameters are Track storage
+a  3	12/17/2024 11:37:38 AM	Save Program:IFM top v1
+a  3	12/17/2024 11:37:38 AM	key release:CurrentPosition--> X:288.090 Y:118.886 Z:20.600
+a  3	12/17/2024 11:38:16 AM	Open Program:01-JetLinesA4
+a  3	12/17/2024 11:38:17 AM	Open Program:01-JetLinesA4
+a  3	12/17/2024 11:41:58 AM	ValveAndCalibretingData.bin the modify parameters are Deviation of spay valve,Stroke of spay valve,Spary Valve Teaching Point
+a  3	12/17/2024 11:46:07 AM	ValveAndCalibretingData.bin the modify parameters are Valve3CaliSave
+a  3	12/17/2024 11:50:38 AM	Front
+a  3	12/17/2024 11:51:34 AM	TestRun：Start
+a  3	12/17/2024 11:51:39 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 11:51:54 AM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 11:51:54 AM	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:51:54 AM	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:52:04 AM	TestRun：Start
+a  3	12/17/2024 11:52:09 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 11:52:57 AM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 11:52:57 AM	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:52:57 AM	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:53:03 AM	TestRun：Start
+a  3	12/17/2024 11:53:08 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 11:53:21 AM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 11:53:21 AM	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:53:21 AM	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 11:53:38 AM	The <1> line of program in the pattern <Line> has been modified. Speed:40.000
+
+a  3	12/17/2024 11:53:46 AM	TestRun：Start
+a  3	12/17/2024 11:53:54 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 11:54:06 AM	The <1> line of program in the pattern <Line> has been modified. Speed:200.000
+
+a  3	12/17/2024 11:54:16 AM	TestRun：Start
+a  3	12/17/2024 11:54:19 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 11:55:48 AM	Key click:
+a  3	12/17/2024 11:55:48 AM	key release:CurrentPosition--> X:120.440 Y:133.920 Z:20.500
+a  3	12/17/2024 11:55:51 AM	Mouse click:X+
+a  3	12/17/2024 11:55:51 AM	key release or away:CurrentPosition--> X:120.440 Y:133.920 Z:20.500
+a  3	12/17/2024 11:55:52 AM	Mouse click:X+
+a  3	12/17/2024 11:55:52 AM	key release or away:CurrentPosition--> X:147.994 Y:133.920 Z:20.500
+a  3	12/17/2024 11:55:52 AM	key release or away:CurrentPosition--> X:153.322 Y:133.920 Z:20.500
+a  3	12/17/2024 11:55:59 AM	Key click:
+a  3	12/17/2024 11:55:59 AM	key release:CurrentPosition--> X:153.322 Y:133.920 Z:20.500
+a  3	12/17/2024 11:55:59 AM	Key click:
+a  3	12/17/2024 11:56:00 AM	key release:CurrentPosition--> X:153.322 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:00 AM	Key click:
+a  3	12/17/2024 11:56:00 AM	key release:CurrentPosition--> X:153.322 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:02 AM	Mouse click:X+
+a  3	12/17/2024 11:56:02 AM	key release or away:CurrentPosition--> X:153.322 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:02 AM	Mouse click:X+
+a  3	12/17/2024 11:56:03 AM	key release or away:CurrentPosition--> X:171.313 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:04 AM	key release or away:CurrentPosition--> X:173.504 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:07 AM	Key click:
+a  3	12/17/2024 11:56:07 AM	key release:CurrentPosition--> X:173.504 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:09 AM	Mouse click:X+
+a  3	12/17/2024 11:56:09 AM	key release or away:CurrentPosition--> X:173.504 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:09 AM	Mouse click:X+
+a  3	12/17/2024 11:56:10 AM	key release or away:CurrentPosition--> X:176.684 Y:133.920 Z:20.500
+a  3	12/17/2024 11:56:10 AM	Mouse click:X+
+a  3	12/17/2024 11:56:10 AM	key release or away:CurrentPosition--> X:192.442 Y:133.920 Z:20.500
+a  3	12/17/2024 12:00:19 PM	key release or away:CurrentPosition--> X:196.100 Y:133.920 Z:20.500
+a  3	12/17/2024 12:00:24 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 12:00:24 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 12:02:59 PM	TestRun：Start
+a  3	12/17/2024 12:03:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:05 PM	TestRun：Start
+a  3	12/17/2024 12:03:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:15 PM	TestRun：Start
+a  3	12/17/2024 12:03:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:38 PM	TestRun：Start
+a  3	12/17/2024 12:03:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 12:03:48 PM	key release or away:CurrentPosition--> X:116.032 Y:95.874 Z:20.601
+a  3	12/17/2024 12:07:47 PM	The <1> line of program in the pattern <Line> has been modified. OffValveDistance:8.000
+
+a  3	12/17/2024 12:07:53 PM	Mouse click:X-
+a  3	12/17/2024 12:07:53 PM	key release or away:CurrentPosition--> X:265.732 Y:95.874 Z:20.601
+a  3	12/17/2024 12:07:53 PM	Mouse click:X-
+a  3	12/17/2024 12:07:54 PM	key release or away:CurrentPosition--> X:260.292 Y:95.874 Z:20.601
+a  3	12/17/2024 12:07:54 PM	key release or away:CurrentPosition--> X:254.976 Y:95.874 Z:20.601
+a  3	12/17/2024 12:07:55 PM	Mouse click:Y-
+a  3	12/17/2024 12:07:55 PM	key release or away:CurrentPosition--> X:254.976 Y:95.874 Z:20.601
+a  3	12/17/2024 12:07:56 PM	Mouse click:Z+
+a  3	12/17/2024 12:07:56 PM	key release or away:CurrentPosition--> X:254.976 Y:92.380 Z:43.807
+a  3	12/17/2024 12:07:57 PM	Mouse click:Z+
+a  3	12/17/2024 12:07:57 PM	key release or away:CurrentPosition--> X:254.976 Y:92.380 Z:48.824
+a  3	12/17/2024 12:07:58 PM	Mouse click:Y-
+a  3	12/17/2024 12:07:58 PM	key release or away:CurrentPosition--> X:254.976 Y:92.380 Z:54.388
+a  3	12/17/2024 12:08:00 PM	Mouse click:X+
+a  3	12/17/2024 12:08:00 PM	key release or away:CurrentPosition--> X:254.976 Y:86.706 Z:54.388
+a  3	12/17/2024 12:08:01 PM	Mouse click:X+
+a  3	12/17/2024 12:08:01 PM	key release or away:CurrentPosition--> X:260.292 Y:86.706 Z:54.388
+a  3	12/17/2024 12:08:02 PM	Mouse click:X+
+a  3	12/17/2024 12:08:02 PM	key release or away:CurrentPosition--> X:263.540 Y:86.706 Z:54.388
+a  3	12/17/2024 12:08:03 PM	Mouse click:Z+
+a  3	12/17/2024 12:08:03 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:62.839
+a  3	12/17/2024 12:08:04 PM	Mouse click:Z+
+a  3	12/17/2024 12:08:04 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:70.307
+a  3	12/17/2024 12:08:04 PM	Mouse click:Z+
+a  3	12/17/2024 12:08:04 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:78.474
+a  3	12/17/2024 12:08:05 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:79.641
+a  3	12/17/2024 12:08:08 PM	Mouse click:Z+
+a  3	12/17/2024 12:08:08 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:79.641
+a  3	12/17/2024 12:08:08 PM	Mouse click:Z+
+a  3	12/17/2024 12:08:08 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:86.890
+a  3	12/17/2024 1:07:04 PM	key release or away:CurrentPosition--> X:268.172 Y:86.706 Z:92.454
+a  3	12/17/2024 1:07:30 PM	TestRun：Start
+a  3	12/17/2024 1:07:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:07:35 PM	TestRun：Start
+a  3	12/17/2024 1:07:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:07:42 PM	TestRun：Start
+a  3	12/17/2024 1:07:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:07:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:16:41 PM	key release or away:CurrentPosition--> X:116.032 Y:95.874 Z:20.601
+a  3	12/17/2024 1:16:42 PM	Mouse click:Y+
+a  3	12/17/2024 1:16:43 PM	key release or away:CurrentPosition--> X:116.032 Y:181.131 Z:20.601
+a  3	12/17/2024 1:16:44 PM	key release or away:CurrentPosition--> X:116.032 Y:184.816 Z:20.601
+a  3	12/17/2024 1:16:45 PM	Mouse click:Y-
+a  3	12/17/2024 1:16:45 PM	key release or away:CurrentPosition--> X:116.032 Y:184.816 Z:20.601
+a  3	12/17/2024 1:16:45 PM	Mouse click:Y-
+a  3	12/17/2024 1:16:45 PM	key release or away:CurrentPosition--> X:116.032 Y:184.816 Z:20.601
+a  3	12/17/2024 1:16:45 PM	Mouse click:Y-
+a  3	12/17/2024 1:16:45 PM	key release or away:CurrentPosition--> X:116.032 Y:172.566 Z:20.601
+a  3	12/17/2024 1:16:46 PM	Mouse click:Y-
+a  3	12/17/2024 1:16:46 PM	key release or away:CurrentPosition--> X:116.032 Y:166.208 Z:20.601
+a  3	12/17/2024 1:16:46 PM	Mouse click:Y-
+a  3	12/17/2024 1:16:46 PM	key release or away:CurrentPosition--> X:116.032 Y:153.587 Z:20.601
+a  3	12/17/2024 1:16:47 PM	key release or away:CurrentPosition--> X:116.032 Y:151.422 Z:20.601
+a  3	12/17/2024 1:16:48 PM	key release or away:CurrentPosition--> X:116.032 Y:151.422 Z:20.601
+a  3	12/17/2024 1:16:51 PM	Mouse click:Y+
+a  3	12/17/2024 1:16:52 PM	key release or away:CurrentPosition--> X:265.732 Y:129.578 Z:20.601
+a  3	12/17/2024 1:16:53 PM	Mouse click:Y+
+a  3	12/17/2024 1:16:53 PM	key release or away:CurrentPosition--> X:265.732 Y:144.594 Z:20.601
+a  3	12/17/2024 1:16:53 PM	Mouse click:Y+
+a  3	12/17/2024 1:16:53 PM	key release or away:CurrentPosition--> X:265.732 Y:147.182 Z:20.601
+a  3	12/17/2024 1:17:00 PM	key release or away:CurrentPosition--> X:265.732 Y:154.964 Z:20.601
+a  3	12/17/2024 1:17:10 PM	The <1> line of program in the pattern <Line> has been modified. OffValveDistance:7.000
+
+a  3	12/17/2024 1:17:22 PM	Key click:
+a  3	12/17/2024 1:17:22 PM	key release:CurrentPosition--> X:265.732 Y:154.964 Z:20.601
+a  3	12/17/2024 1:17:25 PM	TestRun：Start
+a  3	12/17/2024 1:17:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:17:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:17:38 PM	Mouse click:Y+
+a  3	12/17/2024 1:17:38 PM	key release or away:CurrentPosition--> X:265.732 Y:95.874 Z:20.601
+a  3	12/17/2024 1:17:38 PM	Mouse click:Y+
+a  3	12/17/2024 1:17:38 PM	key release or away:CurrentPosition--> X:265.732 Y:102.218 Z:20.601
+a  3	12/17/2024 1:17:42 PM	key release or away:CurrentPosition--> X:265.732 Y:108.700 Z:20.601
+a  3	12/17/2024 1:18:45 PM	Open Program:Bucher Top1 film coater
+a  3	12/17/2024 1:18:46 PM	Open Program:Bucher Top1 film coater
+a  3	12/17/2024 1:19:22 PM	Open Program:IFM top v1
+a  3	12/17/2024 1:19:23 PM	Open Program:IFM top v1
+a  3	12/17/2024 1:19:26 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 1:19:26 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 1:31:03 PM	Open Program:IFM top v4
+a  3	12/17/2024 1:31:03 PM	Open Program:IFM top v4
+a  3	12/17/2024 1:31:11 PM	The program of line <2> in pattern <panel>  have been <Delete>
+a  3	12/17/2024 1:32:42 PM	1_Mark goto coordinates:X:154.702 Y:95.823 Z:20.600 Result:TRUE
+a  3	12/17/2024 1:33:41 PM	1_Mark goto coordinates:X:161.392 Y:94.612 Z:20.600 Result:TRUE
+a  3	12/17/2024 1:36:15 PM	The program of line <3> in pattern <->main(A)>  have been <Delete>
+a  3	12/17/2024 1:39:31 PM	DryRun
+a  3	12/17/2024 1:39:31 PM	DryRun
+a  3	12/17/2024 1:41:30 PM	ValveAndCalibretingData.bin the modify parameters are InitParamemter
+a  3	12/17/2024 1:41:30 PM	ParametersOfSystemSetting.bin the modify parameters are ValveColor,Numeric
+a  3	12/17/2024 1:41:30 PM	TrackAndPar.bin the modify parameters are 模板映射参数2
+a  3	12/17/2024 1:41:31 PM	ShareParameters.bin the modify parameters are 模板映射参数2
+a  3	12/17/2024 1:41:49 PM	Key click:
+a  3	12/17/2024 1:41:49 PM	key release:CurrentPosition--> X:161.392 Y:94.582 Z:20.600
+a  3	12/17/2024 1:41:49 PM	Key click:
+a  3	12/17/2024 1:41:49 PM	key release:CurrentPosition--> X:161.392 Y:94.582 Z:20.600
+a  3	12/17/2024 1:41:50 PM	Key click:
+a  3	12/17/2024 1:41:50 PM	key release:CurrentPosition--> X:161.392 Y:94.582 Z:20.600
+a  3	12/17/2024 1:42:01 PM	Mouse click:Y-
+a  3	12/17/2024 1:42:02 PM	key release or away:CurrentPosition--> X:161.392 Y:94.582 Z:20.600
+a  3	12/17/2024 1:42:02 PM	key release or away:CurrentPosition--> X:161.392 Y:90.622 Z:20.600
+a  3	12/17/2024 1:42:05 PM	key release or away:CurrentPosition--> X:161.392 Y:90.622 Z:20.600
+a  3	12/17/2024 1:42:06 PM	key release or away:CurrentPosition--> X:161.392 Y:90.622 Z:20.600
+a  3	12/17/2024 1:42:08 PM	key release or away:CurrentPosition--> X:161.392 Y:90.622 Z:20.600
+a  3	12/17/2024 1:42:10 PM	Mouse click:Y+
+a  3	12/17/2024 1:42:11 PM	key release or away:CurrentPosition--> X:161.392 Y:94.150 Z:20.600
+a  3	12/17/2024 1:42:12 PM	Mouse click:Y-
+a  3	12/17/2024 1:42:12 PM	key release or away:CurrentPosition--> X:161.392 Y:94.442 Z:20.600
+a  3	12/17/2024 1:42:13 PM	key release or away:CurrentPosition--> X:161.392 Y:93.698 Z:20.600
+a  3	12/17/2024 1:42:14 PM	key release or away:CurrentPosition--> X:161.392 Y:93.698 Z:20.600
+a  3	12/17/2024 1:42:21 PM	key release or away:CurrentPosition--> X:161.392 Y:93.698 Z:20.600
+a  3	12/17/2024 1:42:24 PM	Mouse click:X+
+a  3	12/17/2024 1:42:24 PM	key release or away:CurrentPosition--> X:161.392 Y:93.698 Z:20.600
+a  3	12/17/2024 1:42:25 PM	Mouse click:Y-
+a  3	12/17/2024 1:42:25 PM	key release or away:CurrentPosition--> X:161.822 Y:93.698 Z:20.600
+a  3	12/17/2024 1:42:26 PM	key release or away:CurrentPosition--> X:161.822 Y:93.092 Z:20.600
+a  3	12/17/2024 1:42:29 PM	Mouse click:Y+
+a  3	12/17/2024 1:42:29 PM	key release or away:CurrentPosition--> X:161.822 Y:93.092 Z:20.600
+a  3	12/17/2024 1:42:30 PM	key release or away:CurrentPosition--> X:161.822 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:37 PM	Mouse click:X+
+a  3	12/17/2024 1:42:37 PM	key release or away:CurrentPosition--> X:161.822 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:38 PM	Mouse click:X+
+a  3	12/17/2024 1:42:38 PM	key release or away:CurrentPosition--> X:162.162 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:39 PM	key release or away:CurrentPosition--> X:162.470 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:40 PM	Mouse click:X+
+a  3	12/17/2024 1:42:40 PM	key release or away:CurrentPosition--> X:162.470 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:41 PM	key release or away:CurrentPosition--> X:162.746 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:47 PM	Mouse click:X+
+a  3	12/17/2024 1:42:48 PM	key release or away:CurrentPosition--> X:163.918 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:48 PM	Mouse click:X+
+a  3	12/17/2024 1:42:49 PM	key release or away:CurrentPosition--> X:167.247 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:51 PM	Mouse click:X-
+a  3	12/17/2024 1:42:51 PM	key release or away:CurrentPosition--> X:166.979 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:52 PM	Mouse click:X-
+a  3	12/17/2024 1:42:52 PM	key release or away:CurrentPosition--> X:166.930 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:52 PM	Mouse click:X-
+a  3	12/17/2024 1:42:52 PM	key release or away:CurrentPosition--> X:166.624 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:53 PM	Mouse click:X-
+a  3	12/17/2024 1:42:53 PM	key release or away:CurrentPosition--> X:166.418 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:58 PM	Mouse click:X+
+a  3	12/17/2024 1:42:59 PM	key release or away:CurrentPosition--> X:166.206 Y:93.396 Z:20.600
+a  3	12/17/2024 1:42:59 PM	Mouse click:X+
+a  3	12/17/2024 1:42:59 PM	key release or away:CurrentPosition--> X:167.284 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:00 PM	Mouse click:X+
+a  3	12/17/2024 1:43:00 PM	key release or away:CurrentPosition--> X:167.508 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:01 PM	key release or away:CurrentPosition--> X:168.222 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:08 PM	Mouse click:X+
+a  3	12/17/2024 1:43:09 PM	key release or away:CurrentPosition--> X:170.538 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:10 PM	Mouse click:X+
+a  3	12/17/2024 1:43:10 PM	key release or away:CurrentPosition--> X:171.638 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:10 PM	Mouse click:X+
+a  3	12/17/2024 1:43:10 PM	key release or away:CurrentPosition--> X:171.698 Y:93.396 Z:20.600
+a  3	12/17/2024 1:43:13 PM	key release or away:CurrentPosition--> X:172.056 Y:93.396 Z:20.600
+a  3	12/17/2024 1:44:01 PM	The <2> line of program in the pattern <panel> has been modified. OpenValveTime:0.030
+
+a  3	12/17/2024 1:44:37 PM	The <2> line of program in the pattern <->main(A)> has been modified. Matrix:panel AT{(161.310,165.974,20.600)-(371.402,166.150)-(161.408,94.602)},{12*13},Traverse Mode:ByCol,Serpentine:True,Array:(1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,1FFF,)
+a  3	12/17/2024 1:44:48 PM	TestRun：Start
+a  3	12/17/2024 1:44:50 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.709 Y:95.823 Result:TRUE ;Score:99.009
+a  3	12/17/2024 1:44:51 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.610 Y:164.495 Result:TRUE ;Score:98.966
+a  3	12/17/2024 1:44:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:44:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:45:45 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 1:45:45 PM	TestRun：Stop
+a  3	12/17/2024 1:45:45 PM	Stop
+a  3	12/17/2024 1:46:44 PM	TrackAndPar.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	12/17/2024 1:46:44 PM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib ,Numeric
+a  3	12/17/2024 1:46:44 PM	ShareParameters.bin the modify parameters are TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	12/17/2024 1:55:57 PM	Test Width Laser：GotoX:2.416 Y:130.842 Z:42.637 Result:TRUE
+a  3	12/17/2024 1:55:58 PM	Test Width Laser：Click Start
+a  3	12/17/2024 1:56:00 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	12/17/2024 1:56:00 PM	Manual GlueWidthTest--->Initial pressure value:0.300
+a  3	12/17/2024 1:56:00 PM	Read LineLaser:1.90225 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:01 PM	Read LineLaser:6.79875 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:01 PM	Read LineLaser:8.07450 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:02 PM	Manual GlueWidthTest--->Currrent pressure value:0.350
+a  3	12/17/2024 1:56:03 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	12/17/2024 1:56:03 PM	Manual GlueWidthTest--->Initial pressure value:0.350
+a  3	12/17/2024 1:56:04 PM	Read LineLaser:8.16375 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:04 PM	Read LineLaser:8.33350 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:05 PM	Read LineLaser:8.34925 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:06 PM	Manual GlueWidthTest--->Currrent pressure value:0.325
+a  3	12/17/2024 1:56:07 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	12/17/2024 1:56:07 PM	Manual GlueWidthTest--->Initial pressure value:0.325
+a  3	12/17/2024 1:56:07 PM	Read LineLaser:8.21275 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:08 PM	Read LineLaser:8.24775 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:08 PM	Read LineLaser:8.29500 Current--->X:2.416 Y:130.842 Z:42.637  GTS_Code:0
+a  3	12/17/2024 1:56:09 PM	Manual GlueWidthTest--->Currrent pressure value:0.300
+a  3	12/17/2024 1:56:10 PM	Manual GlueWidthTest:go to start position Setting--->X:2.416 Y:130.842 Z:52.637 Current--->X:2.416 Y:130.842 Z:42.637 Result:TRUE GTS_Code:0
+a  3	12/17/2024 1:58:10 PM	DispenseMode
+a  3	12/17/2024 1:58:14 PM	TestRun：Start
+a  3	12/17/2024 1:58:16 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 1:58:27 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 1:58:28 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 1:58:31 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 1:58:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:58:49 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 1:58:49 PM	TestRun：Stop
+a  3	12/17/2024 1:59:00 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 1:59:00 PM	ParametersOfFilmWidthTesting.bin the modify parameters are Glue Width 2,Glue_Pressure 2
+a  3	12/17/2024 1:59:00 PM	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 1:59:00 PM	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	12/17/2024 1:59:39 PM	TestRun：Start
+a  3	12/17/2024 1:59:42 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 1:59:45 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 1:59:46 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 1:59:48 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 1:59:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 1:59:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:00:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:02:58 PM	TestRun：Start
+a  3	12/17/2024 2:03:00 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 2:03:03 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:03:04 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 2:03:06 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:03:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:03:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:04:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:09:40 PM	key release or away:CurrentPosition--> X:451.512 Y:188.740 Z:5.000
+a  3	12/17/2024 2:09:42 PM	LoadBoard
+a  3	12/17/2024 2:11:58 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 2:11:59 PM	Coating Running
+a  3	12/17/2024 2:11:59 PM	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	12/17/2024 2:11:59 PM	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	12/17/2024 2:12:07 PM	Save Program:IFM top v4
+a  3	12/17/2024 2:12:07 PM	
+a  3	12/17/2024 2:12:10 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.670 Y:95.736 Result:TRUE ;Score:99.268
+a  3	12/17/2024 2:12:11 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.543 Y:164.528 Result:TRUE ;Score:99.285
+a  3	12/17/2024 2:12:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:12:31 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 2:12:32 PM	Stop
+a  3	12/17/2024 2:12:32 PM	{"SN":"","StartTime":"24-12-17 14:12:08","StopTime":"24-12-17 14:12:32","ProgramName":"IFM top v4","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 2:12:33 PM	Stop
+a  3	12/17/2024 2:13:41 PM	The <2> line of program in the pattern <->main(A)> has been modified. Matrix:panel AT{(161.310,165.974,20.600)-(371.402,166.150)-(161.408,94.602)},{13*12},Traverse Mode:ByCol,Serpentine:True,Array:(FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,FFF,)
+a  3	12/17/2024 2:14:59 PM	Coating Running
+a  3	12/17/2024 2:15:00 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 2:15:01 PM	TrackAndPar.bin the modify parameters are Track storage
+a  3	12/17/2024 2:15:01 PM	ShareParameters.bin the modify parameters are Track storage
+a  3	12/17/2024 2:15:04 PM	Save Program:IFM top v4
+a  3	12/17/2024 2:15:04 PM	
+a  3	12/17/2024 2:15:07 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.710 Y:95.962 Result:TRUE ;Score:99.356
+a  3	12/17/2024 2:15:08 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.597 Y:164.687 Result:TRUE ;Score:98.913
+a  3	12/17/2024 2:15:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:15:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:16:16 PM	{"SN":"","StartTime":"24-12-17 14:15:05","StopTime":"24-12-17 14:16:16","ProgramName":"IFM top v4","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 2:16:16 PM	Stop
+a  3	12/17/2024 2:16:26 PM	WorkOrigin
+a  3	12/17/2024 2:18:40 PM	key release or away:CurrentPosition--> X:172.056 Y:93.396 Z:20.600
+a  3	12/17/2024 2:19:24 PM	TestRun：Start
+a  3	12/17/2024 2:19:26 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 2:19:28 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:19:30 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 2:19:31 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:19:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:19:36 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 2:19:36 PM	TestRun：Stop
+a  3	12/17/2024 2:19:36 PM	TestRun：Start
+a  3	12/17/2024 2:20:28 PM	TestRun：Start
+a  3	12/17/2024 2:20:30 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 2:20:32 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:20:34 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 2:20:35 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:20:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:20:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:20:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:20:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:20:39 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 2:20:39 PM	TestRun：Stop
+a  3	12/17/2024 2:21:51 PM	TestRun：Start
+a  3	12/17/2024 2:21:53 PM	AlarmCode 1040:Can't found template!
+a  3	12/17/2024 2:21:55 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.702 Y:95.822 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:21:56 PM	AlarmCode 1041:Can't found template!
+a  3	12/17/2024 2:21:58 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.618 Y:164.424 Result:FALSE ;Score:100.000
+a  3	12/17/2024 2:22:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:22:02 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 2:22:02 PM	TestRun：Stop
+a  3	12/17/2024 2:25:03 PM	Coating Running
+a  3	12/17/2024 2:25:04 PM	
+a  3	12/17/2024 2:25:07 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.622 Y:95.845 Result:TRUE ;Score:99.073
+a  3	12/17/2024 2:25:09 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.472 Y:164.719 Result:TRUE ;Score:99.205
+a  3	12/17/2024 2:25:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:25:21 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/17/2024 2:25:21 PM	Stop
+a  3	12/17/2024 2:25:21 PM	{"SN":"","StartTime":"24-12-17 14:25:05","StopTime":"24-12-17 14:25:21","ProgramName":"IFM top v4","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 2:25:22 PM	Stop
+a  3	12/17/2024 2:26:24 PM	Key click:
+a  3	12/17/2024 2:26:24 PM	Key click:
+a  3	12/17/2024 2:26:25 PM	key release:CurrentPosition--> X:172.056 Y:93.396 Z:20.600
+a  3	12/17/2024 2:26:25 PM	key release:CurrentPosition--> X:172.056 Y:93.396 Z:20.600
+a  3	12/17/2024 2:26:25 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 2:26:25 PM	TrackAndPar.bin the modify parameters are Track storage,Light source adjust
+a  3	12/17/2024 2:26:25 PM	ShareParameters.bin the modify parameters are Track storage,Light source adjust
+a  3	12/17/2024 2:26:26 PM	Save Program:IFM top v4
+a  3	12/17/2024 2:26:26 PM	key release:CurrentPosition--> X:172.056 Y:93.396 Z:20.600
+a  3	12/17/2024 2:27:00 PM	The <2> line of program in the pattern <->main(A)> has been modified. Matrix:panel AT{(161.310,165.974,20.600)-(371.402,166.150)-(161.408,94.602)},{13*12},Traverse Mode:ByCol,Serpentine:True,Array:(FFE,FFC,FFC,FFC,FFC,FFC,FFC,FFC,FFC,FFC,FFC,FFC,FFC,)
+a  3	12/17/2024 2:27:05 PM	Coating Running
+a  3	12/17/2024 2:27:06 PM	TrackAndPar.bin the modify parameters are Track storage
+a  3	12/17/2024 2:27:06 PM	ShareParameters.bin the modify parameters are Track storage
+a  3	12/17/2024 2:27:07 PM	Save Program:IFM top v4
+a  3	12/17/2024 2:27:07 PM	
+a  3	12/17/2024 2:27:10 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:154.702 Y:95.823 Z:20.600  Match-->X:154.604 Y:95.850 Result:TRUE ;Score:98.929
+a  3	12/17/2024 2:27:11 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:392.618 Y:164.423 Z:20.600  Match-->X:392.468 Y:164.672 Result:TRUE ;Score:98.842
+a  3	12/17/2024 2:27:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:49 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:51 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:52 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:53 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:54 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:55 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:58 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:27:59 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:00 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:01 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:03 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 2:28:08 PM	{"SN":"","StartTime":"24-12-17 14:27:08","StopTime":"24-12-17 14:28:08","ProgramName":"IFM top v4","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 2:28:09 PM	Stop
+a  3	12/17/2024 2:44:43 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 2:44:43 PM	Open Program:01-FilmLinesA4
+a  3	12/17/2024 2:45:01 PM	Open Program:01-JetLinesA4
+a  3	12/17/2024 2:45:02 PM	Open Program:01-JetLinesA4
+a  3	12/17/2024 2:45:17 PM	Open Program:01-GelLinesA4
+a  3	12/17/2024 2:45:18 PM	Open Program:01-GelLinesA4
+a  3	12/17/2024 3:41:43 PM	Open Program:IFM top v2
+a  3	12/17/2024 3:41:44 PM	Open Program:IFM top v2
+a  3	12/17/2024 3:42:12 PM	DryRun
+a  3	12/17/2024 3:42:12 PM	DryRun
+a  3	12/17/2024 3:42:29 PM	LoadBoard
+a  3	12/17/2024 3:42:51 PM	TestRun：Start
+a  3	12/17/2024 3:42:53 PM	Automatic Match1_Mark:TwoMark_1:Set-->X:252.181 Y:216.427 Z:20.600  Match-->X:252.279 Y:217.409 Result:TRUE ;Score:99.655
+a  3	12/17/2024 3:42:54 PM	Automatic Match2_Mark:TwoMark_2:Set-->X:383.720 Y:86.451 Z:20.600  Match-->X:383.740 Y:87.371 Result:TRUE ;Score:99.549
+a  3	12/17/2024 3:42:55 PM	AlarmCode 1023:X is out of limit!
+a  3	12/17/2024 3:42:58 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	12/17/2024 3:43:12 PM	Mouse click:X+
+a  3	12/17/2024 3:43:12 PM	key release or away:CurrentPosition--> X:381.961 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:13 PM	Mouse click:X+
+a  3	12/17/2024 3:43:13 PM	key release or away:CurrentPosition--> X:382.647 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:14 PM	key release or away:CurrentPosition--> X:382.792 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:16 PM	Mouse click:X+
+a  3	12/17/2024 3:43:17 PM	key release or away:CurrentPosition--> X:480.170 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:18 PM	Mouse click:X+
+a  3	12/17/2024 3:43:18 PM	key release or away:CurrentPosition--> X:515.850 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:18 PM	Mouse click:X+
+a  3	12/17/2024 3:43:18 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:19 PM	Mouse click:X+
+a  3	12/17/2024 3:43:19 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:19 PM	Mouse click:X+
+a  3	12/17/2024 3:43:19 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:19 PM	Mouse click:X+
+a  3	12/17/2024 3:43:19 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:19 PM	Mouse click:X+
+a  3	12/17/2024 3:43:19 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:20 PM	Mouse click:X+
+a  3	12/17/2024 3:43:20 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:20 PM	Mouse click:X+
+a  3	12/17/2024 3:43:20 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:20 PM	Mouse click:X+
+a  3	12/17/2024 3:43:20 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:20 PM	Mouse click:X+
+a  3	12/17/2024 3:43:20 PM	key release or away:CurrentPosition--> X:527.134 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:21 PM	X Limit
+a  3	12/17/2024 3:43:21 PM	AlarmCode 1009:X+ limit
+a  3	12/17/2024 3:43:25 PM	Mouse click:X+
+a  3	12/17/2024 3:43:25 PM	key release or away:CurrentPosition--> X:587.968 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:25 PM	AlarmCode 1009:X+ limit
+a  3	12/17/2024 3:43:31 PM	key release or away:CurrentPosition--> X:585.846 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:32 PM	Mouse click:X-
+a  3	12/17/2024 3:43:34 PM	key release or away:CurrentPosition--> X:421.026 Y:91.410 Z:5.000
+a  3	12/17/2024 3:43:35 PM	key release or away:CurrentPosition--> X:417.520 Y:91.410 Z:5.000
+a  3	12/17/2024 3:45:09 PM	TestRun：Start
+a  3	12/17/2024 3:45:11 PM	Automatic Match1_Mark:TwoMark_1:Set-->X:205.645 Y:216.427 Z:20.600  Match-->X:205.580 Y:216.359 Result:TRUE ;Score:99.278
+a  3	12/17/2024 3:45:13 PM	Automatic Match2_Mark:TwoMark_2:Set-->X:337.184 Y:86.451 Z:20.600  Match-->X:337.159 Y:86.454 Result:TRUE ;Score:99.478
+a  3	12/17/2024 3:48:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 3:49:25 PM	WorkOrigin
+a  3	12/17/2024 3:50:05 PM	LoadBoard
+a  3	12/17/2024 3:50:13 PM	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	12/17/2024 3:50:25 PM	Manual Purge
+a  3	12/17/2024 3:50:37 PM	Mouse click:Z-
+a  3	12/17/2024 3:50:38 PM	key release or away:CurrentPosition--> X:103.632 Y:135.790 Z:38.378
+a  3	12/17/2024 3:50:38 PM	Mouse click:Z-
+a  3	12/17/2024 3:50:38 PM	key release or away:CurrentPosition--> X:103.632 Y:135.790 Z:25.299
+a  3	12/17/2024 3:50:38 PM	Mouse click:Z-
+a  3	12/17/2024 3:50:39 PM	Z Home
+a  3	12/17/2024 3:50:39 PM	AlarmCode 1014:Z- limit
+a  3	12/17/2024 3:50:40 PM	Manual click Purge,target location:Setting--->X:103.632 Y:135.790 Z:61.006 Current--->X:103.632 Y:135.790 Z:-1.432 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	12/17/2024 3:50:56 PM	key release or away:CurrentPosition--> X:103.632 Y:135.790 Z:-1.432
+a  3	12/17/2024 3:50:56 PM	key release or away:CurrentPosition--> X:103.632 Y:135.790 Z:-1.432
+a  3	12/17/2024 3:51:19 PM	DispenseMode
+a  3	12/17/2024 3:51:40 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/17/2024 3:51:41 PM	TrackAndPar.bin the modify parameters are Track storage,Vavle Seting,Light source adjust,MainA Mark Setting,ImageButtomPos,OnlinePixelR,OnlineImagePosInfor,MatchPosition,Main BadMark Setting,TwoValveDistanceData,FlowAlarmLimitSettingData,PathOfProgaramParameterSavedas,程序参考点
+a  3	12/17/2024 3:51:41 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Track storage,Vavle Seting,Light source adjust,MainA Mark Setting,ImageButtomPos,OnlinePixelR,MatchPosition,Main BadMark Setting,TwoValveDistanceData,FlowAlarmLimitSettingData
+a  3	12/17/2024 3:53:08 PM	Coating Running
+a  3	12/17/2024 3:53:09 PM	
+a  3	12/17/2024 3:53:12 PM	AlarmCode 1042:Can't found template!
+a  3	12/17/2024 3:53:37 PM	Automatic Match1_Mark:TwoMark_1:Set-->X:205.645 Y:216.427 Z:20.600  Match-->X:205.644 Y:216.428 Result:FALSE ;Score:100.000
+a  3	12/17/2024 3:53:39 PM	AlarmCode 1043:Can't found template!
+a  3	12/17/2024 3:53:41 PM	Automatic Match2_Mark:TwoMark_2:Set-->X:337.184 Y:86.451 Z:20.600  Match-->X:337.184 Y:86.452 Result:FALSE ;Score:100.000
+a  3	12/17/2024 3:54:13 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 3:54:14 PM	{"SN":"","StartTime":"24-12-17 15:53:10","StopTime":"24-12-17 15:54:13","ProgramName":"IFM top v2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 3:54:14 PM	Stop
+a  3	12/17/2024 3:54:45 PM	WorkOrigin
+a  3	12/17/2024 3:56:12 PM	Coating Running
+a  3	12/17/2024 3:56:13 PM	
+a  3	12/17/2024 3:56:16 PM	Automatic Match1_Mark:TwoMark_1:Set-->X:205.645 Y:216.427 Z:20.600  Match-->X:205.641 Y:216.436 Result:TRUE ;Score:99.599
+a  3	12/17/2024 3:56:17 PM	Automatic Match2_Mark:TwoMark_2:Set-->X:337.184 Y:86.451 Z:20.600  Match-->X:337.163 Y:86.451 Result:TRUE ;Score:99.437
+a  3	12/17/2024 3:56:50 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/17/2024 3:56:50 PM	{"SN":"","StartTime":"24-12-17 15:56:14","StopTime":"24-12-17 15:56:50","ProgramName":"IFM top v2","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/17/2024 3:56:50 PM	Stop
+a  3	12/17/2024 3:57:06 PM	key release or away:CurrentPosition--> X:370.334 Y:341.968 Z:5.000
+a  3	12/17/2024 5:10:33 PM	key release or away:CurrentPosition--> X:370.334 Y:341.968 Z:5.000
+a  3	12/17/2024 5:11:00 PM	key release or away:CurrentPosition--> X:370.334 Y:341.968 Z:5.000
+a  3	12/17/2024 5:11:02 PM	Front
+a  3	12/17/2024 5:11:45 PM	Mouse click:Y+
+a  3	12/17/2024 5:11:45 PM	key release or away:CurrentPosition--> X:208.610 Y:34.958 Z:0.000
+a  3	12/17/2024 5:11:45 PM	Mouse click:Y+
+a  3	12/17/2024 5:11:46 PM	key release or away:CurrentPosition--> X:208.610 Y:109.437 Z:0.000
+a  3	12/17/2024 5:11:47 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:0.000
+a  3	12/17/2024 5:11:48 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:0.000
+a  3	12/17/2024 5:11:50 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:0.000
+a  3	12/17/2024 5:11:55 PM	Mouse click:Z+
+a  3	12/17/2024 5:11:55 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:0.000
+a  3	12/17/2024 5:11:55 PM	Mouse click:Z+
+a  3	12/17/2024 5:11:55 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:11.476
+a  3	12/17/2024 5:11:56 PM	Mouse click:Z+
+a  3	12/17/2024 5:11:56 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:22.452
+a  3	12/17/2024 5:11:57 PM	Mouse click:Z+
+a  3	12/17/2024 5:11:57 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:26.122
+a  3	12/17/2024 5:12:06 PM	Mouse click:Z-
+a  3	12/17/2024 5:12:06 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:34.164
+a  3	12/17/2024 5:12:07 PM	Mouse click:Z-
+a  3	12/17/2024 5:12:07 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:26.424
+a  3	12/17/2024 5:12:08 PM	Mouse click:Z-
+a  3	12/17/2024 5:12:08 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:18.246
+a  3	12/17/2024 5:12:08 PM	Mouse click:Z-
+a  3	12/17/2024 5:12:08 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:11.671
+a  3	12/17/2024 5:13:32 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:4.642
+a  3	12/17/2024 5:13:33 PM	key release or away:CurrentPosition--> X:208.610 Y:113.488 Z:4.642
+a  3	12/17/2024 5:25:48 PM	Exit 
+a  3	12/17/2024 5:25:48 PM	ParametersOfSystemSetting.bin the modify parameters are Numeric

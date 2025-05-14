@@ -1,236 +1,377 @@
 
-a  3	2024/12/3 17:56:36	设备初始化......
-a  3	2024/12/3 17:56:37	当前用户： a
-a  3	2024/12/3 17:56:37	打开程序：20241202ok11
-a  3	2024/12/3 17:57:17	设备初始化......
-a  3	2024/12/3 17:57:19	当前用户： a
-a  3	2024/12/3 17:57:19	打开程序：20241202ok11
-a  3	2024/12/3 17:57:22	打开程序：20241130153654
-a  3	2024/12/3 17:58:55	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,MarkLightSource
-a  3	2024/12/3 17:58:55	TrackAndPar.bin文件中以下参数已经被修改：ROISize
-a  3	2024/12/3 17:58:55	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-a  3	2024/12/3 17:59:27	键盘按下：Right
-a  3	2024/12/3 17:59:28	键盘按下：Left
-a  3	2024/12/3 17:59:29	键盘按下：
-a  3	2024/12/3 17:59:29	键盘按下：Right
-a  3	2024/12/3 17:59:31	键盘按下：Left
-a  3	2024/12/3 17:59:31	键盘按下：
-a  3	2024/12/3 17:59:31	键盘按下：Down
-a  3	2024/12/3 17:59:35	键盘按下：Right
-a  3	2024/12/3 17:59:36	键盘按下：Down
-a  3	2024/12/3 17:59:36	键盘按下：
-a  3	2024/12/3 17:59:37	键盘按下：Right
-a  3	2024/12/3 17:59:38	键盘按下：Down
-a  3	2024/12/3 17:59:39	键盘按下：Right
-a  3	2024/12/3 17:59:39	键盘按下：Up
-a  3	2024/12/3 17:59:40	键盘按下：Left
-a  3	2024/12/3 17:59:42	键盘按下：Right
-a  3	2024/12/3 18:00:09	键盘按下：Right
-a  3	2024/12/3 18:00:10	键盘按下：
-a  3	2024/12/3 18:00:10	键盘按下：Right
-a  3	2024/12/3 18:00:11	键盘按下：Return
-a  3	2024/12/3 18:00:13	键盘按下：
-a  3	2024/12/3 18:00:42	阀气缸上升超时
-a  3	2024/12/3 18:00:49	阀气缸上升超时
-a  3	2024/12/3 18:01:59	设备初始化......
-a  3	2024/12/3 18:01:59	当前用户： a
-a  3	2024/12/3 18:01:59	打开程序：20241130153654
-a  3	2024/12/3 18:02:09	打开程序：WCY
-a  3	2024/12/3 18:04:16	TrackAndPar.bin文件中以下参数已经被修改：Pixel/mm,ROISize,RealMarkAndOfflineMarkData
-a  3	2024/12/3 18:04:16	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,RealMarkAndOfflineMarkData
-a  3	2024/12/3 18:04:19	键盘按下：Down
-a  3	2024/12/3 18:04:23	键盘按下：
-a  3	2024/12/3 18:04:23	键盘按下：Down
-a  3	2024/12/3 18:04:24	键盘按下：Right
-a  3	2024/12/3 18:04:26	键盘按下：Down
-a  3	2024/12/3 18:04:31	键盘按下：
-a  3	2024/12/3 18:04:31	键盘按下：Right
-a  3	2024/12/3 18:04:33	键盘按下：Return
-a  3	2024/12/3 18:04:58	ValveAndCalibretingData.bin文件中以下参数已经被修改：InitParamemter
-a  3	2024/12/3 18:05:04	键盘按下：Down
-a  3	2024/12/3 18:05:05	键盘按下：
-a  3	2024/12/3 18:05:05	键盘按下：Down
-a  3	2024/12/3 18:05:06	键盘按下：Right
-a  3	2024/12/3 18:05:16	键盘按下：Down
-a  3	2024/12/3 18:05:17	键盘按下：Up
-a  3	2024/12/3 18:05:17	键盘按下：Right
-a  3	2024/12/3 18:05:18	键盘按下：Up
-a  3	2024/12/3 18:05:18	键盘按下：Up
-a  3	2024/12/3 18:05:19	键盘按下：Left
-a  3	2024/12/3 18:05:24	模板->main(A)中第1行程序被修改:Glue width:8.000
-
-a  3	2024/12/3 18:05:34	阀气缸上升超时
-a  3	2024/12/3 18:06:28	阀气缸上升超时
-a  3	2024/12/3 18:07:57	阀气缸上升超时
-a  3	2024/12/3 18:16:02	设备初始化......
-a  3	2024/12/3 18:16:03	当前用户： a
-a  3	2024/12/3 18:16:03	打开程序：WCY
-a  3	2024/12/3 18:16:07	打开程序：WCY
-a  3	2024/12/3 18:29:58	设备初始化......
-a  3	2024/12/3 18:29:58	当前用户： a
-a  3	2024/12/3 18:29:58	打开程序：WCY
-a  3	2024/12/3 18:30:18	打开程序：YUBEI1124 Top MES
-a  3	2024/12/3 18:31:03	TrackAndPar.bin文件中以下参数已经被修改：MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
-a  3	2024/12/3 18:31:04	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
-a  3	2024/12/3 18:31:08	键盘按下：Right
-a  3	2024/12/3 18:31:12	键盘按下：Down
-a  3	2024/12/3 18:31:13	键盘按下：
-a  3	2024/12/3 18:31:13	键盘按下：Right
-a  3	2024/12/3 18:31:14	键盘按下：Down
-a  3	2024/12/3 18:31:16	键盘按下：Right
-a  3	2024/12/3 18:31:23	键盘按下：Down
-a  3	2024/12/3 18:31:24	键盘按下：Right
-a  3	2024/12/3 18:31:24	键盘按下：Right
-a  3	2024/12/3 18:31:48	键盘按下：
-a  3	2024/12/3 18:31:48	键盘按下：
-a  3	2024/12/3 18:31:48	键盘按下：
-a  3	2024/12/3 18:31:48	键盘按下：
-a  3	2024/12/3 18:31:48	键盘按下：
-a  3	2024/12/3 18:31:54	键盘按下：Right
-a  3	2024/12/3 18:31:55	键盘按下：Return
-a  3	2024/12/3 18:31:59	键盘按下：Right
-a  3	2024/12/3 18:32:00	键盘按下：Return
-a  3	2024/12/3 18:32:05	键盘按下：Right
-a  3	2024/12/3 18:32:07	键盘按下：Return
-a  3	2024/12/3 18:32:14	键盘按下：Right
-a  3	2024/12/3 18:32:18	打开程序：WCY
-a  3	2024/12/3 18:32:18	打开程序：WCY
-a  3	2024/12/3 18:32:40	键盘按下：Right
-a  3	2024/12/3 18:32:42	键盘按下：Return
-a  3	2024/12/3 18:32:51	阀气缸上升超时
-a  3	2024/12/3 18:32:56	键盘按下：Left
-a  3	2024/12/3 18:33:04	键盘按下：Down
-a  3	2024/12/3 18:33:04	键盘按下：Left
-a  3	2024/12/3 18:33:07	键盘按下：Right
-a  3	2024/12/3 18:33:09	键盘按下：Return
-a  3	2024/12/3 18:33:53	阀气缸上升超时
-a  3	2024/12/3 18:39:06	设备初始化......
-a  3	2024/12/3 18:39:07	当前用户： a
-a  3	2024/12/3 18:39:07	打开程序：WCY
-a  3	2024/12/3 18:39:11	打开程序：WCY
-a  3	2024/12/3 18:46:47	设备初始化......
-a  3	2024/12/3 18:46:47	当前用户： a
-a  3	2024/12/3 18:46:47	打开程序：WCY
-a  3	2024/12/3 18:46:50	打开程序：WCY
-a  3	2024/12/3 18:47:34	TrackAndPar.bin文件中以下参数已经被修改：Pixel/mm,RealMarkAndOfflineMarkData
-a  3	2024/12/3 18:47:34	ShareParameters.bin文件中以下参数已经被修改：RealMarkAndOfflineMarkData
-a  3	2024/12/3 18:47:38	键盘按下：Right
-a  3	2024/12/3 18:47:39	键盘按下：Down
-a  3	2024/12/3 18:47:40	键盘按下：
-a  3	2024/12/3 18:47:40	键盘按下：Down
-a  3	2024/12/3 18:47:42	键盘按下：Right
-a  3	2024/12/3 18:47:43	键盘按下：Right
-a  3	2024/12/3 18:47:44	键盘按下：Down
-a  3	2024/12/3 18:47:44	键盘按下：Down
-a  3	2024/12/3 18:47:49	键盘按下：Right
-a  3	2024/12/3 18:47:51	键盘按下：Return
-a  3	2024/12/3 18:47:52	键盘按下：Down
-a  3	2024/12/3 18:47:53	键盘按下：Left
-a  3	2024/12/3 18:47:54	键盘按下：Down
-a  3	2024/12/3 18:47:55	键盘按下：Right
-a  3	2024/12/3 18:47:57	键盘按下：Return
-a  3	2024/12/3 18:48:04	键盘按下：Right
-a  3	2024/12/3 18:48:06	键盘按下：Right
-a  3	2024/12/3 18:48:06	键盘按下：Down
-a  3	2024/12/3 18:48:42	手动清洗
-a  3	2024/12/3 18:48:44	手动清洗(QueueError:FALSE,Code:0,Errortext:)
-a  3	2024/12/3 18:48:46	工作原点
-a  3	2024/12/3 18:50:13	键盘按下：
-a  3	2024/12/3 18:50:14	键盘按下：
-a  3	2024/12/3 19:06:07	设备初始化......
-a  3	2024/12/3 19:06:07	当前用户： a
-a  3	2024/12/3 19:06:07	打开程序：WCY
-a  3	2024/12/3 19:06:10	打开程序：WCY
-a  3	2024/12/3 19:09:13	键盘按下：Right
-a  3	2024/12/3 19:09:15	键盘按下：Down
-a  3	2024/12/3 19:09:15	键盘按下：Left
-a  3	2024/12/3 19:09:16	键盘按下：Left
-a  3	2024/12/3 19:09:18	键盘按下：Right
-a  3	2024/12/3 19:15:03	设备初始化......
-a  3	2024/12/3 19:15:03	当前用户： a
-a  3	2024/12/3 19:15:03	打开程序：WCY
-a  3	2024/12/3 19:15:07	打开程序：WCY
-a  3	2024/12/3 19:15:27	键盘按下：Right
-a  3	2024/12/3 19:15:29	键盘按下：Down
-a  3	2024/12/3 19:15:30	键盘按下：Left
-a  3	2024/12/3 19:15:32	键盘按下：Right
-a  3	2024/12/3 19:19:03	设备初始化......
-a  3	2024/12/3 19:19:04	当前用户： a
-a  3	2024/12/3 19:19:04	打开程序：WCY
-a  3	2024/12/3 19:19:10	打开程序：WCY
-a  3	2024/12/3 19:19:32	键盘按下：Right
-a  3	2024/12/3 19:19:33	键盘按下：Down
-a  3	2024/12/3 19:19:34	键盘按下：Left
-a  3	2024/12/3 19:19:37	键盘按下：Right
-a  3	2024/12/3 19:19:39	键盘按下：Up
-a  3	2024/12/3 19:19:41	键盘按下：Down
-a  3	2024/12/3 19:20:00	键盘按下：Right
-a  3	2024/12/3 19:25:18	设备初始化......
-a  3	2024/12/3 19:25:18	当前用户： a
-a  3	2024/12/3 19:25:18	打开程序：WCY
-a  3	2024/12/3 19:25:21	打开程序：WCY
-a  3	2024/12/3 19:25:41	键盘按下：Right
-a  3	2024/12/3 19:25:46	键盘按下：Right
-a  3	2024/12/3 19:25:51	模板->main(A)中第1行程序被删除
-a  3	2024/12/3 19:25:55	键盘按下：Right
-a  3	2024/12/3 19:25:56	键盘按下：Return
-a  3	2024/12/3 19:25:59	键盘按下：Right
-a  3	2024/12/3 19:26:00	键盘按下：Return
-a  3	2024/12/3 19:26:05	键盘按下：
-a  3	2024/12/3 19:26:05	键盘按下：
-a  3	2024/12/3 19:26:06	TrackAndPar.bin文件中以下参数已经被修改：Track storage,PathOfOffLineTeachPicture,Pixel/mm,ImageButtomPos,导入在线图片,OnlinePixelR,OnlineImagePosInfor,RealMarkAndOfflineMarkData
-a  3	2024/12/3 19:26:06	ShareParameters.bin文件中以下参数已经被修改：Track storage,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData
-a  3	2024/12/3 19:26:07	保存程序：WCY
-a  3	2024/12/3 19:44:12	设备初始化......
-a  3	2024/12/3 19:44:12	当前用户： a
-a  3	2024/12/3 19:44:12	打开程序：WCY
-a  3	2024/12/3 19:44:15	打开程序：WCY
-a  3	2024/12/3 19:47:20	设备初始化......
-a  3	2024/12/3 19:47:20	当前用户： a
-a  3	2024/12/3 19:47:20	打开程序：WCY
-a  3	2024/12/3 19:47:23	打开程序：WCY
-a  3	2024/12/3 19:47:40	键盘按下：Left
-a  3	2024/12/3 19:47:44	键盘按下：Left
-a  3	2024/12/3 19:47:45	键盘按下：
-a  3	2024/12/3 19:47:45	键盘按下：Right
-a  3	2024/12/3 19:47:46	键盘按下：Up
-a  3	2024/12/3 19:47:46	键盘按下：Down
-a  3	2024/12/3 19:47:46	键盘按下：Right
-a  3	2024/12/3 19:47:47	键盘按下：Up
-a  3	2024/12/3 19:47:47	键盘按下：Up
-a  3	2024/12/3 19:47:47	键盘按下：Down
-a  3	2024/12/3 19:47:47	键盘按下：Left
-a  3	2024/12/3 19:51:09	设备初始化......
-a  3	2024/12/3 19:51:09	当前用户： a
-a  3	2024/12/3 19:51:09	打开程序：WCY
-a  3	2024/12/3 19:51:12	打开程序：WCY
-a  3	2024/12/3 19:57:02	设备初始化......
-a  3	2024/12/3 19:57:02	当前用户： a
-a  3	2024/12/3 19:57:02	打开程序：WCY
-a  3	2024/12/3 19:57:05	打开程序：WCY
-a  3	2024/12/3 20:33:26	设备初始化......
-a  3	2024/12/3 20:33:26	当前用户： a
-a  3	2024/12/3 20:33:26	打开程序：WCY
-a  3	2024/12/3 20:33:29	打开程序：WCY
-a  3	2024/12/3 20:34:12	设备初始化......
-a  3	2024/12/3 20:34:12	当前用户： a
-a  3	2024/12/3 20:34:12	打开程序：WCY
-a  3	2024/12/3 20:34:17	门禁打开
-a  3	2024/12/3 20:34:20	报警代码 1006:气压检测报警
-a  3	2024/12/3 20:34:20	停止
-a  3	2024/12/3 20:34:25	门禁打开
-a  3	2024/12/3 20:34:27	报警代码 1006:气压检测报警
-a  3	2024/12/3 20:34:27	停止
-a  3	2024/12/3 20:34:38	门禁打开
-a  3	2024/12/3 20:34:41	报警代码 1006:气压检测报警
-a  3	2024/12/3 20:34:41	停止
-a  3	2024/12/3 20:36:20	设备初始化......
-a  3	2024/12/3 20:36:20	当前用户： a
-a  3	2024/12/3 20:36:21	打开程序：WCY
-a  3	2024/12/3 20:36:27	门禁打开
-a  3	2024/12/3 20:36:29	报警代码 1006:气压检测报警
-a  3	2024/12/3 20:36:29	停止
-a  3	2024/12/3 20:36:32	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
-a  3	2024/12/3 20:36:34	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
-a  3	2024/12/3 20:37:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
-a  3	2024/12/3 20:37:01	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:5.000
+a  3	12/3/2024 1:31:37 PM	Initializing...
+a  3	12/3/2024 1:31:38 PM	Current User: a
+a  3	12/3/2024 1:31:38 PM	Open Program:ScottFinal
+a  3	12/3/2024 1:31:44 PM	The reset button is pressed
+a  3	12/3/2024 1:32:05 PM	Reset is completed
+a  3	12/3/2024 1:32:23 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/3/2024 1:32:35 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/3/2024 1:32:36 PM	LoadBoard
+a  3	12/3/2024 1:32:59 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/3/2024 1:33:01 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/3/2024 1:33:11 PM	key release or away:CurrentPosition--> X:222.696 Y:91.264 Z:20.497
+a  3	12/3/2024 1:33:17 PM	key release or away:CurrentPosition--> X:222.696 Y:91.264 Z:20.497
+a  3	12/3/2024 1:33:17 PM	key release or away:CurrentPosition--> X:222.696 Y:91.264 Z:20.497
+a  3	12/3/2024 1:35:09 PM	New Program:Mycronic-DEMOboard
+a  3	12/3/2024 1:35:13 PM	key release or away:CurrentPosition--> X:396.698 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:20 PM	key release or away:CurrentPosition--> X:396.698 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:20 PM	key release or away:CurrentPosition--> X:396.698 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:21 PM	Key click:Right
+a  3	12/3/2024 1:35:21 PM	key release:CurrentPosition--> X:399.422 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:21 PM	Key click:
+a  3	12/3/2024 1:35:21 PM	Key click:Right
+a  3	12/3/2024 1:35:22 PM	key release:CurrentPosition--> X:412.839 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:22 PM	key release:CurrentPosition--> X:412.839 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:23 PM	Key click:
+a  3	12/3/2024 1:35:23 PM	Key click:
+a  3	12/3/2024 1:35:23 PM	Key click:Left
+a  3	12/3/2024 1:35:25 PM	key release:CurrentPosition--> X:386.709 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:25 PM	key release:CurrentPosition--> X:386.709 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:25 PM	key release:CurrentPosition--> X:386.709 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:26 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:30 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:30 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:31 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:35:33 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:29 PM	key release or away:CurrentPosition--> X:385.216 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:34 PM	Key click:Right
+a  3	12/3/2024 1:36:35 PM	key release:CurrentPosition--> X:396.830 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:36 PM	Key click:
+a  3	12/3/2024 1:36:36 PM	Key click:
+a  3	12/3/2024 1:36:36 PM	Key click:Left
+a  3	12/3/2024 1:36:37 PM	key release:CurrentPosition--> X:373.109 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:37 PM	key release:CurrentPosition--> X:373.109 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:37 PM	key release:CurrentPosition--> X:373.109 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:40 PM	Key click:
+a  3	12/3/2024 1:36:40 PM	Key click:Left
+a  3	12/3/2024 1:36:41 PM	key release:CurrentPosition--> X:355.587 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:41 PM	key release:CurrentPosition--> X:355.587 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:42 PM	Key click:
+a  3	12/3/2024 1:36:42 PM	Key click:Left
+a  3	12/3/2024 1:36:44 PM	key release:CurrentPosition--> X:316.915 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:44 PM	Key click:Right
+a  3	12/3/2024 1:36:45 PM	key release:CurrentPosition--> X:337.521 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:45 PM	key release:CurrentPosition--> X:337.521 Y:78.970 Z:20.497
+a  3	12/3/2024 1:36:46 PM	Key click:
+a  3	12/3/2024 1:36:46 PM	Key click:
+a  3	12/3/2024 1:36:46 PM	Key click:Up
+a  3	12/3/2024 1:36:47 PM	key release:CurrentPosition--> X:338.884 Y:85.784 Z:20.497
+a  3	12/3/2024 1:36:47 PM	key release:CurrentPosition--> X:338.884 Y:85.784 Z:20.497
+a  3	12/3/2024 1:36:47 PM	key release:CurrentPosition--> X:338.884 Y:85.784 Z:20.497
+a  3	12/3/2024 1:36:47 PM	Key click:Down
+a  3	12/3/2024 1:36:47 PM	key release:CurrentPosition--> X:338.884 Y:79.278 Z:20.497
+a  3	12/3/2024 1:36:47 PM	Key click:Up
+a  3	12/3/2024 1:36:50 PM	key release:CurrentPosition--> X:338.884 Y:128.589 Z:20.497
+a  3	12/3/2024 1:36:50 PM	Key click:Down
+a  3	12/3/2024 1:36:51 PM	key release:CurrentPosition--> X:338.884 Y:117.529 Z:20.497
+a  3	12/3/2024 1:36:53 PM	Key click:Down
+a  3	12/3/2024 1:36:54 PM	key release:CurrentPosition--> X:338.884 Y:111.810 Z:20.497
+a  3	12/3/2024 1:36:54 PM	Key click:Up
+a  3	12/3/2024 1:36:55 PM	key release:CurrentPosition--> X:338.884 Y:118.011 Z:20.497
+a  3	12/3/2024 1:36:55 PM	Key click:Down
+a  3	12/3/2024 1:36:55 PM	key release:CurrentPosition--> X:338.884 Y:116.982 Z:20.497
+a  3	12/3/2024 1:36:55 PM	Key click:Right
+a  3	12/3/2024 1:36:56 PM	Key click:Up
+a  3	12/3/2024 1:36:56 PM	key release:CurrentPosition--> X:340.126 Y:116.832 Z:20.497
+a  3	12/3/2024 1:36:56 PM	key release:CurrentPosition--> X:340.126 Y:116.832 Z:20.497
+a  3	12/3/2024 1:36:56 PM	Key click:Right
+a  3	12/3/2024 1:36:57 PM	Key click:Up
+a  3	12/3/2024 1:36:57 PM	key release:CurrentPosition--> X:346.858 Y:117.252 Z:20.497
+a  3	12/3/2024 1:36:58 PM	key release:CurrentPosition--> X:347.650 Y:117.552 Z:20.497
+a  3	12/3/2024 1:36:58 PM	Key click:
+a  3	12/3/2024 1:36:58 PM	Key click:
+a  3	12/3/2024 1:36:58 PM	Key click:Right
+a  3	12/3/2024 1:36:59 PM	Key click:Left
+a  3	12/3/2024 1:36:59 PM	key release:CurrentPosition--> X:350.116 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:00 PM	key release:CurrentPosition--> X:351.190 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:00 PM	Key click:Left
+a  3	12/3/2024 1:37:01 PM	key release:CurrentPosition--> X:346.367 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:01 PM	key release:CurrentPosition--> X:346.367 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:01 PM	key release:CurrentPosition--> X:346.367 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:02 PM	key release or away:CurrentPosition--> X:345.680 Y:117.552 Z:20.497
+a  3	12/3/2024 1:37:06 PM	Key click:Down
+a  3	12/3/2024 1:37:07 PM	key release:CurrentPosition--> X:345.680 Y:95.383 Z:20.497
+a  3	12/3/2024 1:37:07 PM	Key click:Up
+a  3	12/3/2024 1:37:07 PM	key release:CurrentPosition--> X:345.680 Y:121.449 Z:20.497
+a  3	12/3/2024 1:37:08 PM	key release or away:CurrentPosition--> X:345.680 Y:122.972 Z:20.497
+a  3	12/3/2024 1:37:08 PM	key release or away:CurrentPosition--> X:345.680 Y:122.972 Z:20.497
+a  3	12/3/2024 1:39:48 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:13.867
+a  3	12/3/2024 1:39:50 PM	Mouse click:Z+
+a  3	12/3/2024 1:39:50 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:13.867
+a  3	12/3/2024 1:39:52 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:19.646
+a  3	12/3/2024 1:39:54 PM	Key click:
+a  3	12/3/2024 1:39:54 PM	key release:CurrentPosition--> X:312.886 Y:122.972 Z:19.646
+a  3	12/3/2024 1:39:54 PM	Key click:
+a  3	12/3/2024 1:39:54 PM	key release:CurrentPosition--> X:312.886 Y:122.972 Z:19.646
+a  3	12/3/2024 1:39:55 PM	Mouse click:Z-
+a  3	12/3/2024 1:39:55 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:19.646
+a  3	12/3/2024 1:39:55 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:16.486
+a  3	12/3/2024 1:39:56 PM	Mouse click:Z+
+a  3	12/3/2024 1:39:56 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:16.486
+a  3	12/3/2024 1:39:57 PM	Mouse click:Z-
+a  3	12/3/2024 1:39:57 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:18.230
+a  3	12/3/2024 1:39:58 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:16.609
+a  3	12/3/2024 1:40:00 PM	Mouse click:Z-
+a  3	12/3/2024 1:40:00 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:16.609
+a  3	12/3/2024 1:40:01 PM	Mouse click:Z+
+a  3	12/3/2024 1:40:01 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:14.901
+a  3	12/3/2024 1:40:01 PM	key release or away:CurrentPosition--> X:312.886 Y:122.972 Z:16.966
+a  3	12/3/2024 1:40:39 PM	Set1_Mark matching coordinates:X:229.390 Y:82.521 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:40:40 PM	1_Mark goto coordinates:X:229.390 Y:82.521 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:41:15 PM	Set2_Mark matching coordinates:X:393.040 Y:269.903 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:41:16 PM	2_Mark goto coordinates:X:393.040 Y:269.903 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:42:26 PM	Set1_Mark matching coordinates:X:222.343 Y:180.892 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:42:28 PM	1_Mark goto coordinates:X:222.343 Y:180.892 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:43:01 PM	Set2_Mark matching coordinates:X:302.090 Y:261.163 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:43:02 PM	2_Mark goto coordinates:X:302.090 Y:261.163 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:43:09 PM	Set2_Mark matching coordinates:X:302.062 Y:261.173 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:43:11 PM	2_Mark goto coordinates:X:302.062 Y:261.173 Z:16.966 Result:TRUE
+a  3	12/3/2024 1:46:19 PM	key release or away:CurrentPosition--> X:307.612 Y:91.178 Z:16.966
+a  3	12/3/2024 1:46:46 PM	Mouse click:X+
+a  3	12/3/2024 1:46:48 PM	key release or away:CurrentPosition--> X:274.276 Y:180.892 Z:16.966
+a  3	12/3/2024 1:46:48 PM	key release or away:CurrentPosition--> X:274.276 Y:180.892 Z:16.966
+a  3	12/3/2024 1:46:50 PM	key release or away:CurrentPosition--> X:275.292 Y:180.892 Z:16.966
+a  3	12/3/2024 1:46:51 PM	Mouse click:Y+
+a  3	12/3/2024 1:46:52 PM	key release or away:CurrentPosition--> X:275.292 Y:217.428 Z:16.966
+a  3	12/3/2024 1:46:52 PM	key release or away:CurrentPosition--> X:275.292 Y:219.180 Z:16.966
+a  3	12/3/2024 1:47:17 PM	Mouse click:Y+
+a  3	12/3/2024 1:47:18 PM	key release or away:CurrentPosition--> X:275.292 Y:227.501 Z:16.966
+a  3	12/3/2024 1:47:18 PM	key release or away:CurrentPosition--> X:275.292 Y:228.814 Z:16.966
+a  3	12/3/2024 1:47:20 PM	Mouse click:Y+
+a  3	12/3/2024 1:47:20 PM	key release or away:CurrentPosition--> X:275.292 Y:237.795 Z:16.966
+a  3	12/3/2024 1:47:21 PM	key release or away:CurrentPosition--> X:275.292 Y:237.795 Z:16.966
+a  3	12/3/2024 1:47:32 PM	Mouse click:X+
+a  3	12/3/2024 1:47:33 PM	key release or away:CurrentPosition--> X:301.052 Y:238.466 Z:16.966
+a  3	12/3/2024 1:47:34 PM	key release or away:CurrentPosition--> X:301.052 Y:238.466 Z:16.966
+a  3	12/3/2024 1:47:36 PM	Mouse click:Y+
+a  3	12/3/2024 1:47:37 PM	key release or away:CurrentPosition--> X:302.572 Y:253.534 Z:16.966
+a  3	12/3/2024 1:47:37 PM	key release or away:CurrentPosition--> X:302.572 Y:253.534 Z:16.966
+a  3	12/3/2024 1:47:56 PM	DryRun
+a  3	12/3/2024 1:47:56 PM	DryRun
+a  3	12/3/2024 1:48:03 PM	Key click:
+a  3	12/3/2024 1:48:04 PM	key release:CurrentPosition--> X:302.572 Y:253.716 Z:16.966
+a  3	12/3/2024 1:48:21 PM	TestRun：Start
+a  3	12/3/2024 1:48:25 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:48:26 PM	TestRun：Stop
+a  3	12/3/2024 1:48:26 PM	Stop
+a  3	12/3/2024 1:48:32 PM	TestRun：Start
+a  3	12/3/2024 1:48:40 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:48:40 PM	TestRun：Stop
+a  3	12/3/2024 1:49:01 PM	TestRun：Start
+a  3	12/3/2024 1:49:04 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:49:04 PM	TestRun：Stop
+a  3	12/3/2024 1:49:19 PM	TestRun：Start
+a  3	12/3/2024 1:49:20 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:49:21 PM	TestRun：Stop
+a  3	12/3/2024 1:49:23 PM	TestRun：Start
+a  3	12/3/2024 1:49:37 PM	TestRun：Stop
+a  3	12/3/2024 1:49:39 PM	TestRun：Stop
+a  3	12/3/2024 1:49:41 PM	TestRun：Start
+a  3	12/3/2024 1:49:51 PM	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:49:52 PM	TestRun：Stop
+a  3	12/3/2024 1:49:58 PM	TestRun：Start
+a  3	12/3/2024 1:50:07 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:50:35 PM	TestRun：Start
+a  3	12/3/2024 1:50:42 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	12/3/2024 1:50:42 PM	TestRun：Stop
+a  3	12/3/2024 1:51:06 PM	TestRun：Start
+a  3	12/3/2024 1:51:57 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:52:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:52:26 PM	TestRun：Start
+a  3	12/3/2024 1:53:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:53:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:53:41 PM	key release or away:CurrentPosition--> X:471.396 Y:416.840 Z:5.000
+a  3	12/3/2024 1:53:43 PM	key release or away:CurrentPosition--> X:471.396 Y:416.840 Z:5.000
+a  3	12/3/2024 1:53:56 PM	TestRun：Start
+a  3	12/3/2024 1:54:06 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:54:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:54:18 PM	TestRun：Start
+a  3	12/3/2024 1:54:56 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 1:55:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:28:30 PM	key release or away:CurrentPosition--> X:471.396 Y:416.840 Z:5.000
+a  3	12/3/2024 5:28:41 PM	Exit 
+a  3	12/3/2024 5:28:42 PM	ParametersOfSystemSetting.bin the modify parameters are 系统参考点
+a  3	12/3/2024 5:28:42 PM	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	12/3/2024 5:28:42 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	12/3/2024 5:30:40 PM	Initializing...
+a  3	12/3/2024 5:30:40 PM	Current User: a
+a  3	12/3/2024 5:30:40 PM	Open Program:ScottFinal
+a  3	12/3/2024 5:34:04 PM	The reset button is pressed
+a  3	12/3/2024 5:34:33 PM	Reset is completed
+a  3	12/3/2024 5:43:00 PM	Open Program:Umeantech v1 top
+a  3	12/3/2024 5:43:27 PM	TestRun：Start
+a  3	12/3/2024 5:43:29 PM	AlarmCode 1040:Can't found template!
+a  3	12/3/2024 5:43:32 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:193.476 Y:192.077 Z:20.505  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/3/2024 5:43:32 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:347.578 Y:142.639 Z:20.505  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
+a  3	12/3/2024 5:43:33 PM	TestRun：Stop
+a  3	12/3/2024 5:43:38 PM	DryRun
+a  3	12/3/2024 5:43:38 PM	DryRun
+a  3	12/3/2024 5:44:15 PM	Coating Running
+a  3	12/3/2024 5:44:15 PM	
+a  3	12/3/2024 5:44:23 PM	Stop
+a  3	12/3/2024 5:44:24 PM	Stop
+a  3	12/3/2024 5:44:27 PM	UnLoadBoard
+a  3	12/3/2024 5:44:27 PM	Alarm50:No product on the track
+a  3	12/3/2024 5:44:32 PM	Coating Running
+a  3	12/3/2024 5:44:33 PM	
+a  3	12/3/2024 5:44:41 PM	Stop
+a  3	12/3/2024 5:44:43 PM	Stop
+a  3	12/3/2024 5:44:59 PM	Coating Running
+a  3	12/3/2024 5:45:00 PM	
+a  3	12/3/2024 5:45:09 PM	AlarmCode 1040:Can't found template!
+a  3	12/3/2024 5:45:15 PM	Automatic Match1_Mark:Main_TwoMark_1:Set-->X:193.476 Y:192.077 Z:20.505  Match-->X:193.476 Y:192.076 Result:FALSE ;Score:100.000
+a  3	12/3/2024 5:45:17 PM	AlarmCode 1041:Can't found template!
+a  3	12/3/2024 5:45:20 PM	Automatic Match2_Mark:Main_TwoMark_2:Set-->X:347.578 Y:142.639 Z:20.505  Match-->X:347.578 Y:142.638 Result:FALSE ;Score:100.000
+a  3	12/3/2024 5:45:20 PM	{"SN":"","StartTime":"24-12-03 17:45:07","StopTime":"24-12-03 17:45:20","ProgramName":"Umeantech v1 top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/3/2024 5:45:22 PM	Stop
+a  3	12/3/2024 5:45:23 PM	Stop
+a  3	12/3/2024 5:45:35 PM	TrackAndPar.bin the modify parameters are Main BadMark Setting,BadMarkLights
+a  3	12/3/2024 5:45:35 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Main BadMark Setting,BadMarkLights
+a  3	12/3/2024 5:46:06 PM	Coating Running
+a  3	12/3/2024 5:46:07 PM	TrackAndPar.bin the modify parameters are Light source adjust,MainA Mark Setting
+a  3	12/3/2024 5:46:08 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust,MainA Mark Setting
+a  3	12/3/2024 5:46:09 PM	Save Program:Umeantech v1 top
+a  3	12/3/2024 5:46:09 PM	
+a  3	12/3/2024 5:46:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:35 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:44 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:46 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:46:48 PM	{"SN":"","StartTime":"24-12-03 17:46:13","StopTime":"24-12-03 17:46:48","ProgramName":"Umeantech v1 top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/3/2024 5:46:51 PM	Stop
+a  3	12/3/2024 5:46:52 PM	Stop
+a  3	12/3/2024 5:47:57 PM	Coating Running
+a  3	12/3/2024 5:47:58 PM	
+a  3	12/3/2024 5:48:08 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:11 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:37 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:38 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:41 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:48:41 PM	{"SN":"","StartTime":"24-12-03 17:48:05","StopTime":"24-12-03 17:48:41","ProgramName":"Umeantech v1 top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/3/2024 5:48:42 PM	Stop
+a  3	12/3/2024 5:48:44 PM	Stop
+a  3	12/3/2024 5:50:19 PM	Coating Running
+a  3	12/3/2024 5:50:20 PM	
+a  3	12/3/2024 5:50:26 PM	Stop
+a  3	12/3/2024 5:50:43 PM	ParametersOfAxis.bin the modify parameters are Speed_setting
+a  3	12/3/2024 5:50:52 PM	Coating Running
+a  3	12/3/2024 5:50:53 PM	
+a  3	12/3/2024 5:51:02 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:04 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:05 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:10 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:12 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:14 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:15 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:17 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:28 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:31 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:32 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:34 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:51:36 PM	{"SN":"","StartTime":"24-12-03 17:50:59","StopTime":"24-12-03 17:51:36","ProgramName":"Umeantech v1 top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/3/2024 5:51:38 PM	Stop
+a  3	12/3/2024 5:51:40 PM	Stop
+a  3	12/3/2024 5:51:48 PM	Exit 
+a  3	12/3/2024 5:51:50 PM	AlarmCode 1006:Pressure Low
+a  3	12/3/2024 5:52:36 PM	Initializing...
+a  3	12/3/2024 5:52:37 PM	Current User: a
+a  3	12/3/2024 5:52:37 PM	Open Program:Umeantech v1 top
+a  3	12/3/2024 5:52:42 PM	The reset button is pressed
+a  3	12/3/2024 5:53:06 PM	Reset is completed
+a  3	12/3/2024 5:53:10 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	12/3/2024 5:53:15 PM	Coating Running
+a  3	12/3/2024 5:53:15 PM	
+a  3	12/3/2024 5:53:25 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/3/2024 5:53:26 PM	AlarmCode 1025:Z position is out of limit!
+a  3	12/3/2024 5:53:26 PM	Stop
+a  3	12/3/2024 5:53:28 PM	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	12/3/2024 5:53:28 PM	{"SN":"","StartTime":"24-12-03 17:53:23","StopTime":"24-12-03 17:53:28","ProgramName":"Umeantech v1 top","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	12/3/2024 5:54:53 PM	Exit 
+a  3	12/3/2024 5:54:54 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	12/3/2024 5:54:55 PM	TrackAndPar.bin the modify parameters are Light source adjust
+a  3	12/3/2024 5:54:55 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust
+a  3	12/3/2024 5:54:55 PM	AlarmCode 1006:Pressure Low
+a  3	12/3/2024 5:55:38 PM	Initializing...
+a  3	12/3/2024 5:55:38 PM	Current User: a
+a  3	12/3/2024 5:55:38 PM	Open Program:Umeantech v1 top
+a  3	12/3/2024 5:55:39 PM	The reset button is pressed
+a  3	12/3/2024 5:56:09 PM	Reset is completed
+a  3	12/3/2024 5:56:56 PM	TestRun：Stop
+a  3	12/3/2024 5:57:18 PM	Exit 
+a  3	12/3/2024 5:57:19 PM	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	12/3/2024 5:57:19 PM	AlarmCode 1006:Pressure Low
+a  3	12/3/2024 5:57:20 PM	Stop

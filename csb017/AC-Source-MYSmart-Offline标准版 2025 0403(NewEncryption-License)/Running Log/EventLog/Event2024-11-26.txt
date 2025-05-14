@@ -1,150 +1,108 @@
 
-a  3	11/26/2024 9:27:21 AM	设备初始化......
-a  3	11/26/2024 9:27:21 AM	当前用户： a
-a  3	11/26/2024 9:27:21 AM	打开程序：20241104151850
-a  3	11/26/2024 9:27:22 AM	复位按钮按下
-a  3	11/26/2024 9:27:31 AM	设备复位完成
-a  3	11/26/2024 9:27:50 AM	键盘按下：Left
-a  3	11/26/2024 9:27:50 AM	X轴原点
-a  3	11/26/2024 9:27:51 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:28:01 AM	Z轴原点
-a  3	11/26/2024 9:28:01 AM	报警代码 1014:Z轴负极限触发
-a  3	11/26/2024 9:28:12 AM	键盘按下：Left
-a  3	11/26/2024 9:28:12 AM	键盘释放：CurrentPosition--> X:28.966 Y:0.000 Z:0.091
-a  3	11/26/2024 9:28:14 AM	键盘按下：Left
-a  3	11/26/2024 9:28:14 AM	键盘按下：Down
-a  3	11/26/2024 9:28:14 AM	键盘释放：CurrentPosition--> X:27.534 Y:0.000 Z:0.091
-a  3	11/26/2024 9:28:15 AM	Y轴原点
-a  3	11/26/2024 9:28:15 AM	报警代码 1013:Y轴负极限触发
-a  3	11/26/2024 9:28:54 AM	键盘释放：CurrentPosition--> X:26.236 Y:-0.668 Z:0.091
-a  3	11/26/2024 9:29:23 AM	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Bar Code Match,DataSavedBySys
-a  3	11/26/2024 9:29:23 AM	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-a  3	11/26/2024 9:29:55 AM	键盘按下：Left
-a  3	11/26/2024 9:29:56 AM	键盘释放：CurrentPosition--> X:153.484 Y:5.492 Z:0.091
-a  3	11/26/2024 9:30:03 AM	键盘按下：Left
-a  3	11/26/2024 9:30:07 AM	键盘释放：CurrentPosition--> X:79.367 Y:5.492 Z:0.091
-a  3	11/26/2024 9:30:52 AM	鼠标释放或离开：CurrentPosition--> X:79.238 Y:5.492 Z:0.091
-a  3	11/26/2024 9:30:56 AM	鼠标释放或离开：CurrentPosition--> X:79.238 Y:5.492 Z:0.091
-a  3	11/26/2024 9:30:58 AM	鼠标释放或离开：CurrentPosition--> X:79.238 Y:5.492 Z:0.091
-a  3	11/26/2024 9:30:58 AM	键盘按下：Left
-a  3	11/26/2024 9:31:02 AM	X轴原点
-a  3	11/26/2024 9:31:03 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:31:12 AM	鼠标释放或离开：CurrentPosition--> X:25.288 Y:5.492 Z:0.091
-a  3	11/26/2024 9:31:14 AM	鼠标释放或离开：CurrentPosition--> X:25.288 Y:5.492 Z:0.091
-a  3	11/26/2024 9:31:15 AM	鼠标点击：X-
-a  3	11/26/2024 9:31:16 AM	X轴原点
-a  3	11/26/2024 9:31:17 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:31:21 AM	鼠标释放或离开：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:32:01 AM	键盘按下：Left
-a  3	11/26/2024 9:32:01 AM	键盘释放：CurrentPosition--> X:39.845 Y:5.492 Z:0.091
-a  3	11/26/2024 9:32:01 AM	键盘按下：Left
-a  3	11/26/2024 9:32:03 AM	键盘释放：CurrentPosition--> X:16.827 Y:5.492 Z:0.091
-a  3	11/26/2024 9:34:22 AM	键盘按下：Left
-a  3	11/26/2024 9:34:22 AM	X轴原点
-a  3	11/26/2024 9:34:23 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:34:29 AM	键盘释放：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:35:10 AM	键盘按下：Left
-a  3	11/26/2024 9:35:10 AM	X轴原点
-a  3	11/26/2024 9:35:11 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:35:14 AM	键盘释放：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:35:14 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:35:16 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:35:18 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:35:19 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:36:01 AM	键盘按下：Left
-a  3	11/26/2024 9:36:02 AM	X轴原点
-a  3	11/26/2024 9:36:02 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:36:07 AM	键盘释放：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:36:36 AM	键盘按下：Left
-a  3	11/26/2024 9:36:36 AM	X轴原点
-a  3	11/26/2024 9:36:37 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:36:39 AM	键盘释放：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:37:01 AM	键盘按下：Left
-a  3	11/26/2024 9:37:01 AM	X轴原点
-a  3	11/26/2024 9:37:01 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:37:29 AM	键盘按下：Left
-a  3	11/26/2024 9:37:29 AM	X轴原点
-a  3	11/26/2024 9:37:30 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:38:05 AM	键盘按下：Left
-a  3	11/26/2024 9:38:05 AM	X轴原点
-a  3	11/26/2024 9:38:06 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:38:15 AM	键盘按下：Left
-a  3	11/26/2024 9:38:15 AM	X轴原点
-a  3	11/26/2024 9:38:15 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:38:18 AM	键盘释放：CurrentPosition--> X:-0.750 Y:5.492 Z:0.091
-a  3	11/26/2024 9:39:24 AM	键盘按下：Left
-a  3	11/26/2024 9:39:25 AM	X轴原点
-a  3	11/26/2024 9:39:25 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:39:28 AM	键盘释放：CurrentPosition--> X:-0.754 Y:5.492 Z:0.091
-a  3	11/26/2024 9:39:49 AM	复位按钮按下
-a  3	11/26/2024 9:39:58 AM	设备复位完成
-a  3	11/26/2024 9:41:29 AM	鼠标点击：X-
-a  3	11/26/2024 9:41:29 AM	X轴原点
-a  3	11/26/2024 9:41:29 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:41:33 AM	鼠标释放或离开：CurrentPosition--> X:-0.758 Y:0.000 Z:0.000
-a  3	11/26/2024 9:41:33 AM	鼠标释放或离开：CurrentPosition--> X:-0.758 Y:0.000 Z:0.000
-a  3	11/26/2024 9:41:56 AM	键盘释放：CurrentPosition--> X:3.896 Y:0.000 Z:0.000
-a  3	11/26/2024 9:41:57 AM	键盘释放：CurrentPosition--> X:3.896 Y:0.000 Z:0.000
-a  3	11/26/2024 9:42:32 AM	键盘释放：CurrentPosition--> X:3.896 Y:0.000 Z:0.000
-a  3	11/26/2024 9:42:32 AM	键盘释放：CurrentPosition--> X:3.896 Y:0.000 Z:0.000
-a  3	11/26/2024 9:43:15 AM	键盘按下：Left
-a  3	11/26/2024 9:43:15 AM	X轴原点
-a  3	11/26/2024 9:43:16 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:44:44 AM	设备初始化......
-a  3	11/26/2024 9:44:44 AM	复位按钮按下
-a  3	11/26/2024 9:44:44 AM	当前用户： a
-a  3	11/26/2024 9:44:44 AM	打开程序：20241104151850
-a  3	11/26/2024 9:44:53 AM	设备复位完成
-a  3	11/26/2024 9:44:58 AM	键盘按下：Left
-a  3	11/26/2024 9:44:58 AM	X轴原点
-a  3	11/26/2024 9:44:59 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:45:01 AM	键盘释放：CurrentPosition--> X:-0.758 Y:0.000 Z:0.000
-a  3	11/26/2024 9:47:48 AM	设备初始化......
-a  3	11/26/2024 9:47:48 AM	当前用户： a
-a  3	11/26/2024 9:47:48 AM	打开程序：20241104151850
-a  3	11/26/2024 9:51:01 AM	设备初始化......
-a  3	11/26/2024 9:51:01 AM	当前用户： a
-a  3	11/26/2024 9:51:02 AM	打开程序：20241104151850
-a  3	11/26/2024 9:51:15 AM	复位按钮按下
-a  3	11/26/2024 9:51:24 AM	设备复位完成
-a  3	11/26/2024 9:51:29 AM	键盘按下：Left
-a  3	11/26/2024 9:51:29 AM	X轴原点
-a  3	11/26/2024 9:51:30 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 9:51:59 AM	键盘释放：CurrentPosition--> X:-0.758 Y:0.000 Z:0.000
-a  3	11/26/2024 10:09:52 AM	设备初始化......
-a  3	11/26/2024 10:09:52 AM	当前用户： a
-a  3	11/26/2024 10:09:52 AM	打开程序：20241104151850
-a  3	11/26/2024 10:09:53 AM	复位按钮按下
-a  3	11/26/2024 10:10:02 AM	设备复位完成
-a  3	11/26/2024 10:10:06 AM	键盘按下：Left
-a  3	11/26/2024 10:10:06 AM	X轴原点
-a  3	11/26/2024 10:10:07 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 10:10:39 AM	设备初始化......
-a  3	11/26/2024 10:10:39 AM	当前用户： a
-a  3	11/26/2024 10:10:39 AM	打开程序：20241104151850
-a  3	11/26/2024 10:10:40 AM	复位按钮按下
-a  3	11/26/2024 10:10:48 AM	设备复位完成
-a  3	11/26/2024 10:11:42 AM	设备初始化......
-a  3	11/26/2024 10:11:42 AM	当前用户： a
-a  3	11/26/2024 10:11:42 AM	打开程序：20241104151850
-a  3	11/26/2024 10:11:42 AM	复位按钮按下
-a  3	11/26/2024 10:11:51 AM	设备复位完成
-a  3	11/26/2024 10:11:54 AM	键盘按下：Left
-a  3	11/26/2024 10:11:55 AM	X轴原点
-a  3	11/26/2024 10:11:55 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 10:12:06 AM	键盘释放：CurrentPosition--> X:-0.762 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:07 AM	报警代码 1018:X 为负值
-a  3	11/26/2024 10:12:19 AM	鼠标释放或离开：CurrentPosition--> X:0.132 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:19 AM	鼠标释放或离开：CurrentPosition--> X:0.132 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:19 AM	鼠标释放或离开：CurrentPosition--> X:0.132 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:20 AM	键盘按下：
-a  3	11/26/2024 10:12:20 AM	键盘按下：Left
-a  3	11/26/2024 10:12:20 AM	X轴原点
-a  3	11/26/2024 10:12:21 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 10:12:35 AM	键盘释放：CurrentPosition--> X:-2.632 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:38 AM	鼠标释放或离开：CurrentPosition--> X:6.856 Y:0.000 Z:0.000
-a  3	11/26/2024 10:12:41 AM	键盘按下：
-a  3	11/26/2024 10:12:41 AM	键盘按下：Left
-a  3	11/26/2024 10:12:42 AM	X轴原点
-a  3	11/26/2024 10:12:42 AM	报警代码 1012:X轴负极限触发
-a  3	11/26/2024 10:13:02 AM	键盘释放：CurrentPosition--> X:-2.608 Y:0.000 Z:0.000
+a  3	11/26/2024 2:26:22 PM	Initializing...
+a  3	11/26/2024 2:26:22 PM	Current User: a
+a  3	11/26/2024 2:26:22 PM	Open Program:
+a  3	11/26/2024 2:26:26 PM	The reset button is pressed
+a  3	11/26/2024 2:26:35 PM	Reset is completed
+a  3	11/26/2024 2:26:42 PM	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/26/2024 2:26:57 PM	Open Program:MBRSC
+a  3	11/26/2024 2:26:58 PM	Open Program:MBRSC
+a  3	11/26/2024 2:27:06 PM	Open Program:Unitron top v1
+a  3	11/26/2024 2:27:07 PM	Open Program:Unitron top v1
+a  3	11/26/2024 2:27:13 PM	WorkOrigin
+a  3	11/26/2024 2:27:37 PM	ParametersOfAxis.bin the modify parameters are Speed_setting
+a  3	11/26/2024 2:27:37 PM	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match,MarkLightSource
+a  3	11/26/2024 2:27:41 PM	Front
+a  3	11/26/2024 2:27:44 PM	WorkOrigin
+a  3	11/26/2024 2:27:49 PM	Front
+a  3	11/26/2024 2:27:51 PM	Mouse click:X+
+a  3	11/26/2024 2:27:53 PM	key release or away:CurrentPosition--> X:227.869 Y:34.958 Z:0.000
+a  3	11/26/2024 2:27:53 PM	key release or away:CurrentPosition--> X:227.869 Y:34.958 Z:0.000
+a  3	11/26/2024 2:27:56 PM	Mouse click:X+
+a  3	11/26/2024 2:27:58 PM	key release or away:CurrentPosition--> X:414.110 Y:34.958 Z:0.000
+a  3	11/26/2024 2:27:59 PM	key release or away:CurrentPosition--> X:421.086 Y:34.958 Z:0.000
+a  3	11/26/2024 2:28:01 PM	WorkOrigin
+a  3	11/26/2024 2:28:48 PM	Exit 
+a  3	11/26/2024 2:28:50 PM	AlarmCode 1006:Pressure Low
+a  3	11/26/2024 2:31:29 PM	Initializing...
+a  3	11/26/2024 2:31:29 PM	Current User: a
+a  3	11/26/2024 2:31:29 PM	Open Program:Unitron top v1
+a  3	11/26/2024 2:31:33 PM	The reset button is pressed
+a  3	11/26/2024 2:32:00 PM	Reset is completed
+a  3	11/26/2024 2:40:08 PM	Open Program:Bucher Top1 film coater
+a  3	11/26/2024 2:40:09 PM	Open Program:Bucher Top1 film coater
+a  3	11/26/2024 2:40:20 PM	ParametersOfSystemSetting.bin the modify parameters are MarkLightSource,ValveColor
+a  3	11/26/2024 2:40:20 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	11/26/2024 2:41:19 PM	The <55> line of program in the pattern <panel> has been modified. PullBackHeight:80.000
+
+a  3	11/26/2024 2:41:37 PM	Key click:
+a  3	11/26/2024 2:41:41 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/26/2024 2:41:45 PM	DryRun
+a  3	11/26/2024 2:41:45 PM	DryRun
+a  3	11/26/2024 2:41:53 PM	Key click:
+a  3	11/26/2024 2:41:55 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/26/2024 2:42:01 PM	Key click:
+a  3	11/26/2024 2:42:05 PM	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
+a  3	11/26/2024 2:42:12 PM	TestRun：Start
+a  3	11/26/2024 2:42:16 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:18 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:19 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:20 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:21 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:22 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:29 PM	TestRun：Start
+a  3	11/26/2024 2:42:36 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:39 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:40 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:42:53 PM	Key click:
+a  3	11/26/2024 2:42:54 PM	key release:CurrentPosition--> X:292.684 Y:510.940 Z:76.669
+a  3	11/26/2024 2:42:55 PM	Key click:
+a  3	11/26/2024 2:43:14 PM	key release:CurrentPosition--> X:292.684 Y:510.940 Z:76.669
+a  3	11/26/2024 2:43:18 PM	TestRun：Start
+a  3	11/26/2024 2:43:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:27 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:29 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:30 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:33 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:44 PM	TestRun：Start
+a  3	11/26/2024 2:43:48 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:43:53 PM	TestRun：Stop
+a  3	11/26/2024 2:43:55 PM	Key click:
+a  3	11/26/2024 2:44:00 PM	key release:CurrentPosition--> X:347.464 Y:474.728 Z:66.669
+a  3	11/26/2024 2:44:05 PM	TestRun：Start
+a  3	11/26/2024 2:44:09 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:44:15 PM	Key click:
+a  3	11/26/2024 2:44:17 PM	key release:CurrentPosition--> X:347.464 Y:474.728 Z:66.669
+a  3	11/26/2024 2:44:20 PM	TestRun：Start
+a  3	11/26/2024 2:44:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:44:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:44:31 PM	Key click:
+a  3	11/26/2024 2:44:35 PM	key release:CurrentPosition--> X:347.464 Y:474.728 Z:66.669
+a  3	11/26/2024 2:44:38 PM	TestRun：Start
+a  3	11/26/2024 2:44:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:44:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:44:47 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:45:01 PM	Key click:
+a  3	11/26/2024 2:45:04 PM	key release:CurrentPosition--> X:342.496 Y:483.922 Z:66.669
+a  3	11/26/2024 2:45:52 PM	The <55> line of program in the pattern <panel> has been modified. PullBackHeight:50.000
+
+a  3	11/26/2024 2:45:59 PM	Key click:
+a  3	11/26/2024 2:46:02 PM	key release:CurrentPosition--> X:342.496 Y:483.922 Z:66.669
+a  3	11/26/2024 2:46:04 PM	Key click:
+a  3	11/26/2024 2:46:14 PM	key release:CurrentPosition--> X:342.496 Y:483.922 Z:66.669
+a  3	11/26/2024 2:46:18 PM	TestRun：Start
+a  3	11/26/2024 2:46:23 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:46:24 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:46:26 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:47:09 PM	key release or away:CurrentPosition--> X:342.496 Y:483.922 Z:66.669
+a  3	11/26/2024 2:47:36 PM	TestRun：Start
+a  3	11/26/2024 2:47:42 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:47:43 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:47:45 PM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	11/26/2024 2:48:11 PM	Exit 
+a  3	11/26/2024 2:48:11 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath

@@ -1,19 +1,619 @@
 
-a  3	2025/01/27 15:57:40.409	设备初始化......
-a  3	2025/01/27 15:57:40.585	当前用户： a
-a  3	2025/01/27 15:57:40.605	打开程序：test
-a  3	2025/01/27 15:57:40.616	低气压检测未开启
-a  3	2025/01/27 15:57:41.050	复位按钮按下
-a  3	2025/01/27 15:57:58.613	设备复位完成
-a  3	2025/01/27 15:58:02.171	English
-a  3	2025/01/27 15:58:16.575	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/27 15:58:17.368	Key click:
-a  3	2025/01/27 15:58:17.543	Key click:
-a  3	2025/01/27 15:58:17.590	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/27 15:58:17.623	key release:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/27 15:58:18.000	TrackAndPar.bin the modify parameters are TwoValveDistanceData
-a  3	2025/01/27 15:58:18.026	ShareParameters.bin the modify parameters are TwoValveDistanceData
-a  3	2025/01/27 15:58:18.170	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-a  3	2025/01/27 15:58:19.428	Save Program:test
-a  3	2025/01/27 15:58:23.128	Exit 
-a  3	2025/01/27 15:58:23.249	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2025/01/27 10:26:15.431	Initializing...
+a  3	2025/01/27 10:26:15.603	Current User: a
+a  3	2025/01/27 10:26:15.645	Open Program:Conti ford workshop top v1
+a  3	2025/01/27 10:26:16.499	The reset button is pressed
+a  3	2025/01/27 10:26:37.259	Reset is completed
+a  3	2025/01/27 10:26:50.247	Mouse click:X+
+a  3	2025/01/27 10:26:52.251	key release or away:CurrentPosition--> X:191.390 Y:0.000 Z:0.000
+a  3	2025/01/27 10:26:52.837	Mouse click:X+
+a  3	2025/01/27 10:26:56.272	key release or away:CurrentPosition--> X:527.578 Y:0.000 Z:0.000
+a  3	2025/01/27 10:26:57.754	Mouse click:X+
+a  3	2025/01/27 10:26:57.825	key release or away:CurrentPosition--> X:531.564 Y:0.000 Z:0.000
+a  3	2025/01/27 10:26:59.073	key release or away:CurrentPosition--> X:538.766 Y:0.000 Z:0.000
+a  3	2025/01/27 10:27:00.500	Mouse click:X+
+a  3	2025/01/27 10:27:00.626	key release or away:CurrentPosition--> X:541.742 Y:0.000 Z:0.000
+a  3	2025/01/27 10:27:00.793	Mouse click:X+
+a  3	2025/01/27 10:27:01.082	key release or away:CurrentPosition--> X:546.504 Y:0.000 Z:0.000
+a  3	2025/01/27 10:27:03.319	key release or away:CurrentPosition--> X:548.262 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:29.788	Key click:Left
+a  3	2025/01/27 11:12:32.256	key release:CurrentPosition--> X:494.868 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:32.514	Key click:
+a  3	2025/01/27 11:12:32.529	Key click:
+a  3	2025/01/27 11:12:32.600	key release:CurrentPosition--> X:494.396 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:32.662	Key click:
+a  3	2025/01/27 11:12:32.862	Key click:Left
+a  3	2025/01/27 11:12:33.822	key release:CurrentPosition--> X:428.473 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:33.832	key release:CurrentPosition--> X:428.473 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:34.012	Key click:Left
+a  3	2025/01/27 11:12:34.390	key release:CurrentPosition--> X:422.929 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:34.458	key release:CurrentPosition--> X:422.929 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:34.467	Key click:
+a  3	2025/01/27 11:12:34.550	Key click:Left
+a  3	2025/01/27 11:12:34.879	key release:CurrentPosition--> X:422.229 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:35.065	Key click:Left
+a  3	2025/01/27 11:12:35.413	key release:CurrentPosition--> X:421.784 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:35.454	Key click:
+a  3	2025/01/27 11:12:35.617	Key click:Left
+a  3	2025/01/27 11:12:37.093	key release:CurrentPosition--> X:319.612 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:37.532	Key click:Right
+a  3	2025/01/27 11:12:37.974	key release:CurrentPosition--> X:346.746 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:38.069	Key click:Left
+a  3	2025/01/27 11:12:39.594	key release:CurrentPosition--> X:243.068 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:39.614	key release:CurrentPosition--> X:243.068 Y:0.000 Z:0.000
+a  3	2025/01/27 11:12:39.635	key release:CurrentPosition--> X:243.068 Y:0.000 Z:0.000
+a  3	2025/01/27 11:18:48.878	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:0.000
+a  3	2025/01/27 11:18:50.138	Mouse click:Z+
+a  3	2025/01/27 11:18:53.833	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:80.278
+a  3	2025/01/27 11:18:54.585	Mouse click:Z+
+a  3	2025/01/27 11:18:55.103	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:90.562
+a  3	2025/01/27 11:18:55.480	Mouse click:Z+
+a  3	2025/01/27 11:18:55.688	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:94.207
+a  3	2025/01/27 11:19:18.938	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:96.584
+a  3	2025/01/27 12:21:01.618	Mouse click:Z+
+a  3	2025/01/27 12:21:05.124	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:79.899
+a  3	2025/01/27 12:21:05.838	Mouse click:Z+
+a  3	2025/01/27 12:21:06.042	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:84.361
+a  3	2025/01/27 12:21:06.507	Mouse click:Z+
+a  3	2025/01/27 12:21:06.706	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:88.420
+a  3	2025/01/27 12:21:07.343	Mouse click:Z+
+a  3	2025/01/27 12:21:07.425	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:90.541
+a  3	2025/01/27 12:21:24.784	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:92.350
+a  3	2025/01/27 13:17:18.485	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:5.000
+a  3	2025/01/27 13:20:47.433	key release or away:CurrentPosition--> X:240.608 Y:0.000 Z:5.000
+a  3	2025/01/27 13:25:59.940	Mouse click:Y+
+a  3	2025/01/27 13:26:05.206	key release or away:CurrentPosition--> X:240.608 Y:113.213 Z:5.000
+a  3	2025/01/27 13:26:05.246	key release or away:CurrentPosition--> X:240.608 Y:113.213 Z:5.000
+a  3	2025/01/27 13:27:08.307	key release or away:CurrentPosition--> X:240.608 Y:114.846 Z:5.000
+a  3	2025/01/27 13:29:20.350	Mouse click:X-
+a  3	2025/01/27 13:29:21.780	key release or away:CurrentPosition--> X:210.725 Y:114.846 Z:5.000
+a  3	2025/01/27 13:29:22.589	Mouse click:X-
+a  3	2025/01/27 13:29:22.681	key release or away:CurrentPosition--> X:209.398 Y:114.846 Z:5.000
+a  3	2025/01/27 13:29:22.773	Mouse click:X-
+a  3	2025/01/27 13:29:23.356	key release or away:CurrentPosition--> X:195.435 Y:114.846 Z:5.000
+a  3	2025/01/27 13:29:23.746	Mouse click:Y+
+a  3	2025/01/27 13:29:24.746	key release or away:CurrentPosition--> X:194.746 Y:134.456 Z:5.000
+a  3	2025/01/27 13:29:28.317	Mouse click:X+
+a  3	2025/01/27 13:29:29.253	key release or away:CurrentPosition--> X:214.170 Y:137.014 Z:5.000
+a  3	2025/01/27 13:29:43.048	key release or away:CurrentPosition--> X:215.144 Y:137.014 Z:5.000
+a  3	2025/01/27 13:33:19.185	WorkOrigin
+a  3	2025/01/27 13:33:43.845	Open Program:01-SprayLinesA4 - full
+a  3	2025/01/27 13:34:02.157	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 13:34:25.187	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 13:34:27.248	LoadBoard
+a  3	2025/01/27 13:34:45.266	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 13:35:18.493	ValveAndCalibretingData.bin the modify parameters are Valve3Paramemter
+a  3	2025/01/27 13:35:18.639	ParametersOfSystemSetting.bin the modify parameters are ValveColor
+a  3	2025/01/27 13:35:18.771	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2025/01/27 13:35:51.292	The <1> line of program in the pattern <Line> has been modified. PrematurelyAtomized:0.150,PrematurelOpeningValve:0.050,Speed:60.000,DispensingHeight:10.000,OffAtomizatingDlay:0.030
+
+a  3	2025/01/27 13:35:59.165	TestRun：Stop
+a  3	2025/01/27 13:36:27.833	TestRun：Start
+a  3	2025/01/27 13:36:29.673	TestRun：Stop
+a  3	2025/01/27 13:36:29.749	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	2025/01/27 13:36:29.988	Stop
+a  3	2025/01/27 13:39:27.924	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust,Valve3CaliSave
+a  3	2025/01/27 13:40:49.707	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib ,Numeric
+a  3	2025/01/27 13:40:49.744	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	2025/01/27 13:40:53.839	TestRun：Start
+a  3	2025/01/27 13:41:00.070	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:41:20.478	Mouse click:X-
+a  3	2025/01/27 13:41:20.561	key release or away:CurrentPosition--> X:120.518 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:20.793	Mouse click:X-
+a  3	2025/01/27 13:41:21.989	key release or away:CurrentPosition--> X:94.845 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:22.165	Mouse click:X-
+a  3	2025/01/27 13:41:22.245	key release or away:CurrentPosition--> X:92.688 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:22.353	Mouse click:X-
+a  3	2025/01/27 13:41:22.426	key release or away:CurrentPosition--> X:92.688 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:22.515	Mouse click:X-
+a  3	2025/01/27 13:41:22.588	key release or away:CurrentPosition--> X:92.688 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:22.863	Mouse click:X-
+a  3	2025/01/27 13:41:22.935	key release or away:CurrentPosition--> X:88.512 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:23.595	key release or away:CurrentPosition--> X:86.934 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:24.927	Mouse click:X-
+a  3	2025/01/27 13:41:25.061	key release or away:CurrentPosition--> X:86.762 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:25.258	Mouse click:X-
+a  3	2025/01/27 13:41:26.655	key release or away:CurrentPosition--> X:84.527 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:27.566	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:29.020	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:29.097	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:31.181	Key click:
+a  3	2025/01/27 13:41:31.270	Key click:
+a  3	2025/01/27 13:41:31.297	key release:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:31.339	key release:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:32.527	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:33.270	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:34.165	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:34.793	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:35.883	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:40.486	key release or away:CurrentPosition--> X:84.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:41:43.293	key release or away:CurrentPosition--> X:104.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:42:31.585	The <1> line of program in the pattern <Line> has been modified. Pos:{(104.480,99.524,20.500)-(361.480,99.524,20.500)}
+
+a  3	2025/01/27 13:42:33.708	Key click:
+a  3	2025/01/27 13:42:33.803	key release:CurrentPosition--> X:104.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:42:34.048	Key click:
+a  3	2025/01/27 13:42:34.107	key release:CurrentPosition--> X:104.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:42:34.538	key release or away:CurrentPosition--> X:104.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:42:37.282	key release or away:CurrentPosition--> X:104.480 Y:99.524 Z:20.500
+a  3	2025/01/27 13:42:38.202	key release or away:CurrentPosition--> X:104.480 Y:84.524 Z:20.500
+a  3	2025/01/27 13:42:38.859	key release or away:CurrentPosition--> X:104.480 Y:84.524 Z:20.500
+a  3	2025/01/27 13:42:47.274	key release or away:CurrentPosition--> X:104.480 Y:84.524 Z:20.500
+a  3	2025/01/27 13:42:49.709	key release or away:CurrentPosition--> X:104.480 Y:69.524 Z:20.500
+a  3	2025/01/27 13:42:49.777	key release or away:CurrentPosition--> X:104.480 Y:69.524 Z:20.500
+a  3	2025/01/27 13:42:51.399	Mouse click:Y-
+a  3	2025/01/27 13:42:51.494	key release or away:CurrentPosition--> X:104.480 Y:84.524 Z:20.500
+a  3	2025/01/27 13:42:51.758	Mouse click:Y-
+a  3	2025/01/27 13:42:51.847	key release or away:CurrentPosition--> X:104.480 Y:83.630 Z:20.500
+a  3	2025/01/27 13:42:51.987	Mouse click:Y-
+a  3	2025/01/27 13:42:52.099	key release or away:CurrentPosition--> X:104.480 Y:82.790 Z:20.500
+a  3	2025/01/27 13:42:52.162	Mouse click:Y-
+a  3	2025/01/27 13:42:52.237	key release or away:CurrentPosition--> X:104.480 Y:82.790 Z:20.500
+a  3	2025/01/27 13:42:52.473	Mouse click:Y-
+a  3	2025/01/27 13:42:52.540	key release or away:CurrentPosition--> X:104.480 Y:81.242 Z:20.500
+a  3	2025/01/27 13:42:52.921	Mouse click:Y-
+a  3	2025/01/27 13:42:53.001	key release or away:CurrentPosition--> X:104.480 Y:80.344 Z:20.500
+a  3	2025/01/27 13:42:56.862	key release or away:CurrentPosition--> X:104.480 Y:79.588 Z:20.500
+a  3	2025/01/27 13:43:04.397	The positon offset of line <1> in pattern <Line> is X:<0.000>,Y:<-5.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 13:43:13.443	Key click:
+a  3	2025/01/27 13:43:13.929	key release:CurrentPosition--> X:104.480 Y:79.588 Z:20.500
+a  3	2025/01/27 13:43:23.046	The positon offset of line <1,2,3,4,5,6> in pattern <->main(A)> is X:<-20.000>,Y:<0.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 13:43:31.085	The positon offset of line <1,2,3,4,5,6> in pattern <->main(A)> is X:<3.480>,Y:<0.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 13:43:37.605	The positon offset of line <1,2,3,4,5,6> in pattern <->main(A)> is X:<0.000>,Y:<-5.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 13:43:41.568	TestRun：Start
+a  3	2025/01/27 13:43:48.134	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:44:00.663	TestRun：Start
+a  3	2025/01/27 13:44:07.036	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:44:14.760	TestRun：Start
+a  3	2025/01/27 13:44:21.122	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:44:26.439	TestRun：Start
+a  3	2025/01/27 13:44:32.511	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:44:38.084	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:44:56.509	TestRun：Start
+a  3	2025/01/27 13:45:02.592	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:45:07.861	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:45:13.429	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:45:20.825	Key click:
+a  3	2025/01/27 13:45:20.931	key release:CurrentPosition--> X:104.480 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:22.734	Mouse click:X+
+a  3	2025/01/27 13:45:23.770	key release or away:CurrentPosition--> X:113.678 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:24.165	Key click:Right
+a  3	2025/01/27 13:45:24.523	Key click:
+a  3	2025/01/27 13:45:24.619	key release:CurrentPosition--> X:117.019 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:24.715	Key click:
+a  3	2025/01/27 13:45:24.899	Key click:Right
+a  3	2025/01/27 13:45:26.075	key release:CurrentPosition--> X:197.466 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:26.104	key release:CurrentPosition--> X:197.466 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:27.154	Key click:Up
+a  3	2025/01/27 13:45:27.181	key release:CurrentPosition--> X:201.834 Y:119.864 Z:20.500
+a  3	2025/01/27 13:45:27.589	Key click:Up
+a  3	2025/01/27 13:45:27.627	key release:CurrentPosition--> X:201.834 Y:119.884 Z:20.500
+a  3	2025/01/27 13:45:27.780	Key click:Up
+a  3	2025/01/27 13:45:27.811	key release:CurrentPosition--> X:201.834 Y:119.924 Z:20.500
+a  3	2025/01/27 13:45:27.953	Key click:Up
+a  3	2025/01/27 13:45:27.987	key release:CurrentPosition--> X:201.834 Y:119.924 Z:20.500
+a  3	2025/01/27 13:45:28.098	Key click:Up
+a  3	2025/01/27 13:45:28.151	key release:CurrentPosition--> X:201.834 Y:119.924 Z:20.500
+a  3	2025/01/27 13:45:28.265	Key click:Up
+a  3	2025/01/27 13:45:28.325	key release:CurrentPosition--> X:201.834 Y:119.924 Z:20.500
+a  3	2025/01/27 13:45:28.435	Key click:Up
+a  3	2025/01/27 13:45:28.508	key release:CurrentPosition--> X:201.834 Y:119.924 Z:20.500
+a  3	2025/01/27 13:45:28.643	Key click:Up
+a  3	2025/01/27 13:45:28.947	key release:CurrentPosition--> X:201.834 Y:120.448 Z:20.500
+a  3	2025/01/27 13:45:29.292	Key click:Up
+a  3	2025/01/27 13:45:29.331	key release:CurrentPosition--> X:201.834 Y:120.530 Z:20.500
+a  3	2025/01/27 13:45:29.492	key release:CurrentPosition--> X:201.834 Y:120.594 Z:20.500
+a  3	2025/01/27 13:45:33.387	key release or away:CurrentPosition--> X:201.834 Y:120.594 Z:20.500
+a  3	2025/01/27 13:45:38.499	key release or away:CurrentPosition--> X:201.834 Y:120.594 Z:20.500
+a  3	2025/01/27 13:45:41.395	Key click:
+a  3	2025/01/27 13:45:42.391	key release:CurrentPosition--> X:201.834 Y:120.594 Z:20.500
+a  3	2025/01/27 13:45:44.817	TestRun：Start
+a  3	2025/01/27 13:45:50.914	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:45:56.189	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:46:01.757	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:46:07.924	Key click:Right
+a  3	2025/01/27 13:46:08.403	Key click:
+a  3	2025/01/27 13:46:08.434	key release:CurrentPosition--> X:108.382 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:08.477	Key click:
+a  3	2025/01/27 13:46:08.565	key release:CurrentPosition--> X:109.014 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:08.806	Key click:
+a  3	2025/01/27 13:46:09.063	Key click:Right
+a  3	2025/01/27 13:46:09.855	key release:CurrentPosition--> X:164.000 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:10.032	Key click:Right
+a  3	2025/01/27 13:46:10.379	key release:CurrentPosition--> X:188.598 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:10.627	key release:CurrentPosition--> X:189.518 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:10.666	key release:CurrentPosition--> X:189.518 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:14.751	key release or away:CurrentPosition--> X:189.518 Y:149.864 Z:20.500
+a  3	2025/01/27 13:46:34.639	WorkOrigin
+a  3	2025/01/27 13:46:46.237	Key click:
+a  3	2025/01/27 13:46:47.761	key release:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 13:46:49.726	TestRun：Start
+a  3	2025/01/27 13:46:55.928	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:47:01.197	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:47:06.482	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:47:11.750	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:47:17.019	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:47:22.593	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:50:02.603	ValveAndCalibretingData.bin the modify parameters are Deviation of spay valve,Stroke of spay valve,RadiusAdjust,Spray Valve Position,Spary Valve Teaching Point
+a  3	2025/01/27 13:50:07.782	ValveAndCalibretingData.bin the modify parameters are Stroke of spay valve
+a  3	2025/01/27 13:50:30.917	Open Program:01-JetLinesA4
+a  3	2025/01/27 13:51:17.897	Open Program:01-JetLinesA4
+a  3	2025/01/27 13:51:22.035	Open Program:01-JetLinesA4
+a  3	2025/01/27 13:52:41.954	TrackAndPar.bin the modify parameters are Track storage,MainA Mark Setting,ImageButtomPos,OnlineImagePosInfor,Main BadMark Setting,程序参考点
+a  3	2025/01/27 13:52:42.086	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib ,Numeric
+a  3	2025/01/27 13:52:42.108	ShareParameters.bin the modify parameters are ConfigurationFilePath,Track storage,MainA Mark Setting,ImageButtomPos,Main BadMark Setting
+a  3	2025/01/27 13:52:46.552	TestRun：Start
+a  3	2025/01/27 13:52:47.786	Processed flag:<TRUE>  Stopstatus:<TRUE>
+a  3	2025/01/27 13:52:47.808	TestRun：Stop
+a  3	2025/01/27 13:52:55.453	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	2025/01/27 13:52:55.546	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:52:55.642	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:52:59.206	TestRun：Start
+a  3	2025/01/27 13:53:04.125	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:53:04.146	TestRun：Start
+a  3	2025/01/27 13:53:09.776	TestRun：Stop
+a  3	2025/01/27 13:53:09.804	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	2025/01/27 13:53:26.657	ParametersOfSystemSetting.bin the modify parameters are Cycles,Numeric
+a  3	2025/01/27 13:53:35.829	TestRun：Start
+a  3	2025/01/27 13:53:41.547	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:53:49.433	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	2025/01/27 13:53:49.532	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:53:49.620	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:53:53.758	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:53:53.843	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:53:58.191	TestRun：Start
+a  3	2025/01/27 13:54:03.627	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:54:13.863	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	2025/01/27 13:54:13.974	TrackAndPar.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:54:14.068	ShareParameters.bin the modify parameters are Vavle Seting
+a  3	2025/01/27 13:54:18.315	TestRun：Start
+a  3	2025/01/27 13:54:23.736	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:54:31.931	TestRun：Start
+a  3	2025/01/27 13:54:37.351	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:54:42.326	TestRun：Start
+a  3	2025/01/27 13:54:47.411	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:54:51.669	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:54:55.942	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:55:00.196	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 13:55:04.791	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:02:48.324	key release or away:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:03:09.816	Open Program:01-SprayLinesA4 - full
+a  3	2025/01/27 14:03:18.827	Key click:
+a  3	2025/01/27 14:03:18.995	key release:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:03:19.549	Key click:
+a  3	2025/01/27 14:03:20.107	key release:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:03:31.633	The positon offset of line <1,2,3,4,5,6> in pattern <->main(A)> is X:<-20.000>,Y:<0.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 14:03:40.975	The positon offset of line <1,2,3,4,5,6> in pattern <->main(A)> is X:<3.480>,Y:<-5.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 14:03:57.303	The positon offset of line <1> in pattern <Line> is X:<-20.518>,Y:<0.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 14:04:04.759	The positon offset of line <1> in pattern <Line> is X:<4.480>,Y:<0.000>,Z:<0.000>,R:<0.000>,T:<0.000>
+a  3	2025/01/27 14:04:34.938	The <1> line of program in the pattern <Line> has been modified. RT:(0.000,0.000),,PrematurelyAtomized:0.150,PrematurelOpeningValve:0.050,Speed:60.000,DispensingHeight:10.000,OffAtomizatingDlay:0.050
+
+a  3	2025/01/27 14:04:36.090	Key click:
+a  3	2025/01/27 14:04:36.446	Key click:
+a  3	2025/01/27 14:04:36.501	key release:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:04:36.547	key release:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:04:36.722	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	2025/01/27 14:04:36.840	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:04:36.970	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:04:37.598	Save Program:01-SprayLinesA4 - full
+a  3	2025/01/27 14:04:37.632	key release:CurrentPosition--> X:394.314 Y:308.112 Z:5.000
+a  3	2025/01/27 14:05:15.779	The <1> line of program in the pattern <Line> has been modified. Pos:{(104.480,99.524,20.500)-(361.480,99.524,20.500)}
+
+a  3	2025/01/27 14:05:35.374	TestRun：Start
+a  3	2025/01/27 14:05:37.617	TestRun：Stop
+a  3	2025/01/27 14:05:37.656	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	2025/01/27 14:07:57.078	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust,Valve3CaliSave
+a  3	2025/01/27 14:08:02.702	ValveAndCalibretingData.bin the modify parameters are Valve3CaliSave
+a  3	2025/01/27 14:09:07.331	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 14:09:07.399	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib ,Numeric
+a  3	2025/01/27 14:09:07.453	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 14:09:16.349	TestRun：Start
+a  3	2025/01/27 14:09:22.577	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:09:35.247	TestRun：Start
+a  3	2025/01/27 14:09:41.574	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:10:05.454	The <1> line of program in the pattern <Line> has been modified. OffAtomizatingDlay:0.030
+
+a  3	2025/01/27 14:10:11.859	Key click:
+a  3	2025/01/27 14:10:12.299	key release:CurrentPosition--> X:548.902 Y:224.278 Z:5.000
+a  3	2025/01/27 14:10:17.077	TestRun：Start
+a  3	2025/01/27 14:10:23.121	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:10:28.395	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:10:33.667	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:10:39.207	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:05.834	TestRun：Start
+a  3	2025/01/27 14:14:11.891	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:17.163	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:22.451	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:27.708	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:32.977	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:38.522	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:14:44.212	key release or away:CurrentPosition--> X:104.480 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:46.244	Key click:
+a  3	2025/01/27 14:14:46.288	key release:CurrentPosition--> X:104.480 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:47.516	Key click:Right
+a  3	2025/01/27 14:14:47.884	key release:CurrentPosition--> X:107.531 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:47.911	Key click:
+a  3	2025/01/27 14:14:47.932	Key click:
+a  3	2025/01/27 14:14:48.105	Key click:Right
+a  3	2025/01/27 14:14:48.847	key release:CurrentPosition--> X:159.279 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:49.021	key release:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:49.739	key release:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:14:50.427	key release or away:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:15:00.914	The <1> line of program in the pattern <Line> has been modified. Glue width:10.000
+
+a  3	2025/01/27 14:16:58.339	Key click:
+a  3	2025/01/27 14:16:58.670	Key click:
+a  3	2025/01/27 14:16:58.758	key release:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:16:58.914	key release:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:16:58.965	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	2025/01/27 14:16:59.079	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:16:59.180	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:16:59.466	Save Program:01-SprayLinesA4 - full
+a  3	2025/01/27 14:16:59.533	key release:CurrentPosition--> X:160.322 Y:149.864 Z:20.500
+a  3	2025/01/27 14:17:05.118	TestRun：Start
+a  3	2025/01/27 14:17:11.168	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:17:16.438	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:17:21.709	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:17:26.979	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:17:32.260	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:17:37.803	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:18:34.388	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData,Numeric
+a  3	2025/01/27 14:18:34.477	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 14:18:34.559	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 14:19:34.581	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData
+a  3	2025/01/27 14:19:59.464	ParametersOfSystemSetting.bin the modify parameters are Process Out
+a  3	2025/01/27 14:20:03.727	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData
+a  3	2025/01/27 14:20:14.847	key release or away:CurrentPosition--> X:352.244 Y:137.418 Z:76.713
+a  3	2025/01/27 14:20:16.932	Coating Running
+a  3	2025/01/27 14:20:17.892	
+a  3	2025/01/27 14:20:19.095	This product does not perform flow regulation
+a  3	2025/01/27 14:20:19.142	ProcessingStarted
+a  3	2025/01/27 14:20:24.663	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:29.962	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:35.234	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:40.513	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:45.790	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:51.363	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:20:52.366	ProcessedEnd
+a  3	2025/01/27 14:20:52.394	{"SN":"","StartTime":"25-01-27 14:20:19","StopTime":"25-01-27 14:20:51","ProgramName":"01-SprayLinesA4 - full","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
+a  3	2025/01/27 14:20:52.443	Stop
+a  3	2025/01/27 14:30:09.567	TestRun：Start
+a  3	2025/01/27 14:30:12.887	TestRun：Start
+a  3	2025/01/27 14:30:18.956	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:30:24.227	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:30:29.496	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:30:34.782	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:30:40.044	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:30:45.592	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:36:00.448	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData,清胶方式选择,Numeric,Process Out
+a  3	2025/01/27 14:36:19.564	Manua Clean
+a  3	2025/01/27 14:36:39.672	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 14:53:11.720	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:91.069
+a  3	2025/01/27 14:53:13.479	Mouse click:Z-
+a  3	2025/01/27 14:53:14.245	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:84.693
+a  3	2025/01/27 14:53:14.601	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:83.933
+a  3	2025/01/27 14:53:15.798	Mouse click:Z-
+a  3	2025/01/27 14:53:16.483	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:42.522
+a  3	2025/01/27 14:53:17.444	Mouse click:Z-
+a  3	2025/01/27 14:53:17.759	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:18.211
+a  3	2025/01/27 14:53:26.512	key release or away:CurrentPosition--> X:204.536 Y:74.732 Z:12.064
+a  3	2025/01/27 14:53:27.369	Manua Clean
+a  3	2025/01/27 14:53:31.215	key release or away:CurrentPosition--> X:205.432 Y:74.244 Z:92.826
+a  3	2025/01/27 14:53:32.887	Stop
+a  3	2025/01/27 14:53:33.047	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 14:53:33.785	Stop
+a  3	2025/01/27 14:53:34.564	key release or away:CurrentPosition--> X:205.432 Y:74.244 Z:92.826
+a  3	2025/01/27 14:53:59.788	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData,清胶方式选择,Process Out
+a  3	2025/01/27 14:54:19.573	ParametersOfSystemSetting.bin the modify parameters are 清胶方式选择
+a  3	2025/01/27 14:54:24.638	Manua Clean
+a  3	2025/01/27 14:54:35.777	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 14:56:12.289	The <1> line of program in the pattern <Line> has been modified. Glue width:7.000
+
+a  3	2025/01/27 14:56:13.264	Key click:
+a  3	2025/01/27 14:56:13.527	Key click:
+a  3	2025/01/27 14:56:13.573	key release:CurrentPosition--> X:352.070 Y:137.418 Z:5.000
+a  3	2025/01/27 14:56:13.642	key release:CurrentPosition--> X:352.070 Y:137.418 Z:5.000
+a  3	2025/01/27 14:56:13.766	ParametersOfSystemSetting.bin the modify parameters are 清胶方式选择
+a  3	2025/01/27 14:56:13.900	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:56:13.994	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 14:56:14.620	Save Program:01-SprayLinesA4 - full
+a  3	2025/01/27 14:56:14.648	key release:CurrentPosition--> X:352.070 Y:137.418 Z:5.000
+a  3	2025/01/27 14:56:19.706	TestRun：Start
+a  3	2025/01/27 14:56:25.753	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:56:54.262	TestRun：Start
+a  3	2025/01/27 14:57:00.575	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:57:06.525	Key click:
+a  3	2025/01/27 14:57:06.598	key release:CurrentPosition--> X:104.480 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:06.870	Key click:
+a  3	2025/01/27 14:57:06.917	key release:CurrentPosition--> X:104.480 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:07.148	Key click:
+a  3	2025/01/27 14:57:07.195	key release:CurrentPosition--> X:104.480 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:08.597	Key click:Right
+a  3	2025/01/27 14:57:08.659	Key click:
+a  3	2025/01/27 14:57:08.710	Key click:
+a  3	2025/01/27 14:57:08.902	key release:CurrentPosition--> X:124.991 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:09.093	Key click:Right
+a  3	2025/01/27 14:57:10.020	key release:CurrentPosition--> X:183.261 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:10.052	key release:CurrentPosition--> X:183.261 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:10.072	key release:CurrentPosition--> X:183.261 Y:104.864 Z:20.500
+a  3	2025/01/27 14:57:15.009	TestRun：Start
+a  3	2025/01/27 14:57:21.373	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:57:24.938	Mouse click:X+
+a  3	2025/01/27 14:57:26.012	key release or away:CurrentPosition--> X:178.527 Y:119.864 Z:20.500
+a  3	2025/01/27 14:57:26.288	Key click:
+a  3	2025/01/27 14:57:26.655	Key click:
+a  3	2025/01/27 14:57:26.859	key release:CurrentPosition--> X:182.330 Y:119.864 Z:20.500
+a  3	2025/01/27 14:57:26.997	Key click:Up
+a  3	2025/01/27 14:57:27.052	key release:CurrentPosition--> X:182.330 Y:119.864 Z:20.500
+a  3	2025/01/27 14:57:27.274	Key click:Up
+a  3	2025/01/27 14:57:28.926	key release:CurrentPosition--> X:182.330 Y:121.594 Z:20.500
+a  3	2025/01/27 14:57:29.027	key release:CurrentPosition--> X:182.330 Y:121.594 Z:20.500
+a  3	2025/01/27 14:57:32.969	key release or away:CurrentPosition--> X:182.330 Y:121.602 Z:20.500
+a  3	2025/01/27 14:57:33.987	Key click:
+a  3	2025/01/27 14:57:34.497	key release:CurrentPosition--> X:182.330 Y:121.602 Z:20.500
+a  3	2025/01/27 14:57:36.115	TestRun：Start
+a  3	2025/01/27 14:57:42.198	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:57:43.344	Processed flag:<FALSE>  Stopstatus:<TRUE>
+a  3	2025/01/27 14:57:43.385	TestRun：Stop
+a  3	2025/01/27 14:57:52.410	The <1> line of program in the pattern <Line> has been modified. DispensingHeight:7.000
+
+a  3	2025/01/27 14:58:00.990	TestRun：Start
+a  3	2025/01/27 14:58:07.324	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:58:11.767	Key click:Right
+a  3	2025/01/27 14:58:12.147	Key click:
+a  3	2025/01/27 14:58:12.175	Key click:
+a  3	2025/01/27 14:58:12.276	Key click:
+a  3	2025/01/27 14:58:12.644	key release:CurrentPosition--> X:166.794 Y:164.864 Z:20.500
+a  3	2025/01/27 14:58:12.879	Key click:Right
+a  3	2025/01/27 14:58:13.235	key release:CurrentPosition--> X:191.682 Y:164.864 Z:20.500
+a  3	2025/01/27 14:58:13.284	key release:CurrentPosition--> X:191.682 Y:164.864 Z:20.500
+a  3	2025/01/27 14:58:13.336	key release:CurrentPosition--> X:191.682 Y:164.864 Z:20.500
+a  3	2025/01/27 14:58:13.590	Key click:Up
+a  3	2025/01/27 14:58:13.667	key release:CurrentPosition--> X:195.962 Y:164.864 Z:20.500
+a  3	2025/01/27 14:58:13.949	Key click:Up
+a  3	2025/01/27 14:58:14.043	key release:CurrentPosition--> X:195.962 Y:164.962 Z:20.500
+a  3	2025/01/27 14:58:14.160	Key click:Up
+a  3	2025/01/27 14:58:14.235	key release:CurrentPosition--> X:195.962 Y:164.962 Z:20.500
+a  3	2025/01/27 14:58:14.336	Key click:Up
+a  3	2025/01/27 14:58:14.403	key release:CurrentPosition--> X:195.962 Y:164.962 Z:20.500
+a  3	2025/01/27 14:58:14.519	Key click:Up
+a  3	2025/01/27 14:58:14.576	key release:CurrentPosition--> X:195.962 Y:164.962 Z:20.500
+a  3	2025/01/27 14:58:14.688	Key click:Up
+a  3	2025/01/27 14:58:14.742	key release:CurrentPosition--> X:195.962 Y:164.962 Z:20.500
+a  3	2025/01/27 14:58:14.856	Key click:Up
+a  3	2025/01/27 14:58:15.223	key release:CurrentPosition--> X:195.962 Y:165.652 Z:20.500
+a  3	2025/01/27 14:58:15.415	Key click:Up
+a  3	2025/01/27 14:58:15.491	key release:CurrentPosition--> X:195.962 Y:165.718 Z:20.500
+a  3	2025/01/27 14:58:15.779	key release:CurrentPosition--> X:195.962 Y:165.818 Z:20.500
+a  3	2025/01/27 14:58:18.036	key release or away:CurrentPosition--> X:195.962 Y:165.818 Z:20.500
+a  3	2025/01/27 14:58:21.615	TestRun：Start
+a  3	2025/01/27 14:58:27.951	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	2025/01/27 14:58:32.483	Key click:
+a  3	2025/01/27 14:58:32.534	Key click:
+a  3	2025/01/27 14:58:32.627	Key click:Right
+a  3	2025/01/27 14:58:34.223	key release:CurrentPosition--> X:215.676 Y:149.864 Z:20.500
+a  3	2025/01/27 14:58:34.261	key release:CurrentPosition--> X:215.676 Y:149.864 Z:20.500
+a  3	2025/01/27 14:58:34.443	Key click:Up
+a  3	2025/01/27 14:58:34.516	key release:CurrentPosition--> X:217.156 Y:149.864 Z:20.500
+a  3	2025/01/27 14:58:34.634	Key click:Up
+a  3	2025/01/27 14:58:34.707	key release:CurrentPosition--> X:217.156 Y:149.864 Z:20.500
+a  3	2025/01/27 14:58:34.815	Key click:Up
+a  3	2025/01/27 14:58:34.899	key release:CurrentPosition--> X:217.156 Y:149.864 Z:20.500
+a  3	2025/01/27 14:58:35.047	Key click:Up
+a  3	2025/01/27 14:58:35.823	key release:CurrentPosition--> X:217.156 Y:150.713 Z:20.500
+a  3	2025/01/27 14:58:36.162	Key click:Right
+a  3	2025/01/27 14:58:36.879	key release:CurrentPosition--> X:217.828 Y:150.902 Z:20.500
+a  3	2025/01/27 14:58:36.963	key release:CurrentPosition--> X:217.828 Y:150.902 Z:20.500
+a  3	2025/01/27 14:58:41.934	Manua Clean
+a  3	2025/01/27 14:58:52.774	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 14:59:37.458	ParametersOfSystemSetting.bin the modify parameters are SystemParamentData,Numeric,Process Out
+a  3	2025/01/27 14:59:37.531	TrackAndPar.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 14:59:37.616	ShareParameters.bin the modify parameters are TwoValveDistanceData
+a  3	2025/01/27 15:00:00.970	Manua Clean
+a  3	2025/01/27 15:00:12.157	Manua Clean(QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 15:00:19.178	WorkOrigin
+a  3	2025/01/27 15:00:25.647	Manual Purge
+a  3	2025/01/27 15:00:33.317	Manual click Purge,target location:Setting--->X:103.632 Y:135.790 Z:61.006 Current--->X:103.632 Y:135.790 Z:61.006 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 15:14:59.508	key release or away:CurrentPosition--> X:205.432 Y:74.244 Z:92.826
+a  3	2025/01/27 15:19:09.498	WorkOrigin
+a  3	2025/01/27 15:21:14.502	TrackAndPar.bin the modify parameters are Width Limit
+a  3	2025/01/27 15:21:14.664	ParametersOfSystemSetting.bin the modify parameters are DataSavedBySys
+a  3	2025/01/27 15:22:50.295	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 15:22:51.355	LoadBoard
+a  3	2025/01/27 15:23:23.841	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 15:23:23.916	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	2025/01/27 15:23:25.608	Save Program:01-SprayLinesA4 - full
+a  3	2025/01/27 15:23:30.612	Open Program:Conti ford workshop top v1
+a  3	2025/01/27 15:23:36.081	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	2025/01/27 15:25:01.785	New Program:Conti Ford WS top v1
+a  3	2025/01/27 15:26:23.328	Set1_Mark matching coordinates:X:204.587 Y:194.943 Z:20.500 Result:TRUE
+a  3	2025/01/27 15:26:24.586	1_Mark goto coordinates:X:204.587 Y:194.943 Z:20.500 Result:TRUE
+a  3	2025/01/27 15:27:41.708	Set2_Mark matching coordinates:X:340.382 Y:115.889 Z:20.500 Result:TRUE
+a  3	2025/01/27 15:27:43.878	2_Mark goto coordinates:X:340.382 Y:115.889 Z:20.500 Result:TRUE
+a  3	2025/01/27 15:27:50.529	Key click:
+a  3	2025/01/27 15:27:51.199	Key click:
+a  3	2025/01/27 15:27:51.295	key release:CurrentPosition--> X:340.382 Y:115.890 Z:20.500
+a  3	2025/01/27 15:27:51.437	key release:CurrentPosition--> X:340.382 Y:115.890 Z:20.500
+a  3	2025/01/27 15:27:51.562	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	2025/01/27 15:27:51.663	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/01/27 15:27:52.177	Save Program:Conti Ford WS top v1
+a  3	2025/01/27 15:27:52.323	key release:CurrentPosition--> X:340.382 Y:115.890 Z:20.500
+a  3	2025/01/27 15:29:00.405	The program of line <2> in pattern <->main(A)>  have been <Delete>
+a  3	2025/01/27 15:29:10.657	Key click:
+a  3	2025/01/27 15:29:10.918	Key click:
+a  3	2025/01/27 15:29:10.980	key release:CurrentPosition--> X:204.270 Y:359.084 Z:20.500
+a  3	2025/01/27 15:29:11.138	key release:CurrentPosition--> X:204.270 Y:359.084 Z:20.500
+a  3	2025/01/27 15:29:11.292	TrackAndPar.bin the modify parameters are Track storage,模板映射参数2
+a  3	2025/01/27 15:29:11.383	ShareParameters.bin the modify parameters are Track storage,模板映射参数2
+a  3	2025/01/27 15:29:12.016	Save Program:Conti Ford WS top v1
+a  3	2025/01/27 15:29:12.058	key release:CurrentPosition--> X:204.270 Y:359.084 Z:20.500
+a  3	2025/01/27 15:29:23.199	key release or away:CurrentPosition--> X:196.156 Y:108.782 Z:20.500
+a  3	2025/01/27 15:29:23.489	key release or away:CurrentPosition--> X:196.156 Y:108.782 Z:20.500
+a  3	2025/01/27 15:29:24.105	key release or away:CurrentPosition--> X:196.156 Y:108.782 Z:20.500
+a  3	2025/01/27 15:38:35.388	ParametersOfSystemSetting.bin the modify parameters are Camera Parameters
+a  3	2025/01/27 15:39:16.379	Manual Purge
+a  3	2025/01/27 15:39:20.051	Stop
+a  3	2025/01/27 15:39:20.360	Manual click Purge,target location:Setting--->X:103.632 Y:135.790 Z:61.006 Current--->X:103.632 Y:135.790 Z:61.006 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 15:39:57.064	ParametersOfAxis.bin the modify parameters are Rest speed_setting
+a  3	2025/01/27 15:47:31.389	Exit 
+a  3	2025/01/27 15:47:31.629	AlarmCode 1006:Pressure Low
+a  3	2025/01/27 15:52:27.057	Initializing...
+a  3	2025/01/27 15:52:27.297	Current User: a
+a  3	2025/01/27 15:52:27.301	Open Program:Conti Ford WS top v1
+a  3	2025/01/27 16:08:16.808	The reset button is pressed
+a  3	2025/01/27 16:08:39.289	Reset is completed
+a  3	2025/01/27 16:11:08.930	WorkOrigin
+a  3	2025/01/27 16:11:12.204	Mouse click:Y+
+a  3	2025/01/27 16:11:14.716	key release or away:CurrentPosition--> X:174.968 Y:509.958 Z:5.001
+a  3	2025/01/27 16:11:14.815	key release or away:CurrentPosition--> X:174.968 Y:509.958 Z:5.001
+a  3	2025/01/27 16:11:15.568	key release or away:CurrentPosition--> X:174.968 Y:512.096 Z:5.001
+a  3	2025/01/27 16:11:18.407	Mouse click:Y+
+a  3	2025/01/27 16:11:19.562	key release or away:CurrentPosition--> X:174.968 Y:568.652 Z:5.001
+a  3	2025/01/27 16:11:20.181	key release or away:CurrentPosition--> X:174.968 Y:570.426 Z:5.001
+a  3	2025/01/27 16:11:35.010	TrackAndPar.bin the modify parameters are Light source adjust,Width Limit
+a  3	2025/01/27 16:11:35.059	ShareParameters.bin the modify parameters are ConfigurationFilePath,Light source adjust
+a  3	2025/01/27 16:11:35.119	ParametersOfSystemSetting.bin the modify parameters are Bar Code Match
+a  3	2025/01/27 16:12:24.783	LoadBoard
+a  3	2025/01/27 16:12:29.771	key release or away:CurrentPosition--> X:174.968 Y:570.426 Z:5.001
+a  3	2025/01/27 16:13:27.901	New Program:20250127161254
+a  3	2025/01/27 16:13:59.415	WorkOrigin
+a  3	2025/01/27 16:19:24.013	Set1_Mark matching coordinates:X:207.438 Y:131.071 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:19:28.103	1_Mark goto coordinates:X:207.438 Y:131.071 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:21:34.272	Set2_Mark matching coordinates:X:343.254 Y:210.040 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:21:39.220	2_Mark goto coordinates:X:343.254 Y:210.040 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:21:48.592	1_Mark goto coordinates:X:207.438 Y:131.071 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:21:57.677	2_Mark goto coordinates:X:343.254 Y:210.040 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:22:51.448	1_Mark goto coordinates:X:207.438 Y:131.071 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:23:03.078	2_Mark goto coordinates:X:343.254 Y:210.040 Z:20.500 Result:TRUE
+a  3	2025/01/27 16:40:15.299	ParametersOfSystemSetting.bin the modify parameters are Camera Parameters
+a  3	2025/01/27 16:40:58.791	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	2025/01/27 16:40:58.839	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	2025/01/27 16:41:00.694	Save Program:20250127161254
+a  3	2025/01/27 16:42:59.857	Save Program:20250127161254
+a  3	2025/01/27 16:43:46.789	TrackAndPar.bin the modify parameters are Mark Setting,PathOfProgaramParameterSavedas,SaveAS
+a  3	2025/01/27 16:43:46.883	ShareParameters.bin the modify parameters are ConfigurationFilePath,Mark Setting
+a  3	2025/01/27 16:43:47.012	ParametersOfSystemSetting.bin the modify parameters are SaveAsPath
+a  3	2025/01/27 16:44:16.602	Open Program:20250127161254
+a  3	2025/01/27 16:44:33.398	key release or away:CurrentPosition--> X:207.438 Y:131.070 Z:20.500
+a  3	2025/01/27 16:46:27.744	Stop
+a  3	2025/01/27 16:46:28.175	Stop
+a  3	2025/01/27 16:46:28.886	Stop
+a  3	2025/01/27 16:46:29.448	Manual Purge
+a  3	2025/01/27 16:46:32.196	Stop
+a  3	2025/01/27 16:46:32.520	Manual click Purge,target location:Setting--->X:205.432 Y:74.244 Z:92.826 Current--->X:205.432 Y:74.244 Z:92.826 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 16:47:03.650	TrackAndPar.bin the modify parameters are Mark Setting,After Clear to Purge
+a  3	2025/01/27 16:47:03.707	ShareParameters.bin the modify parameters are Mark Setting,After Clear to Purge
+a  3	2025/01/27 16:47:08.137	TrackAndPar.bin the modify parameters are Times of spiting glue
+a  3	2025/01/27 16:47:08.184	ShareParameters.bin the modify parameters are Times of spiting glue
+a  3	2025/01/27 16:47:12.580	TrackAndPar.bin the modify parameters are Time of left valve spiting
+a  3	2025/01/27 16:47:12.655	ShareParameters.bin the modify parameters are Time of left valve spiting
+a  3	2025/01/27 16:47:15.790	Manual Purge
+a  3	2025/01/27 16:47:17.083	Manual click Purge,target location:Setting--->X:205.432 Y:74.244 Z:92.826 Current--->X:205.432 Y:74.244 Z:92.826 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 16:47:19.708	Manual Purge
+a  3	2025/01/27 16:47:21.029	Manual click Purge,target location:Setting--->X:205.432 Y:74.244 Z:92.826 Current--->X:205.432 Y:74.244 Z:92.826 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 16:47:21.702	Stop
+a  3	2025/01/27 16:47:32.379	TrackAndPar.bin the modify parameters are Times of spiting glue
+a  3	2025/01/27 16:47:32.437	ShareParameters.bin the modify parameters are Times of spiting glue
+a  3	2025/01/27 16:47:36.555	Manual Purge
+a  3	2025/01/27 16:47:38.074	Manual click Purge,target location:Setting--->X:205.432 Y:74.244 Z:92.826 Current--->X:205.432 Y:74.244 Z:92.826 Result:TRUE (GTS_Code:0,QueueError:FALSE,Code:0,Errortext:)
+a  3	2025/01/27 16:48:02.033	Exit 

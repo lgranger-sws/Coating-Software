@@ -1,1288 +1,194 @@
 
-admin  3	2024/12/12 00:36:15.316	Initializing...
-admin  3	2024/12/12 00:36:15.470	Current User: admin
-admin  3	2024/12/12 00:36:15.508	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 00:36:16.865	The reset button is pressed
-admin  3	2024/12/12 00:36:32.751	Reset is completed
-admin  3	2024/12/12 00:36:33.542	AlarmCode 1001:Right low liquid level
-admin  3	2024/12/12 00:36:34.351	Stop
-admin  3	2024/12/12 00:36:35.514	key release or away:CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:36:42.313	Chinese
-admin  3	2024/12/12 00:36:49.593	鼠标释放或离开：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:36:53.045	右低液位报警:Disable
-admin  3	2024/12/12 00:36:55.028	报警代码 1006:气压检测报警
-admin  3	2024/12/12 00:36:56.354	报警代码 1001:右低液位报警
-admin  3	2024/12/12 00:36:58.477	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Right Low level alarm,Bar Code Match,DoOut,DataSavedBySys,ChangChun Conti Glue Para2
-admin  3	2024/12/12 00:36:58.486	ValveAndCalibretingData.bin文件中以下参数已经被修改：InitParamemter,RightValveParamemter,Valve3Paramemter,Valve4Paramemter
-admin  3	2024/12/12 00:36:58.554	TrackAndPar.bin文件中以下参数已经被修改：点胶前清洁
-admin  3	2024/12/12 00:36:58.642	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath,点胶前清洁
-admin  3	2024/12/12 00:37:03.429	气压检测:Disable
-admin  3	2024/12/12 00:37:04.530	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Pressure detecting
-admin  3	2024/12/12 00:37:04.643	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-admin  3	2024/12/12 00:37:13.727	ParametersOfSystemSetting.bin文件中以下参数已经被修改：DataSavedBySys
-admin  3	2024/12/12 00:37:20.342	键盘按下：
-admin  3	2024/12/12 00:37:20.760	键盘按下：Right
-admin  3	2024/12/12 00:37:22.102	键盘释放：CurrentPosition--> X:124.001 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:37:22.225	键盘按下：Up
-admin  3	2024/12/12 00:37:22.877	键盘释放：CurrentPosition--> X:134.814 Y:52.751 Z:0.000
-admin  3	2024/12/12 00:37:23.008	键盘按下：Right
-admin  3	2024/12/12 00:37:24.697	键盘释放：CurrentPosition--> X:302.765 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:24.953	键盘按下：Right
-admin  3	2024/12/12 00:37:25.325	键盘释放：CurrentPosition--> X:335.279 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:25.539	键盘按下：Right
-admin  3	2024/12/12 00:37:25.822	键盘释放：CurrentPosition--> X:361.994 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:26.025	键盘按下：Right
-admin  3	2024/12/12 00:37:26.217	键盘释放：CurrentPosition--> X:380.283 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:26.512	键盘按下：Left
-admin  3	2024/12/12 00:37:29.498	键盘释放：CurrentPosition--> X:95.621 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:30.032	键盘按下：Left
-admin  3	2024/12/12 00:37:30.126	键盘释放：CurrentPosition--> X:91.332 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:30.504	键盘按下：Left
-admin  3	2024/12/12 00:37:30.623	键盘释放：CurrentPosition--> X:71.892 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:31.599	键盘释放：CurrentPosition--> X:68.804 Y:65.914 Z:0.000
-admin  3	2024/12/12 00:37:45.280	MES:10.83.52.109连接异常！
-admin  3	2024/12/12 00:38:32.441	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,清胶方式选择,Process Out
-admin  3	2024/12/12 00:38:56.260	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,清胶方式选择,Process Out
-admin  3	2024/12/12 00:38:59.233	MES:10.83.52.109连接异常！
-admin  3	2024/12/12 00:39:10.557	报警代码 1014:Z轴负极限触发
-admin  3	2024/12/12 00:39:15.857	MoveParameters.bin文件中以下参数已经被修改：Stop Position
-admin  3	2024/12/12 00:40:21.418	设备初始化......
-admin  3	2024/12/12 00:40:21.510	当前用户： admin
-admin  3	2024/12/12 00:40:21.611	打开程序：SLA-Coater1-004
-admin  3	2024/12/12 00:40:21.654	低气压检测未开启
-admin  3	2024/12/12 00:40:22.116	复位按钮按下
-admin  3	2024/12/12 00:40:34.674	设备复位完成
-admin  3	2024/12/12 00:40:51.029	键盘按下：
-admin  3	2024/12/12 00:40:51.249	键盘按下：
-admin  3	2024/12/12 00:40:51.315	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:40:51.350	键盘释放：CurrentPosition--> X:0.000 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:40:52.024	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,MatchPosition
-admin  3	2024/12/12 00:40:52.108	ShareParameters.bin文件中以下参数已经被修改：Light source adjust,MatchPosition
-admin  3	2024/12/12 00:40:52.735	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 00:41:08.073	ParametersOfSystemSetting.bin文件中以下参数已经被修改：COGNEXBarcodeEnabled
-admin  3	2024/12/12 00:41:17.566	空运行
-admin  3	2024/12/12 00:41:17.610	空运行
-admin  3	2024/12/12 00:41:24.249	涂胶运行
-admin  3	2024/12/12 00:41:27.158	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 00:41:27.250	
-admin  3	2024/12/12 00:41:28.901	停止
-admin  3	2024/12/12 00:41:30.444	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:41:30.774	停止
-admin  3	2024/12/12 00:41:44.091	TrackAndPar.bin文件中以下参数已经被修改：Move speed_setting
-admin  3	2024/12/12 00:41:44.264	ParametersOfSystemSetting.bin文件中以下参数已经被修改：清胶方式选择
-admin  3	2024/12/12 00:41:57.756	ParametersOfAxis.bin文件中以下参数已经被修改：Speed_setting
-admin  3	2024/12/12 00:42:03.055	涂胶运行
-admin  3	2024/12/12 00:42:04.468	
-admin  3	2024/12/12 00:42:12.212	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:42:27.438	停止
-admin  3	2024/12/12 00:42:32.935	自动运行至吐胶位置:Setting--->X:10.000 Y:170.000 Z:77.000 Current--->X:10.000 Y:170.000 Z:75.715 Result:FALSE GTS_Code:0
-admin  3	2024/12/12 00:42:32.955	报警代码 1028:自动运行时吐胶运行不到位！
-admin  3	2024/12/12 00:42:33.252	停止
-admin  3	2024/12/12 00:42:35.095	复位按钮按下
-admin  3	2024/12/12 00:42:54.234	设备复位完成
-admin  3	2024/12/12 00:43:07.539	键盘按下：
-admin  3	2024/12/12 00:43:07.709	键盘按下：Right
-admin  3	2024/12/12 00:43:10.038	键盘释放：CurrentPosition--> X:287.264 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:43:10.084	键盘释放：CurrentPosition--> X:287.264 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:43:10.244	键盘按下：
-admin  3	2024/12/12 00:43:10.334	键盘按下：Right
-admin  3	2024/12/12 00:43:10.716	键盘释放：CurrentPosition--> X:326.179 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:43:10.991	键盘释放：CurrentPosition--> X:332.368 Y:0.000 Z:0.000
-admin  3	2024/12/12 00:43:11.236	键盘按下：
-admin  3	2024/12/12 00:43:11.342	键盘按下：Up
-admin  3	2024/12/12 00:43:11.495	键盘释放：CurrentPosition--> X:332.368 Y:9.576 Z:0.000
-admin  3	2024/12/12 00:43:11.802	键盘按下：Up
-admin  3	2024/12/12 00:43:12.020	键盘释放：CurrentPosition--> X:332.368 Y:26.890 Z:0.000
-admin  3	2024/12/12 00:43:12.429	键盘按下：Up
-admin  3	2024/12/12 00:43:12.491	键盘释放：CurrentPosition--> X:332.368 Y:38.178 Z:0.000
-admin  3	2024/12/12 00:43:12.744	键盘释放：CurrentPosition--> X:332.368 Y:45.042 Z:0.000
-admin  3	2024/12/12 00:43:14.008	鼠标释放或离开：CurrentPosition--> X:332.368 Y:45.042 Z:0.000
-admin  3	2024/12/12 00:43:14.803	鼠标点击：Z+
-admin  3	2024/12/12 00:43:16.610	鼠标释放或离开：CurrentPosition--> X:332.368 Y:45.042 Z:35.195
-admin  3	2024/12/12 00:43:17.005	鼠标点击：Z+
-admin  3	2024/12/12 00:43:17.242	鼠标释放或离开：CurrentPosition--> X:332.368 Y:45.042 Z:40.288
-admin  3	2024/12/12 00:43:19.900	鼠标释放或离开：CurrentPosition--> X:332.368 Y:45.042 Z:40.861
-admin  3	2024/12/12 00:43:36.333	ParametersOfAxis.bin文件中以下参数已经被修改：Rest speed_setting
-admin  3	2024/12/12 00:43:36.484	ParametersOfSystemSetting.bin文件中以下参数已经被修改：清胶方式选择
-admin  3	2024/12/12 00:43:40.868	涂胶运行
-admin  3	2024/12/12 00:43:41.949	
-admin  3	2024/12/12 00:43:55.942	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:43:56.306	停止
-admin  3	2024/12/12 00:43:59.177	涂胶运行
-admin  3	2024/12/12 00:44:00.252	
-admin  3	2024/12/12 00:44:09.487	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:44:18.588	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 00:44:18.617	不进行流量调节
-admin  3	2024/12/12 00:44:18.642	开始自动称重
-admin  3	2024/12/12 00:44:18.692	称重完毕
-admin  3	2024/12/12 00:44:18.719	开始自动称重
-admin  3	2024/12/12 00:44:18.779	称重完毕
-admin  3	2024/12/12 00:44:18.808	ProcessingStarted
-admin  3	2024/12/12 00:44:24.750	"beforeCoating"(0ms) Machine receive data from MES interface:
-admin  3	2024/12/12 00:44:25.089	Alarm:
-TCPClient.vi->MESrun.vi->AxxonSoftware.vi中的读取TCP数据
-是否继续运行
-admin  3	2024/12/12 00:44:26.270	停止
-admin  3	2024/12/12 00:44:31.528	ProcessedEnd
-admin  3	2024/12/12 00:44:31.609	{"SN":"","StartTime":"24-12-12 00:44:18","StopTime":"24-12-12 00:44:31","ProgramName":"SLA-Coater1-004","FlowmeterData":[],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0.75900000000000001,"Flowrate":0.075899999999999995},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 00:44:33.954	停止
-admin  3	2024/12/12 00:44:47.699	涂胶运行
-admin  3	2024/12/12 00:44:48.849	
-admin  3	2024/12/12 00:44:55.539	自动运行到清洗位置:Result:FALSE
-admin  3	2024/12/12 00:44:56.350	停止
-admin  3	2024/12/12 00:45:02.364	涂胶运行
-admin  3	2024/12/12 00:45:03.465	
-admin  3	2024/12/12 00:45:15.276	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:45:28.039	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 00:45:28.065	不进行流量调节
-admin  3	2024/12/12 00:45:28.302	开始自动称重
-admin  3	2024/12/12 00:45:28.335	称重完毕
-admin  3	2024/12/12 00:45:28.364	开始自动称重
-admin  3	2024/12/12 00:45:28.422	称重完毕
-admin  3	2024/12/12 00:45:28.448	ProcessingStarted
-admin  3	2024/12/12 00:45:36.446	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 00:45:38.994	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:45:39.254	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:45:39.335	产品0重量	0.000g
+a  3	12/12/2024 10:38:17 AM	Initializing...
+a  3	12/12/2024 10:38:17 AM	Current User: a
+a  3	12/12/2024 10:38:17 AM	Open Program:Bucher Top1 film coater
+a  3	12/12/2024 10:38:18 AM	AlarmCode 1007:Emergency button pressed,please reset!
+a  3	12/12/2024 10:38:24 AM	The reset button is pressed
+a  3	12/12/2024 10:38:43 AM	Reset is completed
+a  3	12/12/2024 10:38:46 AM	Key click:Right
+a  3	12/12/2024 10:38:52 AM	key release:CurrentPosition--> X:524.526 Y:0.000 Z:0.000
+a  3	12/12/2024 10:45:17 AM	Key click:Left
+a  3	12/12/2024 10:45:19 AM	key release:CurrentPosition--> X:283.113 Y:0.000 Z:0.000
+a  3	12/12/2024 10:45:23 AM	Mouse click:Z+
+a  3	12/12/2024 10:45:24 AM	key release or away:CurrentPosition--> X:279.350 Y:0.000 Z:60.193
+a  3	12/12/2024 10:45:25 AM	Mouse click:Z+
+a  3	12/12/2024 10:45:25 AM	key release or away:CurrentPosition--> X:279.350 Y:0.000 Z:95.124
+a  3	12/12/2024 10:45:28 AM	Mouse click:Z+
+a  3	12/12/2024 10:45:28 AM	key release or away:CurrentPosition--> X:279.350 Y:0.000 Z:96.287
+a  3	12/12/2024 10:45:30 AM	Mouse click:Z+
+a  3	12/12/2024 10:45:30 AM	key release or away:CurrentPosition--> X:279.350 Y:0.000 Z:102.068
+a  3	12/12/2024 10:45:30 AM	Z Limit
+a  3	12/12/2024 10:45:30 AM	AlarmCode 1011:Z+ limit
+a  3	12/12/2024 10:45:38 AM	key release or away:CurrentPosition--> X:279.350 Y:0.000 Z:112.399
+a  3	12/12/2024 10:58:16 AM	Front
+a  3	12/12/2024 11:00:13 AM	WorkOrigin
+a  3	12/12/2024 11:01:15 AM	LoadBoard
+a  3	12/12/2024 11:01:18 AM	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	12/12/2024 11:01:19 AM	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	12/12/2024 11:01:20 AM	Stop
+a  3	12/12/2024 11:01:21 AM	Stop
+a  3	12/12/2024 11:01:40 AM	Open Program:01-FilmLinesA4
+a  3	12/12/2024 11:01:45 AM	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	12/12/2024 11:01:46 AM	LoadBoard
+a  3	12/12/2024 11:02:16 AM	ParametersOfSystemSetting.bin the modify parameters are EnabelNeedleCalibrating
+a  3	12/12/2024 11:02:32 AM	ParametersOfSystemSetting.bin the modify parameters are Track Cover
+a  3	12/12/2024 11:02:33 AM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/12/2024 11:02:37 AM	LoadBoard
+a  3	12/12/2024 11:02:59 AM	ParametersOfSystemSetting.bin the modify parameters are Track Cover
+a  3	12/12/2024 11:03:02 AM	UnLoadBoard
+a  3	12/12/2024 11:03:10 AM	LoadBoard
+a  3	12/12/2024 11:03:17 AM	key release or away:CurrentPosition--> X:174.968 Y:461.634 Z:5.001
+a  3	12/12/2024 11:06:39 AM	ValveAndCalibretingData.bin the modify parameters are Deviation of spay valve,Stroke of spay valve,RadiusAdjust,Spray Valve Position,Spary Valve Teaching Point
+a  3	12/12/2024 11:07:44 AM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	12/12/2024 11:09:13 AM	ValveAndCalibretingData.bin the modify parameters are Deviation of needle valve,Needle Valve Position,Needle Valve Teaching Point
+a  3	12/12/2024 11:10:28 AM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	12/12/2024 11:11:01 AM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	12/12/2024 11:12:42 AM	ValveAndCalibretingData.bin the modify parameters are RadiusAdjust,Valve3CaliSave
+a  3	12/12/2024 11:15:16 AM	ParametersOfSystemSetting.bin the modify parameters are Ar_Needle Calib
+a  3	12/12/2024 11:15:24 AM	key release or away:CurrentPosition--> X:452.458 Y:99.466 Z:5.000
+a  3	12/12/2024 11:15:38 AM	The <1> line of program in the pattern <Line> has been modified. Speed:500.000
 
-admin  3	2024/12/12 00:45:39.357	ProcessedEnd
-admin  3	2024/12/12 00:45:41.149	{"SN":"","StartTime":"24-12-12 00:45:28","StopTime":"24-12-12 00:45:39","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 00:45:41.217	停止
-admin  3	2024/12/12 00:46:13.642	涂胶运行
-admin  3	2024/12/12 00:46:16.302	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 00:46:16.357	
-admin  3	2024/12/12 00:47:09.131	设备初始化......
-admin  3	2024/12/12 00:47:09.337	当前用户： admin
-admin  3	2024/12/12 00:47:09.359	打开程序：SLA-Coater1-004
-admin  3	2024/12/12 00:47:09.380	低气压检测未开启
-admin  3	2024/12/12 00:47:10.103	复位按钮按下
-admin  3	2024/12/12 00:47:24.569	设备复位完成
-admin  3	2024/12/12 00:47:47.112	空运行
-admin  3	2024/12/12 00:47:47.181	空运行
-admin  3	2024/12/12 00:47:49.397	涂胶运行
-admin  3	2024/12/12 00:47:50.358	
-admin  3	2024/12/12 00:48:02.065	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:48:25.335	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 00:48:25.373	不进行流量调节
-admin  3	2024/12/12 00:48:25.562	开始自动称重
-admin  3	2024/12/12 00:48:25.604	称重完毕
-admin  3	2024/12/12 00:48:25.628	开始自动称重
-admin  3	2024/12/12 00:48:25.689	称重完毕
-admin  3	2024/12/12 00:48:25.711	ProcessingStarted
-admin  3	2024/12/12 00:48:33.706	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 00:48:38.316	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:56.420 Y:139.510 Result:FALSE ;Score:100.000
-admin  3	2024/12/12 00:48:41.268	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:48:41.574	报警代码 1007:急停按钮按下，请复位！
-admin  3	2024/12/12 00:48:41.594	产品0重量	0.000g
-
-admin  3	2024/12/12 00:48:41.614	ProcessedEnd
-admin  3	2024/12/12 00:48:41.661	{"SN":"","StartTime":"24-12-12 00:48:25","StopTime":"24-12-12 00:48:41","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 00:48:41.692	停止
-admin  3	2024/12/12 00:48:44.383	复位按钮按下
-admin  3	2024/12/12 00:48:44.643	电源开关被按下，请复位。
-admin  3	2024/12/12 00:48:47.647	复位失败
-admin  3	2024/12/12 00:48:49.331	Z轴复位失败
-admin  3	2024/12/12 00:48:51.332	复位按钮按下
-admin  3	2024/12/12 00:49:11.775	设备复位完成
-admin  3	2024/12/12 00:52:18.659	涂胶运行
-admin  3	2024/12/12 00:52:19.768	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
-admin  3	2024/12/12 00:52:19.937	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust
-admin  3	2024/12/12 00:52:20.041	ShareParameters.bin文件中以下参数已经被修改：Light source adjust
-admin  3	2024/12/12 00:52:39.539	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 00:52:39.572	
-admin  3	2024/12/12 00:52:52.622	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:53:41.219	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 00:53:41.332	不进行流量调节
-admin  3	2024/12/12 00:53:41.479	开始自动称重
-admin  3	2024/12/12 00:53:41.514	称重完毕
-admin  3	2024/12/12 00:53:41.577	开始自动称重
-admin  3	2024/12/12 00:53:41.610	称重完毕
-admin  3	2024/12/12 00:53:41.658	ProcessingStarted
-admin  3	2024/12/12 00:53:49.539	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 00:53:51.787	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:53:52.194	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:53:52.256	产品0重量	0.000g
-
-admin  3	2024/12/12 00:53:53.795	ProcessedEnd
-admin  3	2024/12/12 00:53:54.119	{"SN":"","StartTime":"24-12-12 00:53:41","StopTime":"24-12-12 00:53:52","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 00:53:54.139	停止
-admin  3	2024/12/12 00:54:10.658	涂胶运行
-admin  3	2024/12/12 00:54:11.912	
-admin  3	2024/12/12 00:54:20.662	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 00:54:36.924	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 00:54:36.969	不进行流量调节
-admin  3	2024/12/12 00:54:37.199	开始自动称重
-admin  3	2024/12/12 00:54:37.221	称重完毕
-admin  3	2024/12/12 00:54:37.284	开始自动称重
-admin  3	2024/12/12 00:54:37.332	称重完毕
-admin  3	2024/12/12 00:54:37.364	ProcessingStarted
-admin  3	2024/12/12 00:54:45.269	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 00:54:47.843	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:54:47.944	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 00:54:49.786	产品0重量	0.000g
-
-admin  3	2024/12/12 00:54:50.036	ProcessedEnd
-admin  3	2024/12/12 00:54:50.078	{"SN":"","StartTime":"24-12-12 00:54:36","StopTime":"24-12-12 00:54:48","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 00:54:50.118	停止
-admin  3	2024/12/12 00:57:03.176	设备初始化......
-admin  3	2024/12/12 00:57:03.376	当前用户： admin
-admin  3	2024/12/12 00:57:03.397	打开程序：SLA-Coater1-004
-admin  3	2024/12/12 00:57:03.418	低气压检测未开启
-admin  3	2024/12/12 00:57:04.113	复位按钮按下
-admin  3	2024/12/12 00:57:21.071	设备复位完成
-admin  3	2024/12/12 01:04:35.746	空运行
-admin  3	2024/12/12 01:04:35.815	空运行
-admin  3	2024/12/12 01:04:37.191	涂胶运行
-admin  3	2024/12/12 01:04:38.206	
-admin  3	2024/12/12 01:04:49.898	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 01:04:55.579	停止
-admin  3	2024/12/12 01:04:58.408	涂胶运行
-admin  3	2024/12/12 01:04:59.519	
-admin  3	2024/12/12 01:05:08.736	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 01:05:12.966	不进行流量调节
-admin  3	2024/12/12 01:05:13.151	开始自动称重
-admin  3	2024/12/12 01:05:13.226	称重完毕
-admin  3	2024/12/12 01:05:13.248	开始自动称重
-admin  3	2024/12/12 01:05:13.309	称重完毕
-admin  3	2024/12/12 01:05:13.332	ProcessingStarted
-admin  3	2024/12/12 01:05:15.992	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 01:05:19.723	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:05:21.056	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:05:21.897	产品0重量	0.000g
-
-admin  3	2024/12/12 01:05:21.919	ProcessedEnd
-admin  3	2024/12/12 01:05:21.969	{"SN":"","StartTime":"24-12-12 01:05:12","StopTime":"24-12-12 01:05:19","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 01:05:22.012	停止
-admin  3	2024/12/12 01:06:49.186	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:06:49.547	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:06:54.061	涂胶运行
-admin  3	2024/12/12 01:06:55.253	
-admin  3	2024/12/12 01:07:04.924	停止
-admin  3	2024/12/12 01:07:06.733	自动运行到清洗位置:Result:FALSE
-admin  3	2024/12/12 01:07:07.018	停止
-admin  3	2024/12/12 01:07:11.705	涂胶运行
-admin  3	2024/12/12 01:07:12.860	
-admin  3	2024/12/12 01:07:21.630	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 01:07:31.939	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 01:07:32.190	不进行流量调节
-admin  3	2024/12/12 01:07:32.217	开始自动称重
-admin  3	2024/12/12 01:07:32.276	称重完毕
-admin  3	2024/12/12 01:07:32.299	开始自动称重
-admin  3	2024/12/12 01:07:32.321	称重完毕
-admin  3	2024/12/12 01:07:32.386	ProcessingStarted
-admin  3	2024/12/12 01:07:40.248	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 01:07:42.599	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:07:42.693	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:07:42.914	产品0重量	0.000g
-
-admin  3	2024/12/12 01:07:42.961	ProcessedEnd
-admin  3	2024/12/12 01:07:45.157	{"SN":"","StartTime":"24-12-12 01:07:31","StopTime":"24-12-12 01:07:42","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 01:07:45.237	停止
-admin  3	2024/12/12 01:08:49.205	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:08:49.253	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:09:29.879	鼠标释放或离开：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:09:55.031	鼠标释放或离开：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:25:00.329	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:25:00.388	键盘释放：CurrentPosition--> X:56.420 Y:139.510 Z:29.022
-admin  3	2024/12/12 01:28:38.733	ParametersOfSystemSetting.bin文件中以下参数已经被修改：COGNEXCodeTeachPosition,COGNEXBarcodeEnabled,BarCode Read Para
-admin  3	2024/12/12 01:28:39.045	TrackAndPar.bin文件中以下参数已经被修改：Light source adjust,TwoValveDistanceData
-admin  3	2024/12/12 01:28:39.182	ShareParameters.bin文件中以下参数已经被修改：Light source adjust,TwoValveDistanceData
-admin  3	2024/12/12 01:28:54.397	涂胶运行
-admin  3	2024/12/12 01:28:55.698	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
-admin  3	2024/12/12 01:28:55.844	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
-admin  3	2024/12/12 01:28:57.668	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 01:28:57.710	
-admin  3	2024/12/12 01:29:11.651	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 01:29:19.794	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 01:29:19.868	不进行流量调节
-admin  3	2024/12/12 01:29:19.888	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 01:29:25.406	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 01:29:25.529	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 01:29:25.736	开始自动称重
-admin  3	2024/12/12 01:29:25.787	称重完毕
-admin  3	2024/12/12 01:29:25.857	开始自动称重
-admin  3	2024/12/12 01:29:25.880	称重完毕
-admin  3	2024/12/12 01:29:25.901	ProcessingStarted
-admin  3	2024/12/12 01:29:31.294	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 01:29:34.769	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:29:34.865	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 01:29:35.110	产品0重量	0.000g
-
-admin  3	2024/12/12 01:29:36.143	ProcessedEnd
-admin  3	2024/12/12 01:29:36.910	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 01:29:25","StopTime":"24-12-12 01:29:35","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 01:29:36.960	停止
-d  2	2024/12/12 02:04:53.324	设备初始化......
-d  2	2024/12/12 02:04:53.459	当前用户： d
-d  2	2024/12/12 02:04:53.501	打开程序：SLA-Coater1-004
-d  2	2024/12/12 02:04:53.521	低气压检测未开启
-d  2	2024/12/12 02:04:54.594	复位按钮按下
-d  2	2024/12/12 02:05:11.479	设备复位完成
-d  2	2024/12/12 02:05:19.610	停止
-d  2	2024/12/12 02:05:20.478	停止
-a  1	2024/12/12 02:05:32.822	当前用户： a
-admin  3	2024/12/12 02:05:49.113	当前用户： admin
-admin  3	2024/12/12 02:06:14.597	1_Mark运动至坐标：X:57.174 Y:134.866 Z:29.022 Result:TRUE
-admin  3	2024/12/12 02:07:53.944	设置1_Mark匹配坐标：X:71.306 Y:131.149 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:07:57.152	键盘按下：
-admin  3	2024/12/12 02:07:57.811	键盘按下：
-admin  3	2024/12/12 02:07:57.861	键盘释放：CurrentPosition--> X:71.410 Y:131.270 Z:18.952
-admin  3	2024/12/12 02:07:57.920	键盘释放：CurrentPosition--> X:71.410 Y:131.270 Z:18.952
-admin  3	2024/12/12 02:07:58.526	TrackAndPar.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,MarkLights
-admin  3	2024/12/12 02:07:58.604	键盘按下：
-admin  3	2024/12/12 02:07:58.646	键盘释放：CurrentPosition--> X:71.410 Y:131.270 Z:18.952
-admin  3	2024/12/12 02:07:58.735	ShareParameters.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,MarkLights
-admin  3	2024/12/12 02:07:59.116	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 02:07:59.215	键盘释放：CurrentPosition--> X:71.410 Y:131.270 Z:18.952
-admin  3	2024/12/12 02:08:00.773	涂胶运行
-admin  3	2024/12/12 02:08:01.956	
-admin  3	2024/12/12 02:08:11.579	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:08:12.452	不进行流量调节
-admin  3	2024/12/12 02:08:12.478	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:08:16.900	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:08:16.986	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:08:17.076	开始自动称重
-admin  3	2024/12/12 02:08:17.244	称重完毕
-admin  3	2024/12/12 02:08:17.270	开始自动称重
-admin  3	2024/12/12 02:08:17.393	称重完毕
-admin  3	2024/12/12 02:08:17.415	ProcessingStarted
-admin  3	2024/12/12 02:08:22.768	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 02:08:30.638	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:08:30.726	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:08:30.964	产品0重量	0.000g
-
-admin  3	2024/12/12 02:08:31.075	ProcessedEnd
-admin  3	2024/12/12 02:08:32.769	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:08:16","StopTime":"24-12-12 02:08:30","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:08:32.789	停止
-admin  3	2024/12/12 02:08:45.499	1_Mark运动至坐标：X:71.306 Y:131.149 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:08:58.932	设置1_Mark匹配坐标：X:70.166 Y:131.166 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:09:02.032	1_Mark运动至坐标：X:70.166 Y:131.166 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:09:39.514	设置1_Mark匹配坐标：X:69.854 Y:131.110 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:09:58.563	涂胶运行
-admin  3	2024/12/12 02:10:00.000	TrackAndPar.bin文件中以下参数已经被修改：PatternOffset,MatchPosition,MarkLights
-admin  3	2024/12/12 02:10:00.130	ShareParameters.bin文件中以下参数已经被修改：PatternOffset,MatchPosition,MarkLights
-admin  3	2024/12/12 02:10:01.090	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 02:10:01.120	
-admin  3	2024/12/12 02:10:12.353	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:10:13.183	不进行流量调节
-admin  3	2024/12/12 02:10:13.203	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:10:17.640	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:10:17.729	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:10:18.006	开始自动称重
-admin  3	2024/12/12 02:10:18.068	称重完毕
-admin  3	2024/12/12 02:10:18.097	开始自动称重
-admin  3	2024/12/12 02:10:18.125	称重完毕
-admin  3	2024/12/12 02:10:18.170	ProcessingStarted
-admin  3	2024/12/12 02:10:23.565	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 02:10:29.100	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:10:29.193	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:10:30.876	产品0重量	0.000g
-
-admin  3	2024/12/12 02:10:31.251	ProcessedEnd
-admin  3	2024/12/12 02:10:31.271	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:10:17","StopTime":"24-12-12 02:10:29","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:10:31.297	停止
-admin  3	2024/12/12 02:10:46.159	1_Mark运动至坐标：X:69.854 Y:131.110 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:10:56.709	设置1_Mark匹配坐标：X:69.565 Y:131.278 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:11:01.950	键盘按下：
-admin  3	2024/12/12 02:11:02.346	键盘按下：
-admin  3	2024/12/12 02:11:02.415	键盘释放：CurrentPosition--> X:69.854 Y:131.110 Z:18.952
-admin  3	2024/12/12 02:11:02.447	键盘释放：CurrentPosition--> X:69.854 Y:131.110 Z:18.952
-admin  3	2024/12/12 02:11:02.922	键盘按下：
-admin  3	2024/12/12 02:11:02.968	键盘释放：CurrentPosition--> X:69.854 Y:131.110 Z:18.952
-admin  3	2024/12/12 02:11:03.102	TrackAndPar.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,MarkLights
-admin  3	2024/12/12 02:11:03.207	键盘按下：
-admin  3	2024/12/12 02:11:03.324	ShareParameters.bin文件中以下参数已经被修改：PatternOffset,Light source adjust,MatchPosition,MarkLights
-admin  3	2024/12/12 02:11:03.494	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 02:11:03.590	键盘释放：CurrentPosition--> X:69.854 Y:131.110 Z:18.952
-admin  3	2024/12/12 02:11:09.487	涂胶运行
-admin  3	2024/12/12 02:11:10.550	
-admin  3	2024/12/12 02:11:20.300	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:11:21.163	不进行流量调节
-admin  3	2024/12/12 02:11:21.183	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:11:25.617	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:11:25.745	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:11:25.803	开始自动称重
-admin  3	2024/12/12 02:11:25.984	称重完毕
-admin  3	2024/12/12 02:11:26.054	开始自动称重
-admin  3	2024/12/12 02:11:26.098	称重完毕
-admin  3	2024/12/12 02:11:26.149	ProcessingStarted
-admin  3	2024/12/12 02:11:31.572	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 02:11:38.531	自动识别1_Mark：OneMark:Set-->X:56.419 Y:139.510 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:11:38.699	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:11:38.890	产品0重量	0.000g
-
-admin  3	2024/12/12 02:11:40.512	ProcessedEnd
-admin  3	2024/12/12 02:11:40.671	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:11:25","StopTime":"24-12-12 02:11:38","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:11:40.692	停止
-admin  3	2024/12/12 02:11:59.835	1_Mark运动至坐标：X:69.565 Y:131.278 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:12:03.667	设置1_Mark匹配坐标：X:70.640 Y:131.017 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:12:07.565	1_Mark运动至坐标：X:70.640 Y:131.017 Z:18.952 Result:TRUE
-admin  3	2024/12/12 02:12:20.704	设置1_Mark匹配坐标：X:0.000 Y:0.000 Z:0.000 Result:FALSE
-admin  3	2024/12/12 02:13:13.329	模板->main(A)中第1行程序被修改:DOSLA Spray:Mark1(56.419,139.510,29.022),One Mark,Angle(0)
-admin  3	2024/12/12 02:13:21.654	模板->main(A)中第1行程序被修改:DOSLA Spray:Mark1(71.200,130.905,18.952),One Mark,Angle(0)
-admin  3	2024/12/12 02:13:24.541	键盘按下：
-admin  3	2024/12/12 02:13:24.921	键盘按下：
-admin  3	2024/12/12 02:13:24.990	键盘释放：CurrentPosition--> X:71.138 Y:130.954 Z:18.952
-admin  3	2024/12/12 02:13:25.015	键盘释放：CurrentPosition--> X:71.138 Y:130.954 Z:18.952
-admin  3	2024/12/12 02:13:25.638	TrackAndPar.bin文件中以下参数已经被修改：Track storage,模板映射参数2
-admin  3	2024/12/12 02:13:25.724	ShareParameters.bin文件中以下参数已经被修改：Track storage,模板映射参数2
-admin  3	2024/12/12 02:13:26.111	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 02:13:26.181	键盘释放：CurrentPosition--> X:71.138 Y:130.954 Z:18.952
-admin  3	2024/12/12 02:13:28.143	涂胶运行
-admin  3	2024/12/12 02:13:29.187	
-admin  3	2024/12/12 02:13:38.929	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:13:39.759	不进行流量调节
-admin  3	2024/12/12 02:13:39.808	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:13:44.247	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:13:44.341	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:13:44.596	开始自动称重
-admin  3	2024/12/12 02:13:44.618	称重完毕
-admin  3	2024/12/12 02:13:44.679	开始自动称重
-admin  3	2024/12/12 02:13:44.700	称重完毕
-admin  3	2024/12/12 02:13:44.721	ProcessingStarted
-admin  3	2024/12/12 02:13:50.879	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:69.638 Y:131.002 Result:TRUE ;Score:97.823
-admin  3	2024/12/12 02:13:58.082	报警代码 1007:急停按钮按下，请复位！
-admin  3	2024/12/12 02:13:58.333	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:13:58.480	产品0重量	0.000g
-
-admin  3	2024/12/12 02:13:58.522	ProcessedEnd
-admin  3	2024/12/12 02:13:58.543	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:13:44","StopTime":"24-12-12 02:13:58","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:13:58.620	停止
-admin  3	2024/12/12 02:14:19.043	复位按钮按下
-admin  3	2024/12/12 02:14:44.247	设备复位完成
-admin  3	2024/12/12 02:14:53.157	涂胶运行
-admin  3	2024/12/12 02:14:54.255	
-admin  3	2024/12/12 02:15:05.829	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:15:06.651	不进行流量调节
-admin  3	2024/12/12 02:15:06.712	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:15:11.145	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:15:11.295	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:15:11.317	开始自动称重
-admin  3	2024/12/12 02:15:11.517	称重完毕
-admin  3	2024/12/12 02:15:11.539	开始自动称重
-admin  3	2024/12/12 02:15:11.597	称重完毕
-admin  3	2024/12/12 02:15:11.632	ProcessingStarted
-admin  3	2024/12/12 02:15:17.951	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.054 Y:131.335 Result:TRUE ;Score:99.167
-admin  3	2024/12/12 02:15:25.865	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 02:15:29.177	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:15:29.297	产品0重量	0.000g
-
-admin  3	2024/12/12 02:15:30.843	ProcessedEnd
-admin  3	2024/12/12 02:15:31.225	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:15:11","StopTime":"24-12-12 02:15:29","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:15:31.286	停止
-admin  3	2024/12/12 02:15:31.827	鼠标点击：Y-
-admin  3	2024/12/12 02:15:33.561	鼠标释放或离开：CurrentPosition--> X:56.904 Y:380.043 Z:29.022
-admin  3	2024/12/12 02:15:33.933	鼠标点击：X+
-admin  3	2024/12/12 02:15:34.266	鼠标释放或离开：CurrentPosition--> X:61.588 Y:379.824 Z:29.022
-admin  3	2024/12/12 02:15:34.556	鼠标点击：Y-
-admin  3	2024/12/12 02:15:34.656	鼠标释放或离开：CurrentPosition--> X:63.586 Y:379.824 Z:29.022
-admin  3	2024/12/12 02:15:34.791	鼠标点击：Y-
-admin  3	2024/12/12 02:15:36.202	鼠标释放或离开：CurrentPosition--> X:63.586 Y:351.223 Z:29.022
-admin  3	2024/12/12 02:15:36.337	鼠标释放或离开：CurrentPosition--> X:63.586 Y:349.590 Z:29.022
-admin  3	2024/12/12 02:34:40.144	键盘释放：CurrentPosition--> X:63.586 Y:349.590 Z:29.022
-admin  3	2024/12/12 02:34:40.173	键盘释放：CurrentPosition--> X:63.586 Y:349.590 Z:29.022
-admin  3	2024/12/12 02:34:42.398	English
-admin  3	2024/12/12 02:35:00.735	key release:CurrentPosition--> X:63.586 Y:349.590 Z:29.022
-admin  3	2024/12/12 02:35:02.230	DryRun
-admin  3	2024/12/12 02:35:02.280	DryRun
-admin  3	2024/12/12 02:35:13.169	Coating Running
-admin  3	2024/12/12 02:35:14.455	
-admin  3	2024/12/12 02:35:27.198	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 02:35:35.325	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 02:35:35.469	This product does not perform flow regulation
-admin  3	2024/12/12 02:35:35.514	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:35:41.737	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:35:41.955	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:35:42.087	Start AutoWeight
-admin  3	2024/12/12 02:35:43.031	WeightEnd
-admin  3	2024/12/12 02:35:43.164	Start AutoWeight
-admin  3	2024/12/12 02:35:44.137	WeightEnd
-admin  3	2024/12/12 02:35:45.575	ProcessingStarted
-admin  3	2024/12/12 02:35:52.767	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.108 Y:131.371 Result:TRUE ;Score:98.457
-admin  3	2024/12/12 02:36:01.342	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 02:36:05.671	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:36:05.763	Product0Weight	0.000g
-
-admin  3	2024/12/12 02:36:05.784	ProcessedEnd
-admin  3	2024/12/12 02:36:05.829	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:35:45","StopTime":"24-12-12 02:36:05","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:36:06.608	Stop
-admin  3	2024/12/12 02:36:50.195	Chinese
-admin  3	2024/12/12 02:36:54.562	涂胶运行
-admin  3	2024/12/12 02:36:55.759	
-admin  3	2024/12/12 02:37:01.290	自动运行到清洗位置:Result:FALSE
-admin  3	2024/12/12 02:37:02.099	停止
-admin  3	2024/12/12 02:37:05.463	涂胶运行
-admin  3	2024/12/12 02:37:06.715	
-admin  3	2024/12/12 02:37:15.792	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 02:37:26.454	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 02:37:26.529	不进行流量调节
-admin  3	2024/12/12 02:37:26.591	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:37:32.045	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:37:32.207	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:37:32.246	开始自动称重
-admin  3	2024/12/12 02:37:32.464	称重完毕
-admin  3	2024/12/12 02:37:32.487	开始自动称重
-admin  3	2024/12/12 02:37:32.547	称重完毕
-admin  3	2024/12/12 02:37:32.569	ProcessingStarted
-admin  3	2024/12/12 02:37:38.770	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.244 Y:131.374 Result:TRUE ;Score:98.510
-admin  3	2024/12/12 02:37:46.860	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 02:37:49.454	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:37:51.288	产品0重量	0.000g
-
-admin  3	2024/12/12 02:37:51.378	ProcessedEnd
-admin  3	2024/12/12 02:37:51.434	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:37:32","StopTime":"24-12-12 02:37:49","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:37:51.454	停止
-admin  3	2024/12/12 02:37:53.545	English
-admin  3	2024/12/12 02:38:15.190	key release:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 02:38:15.280	key release:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 02:39:00.281	Coating Running
-admin  3	2024/12/12 02:39:01.522	
-admin  3	2024/12/12 02:39:15.559	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 02:39:23.683	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 02:39:23.746	This product does not perform flow regulation
-admin  3	2024/12/12 02:39:23.797	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:39:29.984	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:39:30.085	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:39:30.916	Start AutoWeight
-admin  3	2024/12/12 02:39:31.137	WeightEnd
-admin  3	2024/12/12 02:39:32.013	Start AutoWeight
-admin  3	2024/12/12 02:39:32.153	WeightEnd
-admin  3	2024/12/12 02:39:33.642	ProcessingStarted
-admin  3	2024/12/12 02:39:40.882	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.208 Y:130.922 Result:TRUE ;Score:97.379
-admin  3	2024/12/12 02:39:49.403	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 02:39:52.679	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:39:52.774	Product0Weight	0.000g
-
-admin  3	2024/12/12 02:39:52.796	ProcessedEnd
-admin  3	2024/12/12 02:39:52.902	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:39:33","StopTime":"24-12-12 02:39:52","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:39:53.358	Stop
-admin  3	2024/12/12 02:40:02.646	key release:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 02:40:02.710	key release:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 02:43:29.665	Initializing...
-admin  3	2024/12/12 02:43:29.876	Current User: admin
-admin  3	2024/12/12 02:43:29.902	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 02:43:29.963	Low pressure detection not activated
-admin  3	2024/12/12 02:43:31.463	The reset button is pressed
-admin  3	2024/12/12 02:43:57.614	Reset is completed
-admin  3	2024/12/12 02:44:03.292	DryRun
-admin  3	2024/12/12 02:44:03.318	DryRun
-admin  3	2024/12/12 02:44:12.189	Coating Running
-admin  3	2024/12/12 02:44:13.421	
-admin  3	2024/12/12 02:44:24.969	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 02:44:38.273	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 02:44:38.400	This product does not perform flow regulation
-admin  3	2024/12/12 02:44:38.420	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 02:44:44.558	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 02:44:44.691	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 02:44:46.095	ProcessingStarted
-admin  3	2024/12/12 02:44:53.326	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.080 Y:131.215 Result:TRUE ;Score:98.295
-admin  3	2024/12/12 02:45:01.757	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 02:45:04.738	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 02:45:04.822	Product0Weight	0.000g
-
-admin  3	2024/12/12 02:45:04.844	ProcessedEnd
-admin  3	2024/12/12 02:45:04.998	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 02:44:46","StopTime":"24-12-12 02:45:04","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 02:45:05.292	Stop
-admin  3	2024/12/12 02:59:05.460	Initializing...
-admin  3	2024/12/12 02:59:05.654	Current User: admin
-admin  3	2024/12/12 02:59:05.706	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 02:59:05.727	Low pressure detection not activated
-admin  3	2024/12/12 02:59:07.142	The reset button is pressed
-admin  3	2024/12/12 02:59:33.205	Reset is completed
-admin  3	2024/12/12 02:59:38.540	DryRun
-admin  3	2024/12/12 02:59:38.605	DryRun
-admin  3	2024/12/12 02:59:46.176	Coating Running
-admin  3	2024/12/12 02:59:47.357	
-admin  3	2024/12/12 02:59:58.998	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:00:07.369	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:00:07.434	This product does not perform flow regulation
-admin  3	2024/12/12 03:00:07.482	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:00:13.590	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:00:13.668	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:00:15.025	ProcessingStarted
-admin  3	2024/12/12 03:00:22.282	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.270 Y:131.344 Result:TRUE ;Score:98.626
-admin  3	2024/12/12 03:00:30.744	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:00:34.120	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:00:34.210	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:00:34.231	ProcessedEnd
-admin  3	2024/12/12 03:00:34.361	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:00:14","StopTime":"24-12-12 03:00:34","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:00:35.309	Stop
-admin  3	2024/12/12 03:00:37.625	key release or away:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:06:02.046	Initializing...
-admin  3	2024/12/12 03:06:02.100	Current User: admin
-admin  3	2024/12/12 03:06:02.240	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 03:06:02.261	Low pressure detection not activated
-admin  3	2024/12/12 03:06:03.216	The reset button is pressed
-admin  3	2024/12/12 03:06:29.286	Reset is completed
-admin  3	2024/12/12 03:07:54.997	Initializing...
-admin  3	2024/12/12 03:07:55.214	Current User: admin
-admin  3	2024/12/12 03:07:55.235	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 03:07:55.256	Low pressure detection not activated
-admin  3	2024/12/12 03:07:56.684	The reset button is pressed
-admin  3	2024/12/12 03:08:04.958	Reset is completed
-admin  3	2024/12/12 03:08:09.386	Coating Running
-admin  3	2024/12/12 03:08:10.695	
-admin  3	2024/12/12 03:08:22.215	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:08:32.571	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:08:32.680	This product does not perform flow regulation
-admin  3	2024/12/12 03:08:32.735	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:08:38.889	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:08:38.972	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:08:40.573	ProcessingStarted
-admin  3	2024/12/12 03:08:47.746	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.625 Y:131.345 Result:TRUE ;Score:99.604
-admin  3	2024/12/12 03:08:56.299	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:09:00.199	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:09:00.278	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:09:00.304	ProcessedEnd
-admin  3	2024/12/12 03:09:00.366	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:08:40","StopTime":"24-12-12 03:09:00","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:09:00.711	Stop
-admin  3	2024/12/12 03:14:01.842	Initializing...
-admin  3	2024/12/12 03:14:02.050	Current User: admin
-admin  3	2024/12/12 03:14:02.071	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 03:14:02.092	Low pressure detection not activated
-admin  3	2024/12/12 03:14:03.586	The reset button is pressed
-admin  3	2024/12/12 03:14:29.568	Reset is completed
-admin  3	2024/12/12 03:15:14.642	Initializing...
-admin  3	2024/12/12 03:15:14.826	Current User: admin
-admin  3	2024/12/12 03:15:14.867	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 03:15:14.889	Low pressure detection not activated
-admin  3	2024/12/12 03:15:15.844	The reset button is pressed
-admin  3	2024/12/12 03:15:24.278	Reset is completed
-admin  3	2024/12/12 03:15:37.480	DryRun
-admin  3	2024/12/12 03:15:37.532	DryRun
-admin  3	2024/12/12 03:15:40.721	Coating Running
-admin  3	2024/12/12 03:15:42.125	
-admin  3	2024/12/12 03:15:53.597	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:16:00.267	Stop
-admin  3	2024/12/12 03:16:05.108	Coating Running
-admin  3	2024/12/12 03:16:06.476	
-admin  3	2024/12/12 03:16:15.499	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:16:24.067	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:16:24.153	This product does not perform flow regulation
-admin  3	2024/12/12 03:16:24.175	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:16:30.402	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:16:30.510	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:16:30.590	ProcessingStarted
-admin  3	2024/12/12 03:16:37.640	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.274 Y:131.179 Result:TRUE ;Score:97.717
-admin  3	2024/12/12 03:16:46.196	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:16:53.601	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:16:53.651	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:16:53.723	ProcessedEnd
-admin  3	2024/12/12 03:16:53.790	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:16:30","StopTime":"24-12-12 03:16:53","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:16:54.096	Stop
-admin  3	2024/12/12 03:39:33.525	Initializing...
-admin  3	2024/12/12 03:39:33.610	Current User: admin
-admin  3	2024/12/12 03:39:33.641	Open Program:SLA-Coater1-004
-admin  3	2024/12/12 03:39:33.651	Low pressure detection not activated
-admin  3	2024/12/12 03:39:35.020	The reset button is pressed
-admin  3	2024/12/12 03:40:00.966	Reset is completed
-admin  3	2024/12/12 03:40:04.866	DryRun
-admin  3	2024/12/12 03:40:04.869	DryRun
-admin  3	2024/12/12 03:40:09.631	Coating Running
-admin  3	2024/12/12 03:40:09.842	
-admin  3	2024/12/12 03:40:22.410	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:40:32.082	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:40:32.217	This product does not perform flow regulation
-admin  3	2024/12/12 03:40:32.220	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:40:38.365	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:40:39.085	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:40:39.105	ProcessingStarted
-admin  3	2024/12/12 03:40:46.168	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.273 Y:131.008 Result:TRUE ;Score:98.378
-admin  3	2024/12/12 03:40:54.606	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:40:58.470	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:40:58.574	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:40:58.593	ProcessedEnd
-admin  3	2024/12/12 03:40:58.708	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:40:39","StopTime":"24-12-12 03:40:58","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:40:59.378	Stop
-admin  3	2024/12/12 03:41:08.948	Coating Running
-admin  3	2024/12/12 03:41:09.471	
-admin  3	2024/12/12 03:41:24.346	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:41:35.463	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:41:35.524	This product does not perform flow regulation
-admin  3	2024/12/12 03:41:35.536	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:41:41.740	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:41:41.840	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:41:41.876	ProcessingStarted
-admin  3	2024/12/12 03:41:48.842	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.276 Y:131.160 Result:TRUE ;Score:98.307
-admin  3	2024/12/12 03:41:57.298	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:42:00.729	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:42:00.812	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:42:00.823	ProcessedEnd
-admin  3	2024/12/12 03:42:00.907	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:41:41","StopTime":"24-12-12 03:42:00","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:42:01.548	Stop
-admin  3	2024/12/12 03:43:47.346	Key click:
-admin  3	2024/12/12 03:43:48.952	key release:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:54:08.656	key release or away:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:54:08.928	key release or away:CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:54:13.172	DispenseMode
-admin  3	2024/12/12 03:54:16.902	Coating Running
-admin  3	2024/12/12 03:54:17.838	
-admin  3	2024/12/12 03:54:20.705	Automatically run to the cleanPosition:Result:FALSE
-admin  3	2024/12/12 03:54:20.996	Stop
-admin  3	2024/12/12 03:54:33.630	Chinese
-admin  3	2024/12/12 03:54:36.760	涂胶运行
-admin  3	2024/12/12 03:54:39.197	
-admin  3	2024/12/12 03:54:41.149	自动运行到清洗位置:Result:FALSE
-admin  3	2024/12/12 03:54:42.515	停止
-admin  3	2024/12/12 03:54:45.443	空运行
-admin  3	2024/12/12 03:54:45.875	空运行
-admin  3	2024/12/12 03:54:49.355	涂胶运行
-admin  3	2024/12/12 03:54:51.846	
-admin  3	2024/12/12 03:54:59.171	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 03:55:07.533	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:55:07.944	不进行流量调节
-admin  3	2024/12/12 03:55:08.426	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:55:13.131	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:55:13.641	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:55:14.172	ProcessingStarted
-admin  3	2024/12/12 03:55:19.838	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.274 Y:131.119 Result:TRUE ;Score:98.418
-admin  3	2024/12/12 03:55:27.938	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 03:55:30.905	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:55:32.520	产品0重量	0.000g
-
-admin  3	2024/12/12 03:55:34.326	ProcessedEnd
-admin  3	2024/12/12 03:55:34.916	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:55:13","StopTime":"24-12-12 03:55:31","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:55:36.924	停止
-admin  3	2024/12/12 03:55:38.283	涂胶运行
-admin  3	2024/12/12 03:55:38.848	
-admin  3	2024/12/12 03:55:51.153	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 03:55:59.531	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:55:59.969	不进行流量调节
-admin  3	2024/12/12 03:56:00.442	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:56:05.143	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:56:05.837	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:56:06.557	ProcessingStarted
-admin  3	2024/12/12 03:56:11.839	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.274 Y:131.072 Result:TRUE ;Score:98.441
-admin  3	2024/12/12 03:56:19.782	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 03:56:23.202	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:56:25.699	产品0重量	0.000g
-
-admin  3	2024/12/12 03:56:27.944	ProcessedEnd
-admin  3	2024/12/12 03:56:29.639	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:56:05","StopTime":"24-12-12 03:56:23","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:56:29.933	停止
-admin  3	2024/12/12 03:56:30.313	Deutsche
-admin  3	2024/12/12 03:56:31.872	Beschichtungsvorgang
-admin  3	2024/12/12 03:56:34.532	
-admin  3	2024/12/12 03:56:47.532	Automatischer Lauf zur Reinigungsposition:Result:TRUE
-admin  3	2024/12/12 03:56:49.778	Dieses Produkt führt keine Durchflussregelung durch
-admin  3	2024/12/12 03:56:50.270	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:56:54.279	Gehe zu Code-Standort scannen:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:56:55.004	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:56:55.590	ProcessingStarted
-admin  3	2024/12/12 03:57:00.952	Automatische Erkennung von 1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.260 Y:131.061 Result:TRUE ;Score:98.748
-admin  3	2024/12/12 03:57:09.013	AlarmCode 1042:Vorlage kann nicht gefunden werden
-admin  3	2024/12/12 03:57:14.507	Automatische Erkennung von 1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:57:17.011	Produkt0Gewicht	0.000g
-
-admin  3	2024/12/12 03:57:19.243	ProcessedEnd
-admin  3	2024/12/12 03:57:19.795	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:56:54","StopTime":"24-12-12 03:57:14","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:57:21.596	Anhalten
-admin  3	2024/12/12 03:57:23.113	ParametersOfAxis.binDie geanderten parameter sind :Speed_setting
-admin  3	2024/12/12 03:57:23.308	ParametersOfSystemSetting.binDie geanderten parameter sind :Bar Code Match,Numeric
-admin  3	2024/12/12 03:57:24.621	Mausklick：
-admin  3	2024/12/12 03:57:25.180	Mausklick：
-admin  3	2024/12/12 03:57:25.669	Schlüsselfreigabe：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:57:25.832	Schlüsselfreigabe：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:57:25.943	Mausklick：
-admin  3	2024/12/12 03:57:26.118	Schlüsselfreigabe：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:57:26.450	Mausklick：
-admin  3	2024/12/12 03:57:26.563	Schlüsselfreigabe：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:57:26.696	TrackAndPar.binDie geanderten parameter sind :Light source adjust
-admin  3	2024/12/12 03:57:26.892	Mausklick：
-admin  3	2024/12/12 03:57:27.103	ShareParameters.binDie geanderten parameter sind :ConfigurationFilePath,Light source adjust
-admin  3	2024/12/12 03:57:27.848	Schlüsselfreigabe：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 03:57:29.801	Beschichtungsvorgang
-admin  3	2024/12/12 03:57:31.061	Programm speichern：SLA-Coater1-004
-admin  3	2024/12/12 03:57:31.704	
-admin  3	2024/12/12 03:57:40.955	Automatischer Lauf zur Reinigungsposition:Result:TRUE
-admin  3	2024/12/12 03:57:41.797	Dieses Produkt führt keine Durchflussregelung durch
-admin  3	2024/12/12 03:57:42.377	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:57:44.235	Gehe zu Code-Standort scannen:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:57:44.936	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:57:45.541	ProcessingStarted
-admin  3	2024/12/12 03:57:48.646	Automatische Erkennung von 1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.292 Y:131.101 Result:TRUE ;Score:98.438
-admin  3	2024/12/12 03:57:52.657	AlarmCode 1042:Vorlage kann nicht gefunden werden
-admin  3	2024/12/12 03:57:55.184	Automatische Erkennung von 1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:57:58.304	Produkt0Gewicht	0.000g
-
-admin  3	2024/12/12 03:58:00.890	ProcessedEnd
-admin  3	2024/12/12 03:58:02.046	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:57:44","StopTime":"24-12-12 03:57:55","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:58:03.163	Anhalten
-admin  3	2024/12/12 03:58:03.520	English
-admin  3	2024/12/12 03:58:14.488	Coating Running
-admin  3	2024/12/12 03:58:16.780	
-admin  3	2024/12/12 03:58:24.152	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:58:25.113	This product does not perform flow regulation
-admin  3	2024/12/12 03:58:25.593	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:58:28.307	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:58:28.889	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:58:29.408	ProcessingStarted
-admin  3	2024/12/12 03:58:33.266	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.286 Y:131.091 Result:TRUE ;Score:98.688
-admin  3	2024/12/12 03:58:37.749	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:58:40.578	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:58:41.353	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:58:44.375	ProcessedEnd
-admin  3	2024/12/12 03:58:45.037	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:58:28","StopTime":"24-12-12 03:58:41","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:58:45.576	Stop
-admin  3	2024/12/12 03:58:47.857	Coating Running
-admin  3	2024/12/12 03:58:49.812	
-admin  3	2024/12/12 03:58:57.472	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:59:02.867	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 03:59:03.401	This product does not perform flow regulation
-admin  3	2024/12/12 03:59:04.145	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:59:07.206	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:59:07.794	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:59:08.480	ProcessingStarted
-admin  3	2024/12/12 03:59:12.139	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.299 Y:131.163 Result:TRUE ;Score:98.052
-admin  3	2024/12/12 03:59:16.680	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:59:19.420	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:59:20.629	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:59:23.568	ProcessedEnd
-admin  3	2024/12/12 03:59:24.354	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:59:07","StopTime":"24-12-12 03:59:19","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:59:25.512	Stop
-admin  3	2024/12/12 03:59:28.490	Coating Running
-admin  3	2024/12/12 03:59:29.155	
-admin  3	2024/12/12 03:59:36.116	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 03:59:37.049	This product does not perform flow regulation
-admin  3	2024/12/12 03:59:37.551	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 03:59:40.146	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 03:59:40.912	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 03:59:41.541	ProcessingStarted
-admin  3	2024/12/12 03:59:45.179	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.287 Y:131.193 Result:TRUE ;Score:97.994
-admin  3	2024/12/12 03:59:49.501	AlarmCode 1042:Can't found template!
-admin  3	2024/12/12 03:59:52.859	Automatic Match1_Mark:OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 03:59:53.561	Product0Weight	0.000g
-
-admin  3	2024/12/12 03:59:54.766	ProcessedEnd
-admin  3	2024/12/12 03:59:57.422	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 03:59:40","StopTime":"24-12-12 03:59:53","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 03:59:58.108	Stop
-admin  3	2024/12/12 04:00:01.651	Chinese
-admin  3	2024/12/12 04:00:48.770	涂胶运行
-admin  3	2024/12/12 04:00:51.345	
-admin  3	2024/12/12 04:00:58.548	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:00:59.426	不进行流量调节
-admin  3	2024/12/12 04:00:59.963	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:01:01.875	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:01:02.793	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:01:03.556	ProcessingStarted
-admin  3	2024/12/12 04:01:06.333	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.280 Y:131.196 Result:TRUE ;Score:98.612
-admin  3	2024/12/12 04:01:10.420	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:01:14.656	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:01:16.950	产品0重量	0.000g
-
-admin  3	2024/12/12 04:01:18.322	ProcessedEnd
-admin  3	2024/12/12 04:01:19.073	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:01:01","StopTime":"24-12-12 04:01:14","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:01:19.762	停止
-admin  3	2024/12/12 04:01:21.531	涂胶运行
-admin  3	2024/12/12 04:01:24.155	
-admin  3	2024/12/12 04:01:31.344	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:01:32.207	不进行流量调节
-admin  3	2024/12/12 04:01:32.807	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:01:34.635	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:01:35.599	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 04:01:39.415	停止
-admin  3	2024/12/12 04:01:42.293	涂胶运行
-admin  3	2024/12/12 04:01:44.921	
-admin  3	2024/12/12 04:01:52.333	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:01:57.495	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:01:58.073	不进行流量调节
-admin  3	2024/12/12 04:01:58.902	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:02:01.882	停止
-admin  3	2024/12/12 04:02:02.740	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:FALSE  GTS_Code:0
-admin  3	2024/12/12 04:02:05.491	Number:1 SN: Result:TRUE TimeOut:FALSE
-admin  3	2024/12/12 04:02:07.232	停止
-admin  3	2024/12/12 04:02:11.751	ParametersOfAxis.bin文件中以下参数已经被修改：Speed_setting
-admin  3	2024/12/12 04:02:11.935	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
-admin  3	2024/12/12 04:02:13.264	键盘按下：
-admin  3	2024/12/12 04:02:13.982	键盘按下：
-admin  3	2024/12/12 04:02:14.089	键盘释放：CurrentPosition--> X:317.036 Y:64.254 Z:29.020
-admin  3	2024/12/12 04:02:14.198	键盘释放：CurrentPosition--> X:317.036 Y:64.254 Z:29.020
-admin  3	2024/12/12 04:02:14.594	ShareParameters.bin文件中以下参数已经被修改：ConfigurationFilePath
-admin  3	2024/12/12 04:02:15.387	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 04:02:16.822	键盘释放：CurrentPosition--> X:317.036 Y:64.254 Z:29.020
-admin  3	2024/12/12 04:02:19.138	键盘按下：
-admin  3	2024/12/12 04:02:19.840	键盘释放：CurrentPosition--> X:317.036 Y:64.254 Z:29.020
-admin  3	2024/12/12 04:02:20.568	涂胶运行
-admin  3	2024/12/12 04:02:21.353	
-admin  3	2024/12/12 04:02:24.850	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:02:25.747	不进行流量调节
-admin  3	2024/12/12 04:02:26.297	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:02:28.043	停止
-admin  3	2024/12/12 04:02:31.341	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:02:32.501	Number:1 SN: Result:TRUE TimeOut:FALSE
-admin  3	2024/12/12 04:02:35.450	停止
-admin  3	2024/12/12 04:02:36.035	涂胶运行
-admin  3	2024/12/12 04:02:36.652	
-admin  3	2024/12/12 04:02:41.563	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:02:46.191	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:02:47.002	不进行流量调节
-admin  3	2024/12/12 04:02:47.483	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:02:48.976	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:02:49.633	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:02:50.283	ProcessingStarted
-admin  3	2024/12/12 04:02:52.589	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.285 Y:131.069 Result:TRUE ;Score:98.534
-admin  3	2024/12/12 04:02:56.147	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:02:58.693	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:03:01.492	产品0重量	0.000g
-
-admin  3	2024/12/12 04:03:02.448	ProcessedEnd
-admin  3	2024/12/12 04:03:05.324	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:02:49","StopTime":"24-12-12 04:02:58","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:03:06.068	停止
-admin  3	2024/12/12 04:03:06.653	涂胶运行
-admin  3	2024/12/12 04:03:07.275	
-admin  3	2024/12/12 04:03:11.467	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:03:12.322	不进行流量调节
-admin  3	2024/12/12 04:03:12.913	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:03:14.463	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:03:15.230	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:03:15.900	ProcessingStarted
-admin  3	2024/12/12 04:03:18.039	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.282 Y:131.074 Result:TRUE ;Score:99.103
-admin  3	2024/12/12 04:03:21.614	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:03:24.795	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:03:27.666	产品0重量	0.000g
-
-admin  3	2024/12/12 04:03:28.508	ProcessedEnd
-admin  3	2024/12/12 04:03:31.493	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:03:14","StopTime":"24-12-12 04:03:24","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:03:32.345	停止
-admin  3	2024/12/12 04:03:33.102	涂胶运行
-admin  3	2024/12/12 04:03:33.839	
-admin  3	2024/12/12 04:03:37.797	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:03:38.696	不进行流量调节
-admin  3	2024/12/12 04:03:39.206	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:03:40.825	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:03:41.547	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:03:42.125	ProcessingStarted
-admin  3	2024/12/12 04:03:44.446	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.278 Y:131.094 Result:TRUE ;Score:98.786
-admin  3	2024/12/12 04:03:48.047	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:03:52.354	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:03:55.118	产品0重量	0.000g
-
-admin  3	2024/12/12 04:03:56.024	ProcessedEnd
-admin  3	2024/12/12 04:03:56.089	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:03:40","StopTime":"24-12-12 04:03:52","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:03:56.112	停止
-admin  3	2024/12/12 04:04:21.795	鼠标释放或离开：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 04:04:22.870	鼠标释放或离开：CurrentPosition--> X:56.904 Y:414.552 Z:29.022
-admin  3	2024/12/12 04:05:35.462	ParametersOfSystemSetting.bin文件中以下参数已经被修改：SystemParamentData,Numeric
-admin  3	2024/12/12 04:05:35.560	TrackAndPar.bin文件中以下参数已经被修改：TwoValveDistanceData
-admin  3	2024/12/12 04:05:35.639	ShareParameters.bin文件中以下参数已经被修改：TwoValveDistanceData
-admin  3	2024/12/12 04:05:38.979	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Process Out
-admin  3	2024/12/12 04:05:47.046	涂胶运行
-admin  3	2024/12/12 04:05:48.178	
-admin  3	2024/12/12 04:05:59.714	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:06:00.530	不进行流量调节
-admin  3	2024/12/12 04:06:00.568	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:06:02.678	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:06:02.750	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:06:02.796	ProcessingStarted
-admin  3	2024/12/12 04:06:06.229	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.526 Y:131.594 Result:TRUE ;Score:98.707
-admin  3	2024/12/12 04:06:09.761	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:06:12.937	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:06:13.105	产品0重量	0.000g
-
-admin  3	2024/12/12 04:06:13.346	ProcessedEnd
-admin  3	2024/12/12 04:06:14.618	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:06:02","StopTime":"24-12-12 04:06:13","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:06:14.641	停止
-admin  3	2024/12/12 04:06:16.954	涂胶运行
-admin  3	2024/12/12 04:06:18.017	
-admin  3	2024/12/12 04:06:29.659	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:06:34.409	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:06:34.459	不进行流量调节
-admin  3	2024/12/12 04:06:34.501	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:06:37.168	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:06:37.280	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:06:37.314	ProcessingStarted
-admin  3	2024/12/12 04:06:40.743	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.289 Y:131.063 Result:TRUE ;Score:97.663
-admin  3	2024/12/12 04:06:44.327	报警代码 1042:没有匹配到图片！
-admin  3	2024/12/12 04:06:46.354	自动识别1_Mark：OneMark:Set-->X:56.903 Y:414.553 Z:29.022  Match-->X:0.000 Y:0.000 Result:FALSE ;Score:0.000
-admin  3	2024/12/12 04:06:47.114	产品0重量	0.000g
-
-admin  3	2024/12/12 04:06:47.887	ProcessedEnd
-admin  3	2024/12/12 04:06:47.932	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:06:37","StopTime":"24-12-12 04:06:46","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":false,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:06:47.961	停止
-admin  3	2024/12/12 04:06:49.566	涂胶运行
-admin  3	2024/12/12 04:06:50.791	
-admin  3	2024/12/12 04:07:02.238	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:07:06.994	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:07:07.098	不进行流量调节
-admin  3	2024/12/12 04:07:07.130	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:07:09.336	停止
-admin  3	2024/12/12 04:07:10.498	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:FALSE  GTS_Code:0
-admin  3	2024/12/12 04:07:10.518	Number:1 SN: Result:TRUE TimeOut:FALSE
-admin  3	2024/12/12 04:07:10.723	停止
-admin  3	2024/12/12 04:07:17.663	键盘按下：
-admin  3	2024/12/12 04:07:18.814	键盘释放：CurrentPosition--> X:239.434 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:33.533	鼠标点击：X-
-admin  3	2024/12/12 04:07:34.177	鼠标释放或离开：CurrentPosition--> X:227.960 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:34.803	鼠标释放或离开：CurrentPosition--> X:226.546 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:36.130	键盘按下：Return
-admin  3	2024/12/12 04:07:36.160	键盘释放：CurrentPosition--> X:226.546 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:37.265	键盘按下：Left
-admin  3	2024/12/12 04:07:40.523	键盘释放：CurrentPosition--> X:163.097 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:41.065	键盘按下：Return
-admin  3	2024/12/12 04:07:41.216	键盘释放：CurrentPosition--> X:161.354 Y:161.488 Z:24.427
-admin  3	2024/12/12 04:07:44.364	运行测试：开始
-admin  3	2024/12/12 04:07:51.066	设备加工流程标志：FALSE 异常停机：TRUE
-admin  3	2024/12/12 04:07:51.096	运行测试：停止
-admin  3	2024/12/12 04:07:52.251	键盘按下：
-admin  3	2024/12/12 04:07:52.503	键盘按下：
-admin  3	2024/12/12 04:07:52.629	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:07:52.705	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:07:52.862	键盘按下：
-admin  3	2024/12/12 04:07:53.074	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:07:53.126	ParametersOfSystemSetting.bin文件中以下参数已经被修改：Numeric
-admin  3	2024/12/12 04:07:53.246	TrackAndPar.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
-admin  3	2024/12/12 04:07:53.349	ShareParameters.bin文件中以下参数已经被修改：Track storage,TwoValveDistanceData
-admin  3	2024/12/12 04:07:53.785	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 04:07:53.875	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:02.575	键盘按下：
-admin  3	2024/12/12 04:08:02.847	键盘按下：
-admin  3	2024/12/12 04:08:02.939	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:02.997	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:03.575	TrackAndPar.bin文件中以下参数已经被修改：Track storage
-admin  3	2024/12/12 04:08:03.654	ShareParameters.bin文件中以下参数已经被修改：Track storage
-admin  3	2024/12/12 04:08:03.804	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 04:08:03.832	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:04.100	键盘按下：
-admin  3	2024/12/12 04:08:04.167	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:33.816	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring
-admin  3	2024/12/12 04:08:37.319	ParametersOfSystemSetting.bin文件中以下参数已经被修改：FlowMonitoring
-admin  3	2024/12/12 04:08:48.430	模板SLA Spray中第2行程序被修改:Valve:Valve 3,Mirror:0100
-
-admin  3	2024/12/12 04:08:49.726	键盘按下：
-admin  3	2024/12/12 04:08:49.958	键盘按下：
-admin  3	2024/12/12 04:08:50.051	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:50.112	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:50.657	TrackAndPar.bin文件中以下参数已经被修改：Track storage
-admin  3	2024/12/12 04:08:50.755	ShareParameters.bin文件中以下参数已经被修改：Track storage
-admin  3	2024/12/12 04:08:51.296	保存程序：SLA-Coater1-004
-admin  3	2024/12/12 04:08:51.355	键盘释放：CurrentPosition--> X:186.798 Y:156.312 Z:1.233
-admin  3	2024/12/12 04:08:52.709	运行测试：开始
-admin  3	2024/12/12 04:09:02.467	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:09:13.138	涂胶运行
-admin  3	2024/12/12 04:09:14.212	
-admin  3	2024/12/12 04:09:24.836	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:09:29.614	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:09:29.662	不进行流量调节
-admin  3	2024/12/12 04:09:29.683	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:09:32.372	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:09:32.479	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:09:32.591	ProcessingStarted
-admin  3	2024/12/12 04:09:35.897	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.290 Y:130.992 Result:TRUE ;Score:98.440
-admin  3	2024/12/12 04:09:45.250	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:09:45.313	产品0重量	0.000g
-
-admin  3	2024/12/12 04:09:45.382	ProcessedEnd
-admin  3	2024/12/12 04:09:45.405	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:09:32","StopTime":"24-12-12 04:09:45","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:09:57.433	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:10:13.864	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:10:13.897	不进行流量调节
-admin  3	2024/12/12 04:10:13.949	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:10:16.636	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:10:16.802	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 04:10:21.013	停止
-admin  3	2024/12/12 04:10:25.601	涂胶运行
-admin  3	2024/12/12 04:10:26.676	
-admin  3	2024/12/12 04:10:38.191	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:10:42.953	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:10:42.986	不进行流量调节
-admin  3	2024/12/12 04:10:43.022	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:10:45.720	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:10:45.819	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:10:45.852	ProcessingStarted
-admin  3	2024/12/12 04:10:49.351	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.154 Y:131.333 Result:TRUE ;Score:99.403
-admin  3	2024/12/12 04:10:58.683	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:10:58.723	产品0重量	0.000g
-
-admin  3	2024/12/12 04:10:58.763	ProcessedEnd
-admin  3	2024/12/12 04:10:58.783	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:10:45","StopTime":"24-12-12 04:10:58","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:11:10.814	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:11:15.545	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:11:15.591	不进行流量调节
-admin  3	2024/12/12 04:11:15.610	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:11:18.306	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:11:18.407	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:11:18.440	ProcessingStarted
-admin  3	2024/12/12 04:11:21.859	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.713 Y:131.751 Result:TRUE ;Score:92.846
-admin  3	2024/12/12 04:11:31.200	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:11:31.253	产品0重量	0.000g
-
-admin  3	2024/12/12 04:11:31.277	ProcessedEnd
-admin  3	2024/12/12 04:11:31.334	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:11:18","StopTime":"24-12-12 04:11:31","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:11:43.364	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:11:48.079	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:11:48.143	不进行流量调节
-admin  3	2024/12/12 04:11:48.168	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:11:50.835	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:11:50.946	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:11:51.005	ProcessingStarted
-admin  3	2024/12/12 04:11:54.388	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:71.306 Y:131.193 Result:TRUE ;Score:97.849
-admin  3	2024/12/12 04:12:03.716	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:12:03.780	产品0重量	0.000g
-
-admin  3	2024/12/12 04:12:03.803	ProcessedEnd
-admin  3	2024/12/12 04:12:03.856	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:11:50","StopTime":"24-12-12 04:12:03","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:12:15.894	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:12:20.622	自动运行至吐胶位置:Setting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 04:12:20.679	不进行流量调节
-admin  3	2024/12/12 04:12:20.706	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 04:12:23.384	运动到扫码位置：X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 04:12:23.485	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 04:12:23.504	ProcessingStarted
-admin  3	2024/12/12 04:12:26.891	自动识别1_Mark：OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.716 Y:131.845 Result:TRUE ;Score:92.764
-admin  3	2024/12/12 04:12:36.229	设备加工流程标志：TRUE 异常停机：FALSE
-admin  3	2024/12/12 04:12:36.302	产品0重量	0.000g
-
-admin  3	2024/12/12 04:12:36.322	ProcessedEnd
-admin  3	2024/12/12 04:12:36.342	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 04:12:23","StopTime":"24-12-12 04:12:36","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 04:12:48.385	自动运行到清洗位置:Result:TRUE
-admin  3	2024/12/12 04:13:31.313	停止
-admin  3	2024/12/12 04:13:32.651	停止
-admin  3	2024/12/12 04:13:47.217	键盘按下：
-admin  3	2024/12/12 04:13:48.445	键盘释放：CurrentPosition--> X:113.710 Y:65.914 Z:29.022
-admin  3	2024/12/12 04:43:06.296	鼠标释放或离开：CurrentPosition--> X:113.710 Y:65.914 Z:29.022
-admin  3	2024/12/12 04:43:10.365	English
-admin  3	2024/12/12 09:15:04.925	key release or away:CurrentPosition--> X:113.710 Y:65.914 Z:29.022
-admin  3	2024/12/12 09:15:05.118	key release or away:CurrentPosition--> X:113.710 Y:65.914 Z:29.022
-admin  3	2024/12/12 09:15:17.060	Coating Running
-admin  3	2024/12/12 09:15:18.032	
-admin  3	2024/12/12 09:15:28.734	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:15:33.284	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:15:33.361	This product does not perform flow regulation
-admin  3	2024/12/12 09:15:33.381	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:15:36.742	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:15:37.162	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 09:15:43.117	Stop
-admin  3	2024/12/12 09:16:25.264	Coating Running
-admin  3	2024/12/12 09:16:26.158	
-admin  3	2024/12/12 09:16:37.760	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:16:42.523	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:16:42.601	This product does not perform flow regulation
-admin  3	2024/12/12 09:16:42.626	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:16:46.023	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:16:46.114	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 09:16:46.142	ProcessingStarted
-admin  3	2024/12/12 09:16:50.116	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.682 Y:131.776 Result:TRUE ;Score:92.328
-admin  3	2024/12/12 09:16:59.397	Processed flag:<TRUE>  Stopstatus:<FALSE>
-admin  3	2024/12/12 09:16:59.434	Product0Weight	0.000g
-
-admin  3	2024/12/12 09:16:59.480	ProcessedEnd
-admin  3	2024/12/12 09:16:59.562	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 09:16:46","StopTime":"24-12-12 09:16:59","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 09:17:05.703	Automatically run to the cleanPosition:Result:FALSE
-admin  3	2024/12/12 09:17:05.738	Stop
-admin  3	2024/12/12 09:17:07.646	Stop
-admin  3	2024/12/12 09:17:38.919	ParametersOfAxis.bin the modify parameters are Speed_setting
-admin  3	2024/12/12 09:17:39.091	ParametersOfSystemSetting.bin the modify parameters are Numeric
-admin  3	2024/12/12 09:17:44.303	Coating Running
-admin  3	2024/12/12 09:17:45.143	
-admin  3	2024/12/12 09:17:53.466	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:17:56.743	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:17:58.167	This product does not perform flow regulation
-admin  3	2024/12/12 09:17:58.194	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:17:59.803	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:18:00.183	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 09:18:05.232	ProcessingStarted
-admin  3	2024/12/12 09:18:07.820	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.726 Y:132.037 Result:TRUE ;Score:92.655
-admin  3	2024/12/12 09:18:15.322	Processed flag:<TRUE>  Stopstatus:<FALSE>
-admin  3	2024/12/12 09:18:15.389	Product0Weight	0.000g
-
-admin  3	2024/12/12 09:18:15.408	ProcessedEnd
-admin  3	2024/12/12 09:18:15.540	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 09:18:05","StopTime":"24-12-12 09:18:15","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 09:18:25.365	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:18:27.635	Stop
-admin  3	2024/12/12 09:18:27.738	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:18:29.662	Stop
-admin  3	2024/12/12 09:18:51.735	TrackAndPar.bin the modify parameters are TwoValveDistanceData
-admin  3	2024/12/12 09:18:51.886	ShareParameters.bin the modify parameters are TwoValveDistanceData
-admin  3	2024/12/12 09:18:52.057	ParametersOfSystemSetting.bin the modify parameters are Feeding mode,Numeric
-admin  3	2024/12/12 09:18:59.847	Coating Running
-admin  3	2024/12/12 09:19:00.739	
-admin  3	2024/12/12 09:19:09.945	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:19:16.102	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:19:17.593	This product does not perform flow regulation
-admin  3	2024/12/12 09:19:17.647	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:19:19.181	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:19:19.279	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 09:19:19.305	ProcessingStarted
-admin  3	2024/12/12 09:19:21.680	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.661 Y:131.937 Result:TRUE ;Score:92.615
-admin  3	2024/12/12 09:19:29.302	Processed flag:<TRUE>  Stopstatus:<FALSE>
-admin  3	2024/12/12 09:19:29.322	Product0Weight	0.000g
-
-admin  3	2024/12/12 09:19:29.373	ProcessedEnd
-admin  3	2024/12/12 09:19:29.471	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 09:19:19","StopTime":"24-12-12 09:19:29","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 09:19:39.513	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:19:42.781	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:19:44.116	This product does not perform flow regulation
-admin  3	2024/12/12 09:19:44.137	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:19:45.051	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:19:45.081	Number:1 SN: Result:TRUE TimeOut:FALSE
-admin  3	2024/12/12 09:19:45.160	Stop
-admin  3	2024/12/12 09:19:47.238	Stop
-admin  3	2024/12/12 09:19:51.706	ParametersOfSystemSetting.bin the modify parameters are Numeric
-admin  3	2024/12/12 09:20:10.936	Coating Running
-admin  3	2024/12/12 09:20:11.829	
-admin  3	2024/12/12 09:20:20.920	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:20:24.210	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:20:25.520	This product does not perform flow regulation
-admin  3	2024/12/12 09:20:25.562	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:20:27.119	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:20:27.224	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 09:20:27.269	ProcessingStarted
-admin  3	2024/12/12 09:20:29.588	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.722 Y:131.832 Result:TRUE ;Score:93.132
-admin  3	2024/12/12 09:20:37.172	Processed flag:<TRUE>  Stopstatus:<FALSE>
-admin  3	2024/12/12 09:20:37.234	Product0Weight	0.000g
-
-admin  3	2024/12/12 09:20:37.254	ProcessedEnd
-admin  3	2024/12/12 09:20:37.310	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 09:20:27","StopTime":"24-12-12 09:20:37","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 09:20:47.529	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:20:50.816	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:20:51.597	This product does not perform flow regulation
-admin  3	2024/12/12 09:20:51.623	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:20:53.170	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:20:53.421	Stop
-admin  3	2024/12/12 09:20:53.477	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 09:20:55.358	Stop
-admin  3	2024/12/12 09:21:01.980	ParametersOfSystemSetting.bin the modify parameters are Feeding mode,Numeric
-admin  3	2024/12/12 09:21:09.697	Coating Running
-admin  3	2024/12/12 09:21:10.558	
-admin  3	2024/12/12 09:21:19.560	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:21:22.847	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:21:22.926	This product does not perform flow regulation
-admin  3	2024/12/12 09:21:22.946	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:21:24.848	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:21:24.993	Number:1 SN:http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP Result:TRUE TimeOut:TRUE
-admin  3	2024/12/12 09:21:25.013	ProcessingStarted
-admin  3	2024/12/12 09:21:27.393	Automatic Match1_Mark:OneMark:Set-->X:71.200 Y:130.905 Z:18.952  Match-->X:70.720 Y:131.780 Result:TRUE ;Score:92.120
-admin  3	2024/12/12 09:21:34.970	Processed flag:<TRUE>  Stopstatus:<FALSE>
-admin  3	2024/12/12 09:21:35.004	Product0Weight	0.000g
-
-admin  3	2024/12/12 09:21:35.052	ProcessedEnd
-admin  3	2024/12/12 09:21:35.139	{"SN":"http://weixin.qq.com/r/nXU4ICXEUXgurWFD9yCP","StartTime":"24-12-12 09:21:24","StopTime":"24-12-12 09:21:35","ProgramName":"SLA-Coater1-004","FlowmeterData":[0],"ValveWeightdata":{"Valve 1":{"Weight":0,"Flowrate":0},"Valve 2":{"Weight":0,"Flowrate":0},"Valve 3":{"Weight":0,"Flowrate":0},"Valve 4":{"Weight":0,"Flowrate":0}},"CoatingSuccess":true,"ProductCode":[],"Valve1DipensenHeight":0,"Material ID":""}
-admin  3	2024/12/12 09:21:45.199	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:21:50.468	Stop
-admin  3	2024/12/12 09:21:52.306	Stop
-admin  3	2024/12/12 09:22:42.962	ParametersOfSystemSetting.bin the modify parameters are Feeding mode,Numeric
-admin  3	2024/12/12 09:23:02.012	Coating Running
-admin  3	2024/12/12 09:23:03.149	
-admin  3	2024/12/12 09:23:11.583	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:23:14.915	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:23:16.249	This product does not perform flow regulation
-admin  3	2024/12/12 09:23:16.271	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:23:17.846	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:23:18.256	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 09:23:26.736	Stop
-admin  3	2024/12/12 09:23:35.876	Coating Running
-admin  3	2024/12/12 09:23:36.762	
-admin  3	2024/12/12 09:23:45.909	Automatically run to the cleanPosition:Result:TRUE
-admin  3	2024/12/12 09:23:55.914	Automatically run to the Purge positionSetting--->X:332.368 Y:45.042 Z:40.861 Current--->X:332.368 Y:45.042 Z:40.861 Result:TRUE GTS_Code:0
-admin  3	2024/12/12 09:23:57.325	This product does not perform flow regulation
-admin  3	2024/12/12 09:23:57.353	Board finished:TRUE EmergencyStop:FALSE
-admin  3	2024/12/12 09:23:58.909	Move to  Scan code location:X:239.434 Y:161.488 Z:21.621 Result:TRUE  GTS_Code:0
-admin  3	2024/12/12 09:23:59.317	Number:1 SN: Result:FALSE TimeOut:TRUE
-admin  3	2024/12/12 09:24:06.450	Stop
-admin  3	2024/12/12 09:54:19.325	Exit 
+a  3	12/12/2024 11:15:42 AM	The program of line <2> in pattern <Line>  have been <Delete>
+a  3	12/12/2024 11:16:03 AM	ParametersOfSystemSetting.bin the modify parameters are ValveColor
+a  3	12/12/2024 11:16:07 AM	ValveAndCalibretingData.bin the modify parameters are Valve3Paramemter
+a  3	12/12/2024 11:16:36 AM	ValveAndCalibretingData.bin the modify parameters are Valve3Paramemter
+a  3	12/12/2024 11:16:51 AM	TestRun：Start
+a  3	12/12/2024 11:16:58 AM	Processed flag:<TRUE>  Stopstatus:<FALSE>
+a  3	12/12/2024 11:17:25 AM	Mouse click:X-
+a  3	12/12/2024 11:17:26 AM	key release or away:CurrentPosition--> X:116.032 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:26 AM	Mouse click:X-
+a  3	12/12/2024 11:17:26 AM	key release or away:CurrentPosition--> X:111.118 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:27 AM	key release or away:CurrentPosition--> X:101.954 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:29 AM	Mouse click:X-
+a  3	12/12/2024 11:17:29 AM	key release or away:CurrentPosition--> X:101.954 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:31 AM	Mouse click:X-
+a  3	12/12/2024 11:17:31 AM	key release or away:CurrentPosition--> X:100.888 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:31 AM	key release or away:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:32 AM	key release or away:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:34 AM	Key click:
+a  3	12/12/2024 11:17:34 AM	Key click:
+a  3	12/12/2024 11:17:34 AM	key release:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:34 AM	key release:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:35 AM	key release or away:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:37 AM	key release or away:CurrentPosition--> X:100.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:38 AM	key release or away:CurrentPosition--> X:115.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:44 AM	key release or away:CurrentPosition--> X:115.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:17:45 AM	key release or away:CurrentPosition--> X:115.488 Y:95.874 Z:20.601
+a  3	12/12/2024 11:26:34 AM	Test Width Laser：Valve Down
+a  3	12/12/2024 11:27:03 AM	ParametersOfFilmWidthTesting.bin the modify parameters are Width Test Para
+a  3	12/12/2024 11:27:07 AM	Test Width Laser：GotoX:2.416 Y:130.842 Z:42.637 Result:TRUE
+a  3	12/12/2024 11:27:33 AM	Test Width Laser：GotoX:2.416 Y:130.842 Z:42.637 Result:TRUE
+a  3	12/12/2024 11:27:45 AM	ParametersOfFilmWidthTesting.bin the modify parameters are Width Test Para
+a  3	12/12/2024 11:28:11 AM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 11:28:11 AM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 11:28:12 AM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 11:28:27 AM	Key click:
+a  3	12/12/2024 11:28:27 AM	Key click:
+a  3	12/12/2024 11:28:27 AM	key release:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 11:28:27 AM	key release:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 11:28:27 AM	ParametersOfSystemSetting.bin the modify parameters are Numeric
+a  3	12/12/2024 11:28:27 AM	TrackAndPar.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	12/12/2024 11:28:27 AM	ShareParameters.bin the modify parameters are Track storage,TwoValveDistanceData
+a  3	12/12/2024 11:28:28 AM	Save Program:01-FilmLinesA4
+a  3	12/12/2024 11:28:28 AM	key release:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 12:02:44 PM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 12:02:45 PM	LoadBoard
+a  3	12/12/2024 12:02:57 PM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:42.637
+a  3	12/12/2024 12:03:05 PM	key release or away:CurrentPosition--> X:2.416 Y:130.842 Z:5.000
+a  3	12/12/2024 12:03:07 PM	Key click:Right
+a  3	12/12/2024 12:03:12 PM	key release:CurrentPosition--> X:244.761 Y:130.842 Z:5.000
+a  3	12/12/2024 12:03:13 PM	Key click:Down
+a  3	12/12/2024 12:03:13 PM	key release:CurrentPosition--> X:248.008 Y:96.769 Z:5.000
+a  3	12/12/2024 12:03:16 PM	key release or away:CurrentPosition--> X:248.008 Y:96.258 Z:5.000
+a  3	12/12/2024 12:03:27 PM	key release or away:CurrentPosition--> X:116.032 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:28 PM	Key click:Right
+a  3	12/12/2024 12:03:30 PM	key release:CurrentPosition--> X:245.412 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:32 PM	key release or away:CurrentPosition--> X:249.634 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:32 PM	key release or away:CurrentPosition--> X:249.634 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:34 PM	Key click:
+a  3	12/12/2024 12:03:34 PM	Key click:Left
+a  3	12/12/2024 12:03:35 PM	key release:CurrentPosition--> X:246.759 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:35 PM	Key click:Left
+a  3	12/12/2024 12:03:35 PM	key release:CurrentPosition--> X:241.828 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:36 PM	Key click:Left
+a  3	12/12/2024 12:03:36 PM	key release:CurrentPosition--> X:241.164 Y:95.874 Z:20.601
+a  3	12/12/2024 12:03:37 PM	Key click:Down
+a  3	12/12/2024 12:03:38 PM	key release:CurrentPosition--> X:240.134 Y:79.741 Z:20.601
+a  3	12/12/2024 12:03:39 PM	key release:CurrentPosition--> X:240.134 Y:79.682 Z:20.601
+a  3	12/12/2024 12:03:40 PM	key release or away:CurrentPosition--> X:240.134 Y:79.682 Z:20.601
+a  3	12/12/2024 12:03:44 PM	Key click:Up
+a  3	12/12/2024 12:03:44 PM	key release:CurrentPosition--> X:240.134 Y:85.728 Z:20.601
+a  3	12/12/2024 12:03:45 PM	Key click:Left
+a  3	12/12/2024 12:03:45 PM	key release:CurrentPosition--> X:240.134 Y:85.878 Z:20.601
+a  3	12/12/2024 12:03:46 PM	Key click:Left
+a  3	12/12/2024 12:03:46 PM	key release:CurrentPosition--> X:239.766 Y:85.878 Z:20.601
+a  3	12/12/2024 12:03:47 PM	Key click:Down
+a  3	12/12/2024 12:03:48 PM	key release:CurrentPosition--> X:239.324 Y:79.997 Z:20.601
+a  3	12/12/2024 12:03:49 PM	Key click:
+a  3	12/12/2024 12:03:49 PM	Key click:Up
+a  3	12/12/2024 12:03:49 PM	key release:CurrentPosition--> X:239.324 Y:79.018 Z:20.601
+a  3	12/12/2024 12:03:49 PM	Key click:Up
+a  3	12/12/2024 12:03:50 PM	key release:CurrentPosition--> X:239.324 Y:79.094 Z:20.601
+a  3	12/12/2024 12:03:50 PM	Key click:Up
+a  3	12/12/2024 12:03:50 PM	key release:CurrentPosition--> X:239.324 Y:79.208 Z:20.601
+a  3	12/12/2024 12:03:50 PM	Key click:Up
+a  3	12/12/2024 12:03:50 PM	key release:CurrentPosition--> X:239.324 Y:79.252 Z:20.601
+a  3	12/12/2024 12:03:51 PM	key release:CurrentPosition--> X:239.324 Y:79.298 Z:20.601
+a  3	12/12/2024 1:16:18 PM	ParametersOfSystemSetting.bin the modify parameters are Camera Parameters
+a  3	12/12/2024 1:17:35 PM	New Program:IFM bottom v1
+a  3	12/12/2024 1:21:20 PM	Set1_Mark matching coordinates:X:252.993 Y:218.115 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:22:14 PM	Set2_Mark matching coordinates:X:383.571 Y:84.429 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:22:40 PM	Key click:
+a  3	12/12/2024 1:22:40 PM	Key click:
+a  3	12/12/2024 1:22:40 PM	key release:CurrentPosition--> X:252.994 Y:218.116 Z:20.600
+a  3	12/12/2024 1:22:40 PM	key release:CurrentPosition--> X:252.994 Y:218.116 Z:20.600
+a  3	12/12/2024 1:22:41 PM	TrackAndPar.bin the modify parameters are MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,Starting point deviation A,Ending point deviation A,Starting point deviation B,Dispensing path offset,Right valve heating,Left valve heating,Ending point deviation B,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,PathOfOffLineTeachPicture,OffLineMark1Position,OffLineMark2Position,Vavle Seting,Light source adjust,MarkLightSource,Width Limit,Move speed_setting,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,Pixel/mm,ProgramTeach,GetDi,DoOut,ReferencePosition,LaserMessage,MainB Mark Setting,MainA Mark Setting,ROISize,ImageButtomPos,导入在线图片,OnlinePixelR,PathOfOnlinePicture,OnlineImagePosInfor,MainD RelativeDistance,MainC RelativeDistance,MainB RelativeDistance,MainD E-D,MainC E-D,MainB E-D,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,Gluedata,气压,单位选择,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,LaserOldDataIn,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,PathOfProgaramParameterSavedas,SaveAS,模板映射参数2,DFSC,报警,Mark所有参数输出,ProgramDataOut,调用后程序参考点,AllMarkTypePar[],MainC Mark Setting,MainD Mark Setting,程序参考点,UVLight 2,TypeNo Match List 2,运行模式2,Width2 Limit out,German Cicor Glue ParaNew out
+a  3	12/12/2024 1:22:41 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Read,LaserOldDataIn,MARKEnabled,Mask pull height,Mark Setting,Pattern_Mark,Track storage,MARKArray,PatternOffset,Velocity Adjust,Pattern Name,Vavle Seting,Light source adjust,MarkLightSource,PressureOfSprayAdjust,FlowMonitoringRange,RotatingAngleOfOfflinePicture,ProgramTeach,MainB Mark Setting,MainA Mark Setting,ImageButtomPos,OnlinePixelR,RealMarkAndOfflineMarkData,Vavle Seting2,Vavle Seting3,MatchPosition,搜索范围,#define New Para,Main BadMark Setting,BadMark Para,BadMarkMatchPosition,Detect Para of Sense,Temp mark image process Array,TwoValveDistanceData,Vavle Seting4,AOI ALL Out,MarkLights,BadMarkLights,AVIdata,吐胶阀选择,清洗阀选择,清洗设置,吐胶设置,Times of spiting glue,CleanTime,Time of left valve spiting,After Clear to Purge,Purge Dwell Time,AutoCalibSet,FlowAlarmLimitSettingData,点胶前清洁,AOIDefaultValue,THTAVIDefault,PurgePre-SprayTime,PurgeSprayOffDelay,TrackProdeuct重量,After Purge to Clean,模板映射参数2,报警,Mark所有参数输出,ProgramDataOut,MainC Mark Setting,MainD Mark Setting
+a  3	12/12/2024 1:22:41 PM	Save Program:IFM bottom v1
+a  3	12/12/2024 1:22:41 PM	key release:CurrentPosition--> X:252.994 Y:218.116 Z:20.600
+a  3	12/12/2024 1:23:49 PM	TrackAndPar.bin the modify parameters are Mark Setting,PathOfProgaramParameterSavedas,SaveAS
+a  3	12/12/2024 1:23:49 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,Mark Setting
+a  3	12/12/2024 1:23:50 PM	ParametersOfSystemSetting.bin the modify parameters are SaveAsPath
+a  3	12/12/2024 1:57:39 PM	1_Mark goto coordinates:X:0.000 Y:0.000 Z:0.000 Result:TRUE
+a  3	12/12/2024 1:57:52 PM	1_Mark goto coordinates:X:252.993 Y:218.115 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:06 PM	Set1_Mark matching coordinates:X:263.851 Y:216.339 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:08 PM	1_Mark goto coordinates:X:263.851 Y:216.339 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:09 PM	Set1_Mark matching coordinates:X:264.159 Y:215.053 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:10 PM	1_Mark goto coordinates:X:264.159 Y:215.053 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:26 PM	Set1_Mark matching coordinates:X:263.851 Y:216.304 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:27 PM	1_Mark goto coordinates:X:263.851 Y:216.304 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:41 PM	2_Mark goto coordinates:X:383.571 Y:84.429 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:48 PM	Set2_Mark matching coordinates:X:386.131 Y:84.604 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:58:49 PM	2_Mark goto coordinates:X:386.131 Y:84.604 Z:20.600 Result:TRUE
+a  3	12/12/2024 1:59:12 PM	The program of line <1> in pattern <->main(A)>  have been <Delete>
+a  3	12/12/2024 1:59:24 PM	key release or away:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/12/2024 1:59:25 PM	Key click:
+a  3	12/12/2024 1:59:25 PM	Key click:
+a  3	12/12/2024 1:59:26 PM	key release:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/12/2024 1:59:26 PM	key release:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/12/2024 1:59:26 PM	TrackAndPar.bin the modify parameters are Mark Setting,Track storage,PatternOffset,MatchPosition,搜索范围,模板映射参数2
+a  3	12/12/2024 1:59:26 PM	ShareParameters.bin the modify parameters are Mark Setting,Track storage,PatternOffset,MatchPosition,搜索范围,模板映射参数2
+a  3	12/12/2024 1:59:27 PM	Save Program:IFM bottom v1
+a  3	12/12/2024 1:59:27 PM	key release:CurrentPosition--> X:263.850 Y:216.304 Z:20.600
+a  3	12/12/2024 3:16:06 PM	Exit 
+	12/12/2024 3:17:33 PM	Initializing...
+	12/12/2024 3:17:47 PM	Current User: a
+a  3	12/12/2024 3:17:47 PM	Open Program:IFM bottom v1
+a  3	12/12/2024 3:17:50 PM	The reset button is pressed
+a  3	12/12/2024 3:18:11 PM	Reset is completed
+a  3	12/12/2024 3:56:16 PM	Invert The Right Low Level Signal:Enable
+a  3	12/12/2024 3:56:16 PM	Invert The Left Low Level Signal:Enable
+a  3	12/12/2024 3:56:18 PM	ParametersOfSystemSetting.bin the modify parameters are Negated Right low level signal,Negated Left low level signal,LaserSelect,ValveColor,DoOut,DataSavedBySys,Purge后刮胶参数 2,ChangChun Vitesco Glue Para2,Feed alarm,RTValveCalibrationdata
+a  3	12/12/2024 3:56:18 PM	ValveAndCalibretingData.bin the modify parameters are LaserSelect,InitParamemter,RightValveParamemter,Valve3Paramemter,Valve4Paramemter
+a  3	12/12/2024 3:56:18 PM	TrackAndPar.bin the modify parameters are AVIdata,FlowAlarmLimitSettingData,THTAVIDefault,AfterSoaktoClean
+a  3	12/12/2024 3:56:18 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath,AVIdata,FlowAlarmLimitSettingData,THTAVIDefault
+a  3	12/12/2024 3:56:30 PM	Invert The Right Low Level Signal:Disable
+a  3	12/12/2024 3:56:30 PM	Invert The Left Low Level Signal:Disable
+a  3	12/12/2024 3:56:33 PM	ParametersOfSystemSetting.bin the modify parameters are Negated Right low level signal,Negated Left low level signal
+a  3	12/12/2024 3:56:33 PM	ShareParameters.bin the modify parameters are ConfigurationFilePath
+a  3	12/12/2024 3:56:38 PM	Mouse click:X+
+a  3	12/12/2024 3:56:39 PM	key release or away:CurrentPosition--> X:9.534 Y:0.000 Z:0.000
+a  3	12/12/2024 3:56:40 PM	Mouse click:X+
+a  3	12/12/2024 3:56:40 PM	key release or away:CurrentPosition--> X:22.127 Y:0.000 Z:0.000
+a  3	12/12/2024 3:56:40 PM	key release or away:CurrentPosition--> X:23.280 Y:0.000 Z:0.000
+a  3	12/12/2024 3:57:04 PM	Exit 
